@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+cd "$(dirname "$0")"
+mkdir -p cdn logs
+
 # 1) pull snapshot from API
 curl -L "https://haiti-economie-api.onrender.com/api/home-snapshot?refresh=1" \
   -o cdn/home-snapshot.json

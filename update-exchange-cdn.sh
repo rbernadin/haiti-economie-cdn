@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+export PATH="/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+
+cd "$(dirname "$0")"
+mkdir -p cdn logs
+
 # Update exchange snapshots (daily-ish)
 curl -L "https://haiti-economie-api.onrender.com/api/exchange-rates" \
   -o cdn/exchange-latest.json
