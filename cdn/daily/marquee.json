@@ -1,1 +1,55 @@
-
+{
+  "asof": "2026-02-15",
+  "data": {
+    "ref": {
+      "value": 130.7122,
+      "pct": -0.07,
+      "variant": "green"
+    },
+    "tma": {
+      "value": 131.4386,
+      "pct": -0.22,
+      "variant": "green"
+    },
+    "euro_achat": {
+      "value": 155.2798,
+      "pct": 0.08,
+      "variant": "red"
+    },
+    "euro_vente": {
+      "value": 156.3748,
+      "pct": 0.11,
+      "variant": "red"
+    },
+    "peso_dom_achat": {
+      "value": 2.0984,
+      "pct": 0.44,
+      "variant": "red"
+    },
+    "peso_dom_vente": {
+      "value": 2.1132,
+      "pct": 0.48,
+      "variant": "red"
+    },
+    "dol_can_achat": {
+      "value": 96.1102,
+      "pct": -0.17,
+      "variant": "green"
+    },
+    "dol_can_vente": {
+      "value": 96.788,
+      "pct": -0.13,
+      "variant": "green"
+    },
+    "marche_banc_achat": {
+      "value": 130.3537,
+      "pct": -0.12,
+      "variant": "green"
+    },
+    "marche_banc_vente": {
+      "value": 131.4386,
+      "pct": -0.22,
+      "variant": "green"
+    }
+  }
+}
