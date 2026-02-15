@@ -3,7 +3,7 @@ name: Update marquee JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 11 * * *"  # daily at 11:20 UTC
+    - cron: "55 12 * * *"  # daily at 11:20 UTC
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
 
       - name: Update marquee.json
         env:
-          MARQUEE_API_URL: https://YOUR-API-HOST/api/exchange-market-marquee  # <-- change this
+          MARQUEE_API_URL: https://haiti-economie-api.onrender.com/api/exchange-market-marquee  # <-- change this
         run: node scripts/update-marquee.mjs
 
       - name: Commit & push if changed
