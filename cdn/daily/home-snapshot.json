@@ -2,7 +2,7 @@
   "asof": "2026-02-17",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-02-17T00:53:54.461Z",
+    "generated_at": "2026-02-17T13:22:11.764Z",
     "cards": {
       "gdp": {
         "latest": {
@@ -138,182 +138,207 @@
           "croissance_pib": -1.9
         }
       },
-      "reserves_ex_gold": {
+      "population": {
+        "latest": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "change": 133538,
+          "percent": 1.13
+        },
+        "latest_breakdown": {
+          "male_population_as_of_1_july": 5888154,
+          "female_population_as_of_1_july": 6017941,
+          "male_life_expectancy_at_birth": 62.1,
+          "female_life_expectancy_at_birth": 68.7,
+          "life_expectancy_at_birth_both_sexes": 65.3,
+          "urban_population": 7343428,
+          "rural_population": 4562667,
+          "population_density_as_of_1_july": 431.87,
+          "share_of_world_pop": 0.14,
+          "median_age_as_of_1_july": 24.1,
+          "demographics": {
+            "net_number_of_migrants": -32,
+            "total_fertility_rate": 2.59,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        },
+        "overview": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "share_of_world_pop": 0.14,
+          "population_density_as_of_1_july": 431.87,
+          "urban_population": 7343428,
+          "urban_share_percent": 61.68,
+          "median_age_as_of_1_july": 24.1,
+          "land_area_km2": 27560,
+          "land_area_sq_mi": 10641
+        },
+        "history": [
+          {
+            "year": 2024,
+            "total_population_as_of_1_july": 11772557,
+            "male_population_as_of_1_july": 5825356,
+            "female_population_as_of_1_july": 5947201
+          },
+          {
+            "year": 2025,
+            "total_population_as_of_1_july": 11906095,
+            "male_population_as_of_1_july": 5888154,
+            "female_population_as_of_1_july": 6017941
+          }
+        ],
+        "urban_rural": [
+          {
+            "year": 2024,
+            "urban_population": 7119101,
+            "rural_population": 4653456
+          },
+          {
+            "year": 2025,
+            "urban_population": 7343428,
+            "rural_population": 4562667
+          }
+        ],
+        "life_expectancy": [
+          {
+            "year": 2024,
+            "male": 61.9,
+            "female": 68.5,
+            "total": 65.1
+          },
+          {
+            "year": 2025,
+            "male": 62.1,
+            "female": 68.7,
+            "total": 65.3
+          }
+        ],
+        "demographics": [
+          {
+            "year": 2024,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 23.8,
+            "total_fertility_rate": 2.63,
+            "population_density_as_of_1_july": 427.02,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8142056446,
+            "global_rank": 82
+          },
+          {
+            "year": 2025,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 24.1,
+            "total_fertility_rate": 2.59,
+            "population_density_as_of_1_july": 431.87,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        ],
+        "prev": {
+          "year": 2024,
+          "total_population_as_of_1_july": 11772557,
+          "male_population_as_of_1_july": 5825356,
+          "female_population_as_of_1_july": 5947201
+        }
+      },
+      "trade": {
         "latest": {
           "year": 2024,
-          "fi_res_xgld_cd": 2565745292.68
+          "trade_balance": -2404000000,
+          "change": 76000000,
+          "percent": -3.06
+        },
+        "latest_breakdown": {
+          "exports_constant": 710000000,
+          "exports_perc_gdp": 3.400774933,
+          "imports_constant": 3114000000,
+          "imports_perc_gdp": 18.84711044
         },
         "history": [
           {
             "year": 2023,
-            "fi_res_xgld_cd": 2466360229.76
+            "trade_balance": -2480000000,
+            "exports_constant": 898000000,
+            "imports_constant": 3378000000
           },
           {
             "year": 2024,
-            "fi_res_xgld_cd": 2565745292.68
+            "trade_balance": -2404000000,
+            "exports_constant": 710000000,
+            "imports_constant": 3114000000
           }
         ],
+        "top_exports": [],
+        "top_imports": [],
+        "top_exports_year": null,
+        "top_imports_year": null,
         "prev": {
           "year": 2023,
-          "fi_res_xgld_cd": 2466360229.76
+          "trade_balance": -2480000000,
+          "exports_constant": 898000000,
+          "imports_constant": 3378000000
         }
       },
-      "hdi": {
-        "as_of": "2023",
-        "count": 2,
+      "credit_private_sector": {
         "latest": {
-          "period": "2023",
-          "year": 2023,
-          "hdi_rank": 166,
-          "hdi_value": 0.554,
-          "life_expectancy": 64.94,
-          "expected_years_of_schooling": 10.9,
-          "mean_years_of_schooling": 5.38,
-          "gni_per_capita_ppp": 2934.93,
-          "gdi_value": 0.932,
-          "hdi_female": 0.534,
-          "life_expectancy_female": 68.3,
-          "expected_years_of_schooling_female": 10.8,
-          "mean_years_of_schooling_female": 4.77,
-          "gni_per_capita_female_ppp": 2255.84,
-          "hdi_male": 0.5731,
-          "life_expectancy_male": 61.73,
-          "expected_years_of_schooling_male": 10.99,
-          "mean_years_of_schooling_male": 6.14,
-          "gni_per_capita_male_ppp": 3627.47,
-          "inequality_adjusted_hdi_value": 0.337,
-          "coefficient_of_human_inequality": 38.24,
-          "overall_loss_perc": 39.17,
-          "inequality_in_life_expectancy": 25.32,
-          "inequality_in_education": 37.34,
-          "inequality_in_income": 52.07,
-          "gender_inequality_index_value": 0.618,
-          "maternal_mortality_ratio": 350.4,
-          "adolescent_birth_rate": 49.78,
-          "share_of_seats_in_parliament_female": 2.74,
-          "share_of_seats_in_parliament_male": 97.26,
-          "labor_force_participation_rate_female": 50.13,
-          "labor_force_participation_rate_male": 65.57,
-          "planetary_pressures_adjusted_hdi_value": 0.545,
-          "difference_from_hdi_value": 1.6245,
-          "carbon_dioxide_emissions_per_capita": 0.3,
-          "material_footprint_per_capita": 2.493
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
         },
         "history": [
           {
-            "period": "2022",
-            "year": 2022,
-            "hdi_rank": 158,
-            "hdi_value": 0.552,
-            "life_expectancy": 63.95,
-            "expected_years_of_schooling": 10.9,
-            "mean_years_of_schooling": 5.38,
-            "gni_per_capita_ppp": 3029.89,
-            "gdi_value": 0.931,
-            "hdi_female": 0.5316,
-            "life_expectancy_female": 67.23,
-            "expected_years_of_schooling_female": 10.8,
-            "mean_years_of_schooling_female": 4.77,
-            "gni_per_capita_female_ppp": 2328.29,
-            "hdi_male": 0.5709,
-            "life_expectancy_male": 60.84,
-            "expected_years_of_schooling_male": 10.99,
-            "mean_years_of_schooling_male": 6.14,
-            "gni_per_capita_male_ppp": 3744.67,
-            "inequality_adjusted_hdi_value": 0.334,
-            "coefficient_of_human_inequality": 38.41,
-            "overall_loss_perc": 39.49,
-            "inequality_in_life_expectancy": 25.82,
-            "inequality_in_education": 37.34,
-            "inequality_in_income": 52.07,
-            "gender_inequality_index_value": 0.619,
-            "maternal_mortality_ratio": 350.4,
-            "adolescent_birth_rate": 50.59,
-            "share_of_seats_in_parliament_female": 2.74,
-            "share_of_seats_in_parliament_male": 97.26,
-            "labor_force_participation_rate_female": 50.13,
-            "labor_force_participation_rate_male": 65.57,
-            "planetary_pressures_adjusted_hdi_value": 0.544,
-            "difference_from_hdi_value": 1.4493,
-            "carbon_dioxide_emissions_per_capita": 0.292,
-            "material_footprint_per_capita": 2.406
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
           },
           {
-            "period": "2023",
-            "year": 2023,
-            "hdi_rank": 166,
-            "hdi_value": 0.554,
-            "life_expectancy": 64.94,
-            "expected_years_of_schooling": 10.9,
-            "mean_years_of_schooling": 5.38,
-            "gni_per_capita_ppp": 2934.93,
-            "gdi_value": 0.932,
-            "hdi_female": 0.534,
-            "life_expectancy_female": 68.3,
-            "expected_years_of_schooling_female": 10.8,
-            "mean_years_of_schooling_female": 4.77,
-            "gni_per_capita_female_ppp": 2255.84,
-            "hdi_male": 0.5731,
-            "life_expectancy_male": 61.73,
-            "expected_years_of_schooling_male": 10.99,
-            "mean_years_of_schooling_male": 6.14,
-            "gni_per_capita_male_ppp": 3627.47,
-            "inequality_adjusted_hdi_value": 0.337,
-            "coefficient_of_human_inequality": 38.24,
-            "overall_loss_perc": 39.17,
-            "inequality_in_life_expectancy": 25.32,
-            "inequality_in_education": 37.34,
-            "inequality_in_income": 52.07,
-            "gender_inequality_index_value": 0.618,
-            "maternal_mortality_ratio": 350.4,
-            "adolescent_birth_rate": 49.78,
-            "share_of_seats_in_parliament_female": 2.74,
-            "share_of_seats_in_parliament_male": 97.26,
-            "labor_force_participation_rate_female": 50.13,
-            "labor_force_participation_rate_male": 65.57,
-            "planetary_pressures_adjusted_hdi_value": 0.545,
-            "difference_from_hdi_value": 1.6245,
-            "carbon_dioxide_emissions_per_capita": 0.3,
-            "material_footprint_per_capita": 2.493
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
           }
         ],
         "prev": {
-          "period": "2022",
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
+      "external_debt": {
+        "latest": {
+          "date": "2023-12-31",
+          "year": 2023,
+          "external_debt_stocks_current_dollar": 2637609832,
+          "current_account_balance_bop_dollar": -682569657.6,
+          "current_account_balance_perc_gdp": -3.438536611,
+          "use_of_imf_credit_dod_dollar": 552721343.4,
+          "debt_to_gdp": 28.5
+        },
+        "history": [
+          {
+            "date": "2022-12-31",
+            "year": 2022,
+            "external_debt_stocks_current_dollar": 2561654882,
+            "current_account_balance_bop_dollar": -491953761.2,
+            "current_account_balance_perc_gdp": -2.428975239,
+            "use_of_imf_credit_dod_dollar": 444693167.9,
+            "debt_to_gdp": 29.5
+          },
+          {
+            "date": "2023-12-31",
+            "year": 2023,
+            "external_debt_stocks_current_dollar": 2637609832,
+            "current_account_balance_bop_dollar": -682569657.6,
+            "current_account_balance_perc_gdp": -3.438536611,
+            "use_of_imf_credit_dod_dollar": 552721343.4,
+            "debt_to_gdp": 28.5
+          }
+        ],
+        "prev": {
+          "date": "2022-12-31",
           "year": 2022,
-          "hdi_rank": 158,
-          "hdi_value": 0.552,
-          "life_expectancy": 63.95,
-          "expected_years_of_schooling": 10.9,
-          "mean_years_of_schooling": 5.38,
-          "gni_per_capita_ppp": 3029.89,
-          "gdi_value": 0.931,
-          "hdi_female": 0.5316,
-          "life_expectancy_female": 67.23,
-          "expected_years_of_schooling_female": 10.8,
-          "mean_years_of_schooling_female": 4.77,
-          "gni_per_capita_female_ppp": 2328.29,
-          "hdi_male": 0.5709,
-          "life_expectancy_male": 60.84,
-          "expected_years_of_schooling_male": 10.99,
-          "mean_years_of_schooling_male": 6.14,
-          "gni_per_capita_male_ppp": 3744.67,
-          "inequality_adjusted_hdi_value": 0.334,
-          "coefficient_of_human_inequality": 38.41,
-          "overall_loss_perc": 39.49,
-          "inequality_in_life_expectancy": 25.82,
-          "inequality_in_education": 37.34,
-          "inequality_in_income": 52.07,
-          "gender_inequality_index_value": 0.619,
-          "maternal_mortality_ratio": 350.4,
-          "adolescent_birth_rate": 50.59,
-          "share_of_seats_in_parliament_female": 2.74,
-          "share_of_seats_in_parliament_male": 97.26,
-          "labor_force_participation_rate_female": 50.13,
-          "labor_force_participation_rate_male": 65.57,
-          "planetary_pressures_adjusted_hdi_value": 0.544,
-          "difference_from_hdi_value": 1.4493,
-          "carbon_dioxide_emissions_per_capita": 0.292,
-          "material_footprint_per_capita": 2.406
+          "external_debt_stocks_current_dollar": 2561654882,
+          "current_account_balance_bop_dollar": -491953761.2,
+          "current_account_balance_perc_gdp": -2.428975239,
+          "use_of_imf_credit_dod_dollar": 444693167.9,
+          "debt_to_gdp": 29.5
         }
       },
       "gni_ppp_per_capita": {
@@ -751,232 +776,167 @@
           "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
-      "external_debt": {
+      "hdi": {
+        "as_of": "2023",
+        "count": 2,
         "latest": {
-          "date": "2023-12-31",
+          "period": "2023",
           "year": 2023,
-          "external_debt_stocks_current_dollar": 2637609832,
-          "current_account_balance_bop_dollar": -682569657.6,
-          "current_account_balance_perc_gdp": -3.438536611,
-          "use_of_imf_credit_dod_dollar": 552721343.4,
-          "debt_to_gdp": 28.5
+          "hdi_rank": 166,
+          "hdi_value": 0.554,
+          "life_expectancy": 64.94,
+          "expected_years_of_schooling": 10.9,
+          "mean_years_of_schooling": 5.38,
+          "gni_per_capita_ppp": 2934.93,
+          "gdi_value": 0.932,
+          "hdi_female": 0.534,
+          "life_expectancy_female": 68.3,
+          "expected_years_of_schooling_female": 10.8,
+          "mean_years_of_schooling_female": 4.77,
+          "gni_per_capita_female_ppp": 2255.84,
+          "hdi_male": 0.5731,
+          "life_expectancy_male": 61.73,
+          "expected_years_of_schooling_male": 10.99,
+          "mean_years_of_schooling_male": 6.14,
+          "gni_per_capita_male_ppp": 3627.47,
+          "inequality_adjusted_hdi_value": 0.337,
+          "coefficient_of_human_inequality": 38.24,
+          "overall_loss_perc": 39.17,
+          "inequality_in_life_expectancy": 25.32,
+          "inequality_in_education": 37.34,
+          "inequality_in_income": 52.07,
+          "gender_inequality_index_value": 0.618,
+          "maternal_mortality_ratio": 350.4,
+          "adolescent_birth_rate": 49.78,
+          "share_of_seats_in_parliament_female": 2.74,
+          "share_of_seats_in_parliament_male": 97.26,
+          "labor_force_participation_rate_female": 50.13,
+          "labor_force_participation_rate_male": 65.57,
+          "planetary_pressures_adjusted_hdi_value": 0.545,
+          "difference_from_hdi_value": 1.6245,
+          "carbon_dioxide_emissions_per_capita": 0.3,
+          "material_footprint_per_capita": 2.493
         },
         "history": [
           {
-            "date": "2022-12-31",
+            "period": "2022",
             "year": 2022,
-            "external_debt_stocks_current_dollar": 2561654882,
-            "current_account_balance_bop_dollar": -491953761.2,
-            "current_account_balance_perc_gdp": -2.428975239,
-            "use_of_imf_credit_dod_dollar": 444693167.9,
-            "debt_to_gdp": 29.5
+            "hdi_rank": 158,
+            "hdi_value": 0.552,
+            "life_expectancy": 63.95,
+            "expected_years_of_schooling": 10.9,
+            "mean_years_of_schooling": 5.38,
+            "gni_per_capita_ppp": 3029.89,
+            "gdi_value": 0.931,
+            "hdi_female": 0.5316,
+            "life_expectancy_female": 67.23,
+            "expected_years_of_schooling_female": 10.8,
+            "mean_years_of_schooling_female": 4.77,
+            "gni_per_capita_female_ppp": 2328.29,
+            "hdi_male": 0.5709,
+            "life_expectancy_male": 60.84,
+            "expected_years_of_schooling_male": 10.99,
+            "mean_years_of_schooling_male": 6.14,
+            "gni_per_capita_male_ppp": 3744.67,
+            "inequality_adjusted_hdi_value": 0.334,
+            "coefficient_of_human_inequality": 38.41,
+            "overall_loss_perc": 39.49,
+            "inequality_in_life_expectancy": 25.82,
+            "inequality_in_education": 37.34,
+            "inequality_in_income": 52.07,
+            "gender_inequality_index_value": 0.619,
+            "maternal_mortality_ratio": 350.4,
+            "adolescent_birth_rate": 50.59,
+            "share_of_seats_in_parliament_female": 2.74,
+            "share_of_seats_in_parliament_male": 97.26,
+            "labor_force_participation_rate_female": 50.13,
+            "labor_force_participation_rate_male": 65.57,
+            "planetary_pressures_adjusted_hdi_value": 0.544,
+            "difference_from_hdi_value": 1.4493,
+            "carbon_dioxide_emissions_per_capita": 0.292,
+            "material_footprint_per_capita": 2.406
           },
           {
-            "date": "2023-12-31",
+            "period": "2023",
             "year": 2023,
-            "external_debt_stocks_current_dollar": 2637609832,
-            "current_account_balance_bop_dollar": -682569657.6,
-            "current_account_balance_perc_gdp": -3.438536611,
-            "use_of_imf_credit_dod_dollar": 552721343.4,
-            "debt_to_gdp": 28.5
+            "hdi_rank": 166,
+            "hdi_value": 0.554,
+            "life_expectancy": 64.94,
+            "expected_years_of_schooling": 10.9,
+            "mean_years_of_schooling": 5.38,
+            "gni_per_capita_ppp": 2934.93,
+            "gdi_value": 0.932,
+            "hdi_female": 0.534,
+            "life_expectancy_female": 68.3,
+            "expected_years_of_schooling_female": 10.8,
+            "mean_years_of_schooling_female": 4.77,
+            "gni_per_capita_female_ppp": 2255.84,
+            "hdi_male": 0.5731,
+            "life_expectancy_male": 61.73,
+            "expected_years_of_schooling_male": 10.99,
+            "mean_years_of_schooling_male": 6.14,
+            "gni_per_capita_male_ppp": 3627.47,
+            "inequality_adjusted_hdi_value": 0.337,
+            "coefficient_of_human_inequality": 38.24,
+            "overall_loss_perc": 39.17,
+            "inequality_in_life_expectancy": 25.32,
+            "inequality_in_education": 37.34,
+            "inequality_in_income": 52.07,
+            "gender_inequality_index_value": 0.618,
+            "maternal_mortality_ratio": 350.4,
+            "adolescent_birth_rate": 49.78,
+            "share_of_seats_in_parliament_female": 2.74,
+            "share_of_seats_in_parliament_male": 97.26,
+            "labor_force_participation_rate_female": 50.13,
+            "labor_force_participation_rate_male": 65.57,
+            "planetary_pressures_adjusted_hdi_value": 0.545,
+            "difference_from_hdi_value": 1.6245,
+            "carbon_dioxide_emissions_per_capita": 0.3,
+            "material_footprint_per_capita": 2.493
           }
         ],
         "prev": {
-          "date": "2022-12-31",
+          "period": "2022",
           "year": 2022,
-          "external_debt_stocks_current_dollar": 2561654882,
-          "current_account_balance_bop_dollar": -491953761.2,
-          "current_account_balance_perc_gdp": -2.428975239,
-          "use_of_imf_credit_dod_dollar": 444693167.9,
-          "debt_to_gdp": 29.5
-        }
-      },
-      "population": {
-        "latest": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "change": 133538,
-          "percent": 1.13
-        },
-        "latest_breakdown": {
-          "male_population_as_of_1_july": 5888154,
-          "female_population_as_of_1_july": 6017941,
-          "male_life_expectancy_at_birth": 62.1,
-          "female_life_expectancy_at_birth": 68.7,
-          "life_expectancy_at_birth_both_sexes": 65.3,
-          "urban_population": 7343428,
-          "rural_population": 4562667,
-          "population_density_as_of_1_july": 431.87,
-          "share_of_world_pop": 0.14,
-          "median_age_as_of_1_july": 24.1,
-          "demographics": {
-            "net_number_of_migrants": -32,
-            "total_fertility_rate": 2.59,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        },
-        "overview": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "share_of_world_pop": 0.14,
-          "population_density_as_of_1_july": 431.87,
-          "urban_population": 7343428,
-          "urban_share_percent": 61.68,
-          "median_age_as_of_1_july": 24.1,
-          "land_area_km2": 27560,
-          "land_area_sq_mi": 10641
-        },
-        "history": [
-          {
-            "year": 2024,
-            "total_population_as_of_1_july": 11772557,
-            "male_population_as_of_1_july": 5825356,
-            "female_population_as_of_1_july": 5947201
-          },
-          {
-            "year": 2025,
-            "total_population_as_of_1_july": 11906095,
-            "male_population_as_of_1_july": 5888154,
-            "female_population_as_of_1_july": 6017941
-          }
-        ],
-        "urban_rural": [
-          {
-            "year": 2024,
-            "urban_population": 7119101,
-            "rural_population": 4653456
-          },
-          {
-            "year": 2025,
-            "urban_population": 7343428,
-            "rural_population": 4562667
-          }
-        ],
-        "life_expectancy": [
-          {
-            "year": 2024,
-            "male": 61.9,
-            "female": 68.5,
-            "total": 65.1
-          },
-          {
-            "year": 2025,
-            "male": 62.1,
-            "female": 68.7,
-            "total": 65.3
-          }
-        ],
-        "demographics": [
-          {
-            "year": 2024,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 23.8,
-            "total_fertility_rate": 2.63,
-            "population_density_as_of_1_july": 427.02,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8142056446,
-            "global_rank": 82
-          },
-          {
-            "year": 2025,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 24.1,
-            "total_fertility_rate": 2.59,
-            "population_density_as_of_1_july": 431.87,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        ],
-        "prev": {
-          "year": 2024,
-          "total_population_as_of_1_july": 11772557,
-          "male_population_as_of_1_july": 5825356,
-          "female_population_as_of_1_july": 5947201
-        }
-      },
-      "electricity_access": {
-        "latest": {
-          "year": 2024,
-          "eg_elc_accs_zs": null
-        },
-        "history": [
-          {
-            "year": 2023,
-            "eg_elc_accs_zs": 51.3
-          },
-          {
-            "year": 2024,
-            "eg_elc_accs_zs": null
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "eg_elc_accs_zs": 51.3
-        }
-      },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
-      "trade": {
-        "latest": {
-          "year": 2024,
-          "trade_balance": -2404000000,
-          "change": 76000000,
-          "percent": -3.06
-        },
-        "latest_breakdown": {
-          "exports_constant": 710000000,
-          "exports_perc_gdp": 3.400774933,
-          "imports_constant": 3114000000,
-          "imports_perc_gdp": 18.84711044
-        },
-        "history": [
-          {
-            "year": 2023,
-            "trade_balance": -2480000000,
-            "exports_constant": 898000000,
-            "imports_constant": 3378000000
-          },
-          {
-            "year": 2024,
-            "trade_balance": -2404000000,
-            "exports_constant": 710000000,
-            "imports_constant": 3114000000
-          }
-        ],
-        "top_exports": [],
-        "top_imports": [],
-        "top_exports_year": null,
-        "top_imports_year": null,
-        "prev": {
-          "year": 2023,
-          "trade_balance": -2480000000,
-          "exports_constant": 898000000,
-          "imports_constant": 3378000000
+          "hdi_rank": 158,
+          "hdi_value": 0.552,
+          "life_expectancy": 63.95,
+          "expected_years_of_schooling": 10.9,
+          "mean_years_of_schooling": 5.38,
+          "gni_per_capita_ppp": 3029.89,
+          "gdi_value": 0.931,
+          "hdi_female": 0.5316,
+          "life_expectancy_female": 67.23,
+          "expected_years_of_schooling_female": 10.8,
+          "mean_years_of_schooling_female": 4.77,
+          "gni_per_capita_female_ppp": 2328.29,
+          "hdi_male": 0.5709,
+          "life_expectancy_male": 60.84,
+          "expected_years_of_schooling_male": 10.99,
+          "mean_years_of_schooling_male": 6.14,
+          "gni_per_capita_male_ppp": 3744.67,
+          "inequality_adjusted_hdi_value": 0.334,
+          "coefficient_of_human_inequality": 38.41,
+          "overall_loss_perc": 39.49,
+          "inequality_in_life_expectancy": 25.82,
+          "inequality_in_education": 37.34,
+          "inequality_in_income": 52.07,
+          "gender_inequality_index_value": 0.619,
+          "maternal_mortality_ratio": 350.4,
+          "adolescent_birth_rate": 50.59,
+          "share_of_seats_in_parliament_female": 2.74,
+          "share_of_seats_in_parliament_male": 97.26,
+          "labor_force_participation_rate_female": 50.13,
+          "labor_force_participation_rate_male": 65.57,
+          "planetary_pressures_adjusted_hdi_value": 0.544,
+          "difference_from_hdi_value": 1.4493,
+          "carbon_dioxide_emissions_per_capita": 0.292,
+          "material_footprint_per_capita": 2.406
         }
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-02-17T00:53:54.459Z",
+        "generated_at": "2026-02-17T13:22:11.635Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1108,6 +1068,46 @@
           "totals_exp": {
             "total_exp": 26047738.6
           }
+        }
+      },
+      "reserves_ex_gold": {
+        "latest": {
+          "year": 2024,
+          "fi_res_xgld_cd": 2565745292.68
+        },
+        "history": [
+          {
+            "year": 2023,
+            "fi_res_xgld_cd": 2466360229.76
+          },
+          {
+            "year": 2024,
+            "fi_res_xgld_cd": 2565745292.68
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "fi_res_xgld_cd": 2466360229.76
+        }
+      },
+      "electricity_access": {
+        "latest": {
+          "year": 2024,
+          "eg_elc_accs_zs": null
+        },
+        "history": [
+          {
+            "year": 2023,
+            "eg_elc_accs_zs": 51.3
+          },
+          {
+            "year": 2024,
+            "eg_elc_accs_zs": null
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "eg_elc_accs_zs": 51.3
         }
       }
     }
