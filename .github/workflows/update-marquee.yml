@@ -33,13 +33,24 @@ jobs:
 
       - name: Commit & push if changed
         run: |
+          echo "---- cdn/daily contents ----"
+          ls -la cdn/daily || true
+
+          echo "---- git status ----"
+          git status --porcelain || true
+
+          # Stage everything in cdn/daily
+          git add -A cdn/daily
+
+          # If your repo ignores *.json, force-add the new files once
+          git add -f cdn/daily/home-snapshot.json cdn/daily/home-cards.json || true
+
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add cdn/daily
             git commit -m "Update CDN JSON"
             git push
           else
             echo "No changes."
           fi
-          
+
