@@ -3,7 +3,7 @@ name: Update marquee JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "55 12 * * *"  # daily at 12:55 UTC (~7:55am New York)
+    - cron: "55 12 * * *"  # daily at 12:55 UTC
 
 permissions:
   contents: write
