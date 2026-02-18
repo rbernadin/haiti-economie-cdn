@@ -1,8 +1,8 @@
 {
-  "asof": "2026-02-17",
+  "asof": "2026-02-18",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-02-17T13:22:11.764Z",
+    "generated_at": "2026-02-18T13:21:59.561Z",
     "cards": {
       "gdp": {
         "latest": {
@@ -138,147 +138,177 @@
           "croissance_pib": -1.9
         }
       },
-      "population": {
+      "budget": {
+        "table": "general_budget",
         "latest": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "change": 133538,
-          "percent": 1.13
-        },
-        "latest_breakdown": {
-          "male_population_as_of_1_july": 5888154,
-          "female_population_as_of_1_july": 6017941,
-          "male_life_expectancy_at_birth": 62.1,
-          "female_life_expectancy_at_birth": 68.7,
-          "life_expectancy_at_birth_both_sexes": 65.3,
-          "urban_population": 7343428,
-          "rural_population": 4562667,
-          "population_density_as_of_1_july": 431.87,
-          "share_of_world_pop": 0.14,
-          "median_age_as_of_1_july": 24.1,
-          "demographics": {
-            "net_number_of_migrants": -32,
-            "total_fertility_rate": 2.59,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        },
-        "overview": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "share_of_world_pop": 0.14,
-          "population_density_as_of_1_july": 431.87,
-          "urban_population": 7343428,
-          "urban_share_percent": 61.68,
-          "median_age_as_of_1_july": 24.1,
-          "land_area_km2": 27560,
-          "land_area_sq_mi": 10641
+          "id": 1,
+          "fiscal_year": 2026,
+          "fiscal_year_label": "2025-2026",
+          "fy_start_date": "2025-10-01T00:00:00.000Z",
+          "fy_end_date": "2026-09-30T00:00:00.000Z",
+          "version": "initial",
+          "publication_date": "2025-10-10",
+          "currency": "HTG",
+          "ways_and_means": 345510000000,
+          "domestic_resources": 243500000000,
+          "internal_revenue": 177086215668,
+          "customs_revenue": 63513784332,
+          "other_domestic_resources": 2900000000,
+          "basic_budget_balance": 29936325643,
+          "grants": 64447719275,
+          "overall_budget_support": 2720719275,
+          "project_aid": 61727000000,
+          "financing": 37562280725,
+          "loan_disbursements": 1452000000,
+          "treasury_bills": 29219280725,
+          "other_internal_project_financing": 6891000000,
+          "central_bank_loan": 0,
+          "bank_loan": 0,
+          "total_expenditures": 345510000000,
+          "current_expenditures": 213563674357,
+          "salaries_and_wages": 112078495952,
+          "goods_and_services": 65918451125,
+          "transfers_and_subsidies": 28070579765,
+          "interest": 7496147515,
+          "capital_expenditures": 131946325643,
+          "fixed_assets": 5059373803,
+          "programs_and_projects": 109900000000,
+          "public_treasury": 39830000000,
+          "imf_debt_cancellation": 1541000000,
+          "other_financing": 5350000000,
+          "grants_and_loans": 63179000000,
+          "debt_amortization": 16986951840,
+          "notes": null,
+          "created_at": "2025-11-28T16:00:21.214Z",
+          "updated_at": "2025-11-28T16:00:21.214Z"
         },
         "history": [
           {
-            "year": 2024,
-            "total_population_as_of_1_july": 11772557,
-            "male_population_as_of_1_july": 5825356,
-            "female_population_as_of_1_july": 5947201
+            "id": 3,
+            "fiscal_year": 2025,
+            "fiscal_year_label": "2024-2025",
+            "fy_start_date": "2024-10-01T00:00:00.000Z",
+            "fy_end_date": "2025-09-30T00:00:00.000Z",
+            "version": "rectificatif",
+            "publication_date": "2025-09-23",
+            "currency": "HTG",
+            "ways_and_means": 317700999999,
+            "domestic_resources": 211785199999,
+            "internal_revenue": 152136171340,
+            "customs_revenue": 57149028659,
+            "other_domestic_resources": 2500000000,
+            "basic_budget_balance": 26212905761,
+            "grants": 67998908435,
+            "overall_budget_support": 2788279275,
+            "project_aid": 65210629160,
+            "financing": 37916891565,
+            "loan_disbursements": 5662610840,
+            "treasury_bills": 25034280725,
+            "other_internal_project_financing": 7220000000,
+            "central_bank_loan": 0,
+            "bank_loan": 0,
+            "total_expenditures": 317701000000,
+            "current_expenditures": 185572294238,
+            "salaries_and_wages": 101358671293,
+            "goods_and_services": 60023948636,
+            "transfers_and_subsidies": 22961551353,
+            "interest": 1228122956,
+            "capital_expenditures": 132128705762,
+            "fixed_assets": 4239388534,
+            "programs_and_projects": 111120550000,
+            "public_treasury": 33027310000,
+            "imf_debt_cancellation": 1282800000,
+            "other_financing": 5937200000,
+            "grants_and_loans": 70873240000,
+            "debt_amortization": 16768767228,
+            "notes": null,
+            "created_at": "2025-11-28T16:00:21.214Z",
+            "updated_at": "2025-11-28T16:00:21.214Z"
           },
           {
-            "year": 2025,
-            "total_population_as_of_1_july": 11906095,
-            "male_population_as_of_1_july": 5888154,
-            "female_population_as_of_1_july": 6017941
-          }
-        ],
-        "urban_rural": [
-          {
-            "year": 2024,
-            "urban_population": 7119101,
-            "rural_population": 4653456
-          },
-          {
-            "year": 2025,
-            "urban_population": 7343428,
-            "rural_population": 4562667
-          }
-        ],
-        "life_expectancy": [
-          {
-            "year": 2024,
-            "male": 61.9,
-            "female": 68.5,
-            "total": 65.1
-          },
-          {
-            "year": 2025,
-            "male": 62.1,
-            "female": 68.7,
-            "total": 65.3
-          }
-        ],
-        "demographics": [
-          {
-            "year": 2024,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 23.8,
-            "total_fertility_rate": 2.63,
-            "population_density_as_of_1_july": 427.02,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8142056446,
-            "global_rank": 82
-          },
-          {
-            "year": 2025,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 24.1,
-            "total_fertility_rate": 2.59,
-            "population_density_as_of_1_july": 431.87,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8231613070,
-            "global_rank": 82
+            "id": 1,
+            "fiscal_year": 2026,
+            "fiscal_year_label": "2025-2026",
+            "fy_start_date": "2025-10-01T00:00:00.000Z",
+            "fy_end_date": "2026-09-30T00:00:00.000Z",
+            "version": "initial",
+            "publication_date": "2025-10-10",
+            "currency": "HTG",
+            "ways_and_means": 345510000000,
+            "domestic_resources": 243500000000,
+            "internal_revenue": 177086215668,
+            "customs_revenue": 63513784332,
+            "other_domestic_resources": 2900000000,
+            "basic_budget_balance": 29936325643,
+            "grants": 64447719275,
+            "overall_budget_support": 2720719275,
+            "project_aid": 61727000000,
+            "financing": 37562280725,
+            "loan_disbursements": 1452000000,
+            "treasury_bills": 29219280725,
+            "other_internal_project_financing": 6891000000,
+            "central_bank_loan": 0,
+            "bank_loan": 0,
+            "total_expenditures": 345510000000,
+            "current_expenditures": 213563674357,
+            "salaries_and_wages": 112078495952,
+            "goods_and_services": 65918451125,
+            "transfers_and_subsidies": 28070579765,
+            "interest": 7496147515,
+            "capital_expenditures": 131946325643,
+            "fixed_assets": 5059373803,
+            "programs_and_projects": 109900000000,
+            "public_treasury": 39830000000,
+            "imf_debt_cancellation": 1541000000,
+            "other_financing": 5350000000,
+            "grants_and_loans": 63179000000,
+            "debt_amortization": 16986951840,
+            "notes": null,
+            "created_at": "2025-11-28T16:00:21.214Z",
+            "updated_at": "2025-11-28T16:00:21.214Z"
           }
         ],
         "prev": {
-          "year": 2024,
-          "total_population_as_of_1_july": 11772557,
-          "male_population_as_of_1_july": 5825356,
-          "female_population_as_of_1_july": 5947201
-        }
-      },
-      "trade": {
-        "latest": {
-          "year": 2024,
-          "trade_balance": -2404000000,
-          "change": 76000000,
-          "percent": -3.06
-        },
-        "latest_breakdown": {
-          "exports_constant": 710000000,
-          "exports_perc_gdp": 3.400774933,
-          "imports_constant": 3114000000,
-          "imports_perc_gdp": 18.84711044
-        },
-        "history": [
-          {
-            "year": 2023,
-            "trade_balance": -2480000000,
-            "exports_constant": 898000000,
-            "imports_constant": 3378000000
-          },
-          {
-            "year": 2024,
-            "trade_balance": -2404000000,
-            "exports_constant": 710000000,
-            "imports_constant": 3114000000
-          }
-        ],
-        "top_exports": [],
-        "top_imports": [],
-        "top_exports_year": null,
-        "top_imports_year": null,
-        "prev": {
-          "year": 2023,
-          "trade_balance": -2480000000,
-          "exports_constant": 898000000,
-          "imports_constant": 3378000000
+          "id": 3,
+          "fiscal_year": 2025,
+          "fiscal_year_label": "2024-2025",
+          "fy_start_date": "2024-10-01T00:00:00.000Z",
+          "fy_end_date": "2025-09-30T00:00:00.000Z",
+          "version": "rectificatif",
+          "publication_date": "2025-09-23",
+          "currency": "HTG",
+          "ways_and_means": 317700999999,
+          "domestic_resources": 211785199999,
+          "internal_revenue": 152136171340,
+          "customs_revenue": 57149028659,
+          "other_domestic_resources": 2500000000,
+          "basic_budget_balance": 26212905761,
+          "grants": 67998908435,
+          "overall_budget_support": 2788279275,
+          "project_aid": 65210629160,
+          "financing": 37916891565,
+          "loan_disbursements": 5662610840,
+          "treasury_bills": 25034280725,
+          "other_internal_project_financing": 7220000000,
+          "central_bank_loan": 0,
+          "bank_loan": 0,
+          "total_expenditures": 317701000000,
+          "current_expenditures": 185572294238,
+          "salaries_and_wages": 101358671293,
+          "goods_and_services": 60023948636,
+          "transfers_and_subsidies": 22961551353,
+          "interest": 1228122956,
+          "capital_expenditures": 132128705762,
+          "fixed_assets": 4239388534,
+          "programs_and_projects": 111120550000,
+          "public_treasury": 33027310000,
+          "imf_debt_cancellation": 1282800000,
+          "other_financing": 5937200000,
+          "grants_and_loans": 70873240000,
+          "debt_amortization": 16768767228,
+          "notes": null,
+          "created_at": "2025-11-28T16:00:21.214Z",
+          "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
       "credit_private_sector": {
@@ -339,6 +369,44 @@
           "current_account_balance_perc_gdp": -2.428975239,
           "use_of_imf_credit_dod_dollar": 444693167.9,
           "debt_to_gdp": 29.5
+        }
+      },
+      "trade": {
+        "latest": {
+          "year": 2024,
+          "trade_balance": -2404000000,
+          "change": 76000000,
+          "percent": -3.06
+        },
+        "latest_breakdown": {
+          "exports_constant": 710000000,
+          "exports_perc_gdp": 3.400774933,
+          "imports_constant": 3114000000,
+          "imports_perc_gdp": 18.84711044
+        },
+        "history": [
+          {
+            "year": 2023,
+            "trade_balance": -2480000000,
+            "exports_constant": 898000000,
+            "imports_constant": 3378000000
+          },
+          {
+            "year": 2024,
+            "trade_balance": -2404000000,
+            "exports_constant": 710000000,
+            "imports_constant": 3114000000
+          }
+        ],
+        "top_exports": [],
+        "top_imports": [],
+        "top_exports_year": null,
+        "top_imports_year": null,
+        "prev": {
+          "year": 2023,
+          "trade_balance": -2480000000,
+          "exports_constant": 898000000,
+          "imports_constant": 3378000000
         }
       },
       "gni_ppp_per_capita": {
@@ -603,177 +671,109 @@
           "transversal_var_mois": 1.6
         }
       },
-      "budget": {
-        "table": "general_budget",
+      "population": {
         "latest": {
-          "id": 1,
-          "fiscal_year": 2026,
-          "fiscal_year_label": "2025-2026",
-          "fy_start_date": "2025-10-01T00:00:00.000Z",
-          "fy_end_date": "2026-09-30T00:00:00.000Z",
-          "version": "initial",
-          "publication_date": "2025-10-10",
-          "currency": "HTG",
-          "ways_and_means": 345510000000,
-          "domestic_resources": 243500000000,
-          "internal_revenue": 177086215668,
-          "customs_revenue": 63513784332,
-          "other_domestic_resources": 2900000000,
-          "basic_budget_balance": 29936325643,
-          "grants": 64447719275,
-          "overall_budget_support": 2720719275,
-          "project_aid": 61727000000,
-          "financing": 37562280725,
-          "loan_disbursements": 1452000000,
-          "treasury_bills": 29219280725,
-          "other_internal_project_financing": 6891000000,
-          "central_bank_loan": 0,
-          "bank_loan": 0,
-          "total_expenditures": 345510000000,
-          "current_expenditures": 213563674357,
-          "salaries_and_wages": 112078495952,
-          "goods_and_services": 65918451125,
-          "transfers_and_subsidies": 28070579765,
-          "interest": 7496147515,
-          "capital_expenditures": 131946325643,
-          "fixed_assets": 5059373803,
-          "programs_and_projects": 109900000000,
-          "public_treasury": 39830000000,
-          "imf_debt_cancellation": 1541000000,
-          "other_financing": 5350000000,
-          "grants_and_loans": 63179000000,
-          "debt_amortization": 16986951840,
-          "notes": null,
-          "created_at": "2025-11-28T16:00:21.214Z",
-          "updated_at": "2025-11-28T16:00:21.214Z"
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "change": 133538,
+          "percent": 1.13
+        },
+        "latest_breakdown": {
+          "male_population_as_of_1_july": 5888154,
+          "female_population_as_of_1_july": 6017941,
+          "male_life_expectancy_at_birth": 62.1,
+          "female_life_expectancy_at_birth": 68.7,
+          "life_expectancy_at_birth_both_sexes": 65.3,
+          "urban_population": 7343428,
+          "rural_population": 4562667,
+          "population_density_as_of_1_july": 431.87,
+          "share_of_world_pop": 0.14,
+          "median_age_as_of_1_july": 24.1,
+          "demographics": {
+            "net_number_of_migrants": -32,
+            "total_fertility_rate": 2.59,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        },
+        "overview": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "share_of_world_pop": 0.14,
+          "population_density_as_of_1_july": 431.87,
+          "urban_population": 7343428,
+          "urban_share_percent": 61.68,
+          "median_age_as_of_1_july": 24.1,
+          "land_area_km2": 27560,
+          "land_area_sq_mi": 10641
         },
         "history": [
           {
-            "id": 3,
-            "fiscal_year": 2025,
-            "fiscal_year_label": "2024-2025",
-            "fy_start_date": "2024-10-01T00:00:00.000Z",
-            "fy_end_date": "2025-09-30T00:00:00.000Z",
-            "version": "rectificatif",
-            "publication_date": "2025-09-23",
-            "currency": "HTG",
-            "ways_and_means": 317700999999,
-            "domestic_resources": 211785199999,
-            "internal_revenue": 152136171340,
-            "customs_revenue": 57149028659,
-            "other_domestic_resources": 2500000000,
-            "basic_budget_balance": 26212905761,
-            "grants": 67998908435,
-            "overall_budget_support": 2788279275,
-            "project_aid": 65210629160,
-            "financing": 37916891565,
-            "loan_disbursements": 5662610840,
-            "treasury_bills": 25034280725,
-            "other_internal_project_financing": 7220000000,
-            "central_bank_loan": 0,
-            "bank_loan": 0,
-            "total_expenditures": 317701000000,
-            "current_expenditures": 185572294238,
-            "salaries_and_wages": 101358671293,
-            "goods_and_services": 60023948636,
-            "transfers_and_subsidies": 22961551353,
-            "interest": 1228122956,
-            "capital_expenditures": 132128705762,
-            "fixed_assets": 4239388534,
-            "programs_and_projects": 111120550000,
-            "public_treasury": 33027310000,
-            "imf_debt_cancellation": 1282800000,
-            "other_financing": 5937200000,
-            "grants_and_loans": 70873240000,
-            "debt_amortization": 16768767228,
-            "notes": null,
-            "created_at": "2025-11-28T16:00:21.214Z",
-            "updated_at": "2025-11-28T16:00:21.214Z"
+            "year": 2024,
+            "total_population_as_of_1_july": 11772557,
+            "male_population_as_of_1_july": 5825356,
+            "female_population_as_of_1_july": 5947201
           },
           {
-            "id": 1,
-            "fiscal_year": 2026,
-            "fiscal_year_label": "2025-2026",
-            "fy_start_date": "2025-10-01T00:00:00.000Z",
-            "fy_end_date": "2026-09-30T00:00:00.000Z",
-            "version": "initial",
-            "publication_date": "2025-10-10",
-            "currency": "HTG",
-            "ways_and_means": 345510000000,
-            "domestic_resources": 243500000000,
-            "internal_revenue": 177086215668,
-            "customs_revenue": 63513784332,
-            "other_domestic_resources": 2900000000,
-            "basic_budget_balance": 29936325643,
-            "grants": 64447719275,
-            "overall_budget_support": 2720719275,
-            "project_aid": 61727000000,
-            "financing": 37562280725,
-            "loan_disbursements": 1452000000,
-            "treasury_bills": 29219280725,
-            "other_internal_project_financing": 6891000000,
-            "central_bank_loan": 0,
-            "bank_loan": 0,
-            "total_expenditures": 345510000000,
-            "current_expenditures": 213563674357,
-            "salaries_and_wages": 112078495952,
-            "goods_and_services": 65918451125,
-            "transfers_and_subsidies": 28070579765,
-            "interest": 7496147515,
-            "capital_expenditures": 131946325643,
-            "fixed_assets": 5059373803,
-            "programs_and_projects": 109900000000,
-            "public_treasury": 39830000000,
-            "imf_debt_cancellation": 1541000000,
-            "other_financing": 5350000000,
-            "grants_and_loans": 63179000000,
-            "debt_amortization": 16986951840,
-            "notes": null,
-            "created_at": "2025-11-28T16:00:21.214Z",
-            "updated_at": "2025-11-28T16:00:21.214Z"
+            "year": 2025,
+            "total_population_as_of_1_july": 11906095,
+            "male_population_as_of_1_july": 5888154,
+            "female_population_as_of_1_july": 6017941
+          }
+        ],
+        "urban_rural": [
+          {
+            "year": 2024,
+            "urban_population": 7119101,
+            "rural_population": 4653456
+          },
+          {
+            "year": 2025,
+            "urban_population": 7343428,
+            "rural_population": 4562667
+          }
+        ],
+        "life_expectancy": [
+          {
+            "year": 2024,
+            "male": 61.9,
+            "female": 68.5,
+            "total": 65.1
+          },
+          {
+            "year": 2025,
+            "male": 62.1,
+            "female": 68.7,
+            "total": 65.3
+          }
+        ],
+        "demographics": [
+          {
+            "year": 2024,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 23.8,
+            "total_fertility_rate": 2.63,
+            "population_density_as_of_1_july": 427.02,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8142056446,
+            "global_rank": 82
+          },
+          {
+            "year": 2025,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 24.1,
+            "total_fertility_rate": 2.59,
+            "population_density_as_of_1_july": 431.87,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8231613070,
+            "global_rank": 82
           }
         ],
         "prev": {
-          "id": 3,
-          "fiscal_year": 2025,
-          "fiscal_year_label": "2024-2025",
-          "fy_start_date": "2024-10-01T00:00:00.000Z",
-          "fy_end_date": "2025-09-30T00:00:00.000Z",
-          "version": "rectificatif",
-          "publication_date": "2025-09-23",
-          "currency": "HTG",
-          "ways_and_means": 317700999999,
-          "domestic_resources": 211785199999,
-          "internal_revenue": 152136171340,
-          "customs_revenue": 57149028659,
-          "other_domestic_resources": 2500000000,
-          "basic_budget_balance": 26212905761,
-          "grants": 67998908435,
-          "overall_budget_support": 2788279275,
-          "project_aid": 65210629160,
-          "financing": 37916891565,
-          "loan_disbursements": 5662610840,
-          "treasury_bills": 25034280725,
-          "other_internal_project_financing": 7220000000,
-          "central_bank_loan": 0,
-          "bank_loan": 0,
-          "total_expenditures": 317701000000,
-          "current_expenditures": 185572294238,
-          "salaries_and_wages": 101358671293,
-          "goods_and_services": 60023948636,
-          "transfers_and_subsidies": 22961551353,
-          "interest": 1228122956,
-          "capital_expenditures": 132128705762,
-          "fixed_assets": 4239388534,
-          "programs_and_projects": 111120550000,
-          "public_treasury": 33027310000,
-          "imf_debt_cancellation": 1282800000,
-          "other_financing": 5937200000,
-          "grants_and_loans": 70873240000,
-          "debt_amortization": 16768767228,
-          "notes": null,
-          "created_at": "2025-11-28T16:00:21.214Z",
-          "updated_at": "2025-11-28T16:00:21.214Z"
+          "year": 2024,
+          "total_population_as_of_1_july": 11772557,
+          "male_population_as_of_1_july": 5825356,
+          "female_population_as_of_1_july": 5947201
         }
       },
       "hdi": {
@@ -936,7 +936,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-02-17T13:22:11.635Z",
+        "generated_at": "2026-02-18T13:21:59.299Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
