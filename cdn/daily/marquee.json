@@ -1,55 +1,19 @@
 {
-  "asof": "2026-02-17",
-  "data": {
-    "ref": {
-      "value": 130.7122,
-      "pct": -0.07,
-      "variant": "green"
-    },
-    "tma": {
-      "value": 131.4386,
-      "pct": -0.22,
-      "variant": "green"
-    },
-    "euro_achat": {
-      "value": 155.2798,
-      "pct": 0.08,
-      "variant": "red"
-    },
-    "euro_vente": {
-      "value": 156.3748,
-      "pct": 0.11,
-      "variant": "red"
-    },
-    "peso_dom_achat": {
-      "value": 2.0984,
-      "pct": 0.44,
-      "variant": "red"
-    },
-    "peso_dom_vente": {
-      "value": 2.1132,
-      "pct": 0.48,
-      "variant": "red"
-    },
-    "dol_can_achat": {
-      "value": 96.1102,
-      "pct": -0.17,
-      "variant": "green"
-    },
-    "dol_can_vente": {
-      "value": 96.788,
-      "pct": -0.13,
-      "variant": "green"
-    },
-    "marche_banc_achat": {
-      "value": 130.3537,
-      "pct": -0.12,
-      "variant": "green"
-    },
-    "marche_banc_vente": {
-      "value": 131.4386,
-      "pct": -0.22,
-      "variant": "green"
-    }
+"asof": "2026-02-17",
+"data": {
+"ref": { "value":130.8295, "change":0.1173, "pct":0.09,"variant": "red" },
+"tma": { "value":131.6095, "change":0.1709, "pct":0.13,"variant": "red" },
+
+"marche_banc_achat": { "value":130.5492, "change":0.1955, "pct":0.15,"variant": "red" },
+"marche_banc_vente": { "value":131.6095, "change":0.1709, "pct":0.13,"variant": "red" },
+
+"euro_achat": { "value":155.1292, "change":-0.1506, "pct":-0.10,"variant": "green" },
+"euro_vente": { "value":155.9913, "change":-0.3835, "pct":-0.25,"variant": "green" },
+
+"peso_dom_achat": { "value":2.1029, "change":0.0045, "pct":0.21,"variant": "red" },
+"peso_dom_vente": { "value":2.1146, "change":0.0014, "pct":0.07,"variant": "red" },
+
+"dol_can_achat": { "value":95.9919, "change":-0.1183, "pct":-0.12,"variant": "green" },
+"dol_can_vente": { "value":96.5254, "change":-0.2626, "pct":-0.27,"variant": "green" }
   }
 }
