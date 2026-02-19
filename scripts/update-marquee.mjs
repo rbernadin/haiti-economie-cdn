@@ -1,7 +1,7 @@
 // scripts/update-marquee.mjs
 // Fetches marquee data from your API and writes:
 // 1) cdn/daily/marquee.json  (legacy shape: value + pct + variant)
-// 2) cdn/daily/exchange-market-marquee.json (new TopNavBar shape: value + change)
+// 2) cdn/daily/exchange-market-marquee.json (new TopNavBar shape: value + change (percent))
 // Includes retry logic to survive Render cold starts.
 
 import fs from "node:fs/promises";
@@ -40,16 +40,6 @@ function variantFromPct(pct) {
   return n >= 0 ? "red" : "green";
 }
 
-function pickPct(entry) {
-  // Accept: change | percent | pct
-  if (entry && typeof entry === "object") {
-    if (isNum(entry.change)) return Number(entry.change);
-    if (isNum(entry.percent)) return Number(entry.percent);
-    if (isNum(entry.pct)) return Number(entry.pct);
-  }
-  return null;
-}
-
 function pickValue(entry) {
   // Accept: value | rate | v | bare number
   if (entry && typeof entry === "object") {
@@ -59,6 +49,26 @@ function pickValue(entry) {
     return null;
   }
   return isNum(entry) ? Number(entry) : null;
+}
+
+function pickPercent(entry) {
+  // IMPORTANT: Prefer percent/pct FIRST.
+  // Your API returns:
+  //   change = absolute change
+  //   percent = percent change
+  if (entry && typeof entry === "object") {
+    if (isNum(entry.percent)) return Number(entry.percent);
+    if (isNum(entry.pct)) return Number(entry.pct);
+    // last resort fallback if API ever sends pct under "change"
+    if (isNum(entry.change)) return Number(entry.change);
+  }
+  return null;
+}
+
+function pickAbsChange(entry) {
+  // absolute change (e.g., 0.12 HTG)
+  if (entry && typeof entry === "object" && isNum(entry.change)) return Number(entry.change);
+  return null;
 }
 
 async function sleep(ms) {
@@ -89,8 +99,6 @@ async function fetchJsonWithRetry(url, tries = 5) {
       return await res.json();
     } catch (e) {
       lastErr = e;
-
-      // Backoff: 2.5s, 5s, 7.5s, 10s, 12.5s
       const wait = 2500 * (i + 1);
       console.log(
         `[retry] attempt ${i + 1}/${tries} failed: ${e?.message || e}. Waiting ${wait}ms...`
@@ -125,33 +133,27 @@ async function main() {
     const entry = payload?.[key];
 
     const value = pickValue(entry);
-    const pct = pickPct(entry);
+    const percent = pickPercent(entry);
+    const absChange = pickAbsChange(entry);
 
-    // Legacy output (what you already use)
+    // Legacy output (existing working file)
     legacyData[key] = {
       value: value ?? 0,
-      pct: pct ?? 0,
-      variant: variantFromPct(pct),
+      pct: percent ?? 0,
+      variant: variantFromPct(percent),
     };
 
     // New TopNavBar output:
-    // TopNavBar reads change OR percent OR pct
-    // We'll write change (percent) to match your new generator format.
+    // TopNavBar prints entry.change as "%", so we store percent there.
     newData[key] = {
       value: value ?? null,
-      change: pct ?? null,
+      change: percent ?? null,     // <-- percent change (what TopNavBar expects to print as %)
+      absChange: absChange ?? null // <-- optional: absolute change (for future use)
     };
   }
 
-  const outLegacy = {
-    asof,
-    data: legacyData,
-  };
-
-  const outNew = {
-    asof,
-    data: newData,
-  };
+  const outLegacy = { asof, data: legacyData };
+  const outNew = { asof, data: newData };
 
   await fs.mkdir("cdn/daily", { recursive: true });
 
