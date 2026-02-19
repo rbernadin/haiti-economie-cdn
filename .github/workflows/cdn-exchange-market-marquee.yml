@@ -3,7 +3,10 @@ name: Update CDN - Exchange Market Marquee
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 11 * * *" # daily 11:15 UTC (adjust anytime)
+    - cron: "15 11 * * *" # daily 11:15 UTC
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,12 +24,12 @@ jobs:
         run: node scripts/generate-exchange-market-marquee.mjs
         env:
           API_BASE: https://haiti-economie-api.onrender.com
-          OUT_DIR: docs/daily
+          OUT_DIR: cdn/daily
 
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/daily/exchange-market-marquee.json
+          git add cdn/daily/exchange-market-marquee.json
           git commit -m "Update exchange-market-marquee snapshot" || echo "No changes"
           git push
