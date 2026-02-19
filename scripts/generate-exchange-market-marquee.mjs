@@ -2,8 +2,9 @@
 import fs from "fs/promises";
 import path from "path";
 
+
 const API_BASE = process.env.API_BASE || "https://haiti-economie-api.onrender.com";
-const OUT_DIR = process.env.OUT_DIR || "docs/daily";
+const OUT_DIR = process.env.OUT_DIR || "cdn/daily";   // <-- change
 const OUT_FILE = path.join(OUT_DIR, "exchange-market-marquee.json");
 
 const FIELDS = [
