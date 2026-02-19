@@ -20,10 +20,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Update marquee.json
+      - name: Update marquee JSON files
         env:
           MARQUEE_API_URL: https://haiti-economie-api.onrender.com/api/exchange-market-marquee
         run: node scripts/update-marquee.mjs
+
+      - name: Assert new marquee file exists
+        run: |
+          ls -la cdn/daily || true
+          test -f cdn/daily/exchange-market-marquee.json
 
       - name: Update HomeGrid JSON (home-snapshot + home-cards)
         env:
@@ -39,10 +44,10 @@ jobs:
           echo "---- git status ----"
           git status --porcelain || true
 
-          # Stage everything in cdn/daily
           git add -A cdn/daily
 
-          # If your repo ignores *.json, force-add the new files once
+          # Safety: force-add once (in case of any repo settings that block new JSON files)
+          git add -f cdn/daily/exchange-market-marquee.json || true
           git add -f cdn/daily/home-snapshot.json cdn/daily/home-cards.json || true
 
           if [ -n "$(git status --porcelain)" ]; then
@@ -53,4 +58,3 @@ jobs:
           else
             echo "No changes."
           fi
-
