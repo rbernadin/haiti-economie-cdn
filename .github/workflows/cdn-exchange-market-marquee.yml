@@ -1,0 +1,32 @@
+name: Update CDN - Exchange Market Marquee
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 11 * * *" # daily 11:15 UTC (adjust anytime)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate marquee snapshot
+        run: node scripts/generate-exchange-market-marquee.mjs
+        env:
+          API_BASE: https://haiti-economie-api.onrender.com
+          OUT_DIR: docs/daily
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/daily/exchange-market-marquee.json
+          git commit -m "Update exchange-market-marquee snapshot" || echo "No changes"
+          git push
