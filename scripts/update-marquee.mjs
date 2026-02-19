@@ -1,8 +1,8 @@
 // scripts/update-marquee.mjs
-// Fetches marquee data from your API and writes:
-// 1) cdn/daily/marquee.json  (legacy shape: value + pct + variant)
-// 2) cdn/daily/exchange-market-marquee.json (new TopNavBar shape: value + change (percent))
-// Includes retry logic to survive Render cold starts.
+// Writes:
+// - cdn/daily/marquee.json (legacy: value + pct + variant)
+// - cdn/daily/exchange-market-marquee.json (new: value + change (PERCENT) + absChange)
+// Retry-safe for Render cold starts.
 
 import fs from "node:fs/promises";
 
@@ -10,7 +10,6 @@ const API_URL =
   process.env.MARQUEE_API_URL ||
   "https://haiti-economie-api.onrender.com/api/exchange-market-marquee";
 
-// Keep a stable list (matches what TopNavBar displays)
 const FIELDS = [
   "ref",
   "marche_banc_achat",
@@ -29,9 +28,7 @@ function isNum(x) {
   return Number.isFinite(n);
 }
 
-// Match your TopNavBar convention:
-// up = red, down = green, tiny/unknown = neutral
-const FLAT_EPS = 0.005; // 0.005% -> rounds to 0.00%
+const FLAT_EPS = 0.005;
 
 function variantFromPct(pct) {
   if (!isNum(pct)) return "neutral";
@@ -41,7 +38,6 @@ function variantFromPct(pct) {
 }
 
 function pickValue(entry) {
-  // Accept: value | rate | v | bare number
   if (entry && typeof entry === "object") {
     if (isNum(entry.value)) return Number(entry.value);
     if (isNum(entry.rate)) return Number(entry.rate);
@@ -52,21 +48,20 @@ function pickValue(entry) {
 }
 
 function pickPercent(entry) {
-  // IMPORTANT: Prefer percent/pct FIRST.
-  // Your API returns:
-  //   change = absolute change
-  //   percent = percent change
+  // IMPORTANT:
+  // API has BOTH:
+  // - change   = absolute delta
+  // - percent  = percent delta
+  // New TopNavBar prints as "%", so we must use percent.
   if (entry && typeof entry === "object") {
     if (isNum(entry.percent)) return Number(entry.percent);
     if (isNum(entry.pct)) return Number(entry.pct);
-    // last resort fallback if API ever sends pct under "change"
-    if (isNum(entry.change)) return Number(entry.change);
+    return null;
   }
   return null;
 }
 
 function pickAbsChange(entry) {
-  // absolute change (e.g., 0.12 HTG)
   if (entry && typeof entry === "object" && isNum(entry.change)) return Number(entry.change);
   return null;
 }
@@ -81,7 +76,7 @@ async function fetchJsonWithRetry(url, tries = 5) {
   for (let i = 0; i < tries; i++) {
     try {
       const ctrl = new AbortController();
-      const timeoutMs = 25000; // allow time for cold start + DB
+      const timeoutMs = 25000;
       const t = setTimeout(() => ctrl.abort(), timeoutMs);
 
       const res = await fetch(url, {
@@ -115,57 +110,54 @@ async function main() {
 
   const src = await fetchJsonWithRetry(API_URL, 5);
 
-  // Support either:
-  //  - direct object payload { ref:{...}, tma:{...}, ... }
-  //  - wrapped shape { asof, data:{...} }
   const payload =
     src?.data && typeof src.data === "object" ? src.data : (src || {});
 
   const asof = src?.asof || src?.date || new Date().toISOString().slice(0, 10);
 
-  // 1) legacy file: marquee.json
   const legacyData = {};
-
-  // 2) new file: exchange-market-marquee.json (for new TopNavBar)
   const newData = {};
 
   for (const key of FIELDS) {
     const entry = payload?.[key];
 
     const value = pickValue(entry);
-    const percent = pickPercent(entry);
-    const absChange = pickAbsChange(entry);
+    const pct = pickPercent(entry);      // percent delta
+    const absChange = pickAbsChange(entry); // absolute delta
 
-    // Legacy output (existing working file)
+    // Existing working file
     legacyData[key] = {
       value: value ?? 0,
-      pct: percent ?? 0,
-      variant: variantFromPct(percent),
+      pct: pct ?? 0,
+      variant: variantFromPct(pct),
     };
 
-    // New TopNavBar output:
-    // TopNavBar prints entry.change as "%", so we store percent there.
+    // New TopNavBar file:
+    // store percent delta inside "change" because TopNavBar prints it as "%".
     newData[key] = {
       value: value ?? null,
-      change: percent ?? null,     // <-- percent change (what TopNavBar expects to print as %)
-      absChange: absChange ?? null // <-- optional: absolute change (for future use)
+      change: pct ?? null,
+      absChange: absChange ?? null,
     };
   }
 
-  const outLegacy = { asof, data: legacyData };
-  const outNew = { asof, data: newData };
-
   await fs.mkdir("cdn/daily", { recursive: true });
 
-  await fs.writeFile("cdn/daily/marquee.json", JSON.stringify(outLegacy, null, 2) + "\n", "utf8");
-  console.log("Wrote cdn/daily/marquee.json OK");
+  await fs.writeFile(
+    "cdn/daily/marquee.json",
+    JSON.stringify({ asof, data: legacyData }, null, 2) + "\n",
+    "utf8"
+  );
 
   await fs.writeFile(
     "cdn/daily/exchange-market-marquee.json",
-    JSON.stringify(outNew, null, 2) + "\n",
+    JSON.stringify({ asof, data: newData }, null, 2) + "\n",
     "utf8"
   );
-  console.log("Wrote cdn/daily/exchange-market-marquee.json OK");
+
+  console.log("✅ Wrote:");
+  console.log("- cdn/daily/marquee.json");
+  console.log("- cdn/daily/exchange-market-marquee.json");
 }
 
 main().catch((err) => {
