@@ -3,7 +3,7 @@ name: Update CDN JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "55 12 * * *"  # daily at 12:55 UTC
+    - cron: "55 12 * * *"  # daily at 12:55 UTC (7:55 AM US Eastern Time)
 
 permissions:
   contents: write
