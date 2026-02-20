@@ -69,10 +69,18 @@ function inferAsof(payload) {
   );
 }
 
-// IMPORTANT: if fetch fails, DO NOT overwrite existing file.
-// This prevents 404s and keeps last good snapshot live.
+async function fileExists(p) {
+  try {
+    await fs.access(p);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 async function writeSnapshot({ outFile, url }) {
   const outPath = `${OUT_DIR}/${outFile}`;
+  const alreadyExists = await fileExists(outPath);
 
   try {
     console.log(`Fetching: ${url}`);
@@ -85,29 +93,25 @@ async function writeSnapshot({ outFile, url }) {
 
     await fs.writeFile(outPath, JSON.stringify(out, null, 2) + "\n", "utf8");
     console.log(`✅ Wrote ${outPath}`);
-    return true;
   } catch (e) {
-    console.log(`⚠️  SKIP (keeping previous): ${outFile}`);
-    console.log(`   Reason: ${e?.message || e}`);
-    return false;
+    // If we already have a previous file, keep it.
+    // If we DON'T have the file yet, FAIL (otherwise you'll get a 404 on Pages).
+    if (alreadyExists) {
+      console.log(`⚠️  Keeping previous ${outFile} (fetch failed): ${e?.message || e}`);
+      return;
+    }
+    throw new Error(`Failed to create ${outFile} (and no previous file exists): ${e?.message || e}`);
   }
 }
 
 async function main() {
   await fs.mkdir(OUT_DIR, { recursive: true });
 
-  let ok = 0;
-  let failed = 0;
-
   for (const s of SNAPSHOTS) {
-    const did = await writeSnapshot(s);
-    if (did) ok++;
-    else failed++;
+    await writeSnapshot(s);
   }
 
-  console.log(`Done. success=${ok}, skipped=${failed}`);
-  // Do NOT fail the job if one endpoint is down.
-  process.exit(0);
+  console.log("✅ All snapshots generated.");
 }
 
 main().catch((err) => {
