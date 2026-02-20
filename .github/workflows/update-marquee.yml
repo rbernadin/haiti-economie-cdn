@@ -20,15 +20,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Update marquee JSON files
+      - name: Update marquee.json
         env:
           MARQUEE_API_URL: https://haiti-economie-api.onrender.com/api/exchange-market-marquee
         run: node scripts/update-marquee.mjs
 
-      - name: Assert new marquee file exists
-        run: |
-          ls -la cdn/daily || true
-          test -f cdn/daily/exchange-market-marquee.json
+      # ✅ NEW: RefSummary snapshot (CDN file for HomeGrid RefSummary card)
+      - name: Update RefSummary JSON (ref-summary)
+        env:
+          REF_SUMMARY_API_URL: https://haiti-economie-api.onrender.com/api/ref-summary?chartCount=20&lookback=260
+        run: node scripts/update-ref-summary.mjs
 
       - name: Update HomeGrid JSON (home-snapshot + home-cards)
         env:
@@ -44,11 +45,12 @@ jobs:
           echo "---- git status ----"
           git status --porcelain || true
 
+          # Stage everything in cdn/daily
           git add -A cdn/daily
 
-          # Safety: force-add once (in case of any repo settings that block new JSON files)
-          git add -f cdn/daily/exchange-market-marquee.json || true
+          # If your repo ignores *.json, force-add the new files once
           git add -f cdn/daily/home-snapshot.json cdn/daily/home-cards.json || true
+          git add -f cdn/daily/ref-summary.json || true
 
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
