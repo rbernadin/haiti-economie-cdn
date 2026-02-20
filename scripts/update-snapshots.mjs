@@ -95,7 +95,7 @@ async function writeSnapshot({ outFile, url }) {
     console.log(`✅ Wrote ${outPath}`);
   } catch (e) {
     // If we already have a previous file, keep it.
-    // If we DON'T have the file yet, FAIL (otherwise you'll get a 404 on Pages).
+    // If we DON'T have the file yet, FAIL (otherwise you'll get a 404 on the Pages).
     if (alreadyExists) {
       console.log(`⚠️  Keeping previous ${outFile} (fetch failed): ${e?.message || e}`);
       return;
