@@ -1,8 +1,8 @@
+// scripts/update-snapshots.mjs
 import fs from "node:fs/promises";
 
 const OUT_DIR = "cdn/daily";
 
-// Add new indicator/page snapshots by adding ONE line here
 const SNAPSHOTS = [
   {
     outFile: "marquee.json",
@@ -69,28 +69,45 @@ function inferAsof(payload) {
   );
 }
 
+// IMPORTANT: if fetch fails, DO NOT overwrite existing file.
+// This prevents 404s and keeps last good snapshot live.
 async function writeSnapshot({ outFile, url }) {
-  console.log(`Fetching: ${url}`);
-  const payload = await fetchJsonWithRetry(url, 5);
-
-  const out = {
-    asof: inferAsof(payload),
-    data: payload, // consistent wrapper for all snapshots
-  };
-
   const outPath = `${OUT_DIR}/${outFile}`;
-  await fs.writeFile(outPath, JSON.stringify(out, null, 2) + "\n", "utf8");
-  console.log(`✅ Wrote ${outPath}`);
+
+  try {
+    console.log(`Fetching: ${url}`);
+    const payload = await fetchJsonWithRetry(url, 5);
+
+    const out = {
+      asof: inferAsof(payload),
+      data: payload,
+    };
+
+    await fs.writeFile(outPath, JSON.stringify(out, null, 2) + "\n", "utf8");
+    console.log(`✅ Wrote ${outPath}`);
+    return true;
+  } catch (e) {
+    console.log(`⚠️  SKIP (keeping previous): ${outFile}`);
+    console.log(`   Reason: ${e?.message || e}`);
+    return false;
+  }
 }
 
 async function main() {
   await fs.mkdir(OUT_DIR, { recursive: true });
 
+  let ok = 0;
+  let failed = 0;
+
   for (const s of SNAPSHOTS) {
-    await writeSnapshot(s);
+    const did = await writeSnapshot(s);
+    if (did) ok++;
+    else failed++;
   }
 
-  console.log("✅ All snapshots generated.");
+  console.log(`Done. success=${ok}, skipped=${failed}`);
+  // Do NOT fail the job if one endpoint is down.
+  process.exit(0);
 }
 
 main().catch((err) => {
