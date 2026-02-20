@@ -10,8 +10,9 @@ const SNAPSHOTS = [
   },
   {
     outFile: "ref-summary.json",
-    url: "https://haiti-economie-api.onrender.com/api/ref-summary?chartCount=20&lookback=260",
+    url: "https://haiti-economie-api.onrender.com/api/ref-summary-snapshot?chartCount=20",
   },
+
   {
     outFile: "home-snapshot.json",
     url: "https://haiti-economie-api.onrender.com/api/home-snapshot",
