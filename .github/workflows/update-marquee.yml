@@ -20,16 +20,11 @@ jobs:
         with:
           node-version: 20
 
-      - name: Update marquee.json
+      - name: Update marquee.json + ref-summary.json
         env:
           MARQUEE_API_URL: https://haiti-economie-api.onrender.com/api/exchange-market-marquee
-        run: node scripts/update-marquee.mjs
-
-      # ✅ NEW: RefSummary snapshot (CDN file for HomeGrid RefSummary card)
-      - name: Update RefSummary JSON (ref-summary)
-        env:
           REF_SUMMARY_API_URL: https://haiti-economie-api.onrender.com/api/ref-summary?chartCount=20&lookback=260
-        run: node scripts/update-ref-summary.mjs
+        run: node scripts/update-marquee.mjs
 
       - name: Update HomeGrid JSON (home-snapshot + home-cards)
         env:
