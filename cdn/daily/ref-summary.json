@@ -1,0 +1,95 @@
+{
+  "asof": "Tue Feb 17",
+  "data": {
+    "latest": {
+      "date": "Tue Feb 17",
+      "taux_ref": 130.8295,
+      "volume_achat": 13357042.96,
+      "volume_vente": 12794886.14
+    },
+    "dailyPct": 0.08973913682119969,
+    "variant": "red",
+    "chart": [
+      {
+        "date": "Mon Jan 19",
+        "ref": 130.5312
+      },
+      {
+        "date": "Tue Jan 20",
+        "ref": 130.607
+      },
+      {
+        "date": "Wed Jan 21",
+        "ref": 130.64
+      },
+      {
+        "date": "Thu Jan 22",
+        "ref": 130.7497
+      },
+      {
+        "date": "Fri Jan 23",
+        "ref": 130.6634
+      },
+      {
+        "date": "Tue Jan 27",
+        "ref": 130.6612
+      },
+      {
+        "date": "Wed Jan 28",
+        "ref": 130.7146
+      },
+      {
+        "date": "Thu Jan 29",
+        "ref": 130.6701
+      },
+      {
+        "date": "Fri Jan 30",
+        "ref": 130.6936
+      },
+      {
+        "date": "Mon Feb 02",
+        "ref": 130.799
+      },
+      {
+        "date": "Tue Feb 03",
+        "ref": 130.7749
+      },
+      {
+        "date": "Wed Feb 04",
+        "ref": 130.8461
+      },
+      {
+        "date": "Thu Feb 05",
+        "ref": 130.7599
+      },
+      {
+        "date": "Fri Feb 06",
+        "ref": 130.8375
+      },
+      {
+        "date": "Mon Feb 09",
+        "ref": 130.8062
+      },
+      {
+        "date": "Tue Feb 10",
+        "ref": 130.7514
+      },
+      {
+        "date": "Wed Feb 11",
+        "ref": 130.6966
+      },
+      {
+        "date": "Thu Feb 12",
+        "ref": 130.806
+      },
+      {
+        "date": "Fri Feb 13",
+        "ref": 130.7122
+      },
+      {
+        "date": "Tue Feb 17",
+        "ref": 130.8295
+      }
+    ]
+  }
+}
