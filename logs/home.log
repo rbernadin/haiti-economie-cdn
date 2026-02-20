@@ -1,0 +1,48 @@
+----- HOME Fri Jan  9 18:06:07 PST 2026 -----
+1) Download home snapshot...
+2) Commit & push (only if changed)...
+[main d7c5b01] Update home snapshot 2026-01-10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/rbernadin/haiti-economie-cdn.git
+   ce50eda..d7c5b01  main -> main
+3) Purge jsDelivr cache (best effort)...
+✅ Home snapshot CDN updated + purged
+----- HOME Fri Jan  9 21:32:59 PST 2026 -----
+1) Download home snapshot...
+2) Commit & push (only if changed)...
+[main 233dff1] Update home snapshot 2026-01-10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/rbernadin/haiti-economie-cdn.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/rbernadin/haiti-economie-cdn.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+----- HOME Fri Jan  9 22:26:49 PST 2026 -----
+1) Download home snapshot...
+2) Commit & push (only if changed)...
+[main 5a18c95] Update home snapshot 2026-01-10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/rbernadin/haiti-economie-cdn.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/rbernadin/haiti-economie-cdn.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+----- HOME Fri Jan  9 23:18:30 PST 2026 -----
+1) Download home snapshot...
+2) Commit & push (only if changed)...
+[main a60b769] Update home snapshot 2026-01-10
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/rbernadin/haiti-economie-cdn.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/rbernadin/haiti-economie-cdn.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
