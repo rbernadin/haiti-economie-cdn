@@ -3,7 +3,10 @@ name: Generate FX Bundles (Daily)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 6 * * *" # daily 06:15 UTC (adjust if you want)
+    - cron: "15 6 * * *" # daily 06:15 UTC
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,6 +19,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      # ✅ Debug: show repo structure (helps confirm script path)
+      - name: List files
+        run: |
+          pwd
+          ls -la
+          ls -la scripts || true
+          ls -la cdn || true
+          ls -la cdn/daily || true
+
+      # ✅ Debug: confirm API responds (so you see 500s right in logs)
+      - name: Check API endpoint
+        run: |
+          curl -I "https://haiti-economie-api.onrender.com/api/fx-history-standardized?count=2" || true
 
       - name: Generate bundles
         env:
