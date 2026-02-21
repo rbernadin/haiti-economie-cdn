@@ -1,19 +1,15 @@
 {
-  "asof": "Tue Feb 17",
+  "asof": "Thu Feb 19",
   "data": {
     "latest": {
-      "date": "Tue Feb 17",
-      "taux_ref": 130.8295,
-      "volume_achat": 13357042.96,
-      "volume_vente": 12794886.14
+      "date": "Thu Feb 19",
+      "taux_ref": 130.8608,
+      "volume_achat": 25051432.82,
+      "volume_vente": 25715752.81
     },
-    "dailyPct": 0.08973913682119969,
+    "dailyPct": 0.023924267844802487,
     "variant": "red",
     "chart": [
-      {
-        "date": "Mon Jan 19",
-        "ref": 130.5312
-      },
       {
         "date": "Tue Jan 20",
         "ref": 130.607
@@ -89,6 +85,10 @@
       {
         "date": "Tue Feb 17",
         "ref": 130.8295
+      },
+      {
+        "date": "Thu Feb 19",
+        "ref": 130.8608
       }
     ]
   }

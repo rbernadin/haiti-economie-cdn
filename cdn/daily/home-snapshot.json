@@ -1,8 +1,8 @@
 {
-  "asof": "2026-02-20",
+  "asof": "2026-02-21",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-02-20T13:21:33.560Z",
+    "generated_at": "2026-02-21T13:13:20.461Z",
     "cards": {
       "trade": {
         "latest": {
@@ -454,6 +454,26 @@
           "female_population_as_of_1_july": 5947201
         }
       },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
       "hdi": {
         "as_of": "2023",
         "count": 2,
@@ -612,26 +632,6 @@
           "material_footprint_per_capita": 2.406
         }
       },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
       "reserves_ex_gold": {
         "latest": {
           "year": 2024,
@@ -690,6 +690,26 @@
           "current_account_balance_perc_gdp": -2.428975239,
           "use_of_imf_credit_dod_dollar": 444693167.9,
           "debt_to_gdp": 29.5
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       },
       "inflation": {
@@ -936,7 +956,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-02-20T13:21:33.323Z",
+        "generated_at": "2026-02-21T13:13:20.258Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1088,26 +1108,6 @@
         "prev": {
           "year": 2023,
           "eg_elc_accs_zs": 51.3
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       }
     }
