@@ -1,114 +1,9 @@
 {
-  "asof": "2026-02-20",
+  "asof": "2026-02-21",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-02-20T06:54:47.761Z",
+    "generated_at": "2026-02-21T13:13:20.461Z",
     "cards": {
-      "population": {
-        "latest": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "change": 133538,
-          "percent": 1.13
-        },
-        "latest_breakdown": {
-          "male_population_as_of_1_july": 5888154,
-          "female_population_as_of_1_july": 6017941,
-          "male_life_expectancy_at_birth": 62.1,
-          "female_life_expectancy_at_birth": 68.7,
-          "life_expectancy_at_birth_both_sexes": 65.3,
-          "urban_population": 7343428,
-          "rural_population": 4562667,
-          "population_density_as_of_1_july": 431.87,
-          "share_of_world_pop": 0.14,
-          "median_age_as_of_1_july": 24.1,
-          "demographics": {
-            "net_number_of_migrants": -32,
-            "total_fertility_rate": 2.59,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        },
-        "overview": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "share_of_world_pop": 0.14,
-          "population_density_as_of_1_july": 431.87,
-          "urban_population": 7343428,
-          "urban_share_percent": 61.68,
-          "median_age_as_of_1_july": 24.1,
-          "land_area_km2": 27560,
-          "land_area_sq_mi": 10641
-        },
-        "history": [
-          {
-            "year": 2024,
-            "total_population_as_of_1_july": 11772557,
-            "male_population_as_of_1_july": 5825356,
-            "female_population_as_of_1_july": 5947201
-          },
-          {
-            "year": 2025,
-            "total_population_as_of_1_july": 11906095,
-            "male_population_as_of_1_july": 5888154,
-            "female_population_as_of_1_july": 6017941
-          }
-        ],
-        "urban_rural": [
-          {
-            "year": 2024,
-            "urban_population": 7119101,
-            "rural_population": 4653456
-          },
-          {
-            "year": 2025,
-            "urban_population": 7343428,
-            "rural_population": 4562667
-          }
-        ],
-        "life_expectancy": [
-          {
-            "year": 2024,
-            "male": 61.9,
-            "female": 68.5,
-            "total": 65.1
-          },
-          {
-            "year": 2025,
-            "male": 62.1,
-            "female": 68.7,
-            "total": 65.3
-          }
-        ],
-        "demographics": [
-          {
-            "year": 2024,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 23.8,
-            "total_fertility_rate": 2.63,
-            "population_density_as_of_1_july": 427.02,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8142056446,
-            "global_rank": 82
-          },
-          {
-            "year": 2025,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 24.1,
-            "total_fertility_rate": 2.59,
-            "population_density_as_of_1_july": 431.87,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        ],
-        "prev": {
-          "year": 2024,
-          "total_population_as_of_1_july": 11772557,
-          "male_population_as_of_1_july": 5825356,
-          "female_population_as_of_1_july": 5947201
-        }
-      },
       "trade": {
         "latest": {
           "year": 2024,
@@ -147,44 +42,138 @@
           "imports_constant": 3378000000
         }
       },
-      "external_debt": {
+      "gdp": {
         "latest": {
-          "date": "2023-12-31",
-          "year": 2023,
-          "external_debt_stocks_current_dollar": 2637609832,
-          "current_account_balance_bop_dollar": -682569657.6,
-          "current_account_balance_perc_gdp": -3.438536611,
-          "use_of_imf_credit_dod_dollar": 552721343.4,
-          "debt_to_gdp": 28.5
+          "year": 2024,
+          "gdp_constant": 13595808327,
+          "gdp_constant_growth": -4.169633958,
+          "gdp_constant_per_capita": 1155,
+          "gdp_constant_ppp": 32970942041,
+          "gdp_constant_ppp_per_capita": 32970942041,
+          "inflation_gdp_deflator": 24.41722344,
+          "croissance_pib": -4.2
+        },
+        "latest_breakdown": {
+          "pib_gourdes": 568005000000,
+          "valeur_ajoutee_gdes": 524908000000,
+          "impots_subs_gdes": 43097000000,
+          "secteur_primaire_gdes": 90153000000,
+          "agr_syl_pech_gdes": 84612000000,
+          "ind_extractives_gdes": 5541000000,
+          "secteur_secondaire_gdes": 130803000000,
+          "fabrication_gdes": 102168000000,
+          "services_pub_gdes": 2327000000,
+          "eau_assainissement_gdes": 4230000000,
+          "construction_gdes": 22078000000,
+          "secteur_tertiaire_gdes": 303951000000,
+          "commerce_gdes": 100849000000,
+          "trans_entrepo_gdes": 6216000000,
+          "heberge_restau_gdes": 7004000000,
+          "info_com_gdes": 13955000000,
+          "fin_assur_gdes": 21791000000,
+          "immobilieres_gdes": 23945000000,
+          "serv_pub_non_march_gdes": 38542000000,
+          "education_gdes": 31394000000,
+          "sante_sociale_gdes": 25721000000,
+          "autres_serv_gdes": 34534000000
         },
         "history": [
           {
-            "date": "2022-12-31",
-            "year": 2022,
-            "external_debt_stocks_current_dollar": 2561654882,
-            "current_account_balance_bop_dollar": -491953761.2,
-            "current_account_balance_perc_gdp": -2.428975239,
-            "use_of_imf_credit_dod_dollar": 444693167.9,
-            "debt_to_gdp": 29.5
+            "year": 2023,
+            "gdp_constant": 14187369713,
+            "gdp_constant_growth": -1.863884203,
+            "gdp_constant_per_capita": 1219,
+            "gdp_constant_ppp": 34405526560,
+            "gdp_constant_ppp_per_capita": 34405526560,
+            "inflation_gdp_deflator": 31.51196314,
+            "agr_syl_pech_gdes": 89655000000,
+            "ind_extractives_gdes": 5930000000,
+            "secteur_primaire_gdes": 95585000000,
+            "fabrication_gdes": 106447000000,
+            "services_pub_gdes": 2204000000,
+            "eau_assainissement_gdes": 4628000000,
+            "construction_gdes": 23871000000,
+            "secteur_secondaire_gdes": 137150000000,
+            "commerce_gdes": 109993000000,
+            "trans_entrepo_gdes": 7193000000,
+            "heberge_restau_gdes": 7741000000,
+            "info_com_gdes": 13750000000,
+            "fin_assur_gdes": 21119000000,
+            "immobilieres_gdes": 25536000000,
+            "serv_pub_non_march_gdes": 37247000000,
+            "education_gdes": 32043000000,
+            "sante_sociale_gdes": 26952000000,
+            "autres_serv_gdes": 34659000000,
+            "secteur_tertiaire_gdes": 316233000000,
+            "valeur_ajoutee_gdes": 548968000000,
+            "impots_subs_gdes": 43751000000,
+            "pib_gourdes": 592719000000,
+            "croissance_pib": -1.9
           },
           {
-            "date": "2023-12-31",
-            "year": 2023,
-            "external_debt_stocks_current_dollar": 2637609832,
-            "current_account_balance_bop_dollar": -682569657.6,
-            "current_account_balance_perc_gdp": -3.438536611,
-            "use_of_imf_credit_dod_dollar": 552721343.4,
-            "debt_to_gdp": 28.5
+            "year": 2024,
+            "gdp_constant": 13595808327,
+            "gdp_constant_growth": -4.169633958,
+            "gdp_constant_per_capita": 1155,
+            "gdp_constant_ppp": 32970942041,
+            "gdp_constant_ppp_per_capita": 32970942041,
+            "inflation_gdp_deflator": 24.41722344,
+            "agr_syl_pech_gdes": 84612000000,
+            "ind_extractives_gdes": 5541000000,
+            "secteur_primaire_gdes": 90153000000,
+            "fabrication_gdes": 102168000000,
+            "services_pub_gdes": 2327000000,
+            "eau_assainissement_gdes": 4230000000,
+            "construction_gdes": 22078000000,
+            "secteur_secondaire_gdes": 130803000000,
+            "commerce_gdes": 100849000000,
+            "trans_entrepo_gdes": 6216000000,
+            "heberge_restau_gdes": 7004000000,
+            "info_com_gdes": 13955000000,
+            "fin_assur_gdes": 21791000000,
+            "immobilieres_gdes": 23945000000,
+            "serv_pub_non_march_gdes": 38542000000,
+            "education_gdes": 31394000000,
+            "sante_sociale_gdes": 25721000000,
+            "autres_serv_gdes": 34534000000,
+            "secteur_tertiaire_gdes": 303951000000,
+            "valeur_ajoutee_gdes": 524908000000,
+            "impots_subs_gdes": 43097000000,
+            "pib_gourdes": 568005000000,
+            "croissance_pib": -4.2
           }
         ],
         "prev": {
-          "date": "2022-12-31",
-          "year": 2022,
-          "external_debt_stocks_current_dollar": 2561654882,
-          "current_account_balance_bop_dollar": -491953761.2,
-          "current_account_balance_perc_gdp": -2.428975239,
-          "use_of_imf_credit_dod_dollar": 444693167.9,
-          "debt_to_gdp": 29.5
+          "year": 2023,
+          "gdp_constant": 14187369713,
+          "gdp_constant_growth": -1.863884203,
+          "gdp_constant_per_capita": 1219,
+          "gdp_constant_ppp": 34405526560,
+          "gdp_constant_ppp_per_capita": 34405526560,
+          "inflation_gdp_deflator": 31.51196314,
+          "agr_syl_pech_gdes": 89655000000,
+          "ind_extractives_gdes": 5930000000,
+          "secteur_primaire_gdes": 95585000000,
+          "fabrication_gdes": 106447000000,
+          "services_pub_gdes": 2204000000,
+          "eau_assainissement_gdes": 4628000000,
+          "construction_gdes": 23871000000,
+          "secteur_secondaire_gdes": 137150000000,
+          "commerce_gdes": 109993000000,
+          "trans_entrepo_gdes": 7193000000,
+          "heberge_restau_gdes": 7741000000,
+          "info_com_gdes": 13750000000,
+          "fin_assur_gdes": 21119000000,
+          "immobilieres_gdes": 25536000000,
+          "serv_pub_non_march_gdes": 37247000000,
+          "education_gdes": 32043000000,
+          "sante_sociale_gdes": 26952000000,
+          "autres_serv_gdes": 34659000000,
+          "secteur_tertiaire_gdes": 316233000000,
+          "valeur_ajoutee_gdes": 548968000000,
+          "impots_subs_gdes": 43751000000,
+          "pib_gourdes": 592719000000,
+          "croissance_pib": -1.9
         }
       },
       "budget": {
@@ -360,6 +349,131 @@
           "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
+      "population": {
+        "latest": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "change": 133538,
+          "percent": 1.13
+        },
+        "latest_breakdown": {
+          "male_population_as_of_1_july": 5888154,
+          "female_population_as_of_1_july": 6017941,
+          "male_life_expectancy_at_birth": 62.1,
+          "female_life_expectancy_at_birth": 68.7,
+          "life_expectancy_at_birth_both_sexes": 65.3,
+          "urban_population": 7343428,
+          "rural_population": 4562667,
+          "population_density_as_of_1_july": 431.87,
+          "share_of_world_pop": 0.14,
+          "median_age_as_of_1_july": 24.1,
+          "demographics": {
+            "net_number_of_migrants": -32,
+            "total_fertility_rate": 2.59,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        },
+        "overview": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "share_of_world_pop": 0.14,
+          "population_density_as_of_1_july": 431.87,
+          "urban_population": 7343428,
+          "urban_share_percent": 61.68,
+          "median_age_as_of_1_july": 24.1,
+          "land_area_km2": 27560,
+          "land_area_sq_mi": 10641
+        },
+        "history": [
+          {
+            "year": 2024,
+            "total_population_as_of_1_july": 11772557,
+            "male_population_as_of_1_july": 5825356,
+            "female_population_as_of_1_july": 5947201
+          },
+          {
+            "year": 2025,
+            "total_population_as_of_1_july": 11906095,
+            "male_population_as_of_1_july": 5888154,
+            "female_population_as_of_1_july": 6017941
+          }
+        ],
+        "urban_rural": [
+          {
+            "year": 2024,
+            "urban_population": 7119101,
+            "rural_population": 4653456
+          },
+          {
+            "year": 2025,
+            "urban_population": 7343428,
+            "rural_population": 4562667
+          }
+        ],
+        "life_expectancy": [
+          {
+            "year": 2024,
+            "male": 61.9,
+            "female": 68.5,
+            "total": 65.1
+          },
+          {
+            "year": 2025,
+            "male": 62.1,
+            "female": 68.7,
+            "total": 65.3
+          }
+        ],
+        "demographics": [
+          {
+            "year": 2024,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 23.8,
+            "total_fertility_rate": 2.63,
+            "population_density_as_of_1_july": 427.02,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8142056446,
+            "global_rank": 82
+          },
+          {
+            "year": 2025,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 24.1,
+            "total_fertility_rate": 2.59,
+            "population_density_as_of_1_july": 431.87,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        ],
+        "prev": {
+          "year": 2024,
+          "total_population_as_of_1_july": 11772557,
+          "male_population_as_of_1_july": 5825356,
+          "female_population_as_of_1_july": 5947201
+        }
+      },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
       "hdi": {
         "as_of": "2023",
         "count": 2,
@@ -518,180 +632,6 @@
           "material_footprint_per_capita": 2.406
         }
       },
-      "gdp": {
-        "latest": {
-          "year": 2024,
-          "gdp_constant": 13595808327,
-          "gdp_constant_growth": -4.169633958,
-          "gdp_constant_per_capita": 1155,
-          "gdp_constant_ppp": 32970942041,
-          "gdp_constant_ppp_per_capita": 32970942041,
-          "inflation_gdp_deflator": 24.41722344,
-          "croissance_pib": -4.2
-        },
-        "latest_breakdown": {
-          "pib_gourdes": 568005000000,
-          "valeur_ajoutee_gdes": 524908000000,
-          "impots_subs_gdes": 43097000000,
-          "secteur_primaire_gdes": 90153000000,
-          "agr_syl_pech_gdes": 84612000000,
-          "ind_extractives_gdes": 5541000000,
-          "secteur_secondaire_gdes": 130803000000,
-          "fabrication_gdes": 102168000000,
-          "services_pub_gdes": 2327000000,
-          "eau_assainissement_gdes": 4230000000,
-          "construction_gdes": 22078000000,
-          "secteur_tertiaire_gdes": 303951000000,
-          "commerce_gdes": 100849000000,
-          "trans_entrepo_gdes": 6216000000,
-          "heberge_restau_gdes": 7004000000,
-          "info_com_gdes": 13955000000,
-          "fin_assur_gdes": 21791000000,
-          "immobilieres_gdes": 23945000000,
-          "serv_pub_non_march_gdes": 38542000000,
-          "education_gdes": 31394000000,
-          "sante_sociale_gdes": 25721000000,
-          "autres_serv_gdes": 34534000000
-        },
-        "history": [
-          {
-            "year": 2023,
-            "gdp_constant": 14187369713,
-            "gdp_constant_growth": -1.863884203,
-            "gdp_constant_per_capita": 1219,
-            "gdp_constant_ppp": 34405526560,
-            "gdp_constant_ppp_per_capita": 34405526560,
-            "inflation_gdp_deflator": 31.51196314,
-            "agr_syl_pech_gdes": 89655000000,
-            "ind_extractives_gdes": 5930000000,
-            "secteur_primaire_gdes": 95585000000,
-            "fabrication_gdes": 106447000000,
-            "services_pub_gdes": 2204000000,
-            "eau_assainissement_gdes": 4628000000,
-            "construction_gdes": 23871000000,
-            "secteur_secondaire_gdes": 137150000000,
-            "commerce_gdes": 109993000000,
-            "trans_entrepo_gdes": 7193000000,
-            "heberge_restau_gdes": 7741000000,
-            "info_com_gdes": 13750000000,
-            "fin_assur_gdes": 21119000000,
-            "immobilieres_gdes": 25536000000,
-            "serv_pub_non_march_gdes": 37247000000,
-            "education_gdes": 32043000000,
-            "sante_sociale_gdes": 26952000000,
-            "autres_serv_gdes": 34659000000,
-            "secteur_tertiaire_gdes": 316233000000,
-            "valeur_ajoutee_gdes": 548968000000,
-            "impots_subs_gdes": 43751000000,
-            "pib_gourdes": 592719000000,
-            "croissance_pib": -1.9
-          },
-          {
-            "year": 2024,
-            "gdp_constant": 13595808327,
-            "gdp_constant_growth": -4.169633958,
-            "gdp_constant_per_capita": 1155,
-            "gdp_constant_ppp": 32970942041,
-            "gdp_constant_ppp_per_capita": 32970942041,
-            "inflation_gdp_deflator": 24.41722344,
-            "agr_syl_pech_gdes": 84612000000,
-            "ind_extractives_gdes": 5541000000,
-            "secteur_primaire_gdes": 90153000000,
-            "fabrication_gdes": 102168000000,
-            "services_pub_gdes": 2327000000,
-            "eau_assainissement_gdes": 4230000000,
-            "construction_gdes": 22078000000,
-            "secteur_secondaire_gdes": 130803000000,
-            "commerce_gdes": 100849000000,
-            "trans_entrepo_gdes": 6216000000,
-            "heberge_restau_gdes": 7004000000,
-            "info_com_gdes": 13955000000,
-            "fin_assur_gdes": 21791000000,
-            "immobilieres_gdes": 23945000000,
-            "serv_pub_non_march_gdes": 38542000000,
-            "education_gdes": 31394000000,
-            "sante_sociale_gdes": 25721000000,
-            "autres_serv_gdes": 34534000000,
-            "secteur_tertiaire_gdes": 303951000000,
-            "valeur_ajoutee_gdes": 524908000000,
-            "impots_subs_gdes": 43097000000,
-            "pib_gourdes": 568005000000,
-            "croissance_pib": -4.2
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "gdp_constant": 14187369713,
-          "gdp_constant_growth": -1.863884203,
-          "gdp_constant_per_capita": 1219,
-          "gdp_constant_ppp": 34405526560,
-          "gdp_constant_ppp_per_capita": 34405526560,
-          "inflation_gdp_deflator": 31.51196314,
-          "agr_syl_pech_gdes": 89655000000,
-          "ind_extractives_gdes": 5930000000,
-          "secteur_primaire_gdes": 95585000000,
-          "fabrication_gdes": 106447000000,
-          "services_pub_gdes": 2204000000,
-          "eau_assainissement_gdes": 4628000000,
-          "construction_gdes": 23871000000,
-          "secteur_secondaire_gdes": 137150000000,
-          "commerce_gdes": 109993000000,
-          "trans_entrepo_gdes": 7193000000,
-          "heberge_restau_gdes": 7741000000,
-          "info_com_gdes": 13750000000,
-          "fin_assur_gdes": 21119000000,
-          "immobilieres_gdes": 25536000000,
-          "serv_pub_non_march_gdes": 37247000000,
-          "education_gdes": 32043000000,
-          "sante_sociale_gdes": 26952000000,
-          "autres_serv_gdes": 34659000000,
-          "secteur_tertiaire_gdes": 316233000000,
-          "valeur_ajoutee_gdes": 548968000000,
-          "impots_subs_gdes": 43751000000,
-          "pib_gourdes": 592719000000,
-          "croissance_pib": -1.9
-        }
-      },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
-      "electricity_access": {
-        "latest": {
-          "year": 2024,
-          "eg_elc_accs_zs": null
-        },
-        "history": [
-          {
-            "year": 2023,
-            "eg_elc_accs_zs": 51.3
-          },
-          {
-            "year": 2024,
-            "eg_elc_accs_zs": null
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "eg_elc_accs_zs": 51.3
-        }
-      },
       "reserves_ex_gold": {
         "latest": {
           "year": 2024,
@@ -710,6 +650,66 @@
         "prev": {
           "year": 2023,
           "fi_res_xgld_cd": 2466360229.76
+        }
+      },
+      "external_debt": {
+        "latest": {
+          "date": "2023-12-31",
+          "year": 2023,
+          "external_debt_stocks_current_dollar": 2637609832,
+          "current_account_balance_bop_dollar": -682569657.6,
+          "current_account_balance_perc_gdp": -3.438536611,
+          "use_of_imf_credit_dod_dollar": 552721343.4,
+          "debt_to_gdp": 28.5
+        },
+        "history": [
+          {
+            "date": "2022-12-31",
+            "year": 2022,
+            "external_debt_stocks_current_dollar": 2561654882,
+            "current_account_balance_bop_dollar": -491953761.2,
+            "current_account_balance_perc_gdp": -2.428975239,
+            "use_of_imf_credit_dod_dollar": 444693167.9,
+            "debt_to_gdp": 29.5
+          },
+          {
+            "date": "2023-12-31",
+            "year": 2023,
+            "external_debt_stocks_current_dollar": 2637609832,
+            "current_account_balance_bop_dollar": -682569657.6,
+            "current_account_balance_perc_gdp": -3.438536611,
+            "use_of_imf_credit_dod_dollar": 552721343.4,
+            "debt_to_gdp": 28.5
+          }
+        ],
+        "prev": {
+          "date": "2022-12-31",
+          "year": 2022,
+          "external_debt_stocks_current_dollar": 2561654882,
+          "current_account_balance_bop_dollar": -491953761.2,
+          "current_account_balance_perc_gdp": -2.428975239,
+          "use_of_imf_credit_dod_dollar": 444693167.9,
+          "debt_to_gdp": 29.5
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       },
       "inflation": {
@@ -956,7 +956,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-02-20T06:54:47.661Z",
+        "generated_at": "2026-02-21T13:13:20.258Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1090,24 +1090,24 @@
           }
         }
       },
-      "gni_ppp_per_capita": {
+      "electricity_access": {
+        "latest": {
+          "year": 2024,
+          "eg_elc_accs_zs": null
+        },
         "history": [
           {
             "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
+            "eg_elc_accs_zs": 51.3
           },
           {
             "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
+            "eg_elc_accs_zs": null
           }
         ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
         "prev": {
           "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
+          "eg_elc_accs_zs": 51.3
         }
       }
     }
