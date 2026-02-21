@@ -1,0 +1,16 @@
+{
+  "asof": "2026-02-21",
+  "latest": {
+    "date": "2026-02-21",
+    "achat": 130.5492,
+    "vente": 131.6095,
+    "achat_change": 0.26,
+    "achat_percent": 0.20,
+    "vente_change": 0.22,
+    "vente_percent": 0.17
+  },
+  "history": [
+    { "date": "2026-02-20", "achat": 130.29, "vente": 131.39 },
+    { "date": "2026-02-21", "achat": 130.5492, "vente": 131.6095 }
+  ]
+}
