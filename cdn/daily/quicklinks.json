@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-02-21T19:27:56.267Z",
+  "asof": "2026-02-20",
+  "transactions": {
+    "volume_achat": 30141794.85,
+    "volume_vente": 29149786.3,
+    "pct_volume_achat": 20.31964425578114,
+    "pct_volume_vente": 13.353812798607322
+  },
+  "marche_bancaire": {
+    "achat": 130.6928,
+    "vente": 131.8248,
+    "pct_achat": 0.06998393585366852,
+    "pct_vente": 0.20363812160365388
+  },
+  "interventions": {
+    "intervention_us_achat": 0,
+    "intervention_us_vente": 0,
+    "intervention_euro_achat": 0,
+    "intervention_euro_vente": 0,
+    "total_usd": 0,
+    "total_eur": 0,
+    "total_usd_plus_eur": 0,
+    "pct_total_usd_plus_eur": null
+  },
+  "autres_devises": {
+    "euro_vente": 154.8819,
+    "pct_euro_vente": -0.6978888301882988,
+    "euro_achat": 154.0624,
+    "peso_dom_achat": 2.1348,
+    "peso_dom_vente": 2.1462,
+    "dol_can_achat": 95.6585,
+    "dol_can_vente": 96.1673
+  },
+  "best_bank": {
+    "best_buy_usd": {
+      "bank": "Unibank",
+      "field": "unibank_achat",
+      "value": 130
+    },
+    "best_sell_usd": {
+      "bank": "Sogebank",
+      "field": "sogebank_vente",
+      "value": 131.75
+    }
+  }
+}
