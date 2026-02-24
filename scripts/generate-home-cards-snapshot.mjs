@@ -1,18 +1,15 @@
-// scripts/generate-home-cards-snapshot.mjs
 import fs from "node:fs";
 import path from "node:path";
 
-const API_BASE = process.env.API_BASE || "https://haiti-economie-api.onrender.com";
+const API_BASE =
+  process.env.API_BASE || "https://haiti-economie-api.onrender.com";
 
-// where you want it inside the CDN repo
 const OUT_FILE = path.resolve("cdn/core/home-cards-snapshot.json");
-
-// optional: also inject into core bundle file if you use one
 const CORE_BUNDLE_FILE = path.resolve("cdn/core/core-bundle.json");
 const UPDATE_CORE_BUNDLE = true;
 
 async function fetchJson(url) {
-  const r = await fetch(url, { headers: { "accept": "application/json" } });
+  const r = await fetch(url, { headers: { accept: "application/json" } });
   if (!r.ok) throw new Error(`HTTP ${r.status} ${r.statusText}`);
   return r.json();
 }
@@ -23,6 +20,15 @@ function ensureDir(file) {
 
 function isValid(payload) {
   return payload && Array.isArray(payload.cards) && payload.cards.length > 0;
+}
+
+function safeReadJson(file) {
+  if (!fs.existsSync(file)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch {
+    return {};
+  }
 }
 
 (async () => {
@@ -42,17 +48,13 @@ function isValid(payload) {
   if (UPDATE_CORE_BUNDLE) {
     ensureDir(CORE_BUNDLE_FILE);
 
-    let bundle = {};
-    if (fs.existsSync(CORE_BUNDLE_FILE)) {
-      try {
-        bundle = JSON.parse(fs.readFileSync(CORE_BUNDLE_FILE, "utf8"));
-      } catch {
-        bundle = {};
-      }
-    }
+    const bundle = safeReadJson(CORE_BUNDLE_FILE);
 
-    // put it under a stable key in your core bundle
+    // stable key used by HomeGrid
     bundle.homeCardsSnapshot = payload;
+
+    // optional: keep a top-level timestamp for the bundle itself
+    bundle.asof = new Date().toISOString();
 
     fs.writeFileSync(CORE_BUNDLE_FILE, JSON.stringify(bundle, null, 2), "utf8");
     console.log("Updated core bundle:", CORE_BUNDLE_FILE);
