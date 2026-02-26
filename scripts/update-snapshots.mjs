@@ -2,23 +2,30 @@
 import fs from "node:fs/promises";
 
 const OUT_DIR = "cdn/daily";
+const API_BASE = process.env.API_BASE || "https://haiti-economie-api.onrender.com";
 
 const SNAPSHOTS = [
   {
     outFile: "marquee.json",
-    url: "https://haiti-economie-api.onrender.com/api/exchange-market-marquee",
+    url: `${API_BASE.replace(/\/+$/, "")}/api/exchange-market-marquee`,
+    mode: "wrap",
   },
   {
     outFile: "ref-summary.json",
-    url: "https://haiti-economie-api.onrender.com/api/ref-summary-snapshot?chartCount=20",
+    url: `${API_BASE.replace(/\/+$/, "")}/api/ref-summary-snapshot?chartCount=20`,
+    mode: "wrap",
   },
   {
     outFile: "home-snapshot.json",
-    url: "https://haiti-economie-api.onrender.com/api/home-snapshot",
+    url: `${API_BASE.replace(/\/+$/, "")}/api/home-snapshot`,
+    mode: "wrap",
   },
+
+  // ✅ IMPORTANT: HomeGrid expects TOP-LEVEL "cards"
   {
     outFile: "home-cards.json",
-    url: "https://haiti-economie-api.onrender.com/api/home-cards-snapshot",
+    url: `${API_BASE.replace(/\/+$/, "")}/api/home-cards-snapshot`,
+    mode: "homeCards",
   },
 ];
 
@@ -51,7 +58,9 @@ async function fetchJsonWithRetry(url, tries = 5) {
     } catch (e) {
       lastErr = e;
       const wait = 2500 * (i + 1);
-      console.log(`[retry] ${i + 1}/${tries} failed for ${url}: ${e?.message || e} (wait ${wait}ms)`);
+      console.log(
+        `[retry] ${i + 1}/${tries} failed for ${url}: ${e?.message || e} (wait ${wait}ms)`
+      );
       await sleep(wait);
     }
   }
@@ -62,6 +71,7 @@ async function fetchJsonWithRetry(url, tries = 5) {
 function inferAsof(payload) {
   return (
     payload?.asof ||
+    payload?.updatedAt ||
     payload?.date ||
     payload?.latest?.date ||
     payload?.latest?.day ||
@@ -78,7 +88,45 @@ async function fileExists(p) {
   }
 }
 
-async function writeSnapshot({ outFile, url }) {
+function buildOutput(payload, mode) {
+  const generatedAt = new Date().toISOString();
+
+  // Default wrapper format (safe for routes that vary)
+  if (mode === "wrap") {
+    return {
+      asof: inferAsof(payload),
+      generatedAt,
+      data: payload,
+    };
+  }
+
+  // HomeGrid wants top-level cards
+  if (mode === "homeCards") {
+    const cards =
+      payload?.cards ||
+      payload?.data?.cards || // in case backend changes shape later
+      [];
+
+    return {
+      asof: inferAsof(payload),
+      generatedAt,
+      cards,
+    };
+  }
+
+  // fallback
+  return { asof: inferAsof(payload), generatedAt, data: payload };
+}
+
+function validateOutput(out, mode) {
+  if (mode === "homeCards") {
+    return Array.isArray(out?.cards) && out.cards.length > 0;
+  }
+  // wrap mode doesn't need strict checks (some endpoints may return empty states)
+  return true;
+}
+
+async function writeSnapshot({ outFile, url, mode }) {
   const outPath = `${OUT_DIR}/${outFile}`;
   const alreadyExists = await fileExists(outPath);
 
@@ -86,16 +134,15 @@ async function writeSnapshot({ outFile, url }) {
     console.log(`Fetching: ${url}`);
     const payload = await fetchJsonWithRetry(url, 5);
 
-    const out = {
-      asof: inferAsof(payload),
-      data: payload,
-    };
+    const out = buildOutput(payload, mode);
+
+    if (!validateOutput(out, mode)) {
+      throw new Error(`Invalid output shape for ${outFile} (mode=${mode})`);
+    }
 
     await fs.writeFile(outPath, JSON.stringify(out, null, 2) + "\n", "utf8");
-    console.log(`✅ Wrote ${outPath}`);
+    console.log(`✅ Wrote ${outPath} (asof=${out.asof}, generatedAt=${out.generatedAt})`);
   } catch (e) {
-    // If we already have a previous file, keep it.
-    // If we DON'T have the file yet, FAIL (otherwise you'll get a 404 on the Pages).
     if (alreadyExists) {
       console.log(`⚠️  Keeping previous ${outFile} (fetch failed): ${e?.message || e}`);
       return;

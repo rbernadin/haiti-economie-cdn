@@ -1,3 +1,4 @@
+// scripts/generate-home-cards-snapshot.mjs
 import fs from "node:fs";
 import path from "node:path";
 
@@ -14,8 +15,15 @@ function ensureDir(file) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
 }
 
-function isValid(payload) {
-  return payload && Array.isArray(payload.cards) && payload.cards.length > 0;
+function inferAsof(payload) {
+  return (
+    payload?.asof ||
+    payload?.updatedAt ||
+    payload?.date ||
+    payload?.latest?.date ||
+    payload?.latest?.day ||
+    new Date().toISOString().slice(0, 10)
+  );
 }
 
 (async () => {
@@ -23,17 +31,21 @@ function isValid(payload) {
   console.log("Fetching:", url);
 
   const payload = await fetchJson(url);
-  if (!isValid(payload)) {
-    console.error("Invalid payload shape:", payload);
+
+  const out = {
+    asof: inferAsof(payload),
+    generatedAt: new Date().toISOString(),
+    cards: Array.isArray(payload?.cards) ? payload.cards : (payload?.data?.cards || []),
+  };
+
+  if (!Array.isArray(out.cards) || out.cards.length === 0) {
+    console.error("Invalid payload/cards:", payload);
     process.exit(1);
   }
 
-  // ✅ Make publish time explicit (independent from DB freshness)
-  payload.generatedAt = new Date().toISOString();
-
   ensureDir(OUT_FILE);
-  fs.writeFileSync(OUT_FILE, JSON.stringify(payload, null, 2), "utf8");
-  console.log("Wrote:", OUT_FILE);
+  fs.writeFileSync(OUT_FILE, JSON.stringify(out, null, 2) + "\n", "utf8");
+  console.log(`✅ Wrote ${OUT_FILE} (asof=${out.asof}, generatedAt=${out.generatedAt})`);
 })().catch((e) => {
   console.error(e);
   process.exit(1);
