@@ -1,10 +1,7 @@
-// scripts/generate-home-cards-snapshot.mjs
 import fs from "node:fs";
 import path from "node:path";
 
 const API_BASE = process.env.API_BASE || "https://haiti-economie-api.onrender.com";
-
-// ✅ match your repo layout
 const OUT_FILE = path.resolve("cdn/daily/home-cards.json");
 
 async function fetchJson(url) {
@@ -30,6 +27,9 @@ function isValid(payload) {
     console.error("Invalid payload shape:", payload);
     process.exit(1);
   }
+
+  // ✅ Make publish time explicit (independent from DB freshness)
+  payload.generatedAt = new Date().toISOString();
 
   ensureDir(OUT_FILE);
   fs.writeFileSync(OUT_FILE, JSON.stringify(payload, null, 2), "utf8");
