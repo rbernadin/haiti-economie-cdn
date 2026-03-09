@@ -1,56 +1,56 @@
 {
-  "asof": "2026-03-07",
-  "generatedAt": "2026-03-07T13:11:44.194Z",
+  "asof": "2026-03-09",
+  "generatedAt": "2026-03-09T13:25:11.039Z",
   "data": {
     "ref": {
-      "value": 130.8927,
-      "change": 0.09,
-      "percent": 0.07
+      "value": 130.7963,
+      "change": -0.1,
+      "percent": -0.07
     },
     "tma": {
-      "value": 131.7215,
-      "change": -0.02,
-      "percent": -0.01
+      "value": 131.5337,
+      "change": -0.19,
+      "percent": -0.14
     },
     "euro_achat": {
-      "value": 152.215,
-      "change": -0.74,
-      "percent": -0.49
+      "value": 151.9533,
+      "change": -0.26,
+      "percent": -0.17
     },
     "euro_vente": {
-      "value": 153.1735,
-      "change": -0.87,
-      "percent": -0.57
+      "value": 152.9155,
+      "change": -0.26,
+      "percent": -0.17
     },
     "peso_dom_achat": {
-      "value": 2.1895,
-      "change": -0.01,
-      "percent": -0.37
+      "value": 2.1848,
+      "change": 0,
+      "percent": -0.21
     },
     "peso_dom_vente": {
-      "value": 2.2033,
-      "change": -0.01,
-      "percent": -0.45
+      "value": 2.1986,
+      "change": 0,
+      "percent": -0.21
     },
     "dol_can_achat": {
-      "value": 95.8929,
-      "change": 0.2,
-      "percent": 0.21
+      "value": 95.6958,
+      "change": -0.2,
+      "percent": -0.21
     },
     "dol_can_vente": {
-      "value": 96.4968,
-      "change": 0.12,
-      "percent": 0.13
+      "value": 96.3017,
+      "change": -0.2,
+      "percent": -0.2
     },
     "marche_banc_achat": {
-      "value": 130.6545,
-      "change": 0.16,
-      "percent": 0.12
+      "value": 130.4939,
+      "change": -0.16,
+      "percent": -0.12
     },
     "marche_banc_vente": {
-      "value": 131.7215,
-      "change": -0.02,
-      "percent": -0.01
+      "value": 131.5337,
+      "change": -0.19,
+      "percent": -0.14
     }
   }
 }
