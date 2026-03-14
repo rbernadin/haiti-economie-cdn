@@ -1,9 +1,9 @@
 {
-  "asof": "2026-03-13",
-  "generatedAt": "2026-03-13T13:22:08.652Z",
+  "asof": "2026-03-14",
+  "generatedAt": "2026-03-14T13:16:03.250Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-03-13T13:22:08.630Z",
+    "generated_at": "2026-03-14T13:16:03.200Z",
     "cards": {
       "trade": {
         "latest": {
@@ -217,6 +217,111 @@
           "croissance_pib": -1.9
         }
       },
+      "population": {
+        "latest": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "change": 133538,
+          "percent": 1.13
+        },
+        "latest_breakdown": {
+          "male_population_as_of_1_july": 5888154,
+          "female_population_as_of_1_july": 6017941,
+          "male_life_expectancy_at_birth": 62.1,
+          "female_life_expectancy_at_birth": 68.7,
+          "life_expectancy_at_birth_both_sexes": 65.3,
+          "urban_population": 7343428,
+          "rural_population": 4562667,
+          "population_density_as_of_1_july": 431.87,
+          "share_of_world_pop": 0.14,
+          "median_age_as_of_1_july": 24.1,
+          "demographics": {
+            "net_number_of_migrants": -32,
+            "total_fertility_rate": 2.59,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        },
+        "overview": {
+          "year": 2025,
+          "total_population_as_of_1_july": 11906095,
+          "share_of_world_pop": 0.14,
+          "population_density_as_of_1_july": 431.87,
+          "urban_population": 7343428,
+          "urban_share_percent": 61.68,
+          "median_age_as_of_1_july": 24.1,
+          "land_area_km2": 27560,
+          "land_area_sq_mi": 10641
+        },
+        "history": [
+          {
+            "year": 2024,
+            "total_population_as_of_1_july": 11772557,
+            "male_population_as_of_1_july": 5825356,
+            "female_population_as_of_1_july": 5947201
+          },
+          {
+            "year": 2025,
+            "total_population_as_of_1_july": 11906095,
+            "male_population_as_of_1_july": 5888154,
+            "female_population_as_of_1_july": 6017941
+          }
+        ],
+        "urban_rural": [
+          {
+            "year": 2024,
+            "urban_population": 7119101,
+            "rural_population": 4653456
+          },
+          {
+            "year": 2025,
+            "urban_population": 7343428,
+            "rural_population": 4562667
+          }
+        ],
+        "life_expectancy": [
+          {
+            "year": 2024,
+            "male": 61.9,
+            "female": 68.5,
+            "total": 65.1
+          },
+          {
+            "year": 2025,
+            "male": 62.1,
+            "female": 68.7,
+            "total": 65.3
+          }
+        ],
+        "demographics": [
+          {
+            "year": 2024,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 23.8,
+            "total_fertility_rate": 2.63,
+            "population_density_as_of_1_july": 427.02,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8142056446,
+            "global_rank": 82
+          },
+          {
+            "year": 2025,
+            "net_number_of_migrants": -32,
+            "median_age_as_of_1_july": 24.1,
+            "total_fertility_rate": 2.59,
+            "population_density_as_of_1_july": 431.87,
+            "share_of_world_pop": 0.14,
+            "world_pop": 8231613070,
+            "global_rank": 82
+          }
+        ],
+        "prev": {
+          "year": 2024,
+          "total_population_as_of_1_july": 11772557,
+          "male_population_as_of_1_july": 5825356,
+          "female_population_as_of_1_july": 5947201
+        }
+      },
       "budget": {
         "table": "general_budget",
         "latest": {
@@ -390,131 +495,6 @@
           "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
-      "population": {
-        "latest": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "change": 133538,
-          "percent": 1.13
-        },
-        "latest_breakdown": {
-          "male_population_as_of_1_july": 5888154,
-          "female_population_as_of_1_july": 6017941,
-          "male_life_expectancy_at_birth": 62.1,
-          "female_life_expectancy_at_birth": 68.7,
-          "life_expectancy_at_birth_both_sexes": 65.3,
-          "urban_population": 7343428,
-          "rural_population": 4562667,
-          "population_density_as_of_1_july": 431.87,
-          "share_of_world_pop": 0.14,
-          "median_age_as_of_1_july": 24.1,
-          "demographics": {
-            "net_number_of_migrants": -32,
-            "total_fertility_rate": 2.59,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        },
-        "overview": {
-          "year": 2025,
-          "total_population_as_of_1_july": 11906095,
-          "share_of_world_pop": 0.14,
-          "population_density_as_of_1_july": 431.87,
-          "urban_population": 7343428,
-          "urban_share_percent": 61.68,
-          "median_age_as_of_1_july": 24.1,
-          "land_area_km2": 27560,
-          "land_area_sq_mi": 10641
-        },
-        "history": [
-          {
-            "year": 2024,
-            "total_population_as_of_1_july": 11772557,
-            "male_population_as_of_1_july": 5825356,
-            "female_population_as_of_1_july": 5947201
-          },
-          {
-            "year": 2025,
-            "total_population_as_of_1_july": 11906095,
-            "male_population_as_of_1_july": 5888154,
-            "female_population_as_of_1_july": 6017941
-          }
-        ],
-        "urban_rural": [
-          {
-            "year": 2024,
-            "urban_population": 7119101,
-            "rural_population": 4653456
-          },
-          {
-            "year": 2025,
-            "urban_population": 7343428,
-            "rural_population": 4562667
-          }
-        ],
-        "life_expectancy": [
-          {
-            "year": 2024,
-            "male": 61.9,
-            "female": 68.5,
-            "total": 65.1
-          },
-          {
-            "year": 2025,
-            "male": 62.1,
-            "female": 68.7,
-            "total": 65.3
-          }
-        ],
-        "demographics": [
-          {
-            "year": 2024,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 23.8,
-            "total_fertility_rate": 2.63,
-            "population_density_as_of_1_july": 427.02,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8142056446,
-            "global_rank": 82
-          },
-          {
-            "year": 2025,
-            "net_number_of_migrants": -32,
-            "median_age_as_of_1_july": 24.1,
-            "total_fertility_rate": 2.59,
-            "population_density_as_of_1_july": 431.87,
-            "share_of_world_pop": 0.14,
-            "world_pop": 8231613070,
-            "global_rank": 82
-          }
-        ],
-        "prev": {
-          "year": 2024,
-          "total_population_as_of_1_july": 11772557,
-          "male_population_as_of_1_july": 5825356,
-          "female_population_as_of_1_july": 5947201
-        }
-      },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
       "hdi": {
         "as_of": "2023",
         "count": 2,
@@ -673,6 +653,26 @@
           "material_footprint_per_capita": 2.406
         }
       },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
       "reserves_ex_gold": {
         "latest": {
           "year": 2024,
@@ -691,26 +691,6 @@
         "prev": {
           "year": 2023,
           "fi_res_xgld_cd": 2466360229.76
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       },
       "inflation": {
@@ -957,7 +937,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-03-13T13:22:08.536Z",
+        "generated_at": "2026-03-14T13:16:02.999Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1089,6 +1069,26 @@
           "totals_exp": {
             "total_exp": 26047738.6
           }
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       },
       "electricity_access": {
