@@ -1,9 +1,9 @@
 {
-  "asof": "2026-03-26",
-  "generatedAt": "2026-03-26T13:24:40.505Z",
+  "asof": "2026-03-27",
+  "generatedAt": "2026-03-27T13:23:35.629Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-03-26T13:24:40.464Z",
+    "generated_at": "2026-03-27T13:23:35.589Z",
     "cards": {
       "trade": {
         "latest": {
@@ -653,6 +653,66 @@
           "fi_res_xgld_cd": 2466360229.76
         }
       },
+      "external_debt": {
+        "latest": {
+          "date": "2023-12-31",
+          "year": 2023,
+          "external_debt_stocks_current_dollar": 2637609832,
+          "current_account_balance_bop_dollar": -682569657.6,
+          "current_account_balance_perc_gdp": -3.438536611,
+          "use_of_imf_credit_dod_dollar": 552721343.4,
+          "debt_to_gdp": 28.5
+        },
+        "history": [
+          {
+            "date": "2022-12-31",
+            "year": 2022,
+            "external_debt_stocks_current_dollar": 2561654882,
+            "current_account_balance_bop_dollar": -491953761.2,
+            "current_account_balance_perc_gdp": -2.428975239,
+            "use_of_imf_credit_dod_dollar": 444693167.9,
+            "debt_to_gdp": 29.5
+          },
+          {
+            "date": "2023-12-31",
+            "year": 2023,
+            "external_debt_stocks_current_dollar": 2637609832,
+            "current_account_balance_bop_dollar": -682569657.6,
+            "current_account_balance_perc_gdp": -3.438536611,
+            "use_of_imf_credit_dod_dollar": 552721343.4,
+            "debt_to_gdp": 28.5
+          }
+        ],
+        "prev": {
+          "date": "2022-12-31",
+          "year": 2022,
+          "external_debt_stocks_current_dollar": 2561654882,
+          "current_account_balance_bop_dollar": -491953761.2,
+          "current_account_balance_perc_gdp": -2.428975239,
+          "use_of_imf_credit_dod_dollar": 444693167.9,
+          "debt_to_gdp": 29.5
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
+        }
+      },
       "inflation": {
         "as_of": "2026-01",
         "count": 2,
@@ -895,69 +955,9 @@
           "transversal_var_mois": 0.7
         }
       },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
-        }
-      },
-      "external_debt": {
-        "latest": {
-          "date": "2023-12-31",
-          "year": 2023,
-          "external_debt_stocks_current_dollar": 2637609832,
-          "current_account_balance_bop_dollar": -682569657.6,
-          "current_account_balance_perc_gdp": -3.438536611,
-          "use_of_imf_credit_dod_dollar": 552721343.4,
-          "debt_to_gdp": 28.5
-        },
-        "history": [
-          {
-            "date": "2022-12-31",
-            "year": 2022,
-            "external_debt_stocks_current_dollar": 2561654882,
-            "current_account_balance_bop_dollar": -491953761.2,
-            "current_account_balance_perc_gdp": -2.428975239,
-            "use_of_imf_credit_dod_dollar": 444693167.9,
-            "debt_to_gdp": 29.5
-          },
-          {
-            "date": "2023-12-31",
-            "year": 2023,
-            "external_debt_stocks_current_dollar": 2637609832,
-            "current_account_balance_bop_dollar": -682569657.6,
-            "current_account_balance_perc_gdp": -3.438536611,
-            "use_of_imf_credit_dod_dollar": 552721343.4,
-            "debt_to_gdp": 28.5
-          }
-        ],
-        "prev": {
-          "date": "2022-12-31",
-          "year": 2022,
-          "external_debt_stocks_current_dollar": 2561654882,
-          "current_account_balance_bop_dollar": -491953761.2,
-          "current_account_balance_perc_gdp": -2.428975239,
-          "use_of_imf_credit_dod_dollar": 444693167.9,
-          "debt_to_gdp": 29.5
-        }
-      },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-03-26T13:24:40.258Z",
+        "generated_at": "2026-03-27T13:23:35.491Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
