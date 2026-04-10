@@ -1,9 +1,9 @@
 {
-  "asof": "2026-04-09",
-  "generatedAt": "2026-04-09T13:26:07.431Z",
+  "asof": "2026-04-10",
+  "generatedAt": "2026-04-10T13:23:48.545Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-04-09T13:26:07.325Z",
+    "generated_at": "2026-04-10T13:23:48.527Z",
     "cards": {
       "trade": {
         "latest": {
@@ -390,26 +390,6 @@
           "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
       "population": {
         "latest": {
           "year": 2025,
@@ -513,6 +493,26 @@
           "total_population_as_of_1_july": 11772557,
           "male_population_as_of_1_july": 5825356,
           "female_population_as_of_1_july": 5947201
+        }
+      },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
         }
       },
       "hdi": {
@@ -957,7 +957,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-04-09T13:26:07.211Z",
+        "generated_at": "2026-04-10T13:23:48.436Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
