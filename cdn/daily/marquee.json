@@ -1,56 +1,56 @@
 {
-  "asof": "2026-04-15",
-  "generatedAt": "2026-04-15T13:24:51.562Z",
+  "asof": "2026-04-16",
+  "generatedAt": "2026-04-16T13:25:13.097Z",
   "data": {
     "ref": {
-      "value": 130.5896,
-      "change": -0.04,
-      "percent": -0.03
-    },
-    "tma": {
-      "value": 131.3457,
-      "change": 0.1,
-      "percent": 0.08
-    },
-    "euro_achat": {
-      "value": 153.1404,
-      "change": 0.83,
-      "percent": 0.54
-    },
-    "euro_vente": {
-      "value": 153.8535,
-      "change": 0.83,
-      "percent": 0.54
-    },
-    "peso_dom_achat": {
-      "value": 2.1788,
-      "change": 0.02,
-      "percent": 0.85
-    },
-    "peso_dom_vente": {
-      "value": 2.189,
-      "change": 0.02,
-      "percent": 0.85
-    },
-    "dol_can_achat": {
-      "value": 94.3808,
-      "change": 0.06,
+      "value": 130.6756,
+      "change": 0.09,
       "percent": 0.07
     },
+    "tma": {
+      "value": 131.2275,
+      "change": -0.12,
+      "percent": -0.09
+    },
+    "euro_achat": {
+      "value": 153.5603,
+      "change": 0.42,
+      "percent": 0.27
+    },
+    "euro_vente": {
+      "value": 154.4494,
+      "change": 0.6,
+      "percent": 0.39
+    },
+    "peso_dom_achat": {
+      "value": 2.1854,
+      "change": 0.01,
+      "percent": 0.3
+    },
+    "peso_dom_vente": {
+      "value": 2.1981,
+      "change": 0.01,
+      "percent": 0.42
+    },
+    "dol_can_achat": {
+      "value": 94.685,
+      "change": 0.3,
+      "percent": 0.32
+    },
     "dol_can_vente": {
-      "value": 94.8202,
-      "change": 0.06,
-      "percent": 0.06
+      "value": 95.2333,
+      "change": 0.41,
+      "percent": 0.44
     },
     "marche_banc_achat": {
-      "value": 130.316,
-      "change": -0.07,
-      "percent": -0.05
+      "value": 130.4593,
+      "change": 0.14,
+      "percent": 0.11
     },
     "marche_banc_vente": {
-      "value": 131.3457,
-      "change": 0.1,
-      "percent": 0.08
+      "value": 131.2275,
+      "change": -0.12,
+      "percent": -0.09
     }
   }
 }
