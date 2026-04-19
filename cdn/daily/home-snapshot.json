@@ -1,9 +1,9 @@
 {
-  "asof": "2026-04-18",
-  "generatedAt": "2026-04-18T13:21:55.211Z",
+  "asof": "2026-04-19",
+  "generatedAt": "2026-04-19T13:21:55.479Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-04-18T13:21:55.197Z",
+    "generated_at": "2026-04-19T13:21:55.437Z",
     "cards": {
       "trade": {
         "latest": {
@@ -937,7 +937,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-04-18T13:21:54.997Z",
+        "generated_at": "2026-04-19T13:21:55.195Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1071,26 +1071,6 @@
           }
         }
       },
-      "electricity_access": {
-        "latest": {
-          "year": 2024,
-          "eg_elc_accs_zs": null
-        },
-        "history": [
-          {
-            "year": 2023,
-            "eg_elc_accs_zs": 51.3
-          },
-          {
-            "year": 2024,
-            "eg_elc_accs_zs": null
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "eg_elc_accs_zs": 51.3
-        }
-      },
       "gni_ppp_per_capita": {
         "history": [
           {
@@ -1109,6 +1089,26 @@
         "prev": {
           "year": 2023,
           "ny_gnp_pcap_pp_cd": "3280.0000"
+        }
+      },
+      "electricity_access": {
+        "latest": {
+          "year": 2024,
+          "eg_elc_accs_zs": null
+        },
+        "history": [
+          {
+            "year": 2023,
+            "eg_elc_accs_zs": 51.3
+          },
+          {
+            "year": 2024,
+            "eg_elc_accs_zs": null
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "eg_elc_accs_zs": 51.3
         }
       }
     }
