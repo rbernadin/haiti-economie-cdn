@@ -1,9 +1,9 @@
 {
-  "asof": "2026-04-24",
-  "generatedAt": "2026-04-24T13:24:51.118Z",
+  "asof": "2026-04-25",
+  "generatedAt": "2026-04-25T13:22:56.963Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-04-24T13:24:51.048Z",
+    "generated_at": "2026-04-25T13:22:56.939Z",
     "cards": {
       "trade": {
         "latest": {
@@ -495,26 +495,6 @@
           "female_population_as_of_1_july": 5947201
         }
       },
-      "reserves_ex_gold": {
-        "latest": {
-          "year": 2024,
-          "fi_res_xgld_cd": 2565745292.68
-        },
-        "history": [
-          {
-            "year": 2023,
-            "fi_res_xgld_cd": 2466360229.76
-          },
-          {
-            "year": 2024,
-            "fi_res_xgld_cd": 2565745292.68
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "fi_res_xgld_cd": 2466360229.76
-        }
-      },
       "credit_private_sector": {
         "latest": {
           "year": 2024,
@@ -691,6 +671,26 @@
           "difference_from_hdi_value": 1.4493,
           "carbon_dioxide_emissions_per_capita": 0.292,
           "material_footprint_per_capita": 2.406
+        }
+      },
+      "reserves_ex_gold": {
+        "latest": {
+          "year": 2024,
+          "fi_res_xgld_cd": 2565745292.68
+        },
+        "history": [
+          {
+            "year": 2023,
+            "fi_res_xgld_cd": 2466360229.76
+          },
+          {
+            "year": 2024,
+            "fi_res_xgld_cd": 2565745292.68
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "fi_res_xgld_cd": 2466360229.76
         }
       },
       "inflation": {
@@ -935,9 +935,29 @@
           "transversal_var_mois": 0.7
         }
       },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
+        }
+      },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-04-24T13:24:51.001Z",
+        "generated_at": "2026-04-25T13:22:56.834Z",
         "latest": {
           "date": "2025-09-01",
           "total_rec": 376208754.32
@@ -1089,26 +1109,6 @@
         "prev": {
           "year": 2023,
           "eg_elc_accs_zs": 51.3
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       }
     }
