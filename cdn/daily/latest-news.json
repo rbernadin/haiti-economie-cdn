@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-05-02T18:21:45.707Z",
+  "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
+  "items": [
+    {
+      "id": 10804,
+      "slug": "dette-americaine-le-seuil-de-100-du-pib-ravive-les-inquietudes-budgetaires",
+      "date": "2026-05-01T02:07:03",
+      "modified": "2026-05-01T02:07:04",
+      "title": {
+        "rendered": "Dette américaine : le seuil de 100 % du PIB ravive les inquiétudes budgétaires"
+      },
+      "excerpt": {
+        "rendered": "<p>La dette fédérale américaine dépasse désormais 100 % du PIB, signalant une pression budgétaire croissante aux États-Unis.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/dette-americaine-tresor-us-100-pib.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10799,
+      "slug": "wti-petrole-et-haiti-un-choc-exterieur-qui-peut-vite-devenir-une-pression-locale",
+      "date": "2026-04-30T08:30:40",
+      "modified": "2026-04-30T12:00:58",
+      "title": {
+        "rendered": "WTI, pétrole et Haïti : un choc extérieur qui peut vite devenir une pression locale"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Brent a brièvement atteint 126,41 dollars, tandis que le WTI évoluait autour de 106–108 dollars dans ce contexte de forte volatilité.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/wti-petrole-haiti-inflation-carburant.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10792,
+      "slug": "tps-la-cour-supreme-americaine-examine-un-dossier-crucial-pour-les-haitiens",
+      "date": "2026-04-29T08:20:03",
+      "modified": "2026-04-29T08:23:30",
+      "title": {
+        "rendered": "TPS : la Cour suprême américaine examine un dossier crucial pour les Haïtiens"
+      },
+      "excerpt": {
+        "rendered": "<p>La Cour suprême doit décider si l’administration Trump pouvait mettre fin au TPS pour environ 350 000 Haïtiens.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10788,
+      "slug": "protestation-des-agents-douaniers-les-services-paralyses-a-laeroport-toussaint-louverture",
+      "date": "2026-04-29T02:06:13",
+      "modified": "2026-04-29T07:20:58",
+      "title": {
+        "rendered": "Protestation des agents douaniers : les services paralysés à l’aéroport Toussaint Louverture"
+      },
+      "excerpt": {
+        "rendered": "<p>Les services de l’Administration générale des douanes ont été perturbés, mardi 28 avril 2026, à l’aéroport international Toussaint Louverture.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/douane-aeroport-toussaint-louverture-protestation-agents.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10767,
+      "slug": "recettes-douanieres-la-dependance-structurelle-a-port-au-prince",
+      "date": "2026-04-27T06:00:00",
+      "modified": "2026-04-24T23:11:45",
+      "title": {
+        "rendered": "Recettes douanières : la dépendance structurelle à Port-au-Prince"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Port de Port-au-Prince domine très largement les recettes douanières, avec 29,36 milliards de gourdes sur 35,09 milliards au trimestre, soit 84 % du total.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/recettes-douanieres-haiti-commerce-maritime.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10781,
+      "slug": "haiti-linflation-ralentit-mais-la-vie-chere-persiste",
+      "date": "2026-04-26T03:35:29",
+      "modified": "2026-04-26T03:35:31",
+      "title": {
+        "rendered": "Haïti : l’inflation ralentit, mais la vie chère persiste"
+      },
+      "excerpt": {
+        "rendered": "<p>L’inflation annuelle en Haïti a reculé à 20,6 % en mars 2026, mais les prix continuent d’augmenter mois après mois.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/inflation-haiti-pouvoir-achat-portefeuille-vide.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10760,
+      "slug": "previsions-du-fmi-haiti-reste-a-contre-courant-de-ses-economies-comparables",
+      "date": "2026-04-24T17:56:55",
+      "modified": "2026-04-24T17:58:29",
+      "title": {
+        "rendered": "Prévisions du FMI : Haïti reste à contre-courant de ses économies comparables"
+      },
+      "excerpt": {
+        "rendered": "<p>Le FMI prévoit une croissance de -1,7 % pour Haïti en 2026, contre +4,8 % pour les pays en développement à faible revenu.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/haiti-2026-perspectives-economiques-fmi.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10755,
+      "slug": "salaire-minimum-en-haiti-pourquoi-685-gourdes-ne-tiennent-plus",
+      "date": "2026-04-21T07:09:41",
+      "modified": "2026-04-24T18:57:05",
+      "title": {
+        "rendered": "Salaire minimum en Haïti : pourquoi 685 gourdes ne tiennent plus"
+      },
+      "excerpt": {
+        "rendered": "<p>Le malaise ouvrier actuel traduit, avant tout, le fossé grandissant entre le salaire minimum de 685 gourdes et le coût réel de la vie.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/protestation-ouvriere-sonapi-salaire-minimum-haiti-1600x900-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10750,
+      "slug": "reunions-de-printemps-du-fmi-et-de-la-banque-mondiale-haiti-appelle-a-des-engagements-concrets-pour-les-pays-fragiles",
+      "date": "2026-04-19T01:02:22",
+      "modified": "2026-04-19T22:32:49",
+      "title": {
+        "rendered": "Réunions de printemps du FMI et de la Banque mondiale : Haïti appelle à des engagements concrets pour les pays fragiles"
+      },
+      "excerpt": {
+        "rendered": "<p>Lors de la réunion ministérielle du G24, le gouverneur Ronald Gabriel a plaidé pour une réponse plus concrète aux vulnérabilités des pays fragiles. </p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/gouverneur-brh-g24-fmi-banque-mondiale-avril-2026.jpg.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10742,
+      "slug": "insecurite-alimentaire-en-haiti-un-leger-mieux-mais-583-millions-de-personnes-restent-en-crise-ou-en-urgence",
+      "date": "2026-04-18T23:09:45",
+      "modified": "2026-04-19T22:34:59",
+      "title": {
+        "rendered": "Insécurité alimentaire en Haïti : un léger mieux, mais 5,83 millions de personnes restent en crise ou en urgence"
+      },
+      "excerpt": {
+        "rendered": "<p>Malgré une légère amélioration par rapport à la projection précédente, la faim reste à un niveau critique en Haïti, avec plus de 5,83 millions de personnes attendues en phase 3 ou plus entre mars et juin 2026.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10738,
+      "slug": "codevi-en-greve-entre-pouvoir-dachat-et-competitivite",
+      "date": "2026-04-15T22:08:36",
+      "modified": "2026-04-19T00:36:21",
+      "title": {
+        "rendered": "CODEVI en grève : entre pouvoir d’achat et compétitivité"
+      },
+      "excerpt": {
+        "rendered": "<p>La grève de CODEVI rappelle que la compétitivité en Haïti n’est pas déterminée uniquement par le coût horaire de la main-d’œuvre, mais aussi, entre autres facteurs, par la capacité des travailleurs à percevoir un salaire décent.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/codevi-greve-ouanaminthe-pouvoir-achat-competitivite-16x9-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10733,
+      "slug": "nouveau-rapport-disponible-analyse-du-taux-de-change-en-haiti-janvier-mars-2026",
+      "date": "2026-04-15T18:57:34",
+      "modified": "2026-04-15T19:07:19",
+      "title": {
+        "rendered": "Nouveau rapport disponible : Analyse du taux de change en Haïti, janvier – mars 2026"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti Économie publie une nouvelle édition de son rapport d’analyse du taux de change portant sur la gourde haïtienne face au dollar américain. </p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/Analyse-du-taux-de-change-en-Haiti-janvier-mars-2026.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    }
+  ]
+}
