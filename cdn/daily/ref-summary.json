@@ -1,94 +1,95 @@
 {
-  "asof": "Fri Feb 20",
+  "asof": "Wed Apr 29",
+  "generatedAt": "2026-05-01T13:23:46.964Z",
   "data": {
     "latest": {
-      "date": "Fri Feb 20",
-      "taux_ref": 130.9157,
-      "volume_achat": 30141794.85,
-      "volume_vente": 29149786.3
+      "date": "Wed Apr 29",
+      "taux_ref": 130.4977,
+      "volume_achat": 18226417.63,
+      "volume_vente": 18274491.33
     },
-    "dailyPct": 0.04195297598667827,
-    "variant": "red",
+    "dailyPct": -0.09110626742215946,
+    "variant": "green",
     "chart": [
       {
-        "date": "Wed Jan 21",
-        "ref": 130.64
+        "date": "Mon Mar 30",
+        "ref": 130.749
       },
       {
-        "date": "Thu Jan 22",
-        "ref": 130.7497
+        "date": "Tue Mar 31",
+        "ref": 130.7034
       },
       {
-        "date": "Fri Jan 23",
-        "ref": 130.6634
+        "date": "Wed Apr 01",
+        "ref": 130.679
       },
       {
-        "date": "Tue Jan 27",
-        "ref": 130.6612
+        "date": "Thu Apr 02",
+        "ref": 130.5822
       },
       {
-        "date": "Wed Jan 28",
-        "ref": 130.7146
+        "date": "Mon Apr 06",
+        "ref": 130.6603
       },
       {
-        "date": "Thu Jan 29",
-        "ref": 130.6701
+        "date": "Tue Apr 07",
+        "ref": 130.6902
       },
       {
-        "date": "Fri Jan 30",
-        "ref": 130.6936
+        "date": "Thu Apr 09",
+        "ref": 130.7109
       },
       {
-        "date": "Mon Feb 02",
-        "ref": 130.799
+        "date": "Fri Apr 10",
+        "ref": 130.6324
       },
       {
-        "date": "Tue Feb 03",
-        "ref": 130.7749
+        "date": "Mon Apr 13",
+        "ref": 130.5896
       },
       {
-        "date": "Wed Feb 04",
-        "ref": 130.8461
+        "date": "Tue Apr 14",
+        "ref": 130.6756
       },
       {
-        "date": "Thu Feb 05",
-        "ref": 130.7599
+        "date": "Thu Apr 16",
+        "ref": 130.6069
       },
       {
-        "date": "Fri Feb 06",
-        "ref": 130.8375
+        "date": "Fri Apr 17",
+        "ref": 130.5453
       },
       {
-        "date": "Mon Feb 09",
-        "ref": 130.8062
+        "date": "Mon Apr 20",
+        "ref": 130.5728
       },
       {
-        "date": "Tue Feb 10",
-        "ref": 130.7514
+        "date": "Tue Apr 21",
+        "ref": 130.655
       },
       {
-        "date": "Wed Feb 11",
-        "ref": 130.6966
+        "date": "Wed Apr 22",
+        "ref": 130.5561
       },
       {
-        "date": "Thu Feb 12",
-        "ref": 130.806
+        "date": "Thu Apr 23",
+        "ref": 130.6265
       },
       {
-        "date": "Fri Feb 13",
-        "ref": 130.7122
+        "date": "Fri Apr 24",
+        "ref": 130.5543
       },
       {
-        "date": "Tue Feb 17",
-        "ref": 130.8295
+        "date": "Mon Apr 27",
+        "ref": 130.5308
       },
       {
-        "date": "Thu Feb 19",
-        "ref": 130.8608
+        "date": "Tue Apr 28",
+        "ref": 130.6167
       },
       {
-        "date": "Fri Feb 20",
-        "ref": 130.9157
+        "date": "Wed Apr 29",
+        "ref": 130.4977
       }
     ]
   }
