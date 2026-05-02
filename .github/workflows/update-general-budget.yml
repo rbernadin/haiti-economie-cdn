@@ -1,0 +1,42 @@
+name: Update General Budget CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 1:15 PM UTC
+    - cron: "15 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-general-budget:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout CDN repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update general budget JSON
+        env:
+          GENERAL_BUDGET_API_URL: https://haiti-economie-api.onrender.com/api/general-budget?count=10
+        run: node scripts/update-general-budget.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add cdn/daily/general-budget.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update general budget CDN data"
+            git push
+          fi
