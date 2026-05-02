@@ -1,0 +1,42 @@
+name: Update Trade Balance Monthly CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 1:10 PM UTC
+    - cron: "10 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-trade-balance-monthly:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout CDN repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update trade balance monthly JSON
+        env:
+          TRADE_BALANCE_MONTHLY_API_URL: https://haiti-economie-api.onrender.com/api/trade-balance-monthly?count=36
+        run: node scripts/update-trade-balance-monthly.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add cdn/daily/trade-balance-monthly.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update trade balance monthly CDN data"
+            git push
+          fi
