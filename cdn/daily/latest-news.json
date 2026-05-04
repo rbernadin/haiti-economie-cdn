@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-03T13:50:54.633Z",
+  "generated_at": "2026-05-04T14:01:20.046Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10817,
+      "slug": "tps-pour-haiti-lavenir-du-programme-se-joue-entre-le-congres-et-la-cour-supreme",
+      "date": "2026-05-03T16:16:43",
+      "modified": "2026-05-04T08:34:35",
+      "title": {
+        "rendered": "TPS pour Haïti : l’avenir du programme se joue entre le Congrès et la Cour suprême"
+      },
+      "excerpt": {
+        "rendered": "<p>Les bénéficiaires haïtiens du TPS restent protégés pour l’instant, mais l’avenir du programme dépend largement de la Cour suprême.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10809,
+      "slug": "washington-conditionne-ses-paiements-a-lonu-une-bataille-budgetaire-devenue-geopolitique",
+      "date": "2026-05-03T12:53:48",
+      "modified": "2026-05-03T12:56:32",
+      "title": {
+        "rendered": "Washington conditionne ses paiements à l’ONU : une bataille budgétaire devenue géopolitique"
+      },
+      "excerpt": {
+        "rendered": "<p>Washington conditionnerait le paiement de plus de 4,6 milliards de dollars d’arriérés à une série de réformes immédiates au sein de l’ONU.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/drapeau-de-l-onu-nations-unis-budget-et-arrieres-de-paiement-des-etats-unis.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10804,
       "slug": "dette-americaine-le-seuil-de-100-du-pib-ravive-les-inquietudes-budgetaires",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10738,
-      "slug": "codevi-en-greve-entre-pouvoir-dachat-et-competitivite",
-      "date": "2026-04-15T22:08:36",
-      "modified": "2026-04-19T00:36:21",
-      "title": {
-        "rendered": "CODEVI en grève : entre pouvoir d’achat et compétitivité"
-      },
-      "excerpt": {
-        "rendered": "<p>La grève de CODEVI rappelle que la compétitivité en Haïti n’est pas déterminée uniquement par le coût horaire de la main-d’œuvre, mais aussi, entre autres facteurs, par la capacité des travailleurs à percevoir un salaire décent.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/codevi-greve-ouanaminthe-pouvoir-achat-competitivite-16x9-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10733,
-      "slug": "nouveau-rapport-disponible-analyse-du-taux-de-change-en-haiti-janvier-mars-2026",
-      "date": "2026-04-15T18:57:34",
-      "modified": "2026-04-15T19:07:19",
-      "title": {
-        "rendered": "Nouveau rapport disponible : Analyse du taux de change en Haïti, janvier – mars 2026"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti Économie publie une nouvelle édition de son rapport d’analyse du taux de change portant sur la gourde haïtienne face au dollar américain. </p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/Analyse-du-taux-de-change-en-Haiti-janvier-mars-2026.png",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
