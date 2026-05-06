@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-05-04T14:01:20.046Z",
+  "generated_at": "2026-05-06T14:02:10.210Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10828,
+      "slug": "salaire-minimum-letat-fixe-a-1-000-gourdes-le-salaire-journalier-dans-la-sous-traitance",
+      "date": "2026-05-05T13:01:05",
+      "modified": "2026-05-05T13:01:06",
+      "title": {
+        "rendered": "Salaire minimum : l’État fixe à 1 000 gourdes le salaire journalier dans la sous-traitance"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti relève à 1 000 gourdes le salaire minimum dans la sous-traitance, avec un appui du FAES et des mesures sur l’énergie.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-sous-traitance-haiti-caracol-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10824,
+      "slug": "cepal-les-pays-de-la-region-cherchent-a-renforcer-leurs-systemes-fiscaux-dans-un-contexte-de-faible-croissance",
+      "date": "2026-05-05T10:53:08",
+      "modified": "2026-05-05T13:04:09",
+      "title": {
+        "rendered": "CEPAL : les pays de la région cherchent à renforcer leurs systèmes fiscaux dans un contexte de faible croissance"
+      },
+      "excerpt": {
+        "rendered": "<p>La CEPAL réunit les pays de la région pour renforcer la coopération fiscale dans un contexte de faible croissance et de finances sous pression.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cepal-cooperation-fiscale-regionale-ptlac-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10821,
+      "slug": "barbancourt-la-couronne-sejourne-et-comme-il-faut-alertent-letat-une-zone-strategique-aux-portes-de-laeroport-menace-de-basculer",
+      "date": "2026-05-04T23:48:40",
+      "modified": "2026-05-04T23:48:41",
+      "title": {
+        "rendered": "Barbancourt, La Couronne, Séjourné et Comme Il Faut alertent l’État : une zone stratégique aux portes de l’aéroport menace de basculer"
+      },
+      "excerpt": {
+        "rendered": "<p>Des industriels majeurs alertent l’État haïtien sur l’insécurité croissante dans des zones stratégiques de Port-au-Prince.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/aeroport-port-au-prince-zone-strategique-securite-entreprises-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10817,
       "slug": "tps-pour-haiti-lavenir-du-programme-se-joue-entre-le-congres-et-la-cour-supreme",
@@ -159,60 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/haiti-2026-perspectives-economiques-fmi.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10755,
-      "slug": "salaire-minimum-en-haiti-pourquoi-685-gourdes-ne-tiennent-plus",
-      "date": "2026-04-21T07:09:41",
-      "modified": "2026-04-24T18:57:05",
-      "title": {
-        "rendered": "Salaire minimum en Haïti : pourquoi 685 gourdes ne tiennent plus"
-      },
-      "excerpt": {
-        "rendered": "<p>Le malaise ouvrier actuel traduit, avant tout, le fossé grandissant entre le salaire minimum de 685 gourdes et le coût réel de la vie.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/protestation-ouvriere-sonapi-salaire-minimum-haiti-1600x900-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10750,
-      "slug": "reunions-de-printemps-du-fmi-et-de-la-banque-mondiale-haiti-appelle-a-des-engagements-concrets-pour-les-pays-fragiles",
-      "date": "2026-04-19T01:02:22",
-      "modified": "2026-04-19T22:32:49",
-      "title": {
-        "rendered": "Réunions de printemps du FMI et de la Banque mondiale : Haïti appelle à des engagements concrets pour les pays fragiles"
-      },
-      "excerpt": {
-        "rendered": "<p>Lors de la réunion ministérielle du G24, le gouverneur Ronald Gabriel a plaidé pour une réponse plus concrète aux vulnérabilités des pays fragiles. </p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/gouverneur-brh-g24-fmi-banque-mondiale-avril-2026.jpg.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10742,
-      "slug": "insecurite-alimentaire-en-haiti-un-leger-mieux-mais-583-millions-de-personnes-restent-en-crise-ou-en-urgence",
-      "date": "2026-04-18T23:09:45",
-      "modified": "2026-04-19T22:34:59",
-      "title": {
-        "rendered": "Insécurité alimentaire en Haïti : un léger mieux, mais 5,83 millions de personnes restent en crise ou en urgence"
-      },
-      "excerpt": {
-        "rendered": "<p>Malgré une légère amélioration par rapport à la projection précédente, la faim reste à un niveau critique en Haïti, avec plus de 5,83 millions de personnes attendues en phase 3 ou plus entre mars et juin 2026.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
