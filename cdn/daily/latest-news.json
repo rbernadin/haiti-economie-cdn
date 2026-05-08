@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-07T14:01:51.698Z",
+  "generated_at": "2026-05-08T14:00:10.799Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10859,
+      "slug": "construire-a-miami-quand-letat-seffondre-en-haiti-une-priorite-difficile-a-defendre",
+      "date": "2026-05-07T13:45:36",
+      "modified": "2026-05-07T13:45:37",
+      "title": {
+        "rendered": "Construire à Miami quand l’État s’effondre en Haïti : une priorité difficile à défendre"
+      },
+      "excerpt": {
+        "rendered": "<p>Le lancement du projet de reconstruction du Consulat à Miami est un symbole troublant des priorités d’un gouvernement de transition dans un pays en crise profonde. </p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/consulat-haiti-miami-reconstruction-gouvernement-transition-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10828,
       "slug": "salaire-minimum-letat-fixe-a-1-000-gourdes-le-salaire-journalier-dans-la-sous-traitance",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/inflation-haiti-pouvoir-achat-portefeuille-vide.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10760,
-      "slug": "previsions-du-fmi-haiti-reste-a-contre-courant-de-ses-economies-comparables",
-      "date": "2026-04-24T17:56:55",
-      "modified": "2026-04-24T17:58:29",
-      "title": {
-        "rendered": "Prévisions du FMI : Haïti reste à contre-courant de ses économies comparables"
-      },
-      "excerpt": {
-        "rendered": "<p>Le FMI prévoit une croissance de -1,7 % pour Haïti en 2026, contre +4,8 % pour les pays en développement à faible revenu.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/haiti-2026-perspectives-economiques-fmi.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
