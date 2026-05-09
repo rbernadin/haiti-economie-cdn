@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-08T14:00:10.799Z",
+  "generated_at": "2026-05-09T13:52:55.644Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10862,
+      "slug": "produits-petroliers-en-haiti-baisse-de-25-gourdes-sur-la-gazoline-et-le-gazoil",
+      "date": "2026-05-09T09:48:47",
+      "modified": "2026-05-09T09:48:48",
+      "title": {
+        "rendered": "Produits pétroliers en Haïti : baisse de 25 gourdes sur la gazoline et le gazoil"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti baisse les prix des produits pétroliers : la gazoline passe à 700 gourdes, le gazoil à 825 gourdes, le kérosène reste à 845.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10859,
       "slug": "construire-a-miami-quand-letat-seffondre-en-haiti-une-priorite-difficile-a-defendre",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/recettes-douanieres-haiti-commerce-maritime.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10781,
-      "slug": "haiti-linflation-ralentit-mais-la-vie-chere-persiste",
-      "date": "2026-04-26T03:35:29",
-      "modified": "2026-04-26T03:35:31",
-      "title": {
-        "rendered": "Haïti : l’inflation ralentit, mais la vie chère persiste"
-      },
-      "excerpt": {
-        "rendered": "<p>L’inflation annuelle en Haïti a reculé à 20,6 % en mars 2026, mais les prix continuent d’augmenter mois après mois.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/inflation-haiti-pouvoir-achat-portefeuille-vide.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
