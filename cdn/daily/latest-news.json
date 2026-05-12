@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-11T14:11:44.471Z",
+  "generated_at": "2026-05-12T14:03:02.510Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10894,
+      "slug": "petrole-le-wti-rebondit-autour-de-100-dollars-sur-fond-dincertitude-sur-un-cessez-le-feu",
+      "date": "2026-05-12T08:12:25",
+      "modified": "2026-05-12T08:13:17",
+      "title": {
+        "rendered": "Pétrole : le WTI rebondit autour de 100 dollars, sur fond d’incertitude sur un cessez-le-feu"
+      },
+      "excerpt": {
+        "rendered": "<p>Le WTI rebondit autour de 100 dollars, porté par l’incertitude sur un cessez-le-feu et les risques pour l’offre mondiale.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/petrole-wti-detroit-ormuz-prix-energie-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10876,
+      "slug": "panier-alimentaire-en-haiti-le-cout-atteint-26-387-gourdes-en-avril-2025",
+      "date": "2026-05-11T21:55:41",
+      "modified": "2026-05-11T21:55:42",
+      "title": {
+        "rendered": "Panier alimentaire en Haïti : le coût atteint 26 387 gourdes en avril 2025"
+      },
+      "excerpt": {
+        "rendered": "<p>Le panier alimentaire national augmente de 3 % en avril 2025, mais reste en baisse de 10 % par rapport à avril 2024.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10862,
       "slug": "produits-petroliers-en-haiti-baisse-de-25-gourdes-sur-la-gazoline-et-le-gazoil",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10788,
-      "slug": "protestation-des-agents-douaniers-les-services-paralyses-a-laeroport-toussaint-louverture",
-      "date": "2026-04-29T02:06:13",
-      "modified": "2026-04-29T07:20:58",
-      "title": {
-        "rendered": "Protestation des agents douaniers : les services paralysés à l’aéroport Toussaint Louverture"
-      },
-      "excerpt": {
-        "rendered": "<p>Les services de l’Administration générale des douanes ont été perturbés, mardi 28 avril 2026, à l’aéroport international Toussaint Louverture.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/douane-aeroport-toussaint-louverture-protestation-agents.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10767,
-      "slug": "recettes-douanieres-la-dependance-structurelle-a-port-au-prince",
-      "date": "2026-04-27T06:00:00",
-      "modified": "2026-04-24T23:11:45",
-      "title": {
-        "rendered": "Recettes douanières : la dépendance structurelle à Port-au-Prince"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Port de Port-au-Prince domine très largement les recettes douanières, avec 29,36 milliards de gourdes sur 35,09 milliards au trimestre, soit 84 % du total.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/recettes-douanieres-haiti-commerce-maritime.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
