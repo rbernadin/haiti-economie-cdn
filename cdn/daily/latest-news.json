@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-12T14:03:02.510Z",
+  "generated_at": "2026-05-13T14:03:32.685Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10899,
+      "slug": "inflation-americaine-quels-risques-pour-les-prix-les-importations-et-la-diaspora-haitienne",
+      "date": "2026-05-12T11:07:34",
+      "modified": "2026-05-12T11:07:35",
+      "title": {
+        "rendered": "Inflation américaine : quels risques pour les prix, les importations et la diaspora haïtienne ?"
+      },
+      "excerpt": {
+        "rendered": "<p>L’inflation américaine peut peser sur Haïti via les importations, l’énergie, les coûts de transport et les transferts de la diaspora.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/inflation-americaine-prix-dollar-energie-avril-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10894,
       "slug": "petrole-le-wti-rebondit-autour-de-100-dollars-sur-fond-dincertitude-sur-un-cessez-le-feu",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/wti-petrole-haiti-inflation-carburant.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10792,
-      "slug": "tps-la-cour-supreme-americaine-examine-un-dossier-crucial-pour-les-haitiens",
-      "date": "2026-04-29T08:20:03",
-      "modified": "2026-04-29T08:23:30",
-      "title": {
-        "rendered": "TPS : la Cour suprême américaine examine un dossier crucial pour les Haïtiens"
-      },
-      "excerpt": {
-        "rendered": "<p>La Cour suprême doit décider si l’administration Trump pouvait mettre fin au TPS pour environ 350 000 Haïtiens.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
