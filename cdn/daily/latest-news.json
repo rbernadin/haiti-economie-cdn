@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-18T14:31:15.987Z",
+  "generated_at": "2026-05-19T14:13:51.624Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10903,
+      "slug": "cite-soleil-la-violence-armee-devient-aussi-un-choc-economique-local",
+      "date": "2026-05-19T08:36:55",
+      "modified": "2026-05-19T08:36:56",
+      "title": {
+        "rendered": "Cité Soleil : la violence armée devient aussi un choc économique local"
+      },
+      "excerpt": {
+        "rendered": "<p>À Cité Soleil, la violence armée déplace des milliers de personnes et fragilise soins, travail et activité locale.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cite-soleil-violence-choc-economique-haiti-2026.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10899,
       "slug": "inflation-americaine-quels-risques-pour-les-prix-les-importations-et-la-diaspora-haitienne",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/dette-americaine-tresor-us-100-pib.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10799,
-      "slug": "wti-petrole-et-haiti-un-choc-exterieur-qui-peut-vite-devenir-une-pression-locale",
-      "date": "2026-04-30T08:30:40",
-      "modified": "2026-04-30T12:00:58",
-      "title": {
-        "rendered": "WTI, pétrole et Haïti : un choc extérieur qui peut vite devenir une pression locale"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Brent a brièvement atteint 126,41 dollars, tandis que le WTI évoluait autour de 106–108 dollars dans ce contexte de forte volatilité.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/wti-petrole-haiti-inflation-carburant.webp",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
