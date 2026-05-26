@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-05-25T14:18:08.499Z",
+  "generated_at": "2026-05-26T14:15:05.769Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10927,
+      "slug": "budget-2025-2026-quand-les-credits-tardent-a-devenir-services",
+      "date": "2026-05-26T06:09:00",
+      "modified": "2026-05-25T23:10:42",
+      "title": {
+        "rendered": "Budget 2025-2026 : quand les crédits tardent à devenir services"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti n’avait utilisé que 45.74 % de ses crédits à fin avril, révélant une exécution lente du budget 2025-2026.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/budget-haiti-2025-2026-execution-services-publics.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10920,
+      "slug": "haiti-vers-une-huitieme-annee-de-contraction-ce-que-cela-signifie-pour-les-menages",
+      "date": "2026-05-25T10:50:13",
+      "modified": "2026-05-25T10:50:15",
+      "title": {
+        "rendered": "Haïti vers une huitième année de contraction : ce que cela signifie pour les ménages"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti pourrait connaître une huitième année de contraction, avec moins d’emplois, des revenus faibles et un coût de la vie élevé.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/haiti-croissance-pib-reel-contraction-economique-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10916,
       "slug": "kevin-warsh-prend-la-tete-de-la-fed-dans-un-contexte-dincertitude-economique",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-sous-traitance-haiti-caracol-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10824,
-      "slug": "cepal-les-pays-de-la-region-cherchent-a-renforcer-leurs-systemes-fiscaux-dans-un-contexte-de-faible-croissance",
-      "date": "2026-05-05T10:53:08",
-      "modified": "2026-05-05T13:04:09",
-      "title": {
-        "rendered": "CEPAL : les pays de la région cherchent à renforcer leurs systèmes fiscaux dans un contexte de faible croissance"
-      },
-      "excerpt": {
-        "rendered": "<p>La CEPAL réunit les pays de la région pour renforcer la coopération fiscale dans un contexte de faible croissance et de finances sous pression.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cepal-cooperation-fiscale-regionale-ptlac-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10821,
-      "slug": "barbancourt-la-couronne-sejourne-et-comme-il-faut-alertent-letat-une-zone-strategique-aux-portes-de-laeroport-menace-de-basculer",
-      "date": "2026-05-04T23:48:40",
-      "modified": "2026-05-04T23:48:41",
-      "title": {
-        "rendered": "Barbancourt, La Couronne, Séjourné et Comme Il Faut alertent l’État : une zone stratégique aux portes de l’aéroport menace de basculer"
-      },
-      "excerpt": {
-        "rendered": "<p>Des industriels majeurs alertent l’État haïtien sur l’insécurité croissante dans des zones stratégiques de Port-au-Prince.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/aeroport-port-au-prince-zone-strategique-securite-entreprises-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
