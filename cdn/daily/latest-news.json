@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-06-06T13:59:18.908Z",
+  "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
+  "items": [
+    {
+      "id": 10927,
+      "slug": "budget-2025-2026-quand-les-credits-tardent-a-devenir-services",
+      "date": "2026-05-26T06:09:00",
+      "modified": "2026-05-25T23:10:42",
+      "title": {
+        "rendered": "Budget 2025-2026 : quand les crédits tardent à devenir services"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti n’avait utilisé que 45.74 % de ses crédits à fin avril, révélant une exécution lente du budget 2025-2026.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/budget-haiti-2025-2026-execution-services-publics.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10920,
+      "slug": "haiti-vers-une-huitieme-annee-de-contraction-ce-que-cela-signifie-pour-les-menages",
+      "date": "2026-05-25T10:50:13",
+      "modified": "2026-05-25T10:50:15",
+      "title": {
+        "rendered": "Haïti vers une huitième année de contraction : ce que cela signifie pour les ménages"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti pourrait connaître une huitième année de contraction, avec moins d’emplois, des revenus faibles et un coût de la vie élevé.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/haiti-croissance-pib-reel-contraction-economique-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10916,
+      "slug": "kevin-warsh-prend-la-tete-de-la-fed-dans-un-contexte-dincertitude-economique",
+      "date": "2026-05-24T21:16:44",
+      "modified": "2026-05-24T21:16:45",
+      "title": {
+        "rendered": "Kevin Warsh prend la tête de la Fed dans un contexte d’incertitude économique"
+      },
+      "excerpt": {
+        "rendered": "<p>Kevin Warsh prend la tête de la Fed, une transition à surveiller pour le dollar, les taux et l’économie haïtienne.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/kevin-warsh-fed-prestation-serment-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10907,
+      "slug": "accord-etats-unis-iran-pour-rouvrir-hormuz",
+      "date": "2026-05-24T20:30:57",
+      "modified": "2026-05-24T20:39:38",
+      "title": {
+        "rendered": "États-Unis–Iran : un mémorandum d’entente sur Hormuz pourrait soulager les prix du pétrole, mais l’incertitude demeure"
+      },
+      "excerpt": {
+        "rendered": "<p>Les États-Unis et l’Iran discutent d’un accord préliminaire pour prolonger le cessez-le-feu et rouvrir le détroit d’Hormuz.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/etats-unis-iran-hormuz-prix-petrole-haiti-1200x675-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10909,
+      "slug": "salaires-minimums-2026-une-hausse-necessaire-face-a-un-cout-de-la-vie-toujours-eleve",
+      "date": "2026-05-24T17:28:10",
+      "modified": "2026-05-24T19:59:57",
+      "title": {
+        "rendered": "Salaires minimums 2026 : une hausse nécessaire face à un coût de la vie toujours élevé ?"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti relève les salaires minimums, mais le coût de l’alimentation et l’incertitude économique limitent l’impact.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-haiti-2026-cout-de-la-vie.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10903,
+      "slug": "cite-soleil-la-violence-armee-devient-aussi-un-choc-economique-local",
+      "date": "2026-05-19T08:36:55",
+      "modified": "2026-05-19T08:36:56",
+      "title": {
+        "rendered": "Cité Soleil : la violence armée devient aussi un choc économique local"
+      },
+      "excerpt": {
+        "rendered": "<p>À Cité Soleil, la violence armée déplace des milliers de personnes et fragilise soins, travail et activité locale.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cite-soleil-violence-choc-economique-haiti-2026.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10899,
+      "slug": "inflation-americaine-quels-risques-pour-les-prix-les-importations-et-la-diaspora-haitienne",
+      "date": "2026-05-12T11:07:34",
+      "modified": "2026-05-12T11:07:35",
+      "title": {
+        "rendered": "Inflation américaine : quels risques pour les prix, les importations et la diaspora haïtienne ?"
+      },
+      "excerpt": {
+        "rendered": "<p>L’inflation américaine peut peser sur Haïti via les importations, l’énergie, les coûts de transport et les transferts de la diaspora.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/inflation-americaine-prix-dollar-energie-avril-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10894,
+      "slug": "petrole-le-wti-rebondit-autour-de-100-dollars-sur-fond-dincertitude-sur-un-cessez-le-feu",
+      "date": "2026-05-12T08:12:25",
+      "modified": "2026-05-12T08:13:17",
+      "title": {
+        "rendered": "Pétrole : le WTI rebondit autour de 100 dollars, sur fond d’incertitude sur un cessez-le-feu"
+      },
+      "excerpt": {
+        "rendered": "<p>Le WTI rebondit autour de 100 dollars, porté par l’incertitude sur un cessez-le-feu et les risques pour l’offre mondiale.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/petrole-wti-detroit-ormuz-prix-energie-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10876,
+      "slug": "panier-alimentaire-en-haiti-le-cout-atteint-26-387-gourdes-en-avril-2025",
+      "date": "2026-05-11T21:55:41",
+      "modified": "2026-05-11T21:55:42",
+      "title": {
+        "rendered": "Panier alimentaire en Haïti : le coût atteint 26 387 gourdes en avril 2025"
+      },
+      "excerpt": {
+        "rendered": "<p>Le panier alimentaire national augmente de 3 % en avril 2025, mais reste en baisse de 10 % par rapport à avril 2024.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10862,
+      "slug": "produits-petroliers-en-haiti-baisse-de-25-gourdes-sur-la-gazoline-et-le-gazoil",
+      "date": "2026-05-09T09:48:47",
+      "modified": "2026-05-09T09:48:48",
+      "title": {
+        "rendered": "Produits pétroliers en Haïti : baisse de 25 gourdes sur la gazoline et le gazoil"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti baisse les prix des produits pétroliers : la gazoline passe à 700 gourdes, le gazoil à 825 gourdes, le kérosène reste à 845.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10859,
+      "slug": "construire-a-miami-quand-letat-seffondre-en-haiti-une-priorite-difficile-a-defendre",
+      "date": "2026-05-07T13:45:36",
+      "modified": "2026-05-07T13:45:37",
+      "title": {
+        "rendered": "Construire à Miami quand l’État s’effondre en Haïti : une priorité difficile à défendre"
+      },
+      "excerpt": {
+        "rendered": "<p>Le lancement du projet de reconstruction du Consulat à Miami est un symbole troublant des priorités d’un gouvernement de transition dans un pays en crise profonde. </p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/consulat-haiti-miami-reconstruction-gouvernement-transition-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10828,
+      "slug": "salaire-minimum-letat-fixe-a-1-000-gourdes-le-salaire-journalier-dans-la-sous-traitance",
+      "date": "2026-05-05T13:01:05",
+      "modified": "2026-05-05T13:01:06",
+      "title": {
+        "rendered": "Salaire minimum : l’État fixe à 1 000 gourdes le salaire journalier dans la sous-traitance"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti relève à 1 000 gourdes le salaire minimum dans la sous-traitance, avec un appui du FAES et des mesures sur l’énergie.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-sous-traitance-haiti-caracol-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    }
+  ]
+}
