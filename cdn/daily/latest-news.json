@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-09T14:10:06.888Z",
+  "generated_at": "2026-06-10T14:27:58.907Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10952,
+      "slug": "etats-unis-le-deficit-commercial-recule-legerement-en-avril",
+      "date": "2026-06-09T23:52:54",
+      "modified": "2026-06-09T23:52:55",
+      "title": {
+        "rendered": "États-Unis : le déficit commercial recule légèrement en avril"
+      },
+      "excerpt": {
+        "rendered": "<p>Le déficit commercial des États-Unis s’est légèrement réduit en avril, malgré une hausse simultanée des exportations et des importations. Il a diminué de 1.2 % par rapport à mars.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/deficit-commercial-etats-unis-avril-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 8251,
+      "slug": "securite-alimentaire-haiti-doit-en-faire-sa-priorite-numero-un",
+      "date": "2026-06-09T18:24:25",
+      "modified": "2026-06-09T18:27:03",
+      "title": {
+        "rendered": "Sécurité alimentaire en Haïti : de l’urgence humanitaire à la priorité nationale"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti doit faire de la sécurité alimentaire une priorité nationale face à la faim, l’insécurité et la fragilité économique.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/securite-alimentaire-haiti-production-agricole.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10941,
       "slug": "petrole-les-prix-reculent-mais-haiti-reste-exposee-aux-couts-des-carburants",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cite-soleil-violence-choc-economique-haiti-2026.png",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10899,
-      "slug": "inflation-americaine-quels-risques-pour-les-prix-les-importations-et-la-diaspora-haitienne",
-      "date": "2026-05-12T11:07:34",
-      "modified": "2026-05-12T11:07:35",
-      "title": {
-        "rendered": "Inflation américaine : quels risques pour les prix, les importations et la diaspora haïtienne ?"
-      },
-      "excerpt": {
-        "rendered": "<p>L’inflation américaine peut peser sur Haïti via les importations, l’énergie, les coûts de transport et les transferts de la diaspora.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/inflation-americaine-prix-dollar-energie-avril-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10894,
-      "slug": "petrole-le-wti-rebondit-autour-de-100-dollars-sur-fond-dincertitude-sur-un-cessez-le-feu",
-      "date": "2026-05-12T08:12:25",
-      "modified": "2026-05-12T08:13:17",
-      "title": {
-        "rendered": "Pétrole : le WTI rebondit autour de 100 dollars, sur fond d’incertitude sur un cessez-le-feu"
-      },
-      "excerpt": {
-        "rendered": "<p>Le WTI rebondit autour de 100 dollars, porté par l’incertitude sur un cessez-le-feu et les risques pour l’offre mondiale.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/petrole-wti-detroit-ormuz-prix-energie-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
