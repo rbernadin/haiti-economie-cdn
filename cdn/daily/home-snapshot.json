@@ -1,10 +1,48 @@
 {
-  "asof": "2026-06-12",
-  "generatedAt": "2026-06-12T13:56:20.681Z",
+  "asof": "2026-06-13",
+  "generatedAt": "2026-06-13T13:25:47.151Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-06-12T13:36:57.844Z",
+    "generated_at": "2026-06-13T13:17:29.336Z",
     "cards": {
+      "trade": {
+        "latest": {
+          "year": 2024,
+          "trade_balance": -2404000000,
+          "change": 76000000,
+          "percent": -3.06
+        },
+        "latest_breakdown": {
+          "exports_constant": 710000000,
+          "exports_perc_gdp": 3.400774933,
+          "imports_constant": 3114000000,
+          "imports_perc_gdp": 18.84711044
+        },
+        "history": [
+          {
+            "year": 2023,
+            "trade_balance": -2480000000,
+            "exports_constant": 898000000,
+            "imports_constant": 3378000000
+          },
+          {
+            "year": 2024,
+            "trade_balance": -2404000000,
+            "exports_constant": 710000000,
+            "imports_constant": 3114000000
+          }
+        ],
+        "top_exports": [],
+        "top_imports": [],
+        "top_exports_year": null,
+        "top_imports_year": null,
+        "prev": {
+          "year": 2023,
+          "trade_balance": -2480000000,
+          "exports_constant": 898000000,
+          "imports_constant": 3378000000
+        }
+      },
       "gdp": {
         "latest": {
           "year": 2024,
@@ -139,44 +177,6 @@
           "croissance_pib": -1.9
         }
       },
-      "trade": {
-        "latest": {
-          "year": 2024,
-          "trade_balance": -2404000000,
-          "change": 76000000,
-          "percent": -3.06
-        },
-        "latest_breakdown": {
-          "exports_constant": 710000000,
-          "exports_perc_gdp": 3.400774933,
-          "imports_constant": 3114000000,
-          "imports_perc_gdp": 18.84711044
-        },
-        "history": [
-          {
-            "year": 2023,
-            "trade_balance": -2480000000,
-            "exports_constant": 898000000,
-            "imports_constant": 3378000000
-          },
-          {
-            "year": 2024,
-            "trade_balance": -2404000000,
-            "exports_constant": 710000000,
-            "imports_constant": 3114000000
-          }
-        ],
-        "top_exports": [],
-        "top_imports": [],
-        "top_exports_year": null,
-        "top_imports_year": null,
-        "prev": {
-          "year": 2023,
-          "trade_balance": -2480000000,
-          "exports_constant": 898000000,
-          "imports_constant": 3378000000
-        }
-      },
       "external_debt": {
         "latest": {
           "date": "2023-12-31",
@@ -215,6 +215,464 @@
           "current_account_balance_perc_gdp": -2.428975239,
           "use_of_imf_credit_dod_dollar": 444693167.9,
           "debt_to_gdp": 29.5
+        }
+      },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
+      "reserves_ex_gold": {
+        "latest": {
+          "year": 2024,
+          "fi_res_xgld_cd": 2565745292.68
+        },
+        "history": [
+          {
+            "year": 2023,
+            "fi_res_xgld_cd": 2466360229.76
+          },
+          {
+            "year": 2024,
+            "fi_res_xgld_cd": 2565745292.68
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "fi_res_xgld_cd": 2466360229.76
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
+        }
+      },
+      "inflation": {
+        "as_of": "2026-04",
+        "count": 2,
+        "latest": {
+          "period": "2026-04",
+          "indice_general": 610.5,
+          "alimentaires": 752,
+          "alcool": 288.7,
+          "habillement": 558.9,
+          "logement": 592,
+          "meubles": 495,
+          "sante": 567.9,
+          "transport": 462.3,
+          "communication": 223.3,
+          "loisirs": 390.6,
+          "enseignement": 184.2,
+          "restaurants": 670.5,
+          "biens_services": 430.1,
+          "indice_general_var_perc": 21,
+          "alimentaires_var_perc": 21.3,
+          "alcool_var_perc": 10,
+          "habillement_var_perc": 19,
+          "logement_var_perc": 22.7,
+          "meubles_var_perc": 17.9,
+          "sante_var_perc": 15.9,
+          "transport_var_perc": 30.3,
+          "communication_var_perc": 2.6,
+          "loisirs_var_perc": 14.1,
+          "enseignement_var_perc": 4.7,
+          "restaurants_var_perc": 24.6,
+          "biens_services_var_perc": 17.3,
+          "metro": 613.5,
+          "reste_ouest": 640.4,
+          "nord": 566.7,
+          "sud": 635,
+          "transversal": 594.3,
+          "metro_var_perc": 21.6,
+          "reste_ouest_var_perc": 21.6,
+          "nord_var_perc": 18.9,
+          "sud_var_perc": 20.2,
+          "transversal_var_perc": 21.3,
+          "ipc_produits_locaux": 21.6,
+          "ipc_produits_importes": 20,
+          "indice_general_var_mois": 3.4,
+          "alimentaires_var_mois": 2.2,
+          "alcool_var_mois": 1.3,
+          "habillement_var_mois": 1.1,
+          "logement_var_mois": 2.8,
+          "meubles_var_mois": 0.9,
+          "sante_var_mois": 0.9,
+          "transport_var_mois": 25.5,
+          "communication_var_mois": 0.2,
+          "loisirs_var_mois": 0.4,
+          "enseignement_var_mois": 0,
+          "restaurants_var_mois": 3,
+          "biens_services_var_mois": 1.2,
+          "metro_var_mois": 3.5,
+          "reste_ouest_var_mois": 3.4,
+          "nord_var_mois": 3.1,
+          "sud_var_mois": 3.3,
+          "transversal_var_mois": 3.4
+        },
+        "history": [
+          {
+            "period": "2026-03",
+            "indice_general": 590.6,
+            "alimentaires": 735.6,
+            "alcool": 285,
+            "habillement": 553,
+            "logement": 575.6,
+            "meubles": 490.6,
+            "sante": 563.1,
+            "transport": 368.3,
+            "communication": 222.8,
+            "loisirs": 389.2,
+            "enseignement": 184.2,
+            "restaurants": 650.7,
+            "biens_services": 425,
+            "indice_general_var_perc": 20.6,
+            "alimentaires_var_perc": 22.9,
+            "alcool_var_perc": 10.3,
+            "habillement_var_perc": 21.2,
+            "logement_var_perc": 23.4,
+            "meubles_var_perc": 19.9,
+            "sante_var_perc": 16.9,
+            "transport_var_perc": 4.2,
+            "communication_var_perc": 2.7,
+            "loisirs_var_perc": 15.6,
+            "enseignement_var_perc": 4.7,
+            "restaurants_var_perc": 24.3,
+            "biens_services_var_perc": 18.6,
+            "metro": 592.7,
+            "reste_ouest": 619.4,
+            "nord": 549.4,
+            "sud": 614.4,
+            "transversal": 574.9,
+            "metro_var_perc": 21.3,
+            "reste_ouest_var_perc": 21.2,
+            "nord_var_perc": 18.5,
+            "sud_var_perc": 19.8,
+            "transversal_var_perc": 20.9,
+            "ipc_produits_locaux": 21.4,
+            "ipc_produits_importes": 19.2,
+            "indice_general_var_mois": 0.8,
+            "alimentaires_var_mois": 0.9,
+            "alcool_var_mois": 0.5,
+            "habillement_var_mois": 0.7,
+            "logement_var_mois": 0.8,
+            "meubles_var_mois": 0.9,
+            "sante_var_mois": 0.4,
+            "transport_var_mois": 0.3,
+            "communication_var_mois": 0,
+            "loisirs_var_mois": 0.8,
+            "enseignement_var_mois": 0.2,
+            "restaurants_var_mois": 0.3,
+            "biens_services_var_mois": 0.8,
+            "metro_var_mois": 0.9,
+            "reste_ouest_var_mois": 0.9,
+            "nord_var_mois": 0.6,
+            "sud_var_mois": 0.8,
+            "transversal_var_mois": 0.8
+          },
+          {
+            "period": "2026-04",
+            "indice_general": 610.5,
+            "alimentaires": 752,
+            "alcool": 288.7,
+            "habillement": 558.9,
+            "logement": 592,
+            "meubles": 495,
+            "sante": 567.9,
+            "transport": 462.3,
+            "communication": 223.3,
+            "loisirs": 390.6,
+            "enseignement": 184.2,
+            "restaurants": 670.5,
+            "biens_services": 430.1,
+            "indice_general_var_perc": 21,
+            "alimentaires_var_perc": 21.3,
+            "alcool_var_perc": 10,
+            "habillement_var_perc": 19,
+            "logement_var_perc": 22.7,
+            "meubles_var_perc": 17.9,
+            "sante_var_perc": 15.9,
+            "transport_var_perc": 30.3,
+            "communication_var_perc": 2.6,
+            "loisirs_var_perc": 14.1,
+            "enseignement_var_perc": 4.7,
+            "restaurants_var_perc": 24.6,
+            "biens_services_var_perc": 17.3,
+            "metro": 613.5,
+            "reste_ouest": 640.4,
+            "nord": 566.7,
+            "sud": 635,
+            "transversal": 594.3,
+            "metro_var_perc": 21.6,
+            "reste_ouest_var_perc": 21.6,
+            "nord_var_perc": 18.9,
+            "sud_var_perc": 20.2,
+            "transversal_var_perc": 21.3,
+            "ipc_produits_locaux": 21.6,
+            "ipc_produits_importes": 20,
+            "indice_general_var_mois": 3.4,
+            "alimentaires_var_mois": 2.2,
+            "alcool_var_mois": 1.3,
+            "habillement_var_mois": 1.1,
+            "logement_var_mois": 2.8,
+            "meubles_var_mois": 0.9,
+            "sante_var_mois": 0.9,
+            "transport_var_mois": 25.5,
+            "communication_var_mois": 0.2,
+            "loisirs_var_mois": 0.4,
+            "enseignement_var_mois": 0,
+            "restaurants_var_mois": 3,
+            "biens_services_var_mois": 1.2,
+            "metro_var_mois": 3.5,
+            "reste_ouest_var_mois": 3.4,
+            "nord_var_mois": 3.1,
+            "sud_var_mois": 3.3,
+            "transversal_var_mois": 3.4
+          }
+        ],
+        "prev": {
+          "period": "2026-03",
+          "indice_general": 590.6,
+          "alimentaires": 735.6,
+          "alcool": 285,
+          "habillement": 553,
+          "logement": 575.6,
+          "meubles": 490.6,
+          "sante": 563.1,
+          "transport": 368.3,
+          "communication": 222.8,
+          "loisirs": 389.2,
+          "enseignement": 184.2,
+          "restaurants": 650.7,
+          "biens_services": 425,
+          "indice_general_var_perc": 20.6,
+          "alimentaires_var_perc": 22.9,
+          "alcool_var_perc": 10.3,
+          "habillement_var_perc": 21.2,
+          "logement_var_perc": 23.4,
+          "meubles_var_perc": 19.9,
+          "sante_var_perc": 16.9,
+          "transport_var_perc": 4.2,
+          "communication_var_perc": 2.7,
+          "loisirs_var_perc": 15.6,
+          "enseignement_var_perc": 4.7,
+          "restaurants_var_perc": 24.3,
+          "biens_services_var_perc": 18.6,
+          "metro": 592.7,
+          "reste_ouest": 619.4,
+          "nord": 549.4,
+          "sud": 614.4,
+          "transversal": 574.9,
+          "metro_var_perc": 21.3,
+          "reste_ouest_var_perc": 21.2,
+          "nord_var_perc": 18.5,
+          "sud_var_perc": 19.8,
+          "transversal_var_perc": 20.9,
+          "ipc_produits_locaux": 21.4,
+          "ipc_produits_importes": 19.2,
+          "indice_general_var_mois": 0.8,
+          "alimentaires_var_mois": 0.9,
+          "alcool_var_mois": 0.5,
+          "habillement_var_mois": 0.7,
+          "logement_var_mois": 0.8,
+          "meubles_var_mois": 0.9,
+          "sante_var_mois": 0.4,
+          "transport_var_mois": 0.3,
+          "communication_var_mois": 0,
+          "loisirs_var_mois": 0.8,
+          "enseignement_var_mois": 0.2,
+          "restaurants_var_mois": 0.3,
+          "biens_services_var_mois": 0.8,
+          "metro_var_mois": 0.9,
+          "reste_ouest_var_mois": 0.9,
+          "nord_var_mois": 0.6,
+          "sud_var_mois": 0.8,
+          "transversal_var_mois": 0.8
+        }
+      },
+      "electricity_access": {
+        "latest": {
+          "year": 2024,
+          "eg_elc_accs_zs": null
+        },
+        "history": [
+          {
+            "year": 2023,
+            "eg_elc_accs_zs": 51.3
+          },
+          {
+            "year": 2024,
+            "eg_elc_accs_zs": null
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "eg_elc_accs_zs": 51.3
+        }
+      },
+      "remittances": {
+        "schema": 1,
+        "generated_at": "2026-06-13T13:17:29.138Z",
+        "latest": {
+          "date": "2025-09-01",
+          "total_rec": 376208754.32
+        },
+        "history": [
+          {
+            "date": "2025-08-01",
+            "total_rec": 372126532.61,
+            "breakdown_rec": {
+              "usa": 293871178.24,
+              "chili": 7623629.38,
+              "canada": 19347743.92,
+              "france": 20582902.7,
+              "bresil": 5476994,
+              "rep_dom": 12803953.25,
+              "uruguay": 2196697.07,
+              "bahamas": 1898963.63,
+              "turks_caicos": 1785923.12,
+              "martinique": 19519.94,
+              "europe_autres": 1742961.83,
+              "antilles": 2851329.92,
+              "amerique_sud_autres": 385292.55,
+              "amerique_central": 1095720.49,
+              "saint_martin": 0,
+              "afrique": 108243.37,
+              "asie": 335479.18
+            },
+            "departments_rec_yr": {
+              "ouest": null,
+              "artibonite": null,
+              "nord": null,
+              "sud": null,
+              "nord_ouest": null,
+              "centre": null,
+              "sud_est": null,
+              "nippes": null,
+              "nord_est": null,
+              "grand_anse": null
+            },
+            "meta": {
+              "nobre_transferts_rec": 2289050,
+              "moyenne_rec": 162.57
+            },
+            "totals_exp": {
+              "total_exp": 26047738.6
+            }
+          },
+          {
+            "date": "2025-09-01",
+            "total_rec": 376208754.32,
+            "breakdown_rec": {
+              "usa": 296168698.67,
+              "chili": 7711457,
+              "canada": 20005214.57,
+              "france": 20789283.83,
+              "bresil": 5729342.18,
+              "rep_dom": 12950511.06,
+              "uruguay": 2089777.32,
+              "bahamas": 2081842.41,
+              "turks_caicos": 1784181.33,
+              "martinique": 10920.35,
+              "europe_autres": 1964126.83,
+              "antilles": 2781098.27,
+              "amerique_sud_autres": 408444.53,
+              "amerique_central": 1189138.47,
+              "saint_martin": 0,
+              "afrique": 119212.56,
+              "asie": 425504.94
+            },
+            "departments_rec_yr": {
+              "ouest": null,
+              "artibonite": null,
+              "nord": null,
+              "sud": null,
+              "nord_ouest": null,
+              "centre": null,
+              "sud_est": null,
+              "nippes": null,
+              "nord_est": null,
+              "grand_anse": null
+            },
+            "meta": {
+              "nobre_transferts_rec": 2259918,
+              "moyenne_rec": 166.47
+            },
+            "totals_exp": {
+              "total_exp": 26497075.38
+            }
+          }
+        ],
+        "prev": {
+          "date": "2025-08-01",
+          "total_rec": 372126532.61,
+          "breakdown_rec": {
+            "usa": 293871178.24,
+            "chili": 7623629.38,
+            "canada": 19347743.92,
+            "france": 20582902.7,
+            "bresil": 5476994,
+            "rep_dom": 12803953.25,
+            "uruguay": 2196697.07,
+            "bahamas": 1898963.63,
+            "turks_caicos": 1785923.12,
+            "martinique": 19519.94,
+            "europe_autres": 1742961.83,
+            "antilles": 2851329.92,
+            "amerique_sud_autres": 385292.55,
+            "amerique_central": 1095720.49,
+            "saint_martin": 0,
+            "afrique": 108243.37,
+            "asie": 335479.18
+          },
+          "departments_rec_yr": {
+            "ouest": null,
+            "artibonite": null,
+            "nord": null,
+            "sud": null,
+            "nord_ouest": null,
+            "centre": null,
+            "sud_est": null,
+            "nippes": null,
+            "nord_est": null,
+            "grand_anse": null
+          },
+          "meta": {
+            "nobre_transferts_rec": 2289050,
+            "moyenne_rec": 162.57
+          },
+          "totals_exp": {
+            "total_exp": 26047738.6
+          }
         }
       },
       "population": {
@@ -480,162 +938,6 @@
           "material_footprint_per_capita": 2.406
         }
       },
-      "remittances": {
-        "schema": 1,
-        "generated_at": "2026-06-12T13:36:57.541Z",
-        "latest": {
-          "date": "2025-09-01",
-          "total_rec": 376208754.32
-        },
-        "history": [
-          {
-            "date": "2025-08-01",
-            "total_rec": 372126532.61,
-            "breakdown_rec": {
-              "usa": 293871178.24,
-              "chili": 7623629.38,
-              "canada": 19347743.92,
-              "france": 20582902.7,
-              "bresil": 5476994,
-              "rep_dom": 12803953.25,
-              "uruguay": 2196697.07,
-              "bahamas": 1898963.63,
-              "turks_caicos": 1785923.12,
-              "martinique": 19519.94,
-              "europe_autres": 1742961.83,
-              "antilles": 2851329.92,
-              "amerique_sud_autres": 385292.55,
-              "amerique_central": 1095720.49,
-              "saint_martin": 0,
-              "afrique": 108243.37,
-              "asie": 335479.18
-            },
-            "departments_rec_yr": {
-              "ouest": null,
-              "artibonite": null,
-              "nord": null,
-              "sud": null,
-              "nord_ouest": null,
-              "centre": null,
-              "sud_est": null,
-              "nippes": null,
-              "nord_est": null,
-              "grand_anse": null
-            },
-            "meta": {
-              "nobre_transferts_rec": 2289050,
-              "moyenne_rec": 162.57
-            },
-            "totals_exp": {
-              "total_exp": 26047738.6
-            }
-          },
-          {
-            "date": "2025-09-01",
-            "total_rec": 376208754.32,
-            "breakdown_rec": {
-              "usa": 296168698.67,
-              "chili": 7711457,
-              "canada": 20005214.57,
-              "france": 20789283.83,
-              "bresil": 5729342.18,
-              "rep_dom": 12950511.06,
-              "uruguay": 2089777.32,
-              "bahamas": 2081842.41,
-              "turks_caicos": 1784181.33,
-              "martinique": 10920.35,
-              "europe_autres": 1964126.83,
-              "antilles": 2781098.27,
-              "amerique_sud_autres": 408444.53,
-              "amerique_central": 1189138.47,
-              "saint_martin": 0,
-              "afrique": 119212.56,
-              "asie": 425504.94
-            },
-            "departments_rec_yr": {
-              "ouest": null,
-              "artibonite": null,
-              "nord": null,
-              "sud": null,
-              "nord_ouest": null,
-              "centre": null,
-              "sud_est": null,
-              "nippes": null,
-              "nord_est": null,
-              "grand_anse": null
-            },
-            "meta": {
-              "nobre_transferts_rec": 2259918,
-              "moyenne_rec": 166.47
-            },
-            "totals_exp": {
-              "total_exp": 26497075.38
-            }
-          }
-        ],
-        "prev": {
-          "date": "2025-08-01",
-          "total_rec": 372126532.61,
-          "breakdown_rec": {
-            "usa": 293871178.24,
-            "chili": 7623629.38,
-            "canada": 19347743.92,
-            "france": 20582902.7,
-            "bresil": 5476994,
-            "rep_dom": 12803953.25,
-            "uruguay": 2196697.07,
-            "bahamas": 1898963.63,
-            "turks_caicos": 1785923.12,
-            "martinique": 19519.94,
-            "europe_autres": 1742961.83,
-            "antilles": 2851329.92,
-            "amerique_sud_autres": 385292.55,
-            "amerique_central": 1095720.49,
-            "saint_martin": 0,
-            "afrique": 108243.37,
-            "asie": 335479.18
-          },
-          "departments_rec_yr": {
-            "ouest": null,
-            "artibonite": null,
-            "nord": null,
-            "sud": null,
-            "nord_ouest": null,
-            "centre": null,
-            "sud_est": null,
-            "nippes": null,
-            "nord_est": null,
-            "grand_anse": null
-          },
-          "meta": {
-            "nobre_transferts_rec": 2289050,
-            "moyenne_rec": 162.57
-          },
-          "totals_exp": {
-            "total_exp": 26047738.6
-          }
-        }
-      },
-      "credit_private_sector": {
-        "latest": {
-          "year": 2024,
-          "dcps_gdp_pct": 4.11
-        },
-        "history": [
-          {
-            "year": 2023,
-            "dcps_gdp_pct": 5.17
-          },
-          {
-            "year": 2024,
-            "dcps_gdp_pct": 4.11
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "dcps_gdp_pct": 5.17
-        }
-      },
       "budget": {
         "table": "general_budget",
         "latest": {
@@ -807,308 +1109,6 @@
           "notes": null,
           "created_at": "2025-11-28T16:00:21.214Z",
           "updated_at": "2025-11-28T16:00:21.214Z"
-        }
-      },
-      "reserves_ex_gold": {
-        "latest": {
-          "year": 2024,
-          "fi_res_xgld_cd": 2565745292.68
-        },
-        "history": [
-          {
-            "year": 2023,
-            "fi_res_xgld_cd": 2466360229.76
-          },
-          {
-            "year": 2024,
-            "fi_res_xgld_cd": 2565745292.68
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "fi_res_xgld_cd": 2466360229.76
-        }
-      },
-      "inflation": {
-        "as_of": "2026-04",
-        "count": 2,
-        "latest": {
-          "period": "2026-04",
-          "indice_general": 610.5,
-          "alimentaires": 752,
-          "alcool": 288.7,
-          "habillement": 558.9,
-          "logement": 592,
-          "meubles": 495,
-          "sante": 567.9,
-          "transport": 462.3,
-          "communication": 223.3,
-          "loisirs": 390.6,
-          "enseignement": 184.2,
-          "restaurants": 670.5,
-          "biens_services": 430.1,
-          "indice_general_var_perc": 21,
-          "alimentaires_var_perc": 21.3,
-          "alcool_var_perc": 10,
-          "habillement_var_perc": 19,
-          "logement_var_perc": 22.7,
-          "meubles_var_perc": 17.9,
-          "sante_var_perc": 15.9,
-          "transport_var_perc": 30.3,
-          "communication_var_perc": 2.6,
-          "loisirs_var_perc": 14.1,
-          "enseignement_var_perc": 4.7,
-          "restaurants_var_perc": 24.6,
-          "biens_services_var_perc": 17.3,
-          "metro": 613.5,
-          "reste_ouest": 640.4,
-          "nord": 566.7,
-          "sud": 635,
-          "transversal": 594.3,
-          "metro_var_perc": 21.6,
-          "reste_ouest_var_perc": 21.6,
-          "nord_var_perc": 18.9,
-          "sud_var_perc": 20.2,
-          "transversal_var_perc": 21.3,
-          "ipc_produits_locaux": 21.6,
-          "ipc_produits_importes": 20,
-          "indice_general_var_mois": 3.4,
-          "alimentaires_var_mois": 2.2,
-          "alcool_var_mois": 1.3,
-          "habillement_var_mois": 1.1,
-          "logement_var_mois": 2.8,
-          "meubles_var_mois": 0.9,
-          "sante_var_mois": 0.9,
-          "transport_var_mois": 25.5,
-          "communication_var_mois": 0.2,
-          "loisirs_var_mois": 0.4,
-          "enseignement_var_mois": 0,
-          "restaurants_var_mois": 3,
-          "biens_services_var_mois": 1.2,
-          "metro_var_mois": 3.5,
-          "reste_ouest_var_mois": 3.4,
-          "nord_var_mois": 3.1,
-          "sud_var_mois": 3.3,
-          "transversal_var_mois": 3.4
-        },
-        "history": [
-          {
-            "period": "2026-03",
-            "indice_general": 590.6,
-            "alimentaires": 735.6,
-            "alcool": 285,
-            "habillement": 553,
-            "logement": 575.6,
-            "meubles": 490.6,
-            "sante": 563.1,
-            "transport": 368.3,
-            "communication": 222.8,
-            "loisirs": 389.2,
-            "enseignement": 184.2,
-            "restaurants": 650.7,
-            "biens_services": 425,
-            "indice_general_var_perc": 20.6,
-            "alimentaires_var_perc": 22.9,
-            "alcool_var_perc": 10.3,
-            "habillement_var_perc": 21.2,
-            "logement_var_perc": 23.4,
-            "meubles_var_perc": 19.9,
-            "sante_var_perc": 16.9,
-            "transport_var_perc": 4.2,
-            "communication_var_perc": 2.7,
-            "loisirs_var_perc": 15.6,
-            "enseignement_var_perc": 4.7,
-            "restaurants_var_perc": 24.3,
-            "biens_services_var_perc": 18.6,
-            "metro": 592.7,
-            "reste_ouest": 619.4,
-            "nord": 549.4,
-            "sud": 614.4,
-            "transversal": 574.9,
-            "metro_var_perc": 21.3,
-            "reste_ouest_var_perc": 21.2,
-            "nord_var_perc": 18.5,
-            "sud_var_perc": 19.8,
-            "transversal_var_perc": 20.9,
-            "ipc_produits_locaux": 21.4,
-            "ipc_produits_importes": 19.2,
-            "indice_general_var_mois": 0.8,
-            "alimentaires_var_mois": 0.9,
-            "alcool_var_mois": 0.5,
-            "habillement_var_mois": 0.7,
-            "logement_var_mois": 0.8,
-            "meubles_var_mois": 0.9,
-            "sante_var_mois": 0.4,
-            "transport_var_mois": 0.3,
-            "communication_var_mois": 0,
-            "loisirs_var_mois": 0.8,
-            "enseignement_var_mois": 0.2,
-            "restaurants_var_mois": 0.3,
-            "biens_services_var_mois": 0.8,
-            "metro_var_mois": 0.9,
-            "reste_ouest_var_mois": 0.9,
-            "nord_var_mois": 0.6,
-            "sud_var_mois": 0.8,
-            "transversal_var_mois": 0.8
-          },
-          {
-            "period": "2026-04",
-            "indice_general": 610.5,
-            "alimentaires": 752,
-            "alcool": 288.7,
-            "habillement": 558.9,
-            "logement": 592,
-            "meubles": 495,
-            "sante": 567.9,
-            "transport": 462.3,
-            "communication": 223.3,
-            "loisirs": 390.6,
-            "enseignement": 184.2,
-            "restaurants": 670.5,
-            "biens_services": 430.1,
-            "indice_general_var_perc": 21,
-            "alimentaires_var_perc": 21.3,
-            "alcool_var_perc": 10,
-            "habillement_var_perc": 19,
-            "logement_var_perc": 22.7,
-            "meubles_var_perc": 17.9,
-            "sante_var_perc": 15.9,
-            "transport_var_perc": 30.3,
-            "communication_var_perc": 2.6,
-            "loisirs_var_perc": 14.1,
-            "enseignement_var_perc": 4.7,
-            "restaurants_var_perc": 24.6,
-            "biens_services_var_perc": 17.3,
-            "metro": 613.5,
-            "reste_ouest": 640.4,
-            "nord": 566.7,
-            "sud": 635,
-            "transversal": 594.3,
-            "metro_var_perc": 21.6,
-            "reste_ouest_var_perc": 21.6,
-            "nord_var_perc": 18.9,
-            "sud_var_perc": 20.2,
-            "transversal_var_perc": 21.3,
-            "ipc_produits_locaux": 21.6,
-            "ipc_produits_importes": 20,
-            "indice_general_var_mois": 3.4,
-            "alimentaires_var_mois": 2.2,
-            "alcool_var_mois": 1.3,
-            "habillement_var_mois": 1.1,
-            "logement_var_mois": 2.8,
-            "meubles_var_mois": 0.9,
-            "sante_var_mois": 0.9,
-            "transport_var_mois": 25.5,
-            "communication_var_mois": 0.2,
-            "loisirs_var_mois": 0.4,
-            "enseignement_var_mois": 0,
-            "restaurants_var_mois": 3,
-            "biens_services_var_mois": 1.2,
-            "metro_var_mois": 3.5,
-            "reste_ouest_var_mois": 3.4,
-            "nord_var_mois": 3.1,
-            "sud_var_mois": 3.3,
-            "transversal_var_mois": 3.4
-          }
-        ],
-        "prev": {
-          "period": "2026-03",
-          "indice_general": 590.6,
-          "alimentaires": 735.6,
-          "alcool": 285,
-          "habillement": 553,
-          "logement": 575.6,
-          "meubles": 490.6,
-          "sante": 563.1,
-          "transport": 368.3,
-          "communication": 222.8,
-          "loisirs": 389.2,
-          "enseignement": 184.2,
-          "restaurants": 650.7,
-          "biens_services": 425,
-          "indice_general_var_perc": 20.6,
-          "alimentaires_var_perc": 22.9,
-          "alcool_var_perc": 10.3,
-          "habillement_var_perc": 21.2,
-          "logement_var_perc": 23.4,
-          "meubles_var_perc": 19.9,
-          "sante_var_perc": 16.9,
-          "transport_var_perc": 4.2,
-          "communication_var_perc": 2.7,
-          "loisirs_var_perc": 15.6,
-          "enseignement_var_perc": 4.7,
-          "restaurants_var_perc": 24.3,
-          "biens_services_var_perc": 18.6,
-          "metro": 592.7,
-          "reste_ouest": 619.4,
-          "nord": 549.4,
-          "sud": 614.4,
-          "transversal": 574.9,
-          "metro_var_perc": 21.3,
-          "reste_ouest_var_perc": 21.2,
-          "nord_var_perc": 18.5,
-          "sud_var_perc": 19.8,
-          "transversal_var_perc": 20.9,
-          "ipc_produits_locaux": 21.4,
-          "ipc_produits_importes": 19.2,
-          "indice_general_var_mois": 0.8,
-          "alimentaires_var_mois": 0.9,
-          "alcool_var_mois": 0.5,
-          "habillement_var_mois": 0.7,
-          "logement_var_mois": 0.8,
-          "meubles_var_mois": 0.9,
-          "sante_var_mois": 0.4,
-          "transport_var_mois": 0.3,
-          "communication_var_mois": 0,
-          "loisirs_var_mois": 0.8,
-          "enseignement_var_mois": 0.2,
-          "restaurants_var_mois": 0.3,
-          "biens_services_var_mois": 0.8,
-          "metro_var_mois": 0.9,
-          "reste_ouest_var_mois": 0.9,
-          "nord_var_mois": 0.6,
-          "sud_var_mois": 0.8,
-          "transversal_var_mois": 0.8
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
-        }
-      },
-      "electricity_access": {
-        "latest": {
-          "year": 2024,
-          "eg_elc_accs_zs": null
-        },
-        "history": [
-          {
-            "year": 2023,
-            "eg_elc_accs_zs": 51.3
-          },
-          {
-            "year": 2024,
-            "eg_elc_accs_zs": null
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "eg_elc_accs_zs": 51.3
         }
       }
     }
