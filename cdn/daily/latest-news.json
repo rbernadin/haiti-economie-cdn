@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-06-13T14:00:41.137Z",
+  "generated_at": "2026-06-14T14:00:49.669Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 10965,
+      "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
+      "date": "2026-06-13T23:20:09",
+      "modified": "2026-06-13T23:26:10",
+      "title": {
+        "rendered": "Carburants : Haïti révise encore les prix à la pompe"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti révise les prix des carburants dès le 15 juin 2026 : gazoline à 700 gourdes, gasoil à 790 et kérosène à 785.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10962,
+      "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
+      "date": "2026-06-13T15:42:21",
+      "modified": "2026-06-13T15:42:22",
+      "title": {
+        "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Venezuela a déployé des troupes dans une vaste zone riche en or pour reprendre le contrôle de sites miniers aux mains de groupes armés.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/venezuela-zone-riche-en-or-armee-gold-belt.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 10959,
+      "slug": "american-airlines-annonce-son-retour-en-haiti-en-novembre",
+      "date": "2026-06-13T13:08:41",
+      "modified": "2026-06-13T13:14:16",
+      "title": {
+        "rendered": "American Airlines annonce son retour en Haïti en novembre"
+      },
+      "excerpt": {
+        "rendered": "<p>American Airlines a annoncé son intention de reprendre ses vols vers Haïti le 1er novembre 2026, en desservant le Cap-Haïtien.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/american-airlines-cap-haitien-haiti-novembre-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10952,
       "slug": "etats-unis-le-deficit-commercial-recule-legerement-en-avril",
@@ -159,60 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/kevin-warsh-fed-prestation-serment-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10907,
-      "slug": "accord-etats-unis-iran-pour-rouvrir-hormuz",
-      "date": "2026-05-24T20:30:57",
-      "modified": "2026-05-24T20:39:38",
-      "title": {
-        "rendered": "États-Unis–Iran : un mémorandum d’entente sur Hormuz pourrait soulager les prix du pétrole, mais l’incertitude demeure"
-      },
-      "excerpt": {
-        "rendered": "<p>Les États-Unis et l’Iran discutent d’un accord préliminaire pour prolonger le cessez-le-feu et rouvrir le détroit d’Hormuz.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/etats-unis-iran-hormuz-prix-petrole-haiti-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10909,
-      "slug": "salaires-minimums-2026-une-hausse-necessaire-face-a-un-cout-de-la-vie-toujours-eleve",
-      "date": "2026-05-24T17:28:10",
-      "modified": "2026-05-24T19:59:57",
-      "title": {
-        "rendered": "Salaires minimums 2026 : une hausse nécessaire face à un coût de la vie toujours élevé ?"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti relève les salaires minimums, mais le coût de l’alimentation et l’incertitude économique limitent l’impact.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-haiti-2026-cout-de-la-vie.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10903,
-      "slug": "cite-soleil-la-violence-armee-devient-aussi-un-choc-economique-local",
-      "date": "2026-05-19T08:36:55",
-      "modified": "2026-05-19T08:36:56",
-      "title": {
-        "rendered": "Cité Soleil : la violence armée devient aussi un choc économique local"
-      },
-      "excerpt": {
-        "rendered": "<p>À Cité Soleil, la violence armée déplace des milliers de personnes et fragilise soins, travail et activité locale.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cite-soleil-violence-choc-economique-haiti-2026.png",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
