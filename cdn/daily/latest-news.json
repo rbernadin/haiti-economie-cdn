@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-15T15:24:07.205Z",
+  "generated_at": "2026-06-16T15:05:07.519Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11011,
+      "slug": "budget-rectificatif-2025-2026-lenveloppe-passe-a-360-3-milliards-de-gourdes",
+      "date": "2026-06-15T21:39:45",
+      "modified": "2026-06-15T21:41:29",
+      "title": {
+        "rendered": "Budget rectificatif 2025-2026 : l’enveloppe passe à 360.3 milliards de gourdes"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Gouvernement a adopté en Conseil des ministres le budget rectificatif 2025-2026, dont l’enveloppe globale est portée à 360.3 milliards de gourdes, selon un communiqué du Ministère de l’Économie et des Finances (MEF). Le MEF présente cette révision comme un ajustement destiné à renforcer plusieurs priorités annoncées par les autorités, notamment la sécurité publique, l’organisation […]</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-rectificatif-haiti-2025-2026-mef-communique.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11008,
+      "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
+      "date": "2026-06-15T20:20:07",
+      "modified": "2026-06-15T22:14:52",
+      "title": {
+        "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
+      },
+      "excerpt": {
+        "rendered": "<p>La réserve stratégique américaine de pétrole tombe à son plus bas niveau depuis 1983, avec des risques indirects pour Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/reserve-strategique-petrole-etats-unis-1983-1200x675-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 10965,
       "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/budget-haiti-2025-2026-execution-services-publics.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10920,
-      "slug": "haiti-vers-une-huitieme-annee-de-contraction-ce-que-cela-signifie-pour-les-menages",
-      "date": "2026-05-25T10:50:13",
-      "modified": "2026-05-25T10:50:15",
-      "title": {
-        "rendered": "Haïti vers une huitième année de contraction : ce que cela signifie pour les ménages"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti pourrait connaître une huitième année de contraction, avec moins d’emplois, des revenus faibles et un coût de la vie élevé.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/haiti-croissance-pib-reel-contraction-economique-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10916,
-      "slug": "kevin-warsh-prend-la-tete-de-la-fed-dans-un-contexte-dincertitude-economique",
-      "date": "2026-05-24T21:16:44",
-      "modified": "2026-05-24T21:16:45",
-      "title": {
-        "rendered": "Kevin Warsh prend la tête de la Fed dans un contexte d’incertitude économique"
-      },
-      "excerpt": {
-        "rendered": "<p>Kevin Warsh prend la tête de la Fed, une transition à surveiller pour le dollar, les taux et l’économie haïtienne.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/kevin-warsh-fed-prestation-serment-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
