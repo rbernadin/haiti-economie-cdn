@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-06-16T15:05:07.519Z",
+  "generated_at": "2026-06-17T14:28:12.999Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11036,
+      "slug": "g7-2026-economie-mondiale-ukraine-et-moyen-orient-au-coeur-du-sommet-devian",
+      "date": "2026-06-16T12:44:22",
+      "modified": "2026-06-17T10:23:09",
+      "title": {
+        "rendered": "G7 2026 : économie mondiale, Ukraine et Moyen-Orient au cœur du sommet d’Évian"
+      },
+      "excerpt": {
+        "rendered": "<p>Le sommet du G7 2026 à Évian a porté sur l’économie mondiale, l’Ukraine, le Moyen-Orient, l’IA, la dette et les effets possibles pour Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/sommet-g7-2026-evian-dirigeants.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11026,
+      "slug": "agences-de-voyage-quand-la-regulation-devient-une-barriere-a-lactivite-economique",
+      "date": "2026-06-16T11:13:39",
+      "modified": "2026-06-17T01:18:11",
+      "title": {
+        "rendered": "Agences de voyage : quand la régulation devient une barrière à l’activité économique"
+      },
+      "excerpt": {
+        "rendered": "<p>Le MICT fixe les pièces requises pour les agences de voyage. Une régulation utile ou une barrière de plus pour entreprendre en Haïti ?</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/formalites-agence-voyage-haiti-administration-1200x675-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11011,
       "slug": "budget-rectificatif-2025-2026-lenveloppe-passe-a-360-3-milliards-de-gourdes",
       "date": "2026-06-15T21:39:45",
-      "modified": "2026-06-15T21:41:29",
+      "modified": "2026-06-17T01:20:10",
       "title": {
         "rendered": "Budget rectificatif 2025-2026 : l’enveloppe passe à 360.3 milliards de gourdes"
       },
@@ -24,7 +60,7 @@
       "id": 11008,
       "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
       "date": "2026-06-15T20:20:07",
-      "modified": "2026-06-15T22:14:52",
+      "modified": "2026-06-17T01:22:48",
       "title": {
         "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
       },
@@ -42,7 +78,7 @@
       "id": 10965,
       "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
       "date": "2026-06-13T23:20:09",
-      "modified": "2026-06-13T23:26:10",
+      "modified": "2026-06-17T01:28:39",
       "title": {
         "rendered": "Carburants : Haïti révise encore les prix à la pompe"
       },
@@ -60,7 +96,7 @@
       "id": 10962,
       "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
       "date": "2026-06-13T15:42:21",
-      "modified": "2026-06-13T15:42:22",
+      "modified": "2026-06-17T01:29:22",
       "title": {
         "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
       },
@@ -96,7 +132,7 @@
       "id": 10952,
       "slug": "etats-unis-le-deficit-commercial-recule-legerement-en-avril",
       "date": "2026-06-09T23:52:54",
-      "modified": "2026-06-09T23:52:55",
+      "modified": "2026-06-17T01:32:11",
       "title": {
         "rendered": "États-Unis : le déficit commercial recule légèrement en avril"
       },
@@ -114,7 +150,7 @@
       "id": 8251,
       "slug": "securite-alimentaire-haiti-doit-en-faire-sa-priorite-numero-un",
       "date": "2026-06-09T18:24:25",
-      "modified": "2026-06-09T18:27:03",
+      "modified": "2026-06-17T01:36:02",
       "title": {
         "rendered": "Sécurité alimentaire en Haïti : de l’urgence humanitaire à la priorité nationale"
       },
@@ -132,7 +168,7 @@
       "id": 10941,
       "slug": "petrole-les-prix-reculent-mais-haiti-reste-exposee-aux-couts-des-carburants",
       "date": "2026-06-08T09:55:14",
-      "modified": "2026-06-08T09:55:15",
+      "modified": "2026-06-17T01:41:57",
       "title": {
         "rendered": "Pétrole : les prix reculent, mais Haïti reste exposée aux coûts des carburants"
       },
@@ -150,7 +186,7 @@
       "id": 10938,
       "slug": "transport-le-choc-qui-peut-relancer-la-pression-sur-les-prix-en-haiti",
       "date": "2026-06-08T06:09:00",
-      "modified": "2026-06-08T01:31:17",
+      "modified": "2026-06-17T01:46:47",
       "title": {
         "rendered": "Transport : le choc qui peut relancer la pression sur les prix en Haïti"
       },
@@ -168,7 +204,7 @@
       "id": 10933,
       "slug": "les-prix-mondiaux-du-riz-repartent-a-la-hausse-en-mai-selon-la-fao",
       "date": "2026-06-08T00:37:11",
-      "modified": "2026-06-08T00:37:12",
+      "modified": "2026-06-17T01:50:50",
       "title": {
         "rendered": "Les prix mondiaux du riz repartent à la hausse en mai, selon la FAO"
       },
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/prix-mondial-riz-fao-haiti-2026-16x9-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10936,
-      "slug": "haiti-linflation-rebondit-a-21-0-en-avril-selon-lihsi",
-      "date": "2026-06-05T00:57:21",
-      "modified": "2026-06-08T01:14:27",
-      "title": {
-        "rendered": "Haïti : l’inflation rebondit à 21.0 % en avril, selon l’IHSI"
-      },
-      "excerpt": {
-        "rendered": "<p>Sur un mois, les prix ont augmenté de 3.4 %, contre 0.8 % le mois précédent. En glissement annuel, l’inflation s’est établie à 21.0 %, contre 20.6 % en mars.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/inflation-haiti-pouvoir-achat-portefeuille-vide.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10927,
-      "slug": "budget-2025-2026-quand-les-credits-tardent-a-devenir-services",
-      "date": "2026-05-26T06:09:00",
-      "modified": "2026-06-07T12:21:33",
-      "title": {
-        "rendered": "Budget 2025-2026 : quand les crédits tardent à devenir services"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti n’avait utilisé que 45.74 % de ses crédits à fin avril, révélant une exécution lente du budget 2025-2026.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/budget-haiti-2025-2026-execution-services-publics.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
