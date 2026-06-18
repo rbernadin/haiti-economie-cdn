@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-17T14:28:12.999Z",
+  "generated_at": "2026-06-18T14:23:11.132Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11047,
+      "slug": "ibc-airways-lance-une-liaison-fort-lauderdale-les-cayes",
+      "date": "2026-06-18T08:56:08",
+      "modified": "2026-06-18T08:56:09",
+      "title": {
+        "rendered": "IBC Airways lance une liaison Fort Lauderdale–Les Cayes"
+      },
+      "excerpt": {
+        "rendered": "<p>IBC Airways lance une liaison Fort Lauderdale–Les Cayes, une nouvelle connexion aérienne entre la Floride et le sud d’Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/ibc-airways-fort-lauderdale-les-cayes-1200x675-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11036,
       "slug": "g7-2026-economie-mondiale-ukraine-et-moyen-orient-au-coeur-du-sommet-devian",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/inflation-transport-haiti-tap-tap-avril-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10933,
-      "slug": "les-prix-mondiaux-du-riz-repartent-a-la-hausse-en-mai-selon-la-fao",
-      "date": "2026-06-08T00:37:11",
-      "modified": "2026-06-17T01:50:50",
-      "title": {
-        "rendered": "Les prix mondiaux du riz repartent à la hausse en mai, selon la FAO"
-      },
-      "excerpt": {
-        "rendered": "<p>Les prix mondiaux du riz repartent à la hausse en mai 2026, selon la FAO, mais restent inférieurs à leur niveau de 2025.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/prix-mondial-riz-fao-haiti-2026-16x9-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
