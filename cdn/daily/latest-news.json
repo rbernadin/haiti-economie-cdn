@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-18T14:23:11.132Z",
+  "generated_at": "2026-06-19T14:21:50.022Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11060,
+      "slug": "choc-energetique-haiti-face-au-meme-dilemme-budgetaire-que-le-reste-du-monde",
+      "date": "2026-06-19T05:49:00",
+      "modified": "2026-06-19T00:52:00",
+      "title": {
+        "rendered": "Choc énergétique : Haïti face au même dilemme budgétaire que le reste du monde"
+      },
+      "excerpt": {
+        "rendered": "<p>Le FMI alerte sur le coût budgétaire des mesures face au choc énergétique. Haïti combine ajustement des prix, subventions implicites et baisse partielle des carburants.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/choc-energetique-haiti-prix-carburant-budget-fmi-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11050,
+      "slug": "accord-etats-unis-iran-soulagement-prudent-a-letranger-reactions-divisees-a-washington",
+      "date": "2026-06-18T13:03:07",
+      "modified": "2026-06-18T13:05:35",
+      "title": {
+        "rendered": "Accord États-Unis–Iran : soulagement prudent à l’étranger, réactions divisées à Washington"
+      },
+      "excerpt": {
+        "rendered": "<p>L’accord intérimaire entre les États-Unis et l’Iran suscite un soulagement prudent à l’international et des réactions divisées à Washington.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/accord-etats-unis-iran-reactions-internationales-2026.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11047,
       "slug": "ibc-airways-lance-une-liaison-fort-lauderdale-les-cayes",
@@ -147,6 +183,24 @@
       "categories_slugs": []
     },
     {
+      "id": 11056,
+      "slug": "budget-2026-2027-le-mef-lance-le-processus-delaboration",
+      "date": "2026-06-12T19:13:00",
+      "modified": "2026-06-18T19:15:00",
+      "title": {
+        "rendered": "Budget 2026-2027 : le MEF lance le processus d’élaboration"
+      },
+      "excerpt": {
+        "rendered": "<p>Le MEF lance le processus d’élaboration du budget 2026-2027, avec des priorités axées sur la sécurité, les élections et la discipline budgétaire.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-haiti-2026-2027-lancement-processus-mef.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
       "id": 10952,
       "slug": "etats-unis-le-deficit-commercial-recule-legerement-en-avril",
       "date": "2026-06-09T23:52:54",
@@ -159,60 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/deficit-commercial-etats-unis-avril-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 8251,
-      "slug": "securite-alimentaire-haiti-doit-en-faire-sa-priorite-numero-un",
-      "date": "2026-06-09T18:24:25",
-      "modified": "2026-06-17T01:36:02",
-      "title": {
-        "rendered": "Sécurité alimentaire en Haïti : de l’urgence humanitaire à la priorité nationale"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti doit faire de la sécurité alimentaire une priorité nationale face à la faim, l’insécurité et la fragilité économique.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/securite-alimentaire-haiti-production-agricole.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10941,
-      "slug": "petrole-les-prix-reculent-mais-haiti-reste-exposee-aux-couts-des-carburants",
-      "date": "2026-06-08T09:55:14",
-      "modified": "2026-06-17T01:41:57",
-      "title": {
-        "rendered": "Pétrole : les prix reculent, mais Haïti reste exposée aux coûts des carburants"
-      },
-      "excerpt": {
-        "rendered": "<p>Les prix du pétrole reculent, mais Haïti reste exposée aux coûts de l’essence, du diesel et à leur impact sur le transport.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10938,
-      "slug": "transport-le-choc-qui-peut-relancer-la-pression-sur-les-prix-en-haiti",
-      "date": "2026-06-08T06:09:00",
-      "modified": "2026-06-17T01:46:47",
-      "title": {
-        "rendered": "Transport : le choc qui peut relancer la pression sur les prix en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Le bond du transport en avril 2026 peut peser sur les ménages, l’alimentation et les coûts de distribution en Haïti, selon l’IHSI.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/inflation-transport-haiti-tap-tap-avril-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
