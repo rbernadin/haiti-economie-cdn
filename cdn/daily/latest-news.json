@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-19T14:21:50.022Z",
+  "generated_at": "2026-06-20T14:00:54.093Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11064,
+      "slug": "haiti-le-solaire-individuel-ne-remplacera-pas-une-politique-nationale-de-lelectricite",
+      "date": "2026-06-20T00:52:20",
+      "modified": "2026-06-20T00:56:42",
+      "title": {
+        "rendered": "Haïti : le solaire individuel ne remplacera pas une politique nationale de l’électricité"
+      },
+      "excerpt": {
+        "rendered": "<p>L’allègement fiscal sur les équipements solaires importés peut aider, mais ne remplacera pas une vraie politique nationale de l’électricité.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/energie-solaire-haiti-politique-nationale-electricite-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11060,
       "slug": "choc-energetique-haiti-face-au-meme-dilemme-budgetaire-que-le-reste-du-monde",
@@ -101,7 +119,7 @@
         "rendered": "Budget rectificatif 2025-2026 : l’enveloppe passe à 360.3 milliards de gourdes"
       },
       "excerpt": {
-        "rendered": "<p>Le Gouvernement a adopté en Conseil des ministres le budget rectificatif 2025-2026, dont l’enveloppe globale est portée à 360.3 milliards de gourdes, selon un communiqué du Ministère de l’Économie et des Finances (MEF). Le MEF présente cette révision comme un ajustement destiné à renforcer plusieurs priorités annoncées par les autorités, notamment la sécurité publique, l’organisation […]</p>\n",
+        "rendered": "<p>Le Gouvernement a adopté en Conseil des ministres le budget rectificatif 2025-2026, dont l’enveloppe globale est portée à 360.3 milliards de gourdes, selon un communiqué du Ministère de l’Économie et des Finances (MEF). Le MEF présente cette révision comme un ajustement destiné à renforcer plusieurs priorités annoncées par les autorités, notamment la sécurité publique, l’organisation…</p>\n",
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-rectificatif-haiti-2025-2026-mef-communique.jpg",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-haiti-2026-2027-lancement-processus-mef.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10952,
-      "slug": "etats-unis-le-deficit-commercial-recule-legerement-en-avril",
-      "date": "2026-06-09T23:52:54",
-      "modified": "2026-06-17T01:32:11",
-      "title": {
-        "rendered": "États-Unis : le déficit commercial recule légèrement en avril"
-      },
-      "excerpt": {
-        "rendered": "<p>Le déficit commercial des États-Unis s’est légèrement réduit en avril, malgré une hausse simultanée des exportations et des importations. Il a diminué de 1.2 % par rapport à mars.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/deficit-commercial-etats-unis-avril-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
