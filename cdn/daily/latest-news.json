@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-20T14:00:54.093Z",
+  "generated_at": "2026-06-21T14:01:19.770Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
     {
       "id": 11064,
       "slug": "haiti-le-solaire-individuel-ne-remplacera-pas-une-politique-nationale-de-lelectricite",
       "date": "2026-06-20T00:52:20",
-      "modified": "2026-06-20T00:56:42",
+      "modified": "2026-06-20T10:04:55",
       "title": {
-        "rendered": "Haïti : le solaire individuel ne remplacera pas une politique nationale de l’électricité"
+        "rendered": "Haïti : l’allègement fiscal sur le solaire peut aider quelques ménages, mais laisser la majorité dans le noir"
       },
       "excerpt": {
         "rendered": "<p>L’allègement fiscal sur les équipements solaires importés peut aider, mais ne remplacera pas une vraie politique nationale de l’électricité.</p>\n",
