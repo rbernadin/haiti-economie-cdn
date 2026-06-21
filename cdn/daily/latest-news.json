@@ -1,179 +1,161 @@
 {
-  "generated_at": "2026-06-06T13:59:18.908Z",
+  "generated_at": "2026-06-21T14:01:19.770Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
     {
-      "id": 10927,
-      "slug": "budget-2025-2026-quand-les-credits-tardent-a-devenir-services",
-      "date": "2026-05-26T06:09:00",
-      "modified": "2026-05-25T23:10:42",
+      "id": 11064,
+      "slug": "haiti-le-solaire-individuel-ne-remplacera-pas-une-politique-nationale-de-lelectricite",
+      "date": "2026-06-20T00:52:20",
+      "modified": "2026-06-20T10:04:55",
       "title": {
-        "rendered": "Budget 2025-2026 : quand les crédits tardent à devenir services"
+        "rendered": "Haïti : l’allègement fiscal sur le solaire peut aider quelques ménages, mais laisser la majorité dans le noir"
       },
       "excerpt": {
-        "rendered": "<p>Haïti n’avait utilisé que 45.74 % de ses crédits à fin avril, révélant une exécution lente du budget 2025-2026.</p>\n",
+        "rendered": "<p>L’allègement fiscal sur les équipements solaires importés peut aider, mais ne remplacera pas une vraie politique nationale de l’électricité.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/budget-haiti-2025-2026-execution-services-publics.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/energie-solaire-haiti-politique-nationale-electricite-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10920,
-      "slug": "haiti-vers-une-huitieme-annee-de-contraction-ce-que-cela-signifie-pour-les-menages",
-      "date": "2026-05-25T10:50:13",
-      "modified": "2026-05-25T10:50:15",
+      "id": 11060,
+      "slug": "choc-energetique-haiti-face-au-meme-dilemme-budgetaire-que-le-reste-du-monde",
+      "date": "2026-06-19T05:49:00",
+      "modified": "2026-06-19T00:52:00",
       "title": {
-        "rendered": "Haïti vers une huitième année de contraction : ce que cela signifie pour les ménages"
+        "rendered": "Choc énergétique : Haïti face au même dilemme budgétaire que le reste du monde"
       },
       "excerpt": {
-        "rendered": "<p>Haïti pourrait connaître une huitième année de contraction, avec moins d’emplois, des revenus faibles et un coût de la vie élevé.</p>\n",
+        "rendered": "<p>Le FMI alerte sur le coût budgétaire des mesures face au choc énergétique. Haïti combine ajustement des prix, subventions implicites et baisse partielle des carburants.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/haiti-croissance-pib-reel-contraction-economique-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/choc-energetique-haiti-prix-carburant-budget-fmi-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10916,
-      "slug": "kevin-warsh-prend-la-tete-de-la-fed-dans-un-contexte-dincertitude-economique",
-      "date": "2026-05-24T21:16:44",
-      "modified": "2026-05-24T21:16:45",
+      "id": 11050,
+      "slug": "accord-etats-unis-iran-soulagement-prudent-a-letranger-reactions-divisees-a-washington",
+      "date": "2026-06-18T13:03:07",
+      "modified": "2026-06-18T13:05:35",
       "title": {
-        "rendered": "Kevin Warsh prend la tête de la Fed dans un contexte d’incertitude économique"
+        "rendered": "Accord États-Unis–Iran : soulagement prudent à l’étranger, réactions divisées à Washington"
       },
       "excerpt": {
-        "rendered": "<p>Kevin Warsh prend la tête de la Fed, une transition à surveiller pour le dollar, les taux et l’économie haïtienne.</p>\n",
+        "rendered": "<p>L’accord intérimaire entre les États-Unis et l’Iran suscite un soulagement prudent à l’international et des réactions divisées à Washington.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/kevin-warsh-fed-prestation-serment-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/accord-etats-unis-iran-reactions-internationales-2026.png",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10907,
-      "slug": "accord-etats-unis-iran-pour-rouvrir-hormuz",
-      "date": "2026-05-24T20:30:57",
-      "modified": "2026-05-24T20:39:38",
+      "id": 11047,
+      "slug": "ibc-airways-lance-une-liaison-fort-lauderdale-les-cayes",
+      "date": "2026-06-18T08:56:08",
+      "modified": "2026-06-18T08:56:09",
       "title": {
-        "rendered": "États-Unis–Iran : un mémorandum d’entente sur Hormuz pourrait soulager les prix du pétrole, mais l’incertitude demeure"
+        "rendered": "IBC Airways lance une liaison Fort Lauderdale–Les Cayes"
       },
       "excerpt": {
-        "rendered": "<p>Les États-Unis et l’Iran discutent d’un accord préliminaire pour prolonger le cessez-le-feu et rouvrir le détroit d’Hormuz.</p>\n",
+        "rendered": "<p>IBC Airways lance une liaison Fort Lauderdale–Les Cayes, une nouvelle connexion aérienne entre la Floride et le sud d’Haïti.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/etats-unis-iran-hormuz-prix-petrole-haiti-1200x675-1.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/ibc-airways-fort-lauderdale-les-cayes-1200x675-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10909,
-      "slug": "salaires-minimums-2026-une-hausse-necessaire-face-a-un-cout-de-la-vie-toujours-eleve",
-      "date": "2026-05-24T17:28:10",
-      "modified": "2026-05-24T19:59:57",
+      "id": 11036,
+      "slug": "g7-2026-economie-mondiale-ukraine-et-moyen-orient-au-coeur-du-sommet-devian",
+      "date": "2026-06-16T12:44:22",
+      "modified": "2026-06-17T10:23:09",
       "title": {
-        "rendered": "Salaires minimums 2026 : une hausse nécessaire face à un coût de la vie toujours élevé ?"
+        "rendered": "G7 2026 : économie mondiale, Ukraine et Moyen-Orient au cœur du sommet d’Évian"
       },
       "excerpt": {
-        "rendered": "<p>Haïti relève les salaires minimums, mais le coût de l’alimentation et l’incertitude économique limitent l’impact.</p>\n",
+        "rendered": "<p>Le sommet du G7 2026 à Évian a porté sur l’économie mondiale, l’Ukraine, le Moyen-Orient, l’IA, la dette et les effets possibles pour Haïti.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-haiti-2026-cout-de-la-vie.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/sommet-g7-2026-evian-dirigeants.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10903,
-      "slug": "cite-soleil-la-violence-armee-devient-aussi-un-choc-economique-local",
-      "date": "2026-05-19T08:36:55",
-      "modified": "2026-05-19T08:36:56",
+      "id": 11026,
+      "slug": "agences-de-voyage-quand-la-regulation-devient-une-barriere-a-lactivite-economique",
+      "date": "2026-06-16T11:13:39",
+      "modified": "2026-06-17T01:18:11",
       "title": {
-        "rendered": "Cité Soleil : la violence armée devient aussi un choc économique local"
+        "rendered": "Agences de voyage : quand la régulation devient une barrière à l’activité économique"
       },
       "excerpt": {
-        "rendered": "<p>À Cité Soleil, la violence armée déplace des milliers de personnes et fragilise soins, travail et activité locale.</p>\n",
+        "rendered": "<p>Le MICT fixe les pièces requises pour les agences de voyage. Une régulation utile ou une barrière de plus pour entreprendre en Haïti ?</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/cite-soleil-violence-choc-economique-haiti-2026.png",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/formalites-agence-voyage-haiti-administration-1200x675-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10899,
-      "slug": "inflation-americaine-quels-risques-pour-les-prix-les-importations-et-la-diaspora-haitienne",
-      "date": "2026-05-12T11:07:34",
-      "modified": "2026-05-12T11:07:35",
+      "id": 11011,
+      "slug": "budget-rectificatif-2025-2026-lenveloppe-passe-a-360-3-milliards-de-gourdes",
+      "date": "2026-06-15T21:39:45",
+      "modified": "2026-06-17T01:20:10",
       "title": {
-        "rendered": "Inflation américaine : quels risques pour les prix, les importations et la diaspora haïtienne ?"
+        "rendered": "Budget rectificatif 2025-2026 : l’enveloppe passe à 360.3 milliards de gourdes"
       },
       "excerpt": {
-        "rendered": "<p>L’inflation américaine peut peser sur Haïti via les importations, l’énergie, les coûts de transport et les transferts de la diaspora.</p>\n",
+        "rendered": "<p>Le Gouvernement a adopté en Conseil des ministres le budget rectificatif 2025-2026, dont l’enveloppe globale est portée à 360.3 milliards de gourdes, selon un communiqué du Ministère de l’Économie et des Finances (MEF). Le MEF présente cette révision comme un ajustement destiné à renforcer plusieurs priorités annoncées par les autorités, notamment la sécurité publique, l’organisation…</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/inflation-americaine-prix-dollar-energie-avril-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-rectificatif-haiti-2025-2026-mef-communique.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10894,
-      "slug": "petrole-le-wti-rebondit-autour-de-100-dollars-sur-fond-dincertitude-sur-un-cessez-le-feu",
-      "date": "2026-05-12T08:12:25",
-      "modified": "2026-05-12T08:13:17",
+      "id": 11008,
+      "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
+      "date": "2026-06-15T20:20:07",
+      "modified": "2026-06-17T01:22:48",
       "title": {
-        "rendered": "Pétrole : le WTI rebondit autour de 100 dollars, sur fond d’incertitude sur un cessez-le-feu"
+        "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
       },
       "excerpt": {
-        "rendered": "<p>Le WTI rebondit autour de 100 dollars, porté par l’incertitude sur un cessez-le-feu et les risques pour l’offre mondiale.</p>\n",
+        "rendered": "<p>La réserve stratégique américaine de pétrole tombe à son plus bas niveau depuis 1983, avec des risques indirects pour Haïti.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/petrole-wti-detroit-ormuz-prix-energie-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/reserve-strategique-petrole-etats-unis-1983-1200x675-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10876,
-      "slug": "panier-alimentaire-en-haiti-le-cout-atteint-26-387-gourdes-en-avril-2025",
-      "date": "2026-05-11T21:55:41",
-      "modified": "2026-05-11T21:55:42",
+      "id": 10965,
+      "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
+      "date": "2026-06-13T23:20:09",
+      "modified": "2026-06-17T01:28:39",
       "title": {
-        "rendered": "Panier alimentaire en Haïti : le coût atteint 26 387 gourdes en avril 2025"
+        "rendered": "Carburants : Haïti révise encore les prix à la pompe"
       },
       "excerpt": {
-        "rendered": "<p>Le panier alimentaire national augmente de 3 % en avril 2025, mais reste en baisse de 10 % par rapport à avril 2024.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/insecurite-alimentaire-haiti-riz-16x9.jpg.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10862,
-      "slug": "produits-petroliers-en-haiti-baisse-de-25-gourdes-sur-la-gazoline-et-le-gazoil",
-      "date": "2026-05-09T09:48:47",
-      "modified": "2026-05-09T09:48:48",
-      "title": {
-        "rendered": "Produits pétroliers en Haïti : baisse de 25 gourdes sur la gazoline et le gazoil"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti baisse les prix des produits pétroliers : la gazoline passe à 700 gourdes, le gazoil à 825 gourdes, le kérosène reste à 845.</p>\n",
+        "rendered": "<p>Haïti révise les prix des carburants dès le 15 juin 2026 : gazoline à 700 gourdes, gasoil à 790 et kérosène à 785.</p>\n",
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
@@ -183,36 +165,54 @@
       "categories_slugs": []
     },
     {
-      "id": 10859,
-      "slug": "construire-a-miami-quand-letat-seffondre-en-haiti-une-priorite-difficile-a-defendre",
-      "date": "2026-05-07T13:45:36",
-      "modified": "2026-05-07T13:45:37",
+      "id": 10962,
+      "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
+      "date": "2026-06-13T15:42:21",
+      "modified": "2026-06-17T01:29:22",
       "title": {
-        "rendered": "Construire à Miami quand l’État s’effondre en Haïti : une priorité difficile à défendre"
+        "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
       },
       "excerpt": {
-        "rendered": "<p>Le lancement du projet de reconstruction du Consulat à Miami est un symbole troublant des priorités d’un gouvernement de transition dans un pays en crise profonde. </p>\n",
+        "rendered": "<p>Le Venezuela a déployé des troupes dans une vaste zone riche en or pour reprendre le contrôle de sites miniers aux mains de groupes armés.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/consulat-haiti-miami-reconstruction-gouvernement-transition-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/venezuela-zone-riche-en-or-armee-gold-belt.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
       "categories_slugs": []
     },
     {
-      "id": 10828,
-      "slug": "salaire-minimum-letat-fixe-a-1-000-gourdes-le-salaire-journalier-dans-la-sous-traitance",
-      "date": "2026-05-05T13:01:05",
-      "modified": "2026-05-05T13:01:06",
+      "id": 10959,
+      "slug": "american-airlines-annonce-son-retour-en-haiti-en-novembre",
+      "date": "2026-06-13T13:08:41",
+      "modified": "2026-06-13T13:14:16",
       "title": {
-        "rendered": "Salaire minimum : l’État fixe à 1 000 gourdes le salaire journalier dans la sous-traitance"
+        "rendered": "American Airlines annonce son retour en Haïti en novembre"
       },
       "excerpt": {
-        "rendered": "<p>Haïti relève à 1 000 gourdes le salaire minimum dans la sous-traitance, avec un appui du FAES et des mesures sur l’énergie.</p>\n",
+        "rendered": "<p>American Airlines a annoncé son intention de reprendre ses vols vers Haïti le 1er novembre 2026, en desservant le Cap-Haïtien.</p>\n",
         "protected": false
       },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/salaire-minimum-sous-traitance-haiti-caracol-2026.jpg",
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/american-airlines-cap-haitien-haiti-novembre-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11056,
+      "slug": "budget-2026-2027-le-mef-lance-le-processus-delaboration",
+      "date": "2026-06-12T19:13:00",
+      "modified": "2026-06-18T19:15:00",
+      "title": {
+        "rendered": "Budget 2026-2027 : le MEF lance le processus d’élaboration"
+      },
+      "excerpt": {
+        "rendered": "<p>Le MEF lance le processus d’élaboration du budget 2026-2027, avec des priorités axées sur la sécurité, les élections et la discipline budgétaire.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-haiti-2026-2027-lancement-processus-mef.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],

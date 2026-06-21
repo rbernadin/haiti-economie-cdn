@@ -1,52 +1,16 @@
 {
-  "asof": "Wed Jun 03",
-  "generatedAt": "2026-06-06T13:24:40.445Z",
+  "asof": "Thu Jun 18",
+  "generatedAt": "2026-06-21T13:27:18.455Z",
   "data": {
     "latest": {
-      "date": "Wed Jun 03",
-      "taux_ref": 130.5446,
-      "volume_achat": 20517684.28,
-      "volume_vente": 20173872.72
+      "date": "Thu Jun 18",
+      "taux_ref": 130.5329,
+      "volume_achat": 13295064.1,
+      "volume_vente": 13524224.55
     },
-    "dailyPct": -0.020678309831530604,
-    "variant": "green",
+    "dailyPct": 0.05802669381223256,
+    "variant": "red",
     "chart": [
-      {
-        "date": "Tue May 05",
-        "ref": 130.5431
-      },
-      {
-        "date": "Wed May 06",
-        "ref": 130.4879
-      },
-      {
-        "date": "Thu May 07",
-        "ref": 130.5987
-      },
-      {
-        "date": "Fri May 08",
-        "ref": 130.4795
-      },
-      {
-        "date": "Mon May 11",
-        "ref": 130.5508
-      },
-      {
-        "date": "Wed May 13",
-        "ref": 130.5238
-      },
-      {
-        "date": "Thu May 14",
-        "ref": 130.6123
-      },
-      {
-        "date": "Fri May 15",
-        "ref": 130.5106
-      },
-      {
-        "date": "Tue May 19",
-        "ref": 130.5363
-      },
       {
         "date": "Wed May 20",
         "ref": 130.6091
@@ -90,6 +54,42 @@
       {
         "date": "Wed Jun 03",
         "ref": 130.5446
+      },
+      {
+        "date": "Fri Jun 05",
+        "ref": 130.5051
+      },
+      {
+        "date": "Mon Jun 08",
+        "ref": 130.479
+      },
+      {
+        "date": "Tue Jun 09",
+        "ref": 130.5608
+      },
+      {
+        "date": "Wed Jun 10",
+        "ref": 130.5218
+      },
+      {
+        "date": "Thu Jun 11",
+        "ref": 130.4662
+      },
+      {
+        "date": "Fri Jun 12",
+        "ref": 130.3911
+      },
+      {
+        "date": "Mon Jun 15",
+        "ref": 130.4923
+      },
+      {
+        "date": "Wed Jun 17",
+        "ref": 130.4572
+      },
+      {
+        "date": "Thu Jun 18",
+        "ref": 130.5329
       }
     ]
   }
