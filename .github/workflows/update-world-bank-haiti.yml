@@ -1,0 +1,49 @@
+name: Update World Bank Haiti Snapshots
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 13 * * *" # daily 13:20 UTC
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Generate World Bank Haiti snapshots
+        env:
+          API_BASE: https://haiti-economie-api.onrender.com
+        run: node scripts/update-world-bank-haiti.mjs
+
+      - name: Show output
+        run: |
+          echo "---- cdn/daily/world-bank-haiti ----"
+          find cdn/daily/world-bank-haiti -maxdepth 3 -type f | sort || true
+          echo "---- git status ----"
+          git status --porcelain || true
+
+      - name: Commit & push if changed
+        run: |
+          git add -A cdn/daily/world-bank-haiti
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update World Bank Haiti snapshots"
+            git push
+          else
+            echo "No changes to commit."
+          fi
