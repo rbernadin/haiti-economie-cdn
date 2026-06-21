@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-06-21T21:43:33.251Z",
+  "country_code": "HTI",
+  "count": 13,
+  "indicators": [
+    {
+      "code": "NY.GDP.PCAP.PP.KD",
+      "slug": "pib-par-habitant-ppa-constant-2021",
+      "title": "PIB par habitant, PPA",
+      "unit": "dollars internationaux constants de 2021",
+      "category": "Économie générale",
+      "evergreen_path": "/pib-par-habitant-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.PCAP.PP.KD.json",
+        "by_slug": "by-slug/pib-par-habitant-ppa-constant-2021.json"
+      }
+    },
+    {
+      "code": "NY.GDP.PCAP.PP.CD",
+      "slug": "pib-par-habitant-ppa-courant",
+      "title": "PIB par habitant, PPA",
+      "unit": "dollars internationaux courants",
+      "category": "Économie générale",
+      "evergreen_path": "/pib-par-habitant-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.PCAP.PP.CD.json",
+        "by_slug": "by-slug/pib-par-habitant-ppa-courant.json"
+      }
+    },
+    {
+      "code": "NY.GDP.PCAP.CD",
+      "slug": "pib-par-habitant-usd-courant",
+      "title": "PIB par habitant",
+      "unit": "dollars US courants",
+      "category": "Économie générale",
+      "evergreen_path": "/pib-par-habitant-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.PCAP.CD.json",
+        "by_slug": "by-slug/pib-par-habitant-usd-courant.json"
+      }
+    },
+    {
+      "code": "NY.GDP.MKTP.KD.ZG",
+      "slug": "croissance-pib",
+      "title": "Croissance du PIB réel",
+      "unit": "%",
+      "category": "Économie générale",
+      "evergreen_path": "/croissance-pib-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.MKTP.KD.ZG.json",
+        "by_slug": "by-slug/croissance-pib.json"
+      }
+    },
+    {
+      "code": "NY.GDP.MKTP.CD",
+      "slug": "pib-usd-courant",
+      "title": "PIB",
+      "unit": "dollars US courants",
+      "category": "Économie générale",
+      "evergreen_path": "/pib-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.MKTP.CD.json",
+        "by_slug": "by-slug/pib-usd-courant.json"
+      }
+    },
+    {
+      "code": "NY.GDP.MKTP.PP.KD",
+      "slug": "pib-ppa-constant-2021",
+      "title": "PIB, PPA",
+      "unit": "dollars internationaux constants de 2021",
+      "category": "Économie générale",
+      "evergreen_path": "/pib-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GDP.MKTP.PP.KD.json",
+        "by_slug": "by-slug/pib-ppa-constant-2021.json"
+      }
+    },
+    {
+      "code": "SP.POP.TOTL",
+      "slug": "population",
+      "title": "Population",
+      "unit": "personnes",
+      "category": "Société et développement",
+      "evergreen_path": "/population-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/SP.POP.TOTL.json",
+        "by_slug": "by-slug/population.json"
+      }
+    },
+    {
+      "code": "EG.ELC.ACCS.ZS",
+      "slug": "acces-electricite",
+      "title": "Accès à l’électricité",
+      "unit": "% de la population",
+      "category": "Infrastructures et énergie",
+      "evergreen_path": "/electricite-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/EG.ELC.ACCS.ZS.json",
+        "by_slug": "by-slug/acces-electricite.json"
+      }
+    },
+    {
+      "code": "NY.GNP.PCAP.PP.CD",
+      "slug": "rnb-par-habitant-ppa",
+      "title": "RNB par habitant, PPA",
+      "unit": "dollars internationaux courants",
+      "category": "Société et développement",
+      "evergreen_path": "/rnb-par-habitant-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/NY.GNP.PCAP.PP.CD.json",
+        "by_slug": "by-slug/rnb-par-habitant-ppa.json"
+      }
+    },
+    {
+      "code": "FS.AST.PRVT.GD.ZS",
+      "slug": "credit-prive-pib",
+      "title": "Crédit intérieur au secteur privé",
+      "unit": "% du PIB",
+      "category": "Travail et entreprises",
+      "evergreen_path": "/credit-prive-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/FS.AST.PRVT.GD.ZS.json",
+        "by_slug": "by-slug/credit-prive-pib.json"
+      }
+    },
+    {
+      "code": "BX.TRF.PWKR.CD.DT",
+      "slug": "transferts-fonds",
+      "title": "Transferts personnels reçus",
+      "unit": "dollars US courants",
+      "category": "Haïti et monde",
+      "evergreen_path": "/transferts-fonds-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/BX.TRF.PWKR.CD.DT.json",
+        "by_slug": "by-slug/transferts-fonds.json"
+      }
+    },
+    {
+      "code": "BX.TRF.PWKR.DT.GD.ZS",
+      "slug": "transferts-fonds-pib",
+      "title": "Transferts personnels reçus",
+      "unit": "% du PIB",
+      "category": "Haïti et monde",
+      "evergreen_path": "/transferts-fonds-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/BX.TRF.PWKR.DT.GD.ZS.json",
+        "by_slug": "by-slug/transferts-fonds-pib.json"
+      }
+    },
+    {
+      "code": "DT.DOD.DECT.CD",
+      "slug": "dette-externe",
+      "title": "Dette extérieure totale",
+      "unit": "dollars US courants",
+      "category": "Finances publiques",
+      "evergreen_path": "/dette-externe-haiti/",
+      "available": false,
+      "latest_year": null,
+      "latest_value": null,
+      "files": {
+        "by_code": "by-code/DT.DOD.DECT.CD.json",
+        "by_slug": "by-slug/dette-externe.json"
+      }
+    }
+  ]
+}

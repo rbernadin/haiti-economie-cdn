@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-21T21:43:33.150Z",
+  "cdn_generated_at": "2026-06-21T21:43:33.150Z",
+  "available": false,
+  "country_code": "HTI",
+  "country_name": "Haiti",
+  "indicator_code": "EG.ELC.ACCS.ZS",
+  "indicator_name": "Accès à l’électricité",
+  "title": "Accès à l’électricité",
+  "slug": "acces-electricite",
+  "unit": "% de la population",
+  "category": "Infrastructures et énergie",
+  "evergreen_path": "/electricite-haiti/",
+  "source": "World Bank, World Development Indicators",
+  "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
+  "latest": null,
+  "count": 0,
+  "history": []
+}
