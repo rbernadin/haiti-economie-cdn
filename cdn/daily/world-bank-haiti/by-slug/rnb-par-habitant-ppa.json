@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-21T21:43:33.169Z",
+  "cdn_generated_at": "2026-06-21T21:43:33.169Z",
+  "available": false,
+  "country_code": "HTI",
+  "country_name": "Haiti",
+  "indicator_code": "NY.GNP.PCAP.PP.CD",
+  "indicator_name": "RNB par habitant, PPA",
+  "title": "RNB par habitant, PPA",
+  "slug": "rnb-par-habitant-ppa",
+  "unit": "dollars internationaux courants",
+  "category": "Société et développement",
+  "evergreen_path": "/rnb-par-habitant-haiti/",
+  "source": "World Bank, World Development Indicators",
+  "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
+  "latest": null,
+  "count": 0,
+  "history": []
+}

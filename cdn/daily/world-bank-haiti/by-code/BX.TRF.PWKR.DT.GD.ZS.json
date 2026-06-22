@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-21T21:43:33.230Z",
+  "cdn_generated_at": "2026-06-21T21:43:33.230Z",
+  "available": false,
+  "country_code": "HTI",
+  "country_name": "Haiti",
+  "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
+  "indicator_name": "Transferts personnels reçus",
+  "title": "Transferts personnels reçus",
+  "slug": "transferts-fonds-pib",
+  "unit": "% du PIB",
+  "category": "Haïti et monde",
+  "evergreen_path": "/transferts-fonds-haiti/",
+  "source": "World Bank, World Development Indicators",
+  "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
+  "latest": null,
+  "count": 0,
+  "history": []
+}

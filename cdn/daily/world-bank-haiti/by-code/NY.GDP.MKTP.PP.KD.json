@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-06-21T21:43:33.111Z",
+  "cdn_generated_at": "2026-06-21T21:43:33.111Z",
+  "available": false,
+  "country_code": "HTI",
+  "country_name": "Haiti",
+  "indicator_code": "NY.GDP.MKTP.PP.KD",
+  "indicator_name": "PIB, PPA",
+  "title": "PIB, PPA",
+  "slug": "pib-ppa-constant-2021",
+  "unit": "dollars internationaux constants de 2021",
+  "category": "Économie générale",
+  "evergreen_path": "/pib-haiti/",
+  "source": "World Bank, World Development Indicators",
+  "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
+  "latest": null,
+  "count": 0,
+  "history": []
+}
