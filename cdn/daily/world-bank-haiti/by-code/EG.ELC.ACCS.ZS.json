@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T00:31:16.037Z",
-  "cdn_generated_at": "2026-06-22T00:31:16.037Z",
-  "available": false,
+  "generated_at": "2026-06-22T01:25:12.520Z",
+  "cdn_generated_at": "2026-06-22T01:25:12.520Z",
+  "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
   "indicator_code": "EG.ELC.ACCS.ZS",
-  "indicator_name": "Accès à l’électricité",
+  "indicator_name": "Access to electricity (% of population)",
   "title": "Accès à l’électricité",
   "slug": "acces-electricite",
   "unit": "% de la population",
@@ -13,7 +13,251 @@
   "evergreen_path": "/electricite-haiti/",
   "source": "World Bank, World Development Indicators",
   "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
-  "latest": null,
-  "count": 0,
-  "history": []
+  "latest": {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "indicator_name": "Access to electricity (% of population)",
+    "indicator_code": "EG.ELC.ACCS.ZS",
+    "year": 2023,
+    "value": 51.3,
+    "previous_year": 2022,
+    "previous_value": 49.3,
+    "change_abs": 2,
+    "change_pct": 4.056795131845842
+  },
+  "count": 29,
+  "history": [
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 1995,
+      "value": 31.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 1996,
+      "value": 30.01301765
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 1997,
+      "value": 30.55703735
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 1998,
+      "value": 31.09697533
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 1999,
+      "value": 31.63207245
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2000,
+      "value": 33.7
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2001,
+      "value": 31.5
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2002,
+      "value": 33.1
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2003,
+      "value": 31.6
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2004,
+      "value": 34.1
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2005,
+      "value": 34.5
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2006,
+      "value": 33.9
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2007,
+      "value": 35.5
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2008,
+      "value": 36.1
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2009,
+      "value": 36.6
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2010,
+      "value": 37.2
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2011,
+      "value": 37.8
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2012,
+      "value": 37.9
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2013,
+      "value": 38.9
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2014,
+      "value": 39.6
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2015,
+      "value": 40.8
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2016,
+      "value": 40.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2017,
+      "value": 43.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2018,
+      "value": 44.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2019,
+      "value": 45.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2020,
+      "value": 46.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2021,
+      "value": 47.2
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2022,
+      "value": 49.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Access to electricity (% of population)",
+      "indicator_code": "EG.ELC.ACCS.ZS",
+      "year": 2023,
+      "value": 51.3
+    }
+  ]
 }

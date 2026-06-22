@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T00:31:15.961Z",
-  "cdn_generated_at": "2026-06-22T00:31:15.961Z",
-  "available": false,
+  "generated_at": "2026-06-22T01:25:12.412Z",
+  "cdn_generated_at": "2026-06-22T01:25:12.412Z",
+  "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
   "indicator_code": "NY.GDP.MKTP.PP.KD",
-  "indicator_name": "PIB, PPA",
+  "indicator_name": "GDP, PPP (constant 2021 international $)",
   "title": "PIB, PPA",
   "slug": "pib-ppa-constant-2021",
   "unit": "dollars internationaux constants de 2021",
@@ -13,7 +13,299 @@
   "evergreen_path": "/pib-haiti/",
   "source": "World Bank, World Development Indicators",
   "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
-  "latest": null,
-  "count": 0,
-  "history": []
+  "latest": {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "indicator_name": "GDP, PPP (constant 2021 international $)",
+    "indicator_code": "NY.GDP.MKTP.PP.KD",
+    "year": 2024,
+    "value": 33076710101,
+    "previous_year": 2023,
+    "previous_value": 34515896648,
+    "change_abs": -1439186547,
+    "change_pct": -4.169633956426257
+  },
+  "count": 35,
+  "history": [
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1990,
+      "value": 27136905068
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1991,
+      "value": 27647226705
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1992,
+      "value": 26179177512
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1993,
+      "value": 24758617852
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1994,
+      "value": 21799807214
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1995,
+      "value": 23957488365
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1996,
+      "value": 24949513653
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1997,
+      "value": 25624326625
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1998,
+      "value": 26183408517
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 1999,
+      "value": 26893043826
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2000,
+      "value": 27127029244
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2001,
+      "value": 27034051925
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2002,
+      "value": 27318401527
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2003,
+      "value": 28269294910
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2004,
+      "value": 27896746096
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2005,
+      "value": 28753782503
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2006,
+      "value": 29262365204
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2007,
+      "value": 30639607183
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2008,
+      "value": 31454017842
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2009,
+      "value": 33306778687
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2010,
+      "value": 31424442248
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2011,
+      "value": 33026527418
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2012,
+      "value": 33192460752
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2013,
+      "value": 34627963022
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2014,
+      "value": 35628286098
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2015,
+      "value": 36127082106
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2016,
+      "value": 36781873937
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2017,
+      "value": 37705198779
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2018,
+      "value": 38334050215
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2019,
+      "value": 37673517346
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2020,
+      "value": 36428217170
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2021,
+      "value": 35773150437
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2022,
+      "value": 35171451782
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2023,
+      "value": 34515896648
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP, PPP (constant 2021 international $)",
+      "indicator_code": "NY.GDP.MKTP.PP.KD",
+      "year": 2024,
+      "value": 33076710101
+    }
+  ]
 }

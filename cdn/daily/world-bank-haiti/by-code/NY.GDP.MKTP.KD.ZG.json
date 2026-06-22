@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T00:31:15.883Z",
-  "cdn_generated_at": "2026-06-22T00:31:15.883Z",
-  "available": false,
+  "generated_at": "2026-06-22T01:25:12.292Z",
+  "cdn_generated_at": "2026-06-22T01:25:12.292Z",
+  "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
   "indicator_code": "NY.GDP.MKTP.KD.ZG",
-  "indicator_name": "Croissance du PIB réel",
+  "indicator_name": "GDP growth (annual %)",
   "title": "Croissance du PIB réel",
   "slug": "croissance-pib",
   "unit": "%",
@@ -13,7 +13,531 @@
   "evergreen_path": "/croissance-pib-haiti/",
   "source": "World Bank, World Development Indicators",
   "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
-  "latest": null,
-  "count": 0,
-  "history": []
+  "latest": {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "indicator_name": "GDP growth (annual %)",
+    "indicator_code": "NY.GDP.MKTP.KD.ZG",
+    "year": 2024,
+    "value": -4.169633958,
+    "previous_year": 2023,
+    "previous_value": -1.863884203,
+    "change_abs": -2.3057497550000003,
+    "change_pct": 123.70670620464507
+  },
+  "count": 64,
+  "history": [
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1961,
+      "value": -2.931980291
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1962,
+      "value": 7.887575894
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1963,
+      "value": -1.892792551
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1964,
+      "value": -1.647357369
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1965,
+      "value": 2.161797861
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1966,
+      "value": -0.575786801
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1967,
+      "value": -2.117686201
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1968,
+      "value": 3.181617321
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1969,
+      "value": 3.811943285
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1970,
+      "value": 0.651153708
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1971,
+      "value": 6.480380501
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1972,
+      "value": 0.977107759
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1973,
+      "value": 4.755322092
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1974,
+      "value": 5.779889152
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1975,
+      "value": 1.122754491
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1976,
+      "value": 8.43883543
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1977,
+      "value": 3.708146437
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1978,
+      "value": 6.208863536
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1979,
+      "value": 7.560421402
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1980,
+      "value": 7.374687919
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1981,
+      "value": -2.852709711
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1982,
+      "value": -3.563745224
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1983,
+      "value": 0.908181461
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1984,
+      "value": 0.300917036
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1985,
+      "value": 0.603631294
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1986,
+      "value": -0.497504788
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1987,
+      "value": -0.7936487
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1988,
+      "value": 0.200426837
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1989,
+      "value": -2.913424398
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1990,
+      "value": 1.038122802
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1991,
+      "value": 1.880544724
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1992,
+      "value": -5.309932923
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1993,
+      "value": -5.426295992
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1994,
+      "value": -11.95062929
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1995,
+      "value": 9.897707488
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1996,
+      "value": 4.140773329
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1997,
+      "value": 2.704713931
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1998,
+      "value": 2.18184033
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 1999,
+      "value": 2.71024801
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2000,
+      "value": 0.870059259
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2001,
+      "value": -0.342747883
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2002,
+      "value": 1.051820135
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2003,
+      "value": 3.480779732
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2004,
+      "value": -1.31785676
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2005,
+      "value": 3.072173377
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2006,
+      "value": 1.768750603
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2007,
+      "value": 4.70652994
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2008,
+      "value": 2.658032308
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2009,
+      "value": 5.890378948
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2010,
+      "value": -5.651511534
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2011,
+      "value": 5.098213544
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2012,
+      "value": 0.502424404
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2013,
+      "value": 4.324784115
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2014,
+      "value": 2.888772509
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2015,
+      "value": 1.400000009
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2016,
+      "value": 1.812468078
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2017,
+      "value": 2.510271345
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2018,
+      "value": 1.667810955
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2019,
+      "value": -1.723096998
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2020,
+      "value": -3.30550547
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2021,
+      "value": -1.798239889
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2022,
+      "value": -1.681983969
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2023,
+      "value": -1.863884203
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP growth (annual %)",
+      "indicator_code": "NY.GDP.MKTP.KD.ZG",
+      "year": 2024,
+      "value": -4.169633958
+    }
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T00:31:16.238Z",
-  "cdn_generated_at": "2026-06-22T00:31:16.238Z",
-  "available": false,
+  "generated_at": "2026-06-22T01:25:12.787Z",
+  "cdn_generated_at": "2026-06-22T01:25:12.787Z",
+  "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
   "indicator_code": "DT.DOD.DECT.CD",
-  "indicator_name": "Dette extérieure totale",
+  "indicator_name": "External debt stocks, total (DOD, current US$)",
   "title": "Dette extérieure totale",
   "slug": "dette-externe",
   "unit": "dollars US courants",
@@ -13,7 +13,459 @@
   "evergreen_path": "/dette-externe-haiti/",
   "source": "World Bank, World Development Indicators",
   "source_note": "Les données peuvent être révisées lorsque la Banque mondiale met à jour les séries de PIB, de population, de prix ou de parité de pouvoir d’achat.",
-  "latest": null,
-  "count": 0,
-  "history": []
+  "latest": {
+    "country_name": "Haiti",
+    "country_code": "HTI",
+    "indicator_name": "External debt stocks, total (DOD, current US$)",
+    "indicator_code": "DT.DOD.DECT.CD",
+    "year": 2024,
+    "value": 944741012.3,
+    "previous_year": 2023,
+    "previous_value": 3156537450,
+    "change_abs": -2211796437.7,
+    "change_pct": -70.0703372836587
+  },
+  "count": 55,
+  "history": [
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1970,
+      "value": 52164000
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1971,
+      "value": 50037000
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1972,
+      "value": 53696000
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1973,
+      "value": 51307000
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1974,
+      "value": 120420665
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1975,
+      "value": 148426495
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1976,
+      "value": 181456752.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1977,
+      "value": 235043455.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1978,
+      "value": 281813569
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1979,
+      "value": 334668126.7
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1980,
+      "value": 382656540.8
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1981,
+      "value": 500089812.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1982,
+      "value": 609871507.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1983,
+      "value": 644479206.2
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1984,
+      "value": 731567557.7
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1985,
+      "value": 782784896.8
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1986,
+      "value": 773996522.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1987,
+      "value": 905281161.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1988,
+      "value": 877117132.5
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1989,
+      "value": 859316294.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1990,
+      "value": 939004257.9
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1991,
+      "value": 804898214.1
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1992,
+      "value": 830301663.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1993,
+      "value": 845830044.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1994,
+      "value": 758204227.1
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1995,
+      "value": 837402729.3
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1996,
+      "value": 924237596.4
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1997,
+      "value": 1071797087
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1998,
+      "value": 1068532782
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 1999,
+      "value": 1221741578
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2000,
+      "value": 1205143476
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2001,
+      "value": 1271014239
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2002,
+      "value": 1271148139
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2003,
+      "value": 1360909987
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2004,
+      "value": 1322162872
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2005,
+      "value": 1345851158
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2006,
+      "value": 1524872000
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2007,
+      "value": 1710448631
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2008,
+      "value": 2091205511
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2009,
+      "value": 1556330668
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2010,
+      "value": 1045027834
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2011,
+      "value": 848912587.7
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2012,
+      "value": 1265464320
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2013,
+      "value": 1689407746
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2014,
+      "value": 2094112400
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2015,
+      "value": 2239950364
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2016,
+      "value": 2300997423
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2017,
+      "value": 2367547376
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2018,
+      "value": 2470002747
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2019,
+      "value": 2470320989
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2020,
+      "value": 2619431494
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2021,
+      "value": 2970068585
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2022,
+      "value": 2965270069
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2023,
+      "value": 3156537450
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "External debt stocks, total (DOD, current US$)",
+      "indicator_code": "DT.DOD.DECT.CD",
+      "year": 2024,
+      "value": 944741012.3
+    }
+  ]
 }
