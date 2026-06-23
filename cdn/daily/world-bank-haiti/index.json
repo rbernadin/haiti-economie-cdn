@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T21:43:33.250Z",
+  "generated_at": "2026-06-22T01:25:12.788Z",
   "api_base": "https://haiti-economie-api.onrender.com",
   "country_code": "HTI",
   "source": "World Bank, World Development Indicators",
@@ -17,9 +17,9 @@
       "unit": "dollars internationaux constants de 2021",
       "category": "Économie générale",
       "evergreen_path": "/pib-par-habitant-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 2809.645356,
       "files": {
         "by_code": "by-code/NY.GDP.PCAP.PP.KD.json",
         "by_slug": "by-slug/pib-par-habitant-ppa-constant-2021.json"
@@ -32,9 +32,9 @@
       "unit": "dollars internationaux courants",
       "category": "Économie générale",
       "evergreen_path": "/pib-par-habitant-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 3193.671364,
       "files": {
         "by_code": "by-code/NY.GDP.PCAP.PP.CD.json",
         "by_slug": "by-slug/pib-par-habitant-ppa-courant.json"
@@ -47,9 +47,9 @@
       "unit": "dollars US courants",
       "category": "Économie générale",
       "evergreen_path": "/pib-par-habitant-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 2142.623305,
       "files": {
         "by_code": "by-code/NY.GDP.PCAP.CD.json",
         "by_slug": "by-slug/pib-par-habitant-usd-courant.json"
@@ -62,9 +62,9 @@
       "unit": "%",
       "category": "Économie générale",
       "evergreen_path": "/croissance-pib-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": -4.169633958,
       "files": {
         "by_code": "by-code/NY.GDP.MKTP.KD.ZG.json",
         "by_slug": "by-slug/croissance-pib.json"
@@ -77,9 +77,9 @@
       "unit": "dollars US courants",
       "category": "Économie générale",
       "evergreen_path": "/pib-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 25224154991,
       "files": {
         "by_code": "by-code/NY.GDP.MKTP.CD.json",
         "by_slug": "by-slug/pib-usd-courant.json"
@@ -92,9 +92,9 @@
       "unit": "dollars internationaux constants de 2021",
       "category": "Économie générale",
       "evergreen_path": "/pib-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 33076710101,
       "files": {
         "by_code": "by-code/NY.GDP.MKTP.PP.KD.json",
         "by_slug": "by-slug/pib-ppa-constant-2021.json"
@@ -107,9 +107,9 @@
       "unit": "personnes",
       "category": "Société et développement",
       "evergreen_path": "/population-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 11772557,
       "files": {
         "by_code": "by-code/SP.POP.TOTL.json",
         "by_slug": "by-slug/population.json"
@@ -122,9 +122,9 @@
       "unit": "% de la population",
       "category": "Infrastructures et énergie",
       "evergreen_path": "/electricite-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2023,
+      "latest_value": 51.3,
       "files": {
         "by_code": "by-code/EG.ELC.ACCS.ZS.json",
         "by_slug": "by-slug/acces-electricite.json"
@@ -137,9 +137,9 @@
       "unit": "dollars internationaux courants",
       "category": "Société et développement",
       "evergreen_path": "/rnb-par-habitant-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 3190,
       "files": {
         "by_code": "by-code/NY.GNP.PCAP.PP.CD.json",
         "by_slug": "by-slug/rnb-par-habitant-ppa.json"
@@ -152,9 +152,9 @@
       "unit": "% du PIB",
       "category": "Travail et entreprises",
       "evergreen_path": "/credit-prive-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 4.114252058,
       "files": {
         "by_code": "by-code/FS.AST.PRVT.GD.ZS.json",
         "by_slug": "by-slug/credit-prive-pib.json"
@@ -167,9 +167,9 @@
       "unit": "dollars US courants",
       "category": "Haïti et monde",
       "evergreen_path": "/transferts-fonds-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 4111002566,
       "files": {
         "by_code": "by-code/BX.TRF.PWKR.CD.DT.json",
         "by_slug": "by-slug/transferts-fonds.json"
@@ -182,9 +182,9 @@
       "unit": "% du PIB",
       "category": "Haïti et monde",
       "evergreen_path": "/transferts-fonds-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 16.29788022,
       "files": {
         "by_code": "by-code/BX.TRF.PWKR.DT.GD.ZS.json",
         "by_slug": "by-slug/transferts-fonds-pib.json"
@@ -197,9 +197,9 @@
       "unit": "dollars US courants",
       "category": "Finances publiques",
       "evergreen_path": "/dette-externe-haiti/",
-      "available": false,
-      "latest_year": null,
-      "latest_value": null,
+      "available": true,
+      "latest_year": 2024,
+      "latest_value": 944741012.3,
       "files": {
         "by_code": "by-code/DT.DOD.DECT.CD.json",
         "by_slug": "by-slug/dette-externe.json"

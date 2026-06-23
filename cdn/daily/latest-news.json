@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-21T14:01:19.770Z",
+  "generated_at": "2026-06-22T15:08:53.947Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11078,
+      "slug": "le-pire-est-a-venir-et-si-lon-relancait-la-production-nationale",
+      "date": "2026-06-22T05:15:00",
+      "modified": "2026-06-21T13:36:03",
+      "title": {
+        "rendered": "« Le pire est à venir ! Et si l’on relançait la production nationale ? »"
+      },
+      "excerpt": {
+        "rendered": "<p>La relance de la production nationale en Haïti passe par un soutien réel aux paysans, l’accès au crédit agricole, la protection des filières locales et une politique publique cohérente.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/aide-alimentaire-riz-importe-haiti.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11064,
       "slug": "haiti-le-solaire-individuel-ne-remplacera-pas-une-politique-nationale-de-lelectricite",
@@ -42,7 +60,7 @@
       "id": 11050,
       "slug": "accord-etats-unis-iran-soulagement-prudent-a-letranger-reactions-divisees-a-washington",
       "date": "2026-06-18T13:03:07",
-      "modified": "2026-06-18T13:05:35",
+      "modified": "2026-06-21T10:25:48",
       "title": {
         "rendered": "Accord États-Unis–Iran : soulagement prudent à l’étranger, réactions divisées à Washington"
       },
@@ -78,7 +96,7 @@
       "id": 11036,
       "slug": "g7-2026-economie-mondiale-ukraine-et-moyen-orient-au-coeur-du-sommet-devian",
       "date": "2026-06-16T12:44:22",
-      "modified": "2026-06-17T10:23:09",
+      "modified": "2026-06-21T10:26:14",
       "title": {
         "rendered": "G7 2026 : économie mondiale, Ukraine et Moyen-Orient au cœur du sommet d’Évian"
       },
@@ -132,7 +150,7 @@
       "id": 11008,
       "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
       "date": "2026-06-15T20:20:07",
-      "modified": "2026-06-17T01:22:48",
+      "modified": "2026-06-21T10:26:26",
       "title": {
         "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
       },
@@ -168,7 +186,7 @@
       "id": 10962,
       "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
       "date": "2026-06-13T15:42:21",
-      "modified": "2026-06-17T01:29:22",
+      "modified": "2026-06-21T10:26:39",
       "title": {
         "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/american-airlines-cap-haitien-haiti-novembre-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11056,
-      "slug": "budget-2026-2027-le-mef-lance-le-processus-delaboration",
-      "date": "2026-06-12T19:13:00",
-      "modified": "2026-06-18T19:15:00",
-      "title": {
-        "rendered": "Budget 2026-2027 : le MEF lance le processus d’élaboration"
-      },
-      "excerpt": {
-        "rendered": "<p>Le MEF lance le processus d’élaboration du budget 2026-2027, avec des priorités axées sur la sécurité, les élections et la discipline budgétaire.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-haiti-2026-2027-lancement-processus-mef.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
