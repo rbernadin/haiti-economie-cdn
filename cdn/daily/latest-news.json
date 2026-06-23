@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-22T15:08:53.947Z",
+  "generated_at": "2026-06-23T14:07:15.439Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11114,
+      "slug": "kits-du-mondial-avant-le-dernier-match-dhaiti-le-gouvernement-doit-deja-rendre-des-comptes",
+      "date": "2026-06-23T05:31:00",
+      "modified": "2026-06-22T23:06:39",
+      "title": {
+        "rendered": "Kits du Mondial : avant le dernier match d’Haïti, le gouvernement doit déjà rendre des comptes"
+      },
+      "excerpt": {
+        "rendered": "<p>Après l’élimination sportive d’Haïti, la distribution des kits audiovisuels du Mondial soulève des questions de transparence et de priorités publiques.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/kits-audiovisuels-mondial-haiti-tv-generatrice-internet.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11078,
       "slug": "le-pire-est-a-venir-et-si-lon-relancait-la-production-nationale",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/venezuela-zone-riche-en-or-armee-gold-belt.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10959,
-      "slug": "american-airlines-annonce-son-retour-en-haiti-en-novembre",
-      "date": "2026-06-13T13:08:41",
-      "modified": "2026-06-13T13:14:16",
-      "title": {
-        "rendered": "American Airlines annonce son retour en Haïti en novembre"
-      },
-      "excerpt": {
-        "rendered": "<p>American Airlines a annoncé son intention de reprendre ses vols vers Haïti le 1er novembre 2026, en desservant le Cap-Haïtien.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/american-airlines-cap-haitien-haiti-novembre-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
