@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-23T14:07:15.439Z",
+  "generated_at": "2026-06-24T14:02:55.156Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11086,
+      "slug": "haiti-pib-par-habitant-en-ppa-ce-que-lindicateur-dit-vraiment-du-niveau-de-vie",
+      "date": "2026-06-24T05:00:00",
+      "modified": "2026-06-22T23:07:23",
+      "title": {
+        "rendered": "Haïti – PIB par habitant en PPA : ce que l’indicateur dit vraiment du niveau de vie"
+      },
+      "excerpt": {
+        "rendered": "<p>Le PIB par habitant en PPA montre la faiblesse persistante du niveau de vie en Haïti, mais cet indicateur doit être lu avec prudence et complété par l’inflation, l’emploi et les services publics.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/pib-haiti-gourde-dollar-baisse.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11114,
       "slug": "kits-du-mondial-avant-le-dernier-match-dhaiti-le-gouvernement-doit-deja-rendre-des-comptes",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10962,
-      "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
-      "date": "2026-06-13T15:42:21",
-      "modified": "2026-06-21T10:26:39",
-      "title": {
-        "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Venezuela a déployé des troupes dans une vaste zone riche en or pour reprendre le contrôle de sites miniers aux mains de groupes armés.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/venezuela-zone-riche-en-or-armee-gold-belt.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
