@@ -1,0 +1,70 @@
+name: Update FX History CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub cron uses UTC.
+    # These multiple runs help catch API/BRH updates without using cache.
+    - cron: "55 12 * * *"
+    - cron: "55 13 * * *"
+    - cron: "55 14 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-fx-history-standardized
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate FX history CDN files
+        env:
+          API_URL: https://haiti-economie-api.onrender.com/api/fx-history-standardized
+          OUT_DIR: cdn/daily
+          MAIN_FILE: fx-history-standardized.json
+
+          # Keeps compatibility with components that may already read daily/fx-core-730.json.
+          # Remove this line if you do not want the alias.
+          ALIAS_FILES: fx-core-730.json
+        run: node scripts/update-fx-history-standardized.mjs
+
+      - name: Show output
+        run: |
+          echo "---- cdn/daily ----"
+          ls -la cdn/daily || true
+          echo "---- generated files ----"
+          test -f cdn/daily/fx-history-standardized.json
+          test -f cdn/daily/fx-history-standardized-meta.json
+          if [ -n "${ALIAS_FILES:-}" ]; then
+            test -f cdn/daily/fx-core-730.json
+          fi
+          echo "---- git status ----"
+          git status --porcelain || true
+
+      - name: Commit and push if changed
+        run: |
+          git add -A cdn/daily
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update FX history CDN"
+            git push
+          else
+            echo "No changes to commit."
+          fi
