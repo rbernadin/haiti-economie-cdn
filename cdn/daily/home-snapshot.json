@@ -1,9 +1,9 @@
 {
-  "asof": "2026-06-23",
-  "generatedAt": "2026-06-23T13:46:29.857Z",
+  "asof": "2026-06-26",
+  "generatedAt": "2026-06-26T13:34:24.859Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-06-23T13:46:29.841Z",
+    "generated_at": "2026-06-26T13:34:24.842Z",
     "cards": {
       "trade": {
         "latest": {
@@ -613,6 +613,46 @@
           "material_footprint_per_capita": 2.406
         }
       },
+      "external_debt": {
+        "latest": {
+          "date": "2023-12-31",
+          "year": 2023,
+          "external_debt_stocks_current_dollar": 2637609832,
+          "current_account_balance_bop_dollar": -682569657.6,
+          "current_account_balance_perc_gdp": -3.438536611,
+          "use_of_imf_credit_dod_dollar": 552721343.4,
+          "debt_to_gdp": 28.5
+        },
+        "history": [
+          {
+            "date": "2022-12-31",
+            "year": 2022,
+            "external_debt_stocks_current_dollar": 2561654882,
+            "current_account_balance_bop_dollar": -491953761.2,
+            "current_account_balance_perc_gdp": -2.428975239,
+            "use_of_imf_credit_dod_dollar": 444693167.9,
+            "debt_to_gdp": 29.5
+          },
+          {
+            "date": "2023-12-31",
+            "year": 2023,
+            "external_debt_stocks_current_dollar": 2637609832,
+            "current_account_balance_bop_dollar": -682569657.6,
+            "current_account_balance_perc_gdp": -3.438536611,
+            "use_of_imf_credit_dod_dollar": 552721343.4,
+            "debt_to_gdp": 28.5
+          }
+        ],
+        "prev": {
+          "date": "2022-12-31",
+          "year": 2022,
+          "external_debt_stocks_current_dollar": 2561654882,
+          "current_account_balance_bop_dollar": -491953761.2,
+          "current_account_balance_perc_gdp": -2.428975239,
+          "use_of_imf_credit_dod_dollar": 444693167.9,
+          "debt_to_gdp": 29.5
+        }
+      },
       "credit_private_sector": {
         "latest": {
           "year": 2024,
@@ -653,44 +693,140 @@
           "fi_res_xgld_cd": 2466360229.76
         }
       },
-      "external_debt": {
+      "remittances": {
+        "schema": 1,
+        "generated_at": "2026-06-26T13:34:24.543Z",
         "latest": {
-          "date": "2023-12-31",
-          "year": 2023,
-          "external_debt_stocks_current_dollar": 2637609832,
-          "current_account_balance_bop_dollar": -682569657.6,
-          "current_account_balance_perc_gdp": -3.438536611,
-          "use_of_imf_credit_dod_dollar": 552721343.4,
-          "debt_to_gdp": 28.5
+          "date": "2025-09-01",
+          "total_rec": 376208754.32
         },
         "history": [
           {
-            "date": "2022-12-31",
-            "year": 2022,
-            "external_debt_stocks_current_dollar": 2561654882,
-            "current_account_balance_bop_dollar": -491953761.2,
-            "current_account_balance_perc_gdp": -2.428975239,
-            "use_of_imf_credit_dod_dollar": 444693167.9,
-            "debt_to_gdp": 29.5
+            "date": "2025-08-01",
+            "total_rec": 372126532.61,
+            "breakdown_rec": {
+              "usa": 293871178.24,
+              "chili": 7623629.38,
+              "canada": 19347743.92,
+              "france": 20582902.7,
+              "bresil": 5476994,
+              "rep_dom": 12803953.25,
+              "uruguay": 2196697.07,
+              "bahamas": 1898963.63,
+              "turks_caicos": 1785923.12,
+              "martinique": 19519.94,
+              "europe_autres": 1742961.83,
+              "antilles": 2851329.92,
+              "amerique_sud_autres": 385292.55,
+              "amerique_central": 1095720.49,
+              "saint_martin": 0,
+              "afrique": 108243.37,
+              "asie": 335479.18
+            },
+            "departments_rec_yr": {
+              "ouest": null,
+              "artibonite": null,
+              "nord": null,
+              "sud": null,
+              "nord_ouest": null,
+              "centre": null,
+              "sud_est": null,
+              "nippes": null,
+              "nord_est": null,
+              "grand_anse": null
+            },
+            "meta": {
+              "nobre_transferts_rec": 2289050,
+              "moyenne_rec": 162.57
+            },
+            "totals_exp": {
+              "total_exp": 26047738.6
+            }
           },
           {
-            "date": "2023-12-31",
-            "year": 2023,
-            "external_debt_stocks_current_dollar": 2637609832,
-            "current_account_balance_bop_dollar": -682569657.6,
-            "current_account_balance_perc_gdp": -3.438536611,
-            "use_of_imf_credit_dod_dollar": 552721343.4,
-            "debt_to_gdp": 28.5
+            "date": "2025-09-01",
+            "total_rec": 376208754.32,
+            "breakdown_rec": {
+              "usa": 296168698.67,
+              "chili": 7711457,
+              "canada": 20005214.57,
+              "france": 20789283.83,
+              "bresil": 5729342.18,
+              "rep_dom": 12950511.06,
+              "uruguay": 2089777.32,
+              "bahamas": 2081842.41,
+              "turks_caicos": 1784181.33,
+              "martinique": 10920.35,
+              "europe_autres": 1964126.83,
+              "antilles": 2781098.27,
+              "amerique_sud_autres": 408444.53,
+              "amerique_central": 1189138.47,
+              "saint_martin": 0,
+              "afrique": 119212.56,
+              "asie": 425504.94
+            },
+            "departments_rec_yr": {
+              "ouest": null,
+              "artibonite": null,
+              "nord": null,
+              "sud": null,
+              "nord_ouest": null,
+              "centre": null,
+              "sud_est": null,
+              "nippes": null,
+              "nord_est": null,
+              "grand_anse": null
+            },
+            "meta": {
+              "nobre_transferts_rec": 2259918,
+              "moyenne_rec": 166.47
+            },
+            "totals_exp": {
+              "total_exp": 26497075.38
+            }
           }
         ],
         "prev": {
-          "date": "2022-12-31",
-          "year": 2022,
-          "external_debt_stocks_current_dollar": 2561654882,
-          "current_account_balance_bop_dollar": -491953761.2,
-          "current_account_balance_perc_gdp": -2.428975239,
-          "use_of_imf_credit_dod_dollar": 444693167.9,
-          "debt_to_gdp": 29.5
+          "date": "2025-08-01",
+          "total_rec": 372126532.61,
+          "breakdown_rec": {
+            "usa": 293871178.24,
+            "chili": 7623629.38,
+            "canada": 19347743.92,
+            "france": 20582902.7,
+            "bresil": 5476994,
+            "rep_dom": 12803953.25,
+            "uruguay": 2196697.07,
+            "bahamas": 1898963.63,
+            "turks_caicos": 1785923.12,
+            "martinique": 19519.94,
+            "europe_autres": 1742961.83,
+            "antilles": 2851329.92,
+            "amerique_sud_autres": 385292.55,
+            "amerique_central": 1095720.49,
+            "saint_martin": 0,
+            "afrique": 108243.37,
+            "asie": 335479.18
+          },
+          "departments_rec_yr": {
+            "ouest": null,
+            "artibonite": null,
+            "nord": null,
+            "sud": null,
+            "nord_ouest": null,
+            "centre": null,
+            "sud_est": null,
+            "nippes": null,
+            "nord_est": null,
+            "grand_anse": null
+          },
+          "meta": {
+            "nobre_transferts_rec": 2289050,
+            "moyenne_rec": 162.57
+          },
+          "totals_exp": {
+            "total_exp": 26047738.6
+          }
         }
       },
       "inflation": {
@@ -935,140 +1071,24 @@
           "transversal_var_mois": 0.8
         }
       },
-      "remittances": {
-        "schema": 1,
-        "generated_at": "2026-06-23T13:46:29.695Z",
-        "latest": {
-          "date": "2025-09-01",
-          "total_rec": 376208754.32
-        },
+      "gni_ppp_per_capita": {
         "history": [
           {
-            "date": "2025-08-01",
-            "total_rec": 372126532.61,
-            "breakdown_rec": {
-              "usa": 293871178.24,
-              "chili": 7623629.38,
-              "canada": 19347743.92,
-              "france": 20582902.7,
-              "bresil": 5476994,
-              "rep_dom": 12803953.25,
-              "uruguay": 2196697.07,
-              "bahamas": 1898963.63,
-              "turks_caicos": 1785923.12,
-              "martinique": 19519.94,
-              "europe_autres": 1742961.83,
-              "antilles": 2851329.92,
-              "amerique_sud_autres": 385292.55,
-              "amerique_central": 1095720.49,
-              "saint_martin": 0,
-              "afrique": 108243.37,
-              "asie": 335479.18
-            },
-            "departments_rec_yr": {
-              "ouest": null,
-              "artibonite": null,
-              "nord": null,
-              "sud": null,
-              "nord_ouest": null,
-              "centre": null,
-              "sud_est": null,
-              "nippes": null,
-              "nord_est": null,
-              "grand_anse": null
-            },
-            "meta": {
-              "nobre_transferts_rec": 2289050,
-              "moyenne_rec": 162.57
-            },
-            "totals_exp": {
-              "total_exp": 26047738.6
-            }
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
           },
           {
-            "date": "2025-09-01",
-            "total_rec": 376208754.32,
-            "breakdown_rec": {
-              "usa": 296168698.67,
-              "chili": 7711457,
-              "canada": 20005214.57,
-              "france": 20789283.83,
-              "bresil": 5729342.18,
-              "rep_dom": 12950511.06,
-              "uruguay": 2089777.32,
-              "bahamas": 2081842.41,
-              "turks_caicos": 1784181.33,
-              "martinique": 10920.35,
-              "europe_autres": 1964126.83,
-              "antilles": 2781098.27,
-              "amerique_sud_autres": 408444.53,
-              "amerique_central": 1189138.47,
-              "saint_martin": 0,
-              "afrique": 119212.56,
-              "asie": 425504.94
-            },
-            "departments_rec_yr": {
-              "ouest": null,
-              "artibonite": null,
-              "nord": null,
-              "sud": null,
-              "nord_ouest": null,
-              "centre": null,
-              "sud_est": null,
-              "nippes": null,
-              "nord_est": null,
-              "grand_anse": null
-            },
-            "meta": {
-              "nobre_transferts_rec": 2259918,
-              "moyenne_rec": 166.47
-            },
-            "totals_exp": {
-              "total_exp": 26497075.38
-            }
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
           }
         ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
         "prev": {
-          "date": "2025-08-01",
-          "total_rec": 372126532.61,
-          "breakdown_rec": {
-            "usa": 293871178.24,
-            "chili": 7623629.38,
-            "canada": 19347743.92,
-            "france": 20582902.7,
-            "bresil": 5476994,
-            "rep_dom": 12803953.25,
-            "uruguay": 2196697.07,
-            "bahamas": 1898963.63,
-            "turks_caicos": 1785923.12,
-            "martinique": 19519.94,
-            "europe_autres": 1742961.83,
-            "antilles": 2851329.92,
-            "amerique_sud_autres": 385292.55,
-            "amerique_central": 1095720.49,
-            "saint_martin": 0,
-            "afrique": 108243.37,
-            "asie": 335479.18
-          },
-          "departments_rec_yr": {
-            "ouest": null,
-            "artibonite": null,
-            "nord": null,
-            "sud": null,
-            "nord_ouest": null,
-            "centre": null,
-            "sud_est": null,
-            "nippes": null,
-            "nord_est": null,
-            "grand_anse": null
-          },
-          "meta": {
-            "nobre_transferts_rec": 2289050,
-            "moyenne_rec": 162.57
-          },
-          "totals_exp": {
-            "total_exp": 26047738.6
-          }
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       },
       "electricity_access": {
@@ -1089,26 +1109,6 @@
         "prev": {
           "year": 2023,
           "eg_elc_accs_zs": 51.3
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       }
     }
