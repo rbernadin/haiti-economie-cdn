@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-26T14:02:29.682Z",
+  "generated_at": "2026-06-27T13:59:00.989Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11130,
+      "slug": "tps-haiti-la-cour-supreme-ouvre-la-voie-a-la-fin-de-la-protection-temporaire",
+      "date": "2026-06-26T10:45:04",
+      "modified": "2026-06-26T10:53:04",
+      "title": {
+        "rendered": "TPS Haïti : la Cour suprême ouvre la voie à la fin de la protection temporaire"
+      },
+      "excerpt": {
+        "rendered": "<p>La Cour suprême des États-Unis a renversé les protections judiciaires qui bloquaient la fin du TPS pour Haïti. Voici ce qu’il faut savoir et les options possibles pour les personnes concernées.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11086,
       "slug": "haiti-pib-par-habitant-en-ppa-ce-que-lindicateur-dit-vraiment-du-niveau-de-vie",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/reserve-strategique-petrole-etats-unis-1983-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10965,
-      "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
-      "date": "2026-06-13T23:20:09",
-      "modified": "2026-06-17T01:28:39",
-      "title": {
-        "rendered": "Carburants : Haïti révise encore les prix à la pompe"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti révise les prix des carburants dès le 15 juin 2026 : gazoline à 700 gourdes, gasoil à 790 et kérosène à 785.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
