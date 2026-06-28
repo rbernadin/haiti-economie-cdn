@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-27T13:59:00.989Z",
+  "generated_at": "2026-06-28T13:59:26.841Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11133,
+      "slug": "banque-mondiale-le-ralentissement-mondial-rappelle-la-fragilite-de-la-reprise-en-haiti",
+      "date": "2026-06-27T11:24:04",
+      "modified": "2026-06-27T11:24:05",
+      "title": {
+        "rendered": "Banque mondiale : le ralentissement mondial rappelle la fragilité de la reprise en Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>Alors que la Banque mondiale prévoit un ralentissement de la croissance mondiale à 2.5% en 2026, Haïti aborde cette période avec une économie encore fragilisée par l’insécurité, l’inflation et sa dépendance aux importations.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/haiti-economie-ralentissement-mondial-reprise.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11130,
       "slug": "tps-haiti-la-cour-supreme-ouvre-la-voie-a-la-fin-de-la-protection-temporaire",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-rectificatif-haiti-2025-2026-mef-communique.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11008,
-      "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
-      "date": "2026-06-15T20:20:07",
-      "modified": "2026-06-21T10:26:26",
-      "title": {
-        "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
-      },
-      "excerpt": {
-        "rendered": "<p>La réserve stratégique américaine de pétrole tombe à son plus bas niveau depuis 1983, avec des risques indirects pour Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/reserve-strategique-petrole-etats-unis-1983-1200x675-1.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
