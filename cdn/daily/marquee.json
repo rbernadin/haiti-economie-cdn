@@ -1,56 +1,56 @@
 {
-  "asof": "2026-06-29",
-  "generatedAt": "2026-06-29T14:18:09.773Z",
+  "asof": "2026-06-30",
+  "generatedAt": "2026-06-30T12:26:39.475Z",
   "data": {
     "ref": {
-      "value": 130.4582,
-      "change": -0.1,
-      "percent": -0.08
+      "value": 130.5514,
+      "change": 0.09,
+      "percent": 0.07
     },
     "tma": {
-      "value": 130.8127,
-      "change": -0.33,
-      "percent": -0.25
+      "value": 131.0482,
+      "change": 0.24,
+      "percent": 0.18
     },
     "euro_achat": {
-      "value": 148.4438,
-      "change": 0.23,
-      "percent": 0.15
+      "value": 148.5136,
+      "change": 0.07,
+      "percent": 0.05
     },
     "euro_vente": {
-      "value": 149.1069,
-      "change": 0.3,
-      "percent": 0.2
-    },
-    "peso_dom_achat": {
-      "value": 2.1977,
-      "change": -0.02,
-      "percent": -0.77
-    },
-    "peso_dom_vente": {
-      "value": 2.2075,
-      "change": -0.02,
-      "percent": -0.72
-    },
-    "dol_can_achat": {
-      "value": 91.9289,
-      "change": 0.25,
-      "percent": 0.27
-    },
-    "dol_can_vente": {
-      "value": 92.3395,
-      "change": 0.3,
-      "percent": 0.32
-    },
-    "marche_banc_achat": {
-      "value": 130.097,
-      "change": -0.17,
+      "value": 148.9172,
+      "change": -0.19,
       "percent": -0.13
     },
+    "peso_dom_achat": {
+      "value": 2.192,
+      "change": -0.01,
+      "percent": -0.26
+    },
+    "peso_dom_vente": {
+      "value": 2.1979,
+      "change": -0.01,
+      "percent": -0.43
+    },
+    "dol_can_achat": {
+      "value": 91.9043,
+      "change": -0.02,
+      "percent": -0.03
+    },
+    "dol_can_vente": {
+      "value": 92.1541,
+      "change": -0.19,
+      "percent": -0.2
+    },
+    "marche_banc_achat": {
+      "value": 130.2523,
+      "change": 0.16,
+      "percent": 0.12
+    },
     "marche_banc_vente": {
-      "value": 130.8127,
-      "change": -0.33,
-      "percent": -0.25
+      "value": 131.0482,
+      "change": 0.24,
+      "percent": 0.18
     }
   }
 }
