@@ -1,56 +1,56 @@
 {
-  "asof": "2026-07-03",
-  "generatedAt": "2026-07-03T14:59:05.733Z",
+  "asof": "2026-07-05",
+  "generatedAt": "2026-07-05T14:21:52.211Z",
   "data": {
     "ref": {
-      "value": 130.4735,
-      "change": -0.05,
-      "percent": -0.04
-    },
-    "tma": {
-      "value": 130.9901,
-      "change": -0.12,
-      "percent": -0.09
-    },
-    "euro_achat": {
-      "value": 149.089,
-      "change": -0.03,
+      "value": 130.5174,
+      "change": -0.02,
       "percent": -0.02
     },
-    "euro_vente": {
-      "value": 149.7529,
-      "change": 0.07,
-      "percent": 0.05
-    },
-    "peso_dom_achat": {
-      "value": 2.2012,
-      "change": 0.01,
-      "percent": 0.54
-    },
-    "peso_dom_vente": {
-      "value": 2.211,
-      "change": 0.01,
-      "percent": 0.61
-    },
-    "dol_can_achat": {
-      "value": 91.947,
-      "change": 0.08,
+    "tma": {
+      "value": 131.2389,
+      "change": 0.11,
       "percent": 0.08
     },
+    "euro_achat": {
+      "value": 149.2312,
+      "change": 0.79,
+      "percent": 0.53
+    },
+    "euro_vente": {
+      "value": 149.9077,
+      "change": 0.88,
+      "percent": 0.59
+    },
+    "peso_dom_achat": {
+      "value": 2.2126,
+      "change": 0.01,
+      "percent": 0.25
+    },
+    "peso_dom_vente": {
+      "value": 2.2227,
+      "change": 0.01,
+      "percent": 0.31
+    },
+    "dol_can_achat": {
+      "value": 92.0449,
+      "change": 0.27,
+      "percent": 0.29
+    },
     "dol_can_vente": {
-      "value": 92.3564,
-      "change": 0.14,
-      "percent": 0.15
+      "value": 92.4622,
+      "change": 0.32,
+      "percent": 0.35
     },
     "marche_banc_achat": {
-      "value": 130.1224,
-      "change": -0.09,
-      "percent": -0.07
+      "value": 130.1956,
+      "change": -0.03,
+      "percent": -0.03
     },
     "marche_banc_vente": {
-      "value": 130.9901,
-      "change": -0.12,
-      "percent": -0.09
+      "value": 131.2389,
+      "change": 0.11,
+      "percent": 0.08
     }
   }
 }
