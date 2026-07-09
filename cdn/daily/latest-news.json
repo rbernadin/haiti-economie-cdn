@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-08T15:35:53.563Z",
+  "generated_at": "2026-07-09T16:09:37.584Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11222,
+      "slug": "haiti-le-secteur-tertiaire-domine-leconomie-mais-la-base-productive-reste-faible",
+      "date": "2026-07-08T19:41:25",
+      "modified": "2026-07-08T21:33:46",
+      "title": {
+        "rendered": "Haïti : le secteur tertiaire domine l’économie, mais la base productive reste faible"
+      },
+      "excerpt": {
+        "rendered": "<p>En Haïti, les services pèsent plus lourd que l’agriculture et l’industrie réunies. Une force ou un signe de déséquilibre ? L’enjeu est de mieux connecter les trois secteurs pour bâtir une économie plus productive.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/service-production-transformation-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11212,
       "slug": "walter-gabellus-agd-installation",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/kits-audiovisuels-mondial-haiti-tv-generatrice-internet.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11078,
-      "slug": "le-pire-est-a-venir-et-si-lon-relancait-la-production-nationale",
-      "date": "2026-06-22T05:15:00",
-      "modified": "2026-06-21T13:36:03",
-      "title": {
-        "rendered": "« Le pire est à venir ! Et si l’on relançait la production nationale ? »"
-      },
-      "excerpt": {
-        "rendered": "<p>La relance de la production nationale en Haïti passe par un soutien réel aux paysans, l’accès au crédit agricole, la protection des filières locales et une politique publique cohérente.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/aide-alimentaire-riz-importe-haiti.webp",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
