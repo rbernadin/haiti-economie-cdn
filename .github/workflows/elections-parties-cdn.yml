@@ -1,0 +1,260 @@
+name: Build elections parties CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 6 hours, in UTC.
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elections-parties-cdn
+  cancel-in-progress: false
+
+env:
+  SOURCE_URL: https://haiti-economie-api.onrender.com/api/elections/parties
+  OUTPUT_DIR: cdn/elections/parties
+  CDN_BASE_URL: https://rbernadin.github.io/haiti-economie-cdn/cdn/elections/parties
+
+jobs:
+  build-cdn:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch, validate, and build CDN files
+        id: build
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          mkdir -p "$OUTPUT_DIR/history"
+
+          RAW_FILE="$RUNNER_TEMP/elections-parties-raw.json"
+          NORMALIZED_FILE="$RUNNER_TEMP/elections-parties-normalized.json"
+          LATEST_FILE="$OUTPUT_DIR/latest.json"
+
+          echo "Fetching $SOURCE_URL"
+
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            --compressed \
+            --retry 6 \
+            --retry-delay 10 \
+            --retry-max-time 180 \
+            --retry-all-errors \
+            --connect-timeout 20 \
+            --max-time 120 \
+            --header "Accept: application/json" \
+            --header "Cache-Control: no-cache" \
+            --user-agent "Haiti-Economie-CDN/1.0 (+https://haitieconomie.com)" \
+            "$SOURCE_URL" \
+            --output "$RAW_FILE"
+
+          # Ensure the response is valid JSON and has a usable root type.
+          jq -e '
+            if type == "array" then
+              true
+            elif type == "object" then
+              (.success? != false)
+              and ((.error? // null) == null)
+            else
+              false
+            end
+          ' "$RAW_FILE" > /dev/null
+
+          # Sort object keys and format consistently so Git diffs remain stable.
+          jq -S . "$RAW_FILE" > "$NORMALIZED_FILE"
+
+          # Detect the party count across the most common API response shapes.
+          PARTY_COUNT="$(
+            jq -r '
+              def nested_object_array_count:
+                [
+                  paths(type == "array") as $path
+                  | getpath($path)
+                  | select(
+                      length > 0
+                      and all(.[]; type == "object")
+                    )
+                  | length
+                ]
+                | max // 0;
+
+              if type == "array" then
+                length
+              elif (.parties? | type) == "array" then
+                .parties | length
+              elif (.data? | type) == "array" then
+                .data | length
+              elif (.results? | type) == "array" then
+                .results | length
+              elif (.items? | type) == "array" then
+                .items | length
+              elif (.count? | type) == "number" then
+                .count
+              else
+                nested_object_array_count
+              end
+            ' "$NORMALIZED_FILE"
+          )"
+
+          if [[ ! "$PARTY_COUNT" =~ ^[0-9]+$ ]] || (( PARTY_COUNT < 1 )); then
+            echo "::error::The API returned valid JSON, but no party records were detected."
+            exit 1
+          fi
+
+          NEW_HASH="$(sha256sum "$NORMALIZED_FILE" | awk '{print $1}')"
+          OLD_HASH=""
+
+          if [[ -f "$LATEST_FILE" ]]; then
+            OLD_HASH="$(sha256sum "$LATEST_FILE" | awk '{print $1}')"
+          fi
+
+          if [[ "$NEW_HASH" == "$OLD_HASH" ]]; then
+            echo "No party-data change detected."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          GENERATED_AT="$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          SNAPSHOT_DATE="$(date -u +"%Y-%m-%d")"
+          SNAPSHOT_YEAR="$(date -u +"%Y")"
+          SNAPSHOT_MONTH="$(date -u +"%m")"
+          SNAPSHOT_STAMP="$(date -u +"%Y-%m-%dT%H-%M-%SZ")"
+          SNAPSHOT_DIR="$OUTPUT_DIR/history/$SNAPSHOT_YEAR/$SNAPSHOT_MONTH"
+          SNAPSHOT_FILE="$SNAPSHOT_DIR/$SNAPSHOT_STAMP.json"
+
+          mkdir -p "$SNAPSHOT_DIR"
+
+          # Preserve the API payload shape for frontend compatibility.
+          cp "$NORMALIZED_FILE" "$OUTPUT_DIR/latest.json"
+          cp "$NORMALIZED_FILE" "$OUTPUT_DIR/index.json"
+          cp "$NORMALIZED_FILE" "$SNAPSHOT_FILE"
+
+          export GENERATED_AT
+          export SNAPSHOT_DATE
+          export PARTY_COUNT
+          export NEW_HASH
+          export SNAPSHOT_FILE
+
+          python3 <<'PY'
+          import hashlib
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          output_dir = Path(os.environ["OUTPUT_DIR"])
+          cdn_base = os.environ["CDN_BASE_URL"].rstrip("/")
+          source_url = os.environ["SOURCE_URL"]
+
+          metadata = {
+              "source": source_url,
+              "generated_at": os.environ["GENERATED_AT"],
+              "snapshot_date": os.environ["SNAPSHOT_DATE"],
+              "party_count": int(os.environ["PARTY_COUNT"]),
+              "sha256": os.environ["NEW_HASH"],
+              "files": {
+                  "latest": f"{cdn_base}/latest.json",
+                  "index": f"{cdn_base}/index.json",
+                  "metadata": f"{cdn_base}/meta.json",
+                  "history": f"{cdn_base}/history/index.json",
+              },
+          }
+
+          (output_dir / "meta.json").write_text(
+              json.dumps(metadata, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+
+          history_root = output_dir / "history"
+          snapshots = []
+
+          for path in sorted(history_root.rglob("*.json"), reverse=True):
+              if path.name == "index.json":
+                  continue
+
+              relative = path.relative_to(output_dir).as_posix()
+              content = path.read_bytes()
+              try:
+                  parsed = datetime.strptime(
+                      path.stem, "%Y-%m-%dT%H-%M-%SZ"
+                  ).replace(tzinfo=timezone.utc)
+                  timestamp = parsed.isoformat().replace("+00:00", "Z")
+              except ValueError:
+                  timestamp = path.stem
+
+              snapshots.append(
+                  {
+                      "timestamp": timestamp,
+                      "file": relative,
+                      "url": f"{cdn_base}/{relative}",
+                      "sha256": hashlib.sha256(content).hexdigest(),
+                  }
+              )
+
+          history_index = {
+              "source": source_url,
+              "generated_at": os.environ["GENERATED_AT"],
+              "count": len(snapshots),
+              "snapshots": snapshots,
+          }
+
+          (history_root / "index.json").write_text(
+              json.dumps(history_index, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "party_count=$PARTY_COUNT" >> "$GITHUB_OUTPUT"
+          echo "snapshot_file=$SNAPSHOT_FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Commit updated CDN files
+        if: steps.build.outputs.changed == 'true'
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "$OUTPUT_DIR"
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed after staging."
+            exit 0
+          fi
+
+          git commit -m "chore(cdn): update elections parties"
+
+          # Rebase in case another CDN workflow updated the repository.
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
+
+      - name: Add workflow summary
+        if: always()
+        shell: bash
+        run: |
+          {
+            echo "## Elections parties CDN"
+            echo
+            echo "- Source: \`$SOURCE_URL\`"
+            echo "- Latest: \`$CDN_BASE_URL/latest.json\`"
+            echo "- Metadata: \`$CDN_BASE_URL/meta.json\`"
+            echo "- Data changed: \`${{ steps.build.outputs.changed || 'unknown' }}\`"
+            if [[ -n "${{ steps.build.outputs.party_count }}" ]]; then
+              echo "- Parties detected: \`${{ steps.build.outputs.party_count }}\`"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
