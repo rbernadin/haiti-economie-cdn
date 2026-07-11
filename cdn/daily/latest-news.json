@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-07-10T15:40:06.544Z",
+  "generated_at": "2026-07-11T14:32:52.627Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11264,
+      "slug": "la-bnc-ouvre-une-nouvelle-succursale-aux-coteaux-et-renforce-sa-presence-dans-le-grand-sud",
+      "date": "2026-07-11T02:42:03",
+      "modified": "2026-07-11T02:42:04",
+      "title": {
+        "rendered": "La BNC ouvre une nouvelle succursale aux Côteaux et renforce sa présence dans le Grand Sud"
+      },
+      "excerpt": {
+        "rendered": "<p>La Banque Nationale de Crédit a inauguré sa première succursale aux Côteaux, une implantation qui pourrait faciliter l’accès aux services financiers pour les ménages, commerçants et petites entreprises de la région.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/bnc-ouverture-succursale-les-coteaux-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11249,
+      "slug": "tps-pour-haiti-les-permis-de-travail-prolonges-jusquau-24-juillet-mais-la-protection-reste-menacee",
+      "date": "2026-07-10T23:22:37",
+      "modified": "2026-07-10T23:45:26",
+      "title": {
+        "rendered": "TPS pour Haïti : les permis de travail prolongés jusqu’au 24 juillet, mais la protection reste menacée"
+      },
+      "excerpt": {
+        "rendered": "<p>Les bénéficiaires haïtiens du TPS obtiennent un court répit : leurs permis de travail sont prolongés jusqu’au 24 juillet 2026, mais l’avenir de la protection demeure incertain.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/tps-haiti-permis-travail-24-juillet-2026-statue-liberte.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11243,
+      "slug": "elections-le-cep-publie-la-liste-definitive-des-partis-politiques-agrees",
+      "date": "2026-07-10T14:31:27",
+      "modified": "2026-07-10T14:36:08",
+      "title": {
+        "rendered": "Élections : le CEP publie la liste définitive des partis politiques agréés"
+      },
+      "excerpt": {
+        "rendered": "<p>Le CEP a rendu publique la liste définitive des partis politiques agréés. Sur 320 dossiers examinés, 316 ont été validés pour poursuivre le processus électoral.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cep-liste-definitive-partis-politiques-agrees-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11239,
+      "slug": "conflit-iran-etats-unis-de-nouvelles-tensions-alimentent-lincertitude-sur-les-prix-du-carburant-en-haiti",
+      "date": "2026-07-10T12:01:21",
+      "modified": "2026-07-10T12:01:22",
+      "title": {
+        "rendered": "Conflit Iran–États-Unis : de nouvelles tensions alimentent l’incertitude sur les prix du carburant en Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>Les tensions entre l’Iran et les États-Unis ravivent l’incertitude sur les marchés pétroliers et pourraient compliquer la gestion des prix du carburant en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/conflit-iran-etats-unis-detroit-hormuz-prix-carburant-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11222,
       "slug": "haiti-le-secteur-tertiaire-domine-leconomie-mais-la-base-productive-reste-faible",
@@ -141,78 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/ulcc-direction-haiti-revocation.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11133,
-      "slug": "banque-mondiale-le-ralentissement-mondial-rappelle-la-fragilite-de-la-reprise-en-haiti",
-      "date": "2026-06-27T11:24:04",
-      "modified": "2026-06-27T11:24:05",
-      "title": {
-        "rendered": "Banque mondiale : le ralentissement mondial rappelle la fragilité de la reprise en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Alors que la Banque mondiale prévoit un ralentissement de la croissance mondiale à 2.5% en 2026, Haïti aborde cette période avec une économie encore fragilisée par l’insécurité, l’inflation et sa dépendance aux importations.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/haiti-economie-ralentissement-mondial-reprise.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11130,
-      "slug": "tps-haiti-la-cour-supreme-ouvre-la-voie-a-la-fin-de-la-protection-temporaire",
-      "date": "2026-06-26T10:45:04",
-      "modified": "2026-06-26T10:53:04",
-      "title": {
-        "rendered": "TPS Haïti : la Cour suprême ouvre la voie à la fin de la protection temporaire"
-      },
-      "excerpt": {
-        "rendered": "<p>La Cour suprême des États-Unis a renversé les protections judiciaires qui bloquaient la fin du TPS pour Haïti. Voici ce qu’il faut savoir et les options possibles pour les personnes concernées.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11086,
-      "slug": "haiti-pib-par-habitant-en-ppa-ce-que-lindicateur-dit-vraiment-du-niveau-de-vie",
-      "date": "2026-06-24T05:00:00",
-      "modified": "2026-06-22T23:07:23",
-      "title": {
-        "rendered": "Haïti – PIB par habitant en PPA : ce que l’indicateur dit vraiment du niveau de vie"
-      },
-      "excerpt": {
-        "rendered": "<p>Le PIB par habitant en PPA montre la faiblesse persistante du niveau de vie en Haïti, mais cet indicateur doit être lu avec prudence et complété par l’inflation, l’emploi et les services publics.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/pib-haiti-gourde-dollar-baisse.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11114,
-      "slug": "kits-du-mondial-avant-le-dernier-match-dhaiti-le-gouvernement-doit-deja-rendre-des-comptes",
-      "date": "2026-06-23T05:31:00",
-      "modified": "2026-06-22T23:06:39",
-      "title": {
-        "rendered": "Kits du Mondial : avant le dernier match d’Haïti, le gouvernement doit déjà rendre des comptes"
-      },
-      "excerpt": {
-        "rendered": "<p>Après l’élimination sportive d’Haïti, la distribution des kits audiovisuels du Mondial soulève des questions de transparence et de priorités publiques.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/kits-audiovisuels-mondial-haiti-tv-generatrice-internet.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
