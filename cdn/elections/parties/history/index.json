@@ -1,0 +1,13 @@
+{
+  "source": "https://haiti-economie-api.onrender.com/api/elections/parties",
+  "generated_at": "2026-07-11T02:02:25Z",
+  "count": 1,
+  "snapshots": [
+    {
+      "timestamp": "2026-07-11T02:02:25Z",
+      "file": "history/2026/07/2026-07-11T02-02-25Z.json",
+      "url": "https://rbernadin.github.io/haiti-economie-cdn/cdn/elections/parties/history/2026/07/2026-07-11T02-02-25Z.json",
+      "sha256": "abb52dc8b8aeef8dbc26f7b2849c5e84ec1d6511bf647177475dc793864f7b4f"
+    }
+  ]
+}
