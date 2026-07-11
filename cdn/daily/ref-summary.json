@@ -1,68 +1,16 @@
 {
-  "asof": "Mon Jun 22",
-  "generatedAt": "2026-06-23T13:46:28.309Z",
+  "asof": "Thu Jul 09",
+  "generatedAt": "2026-07-10T15:24:27.595Z",
   "data": {
     "latest": {
-      "date": "Mon Jun 22",
-      "taux_ref": 130.4657,
-      "volume_achat": 12142695.15,
-      "volume_vente": 12258229.44
+      "date": "Thu Jul 09",
+      "taux_ref": 130.4977,
+      "volume_achat": 13065888.21,
+      "volume_vente": 13092839.17
     },
-    "dailyPct": -0.06832374732775658,
+    "dailyPct": -0.029876655377366876,
     "variant": "green",
     "chart": [
-      {
-        "date": "Fri May 22",
-        "ref": 130.5315
-      },
-      {
-        "date": "Mon May 25",
-        "ref": 130.4637
-      },
-      {
-        "date": "Tue May 26",
-        "ref": 130.5811
-      },
-      {
-        "date": "Wed May 27",
-        "ref": 130.5555
-      },
-      {
-        "date": "Thu May 28",
-        "ref": 130.6102
-      },
-      {
-        "date": "Fri May 29",
-        "ref": 130.4963
-      },
-      {
-        "date": "Mon Jun 01",
-        "ref": 130.4477
-      },
-      {
-        "date": "Tue Jun 02",
-        "ref": 130.5716
-      },
-      {
-        "date": "Wed Jun 03",
-        "ref": 130.5446
-      },
-      {
-        "date": "Fri Jun 05",
-        "ref": 130.5051
-      },
-      {
-        "date": "Mon Jun 08",
-        "ref": 130.479
-      },
-      {
-        "date": "Tue Jun 09",
-        "ref": 130.5608
-      },
-      {
-        "date": "Wed Jun 10",
-        "ref": 130.5218
-      },
       {
         "date": "Thu Jun 11",
         "ref": 130.4662
@@ -90,6 +38,58 @@
       {
         "date": "Mon Jun 22",
         "ref": 130.4657
+      },
+      {
+        "date": "Tue Jun 23",
+        "ref": 130.5663
+      },
+      {
+        "date": "Wed Jun 24",
+        "ref": 130.4958
+      },
+      {
+        "date": "Thu Jun 25",
+        "ref": 130.5574
+      },
+      {
+        "date": "Fri Jun 26",
+        "ref": 130.4582
+      },
+      {
+        "date": "Mon Jun 29",
+        "ref": 130.5514
+      },
+      {
+        "date": "Tue Jun 30",
+        "ref": 130.5279
+      },
+      {
+        "date": "Wed Jul 01",
+        "ref": 130.4735
+      },
+      {
+        "date": "Thu Jul 02",
+        "ref": 130.5381
+      },
+      {
+        "date": "Fri Jul 03",
+        "ref": 130.5174
+      },
+      {
+        "date": "Mon Jul 06",
+        "ref": 130.4665
+      },
+      {
+        "date": "Tue Jul 07",
+        "ref": 130.5602
+      },
+      {
+        "date": "Wed Jul 08",
+        "ref": 130.5367
+      },
+      {
+        "date": "Thu Jul 09",
+        "ref": 130.4977
       }
     ]
   }

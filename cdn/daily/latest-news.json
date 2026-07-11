@@ -1,7 +1,205 @@
 {
-  "generated_at": "2026-06-23T14:07:15.439Z",
+  "generated_at": "2026-07-10T15:40:06.544Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11222,
+      "slug": "haiti-le-secteur-tertiaire-domine-leconomie-mais-la-base-productive-reste-faible",
+      "date": "2026-07-08T19:41:25",
+      "modified": "2026-07-08T21:33:46",
+      "title": {
+        "rendered": "Haïti : le secteur tertiaire domine l’économie, mais la base productive reste faible"
+      },
+      "excerpt": {
+        "rendered": "<p>En Haïti, les services pèsent plus lourd que l’agriculture et l’industrie réunies. Une force ou un signe de déséquilibre ? L’enjeu est de mieux connecter les trois secteurs pour bâtir une économie plus productive.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/service-production-transformation-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11212,
+      "slug": "walter-gabellus-agd-installation",
+      "date": "2026-07-06T10:11:52",
+      "modified": "2026-07-06T10:11:53",
+      "title": {
+        "rendered": "Douanes : Walter Gabellus installé à la tête de l’AGD, entre promesses de réforme et questions de transparence"
+      },
+      "excerpt": {
+        "rendered": "<p>Walter Gabellus prend la tête de l’Administration générale des douanes dans un contexte de promesses de réforme, de mobilisation des recettes et de fortes attentes autour de la transparence, de l’équité et du traitement des importateurs.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/walter-gabellus-lors-de-son-installation-a-la-tete-de-l-AGD-juillet-3-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11208,
+      "slug": "riz-les-prix-internationaux-repartent-a-la-hausse-en-juin-2026",
+      "date": "2026-07-06T02:03:23",
+      "modified": "2026-07-06T02:03:24",
+      "title": {
+        "rendered": "Riz : les prix internationaux repartent à la hausse en juin 2026"
+      },
+      "excerpt": {
+        "rendered": "<p>La hausse des prix mondiaux du riz rappelle la vulnérabilité d’Haïti face aux mouvements du marché international et aux coûts d’importation.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/prix-mondial-riz-fao-haiti-juin-2026-16x9-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11206,
+      "slug": "carburants-le-gouvernement-abaisse-de-nouveau-les-prix-a-la-pompe-en-haiti",
+      "date": "2026-07-05T16:11:43",
+      "modified": "2026-07-05T16:12:40",
+      "title": {
+        "rendered": "Carburants : le gouvernement abaisse de nouveau les prix à la pompe en Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>Le gouvernement haïtien fixe de nouveaux prix à la pompe à partir du 7 juillet 2026 : 650 gourdes pour la gazoline, 700 gourdes pour le gasoil et 690 gourdes pour le kérosène.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11202,
+      "slug": "a-lopc-letat-remet-des-cheques-aux-deplaces-pour-quitter-le-camp",
+      "date": "2026-07-04T23:30:50",
+      "modified": "2026-07-04T23:30:51",
+      "title": {
+        "rendered": "À l’OPC, l’État remet des chèques aux déplacés pour quitter le camp"
+      },
+      "excerpt": {
+        "rendered": "<p>À l’OPC, l’État remet des chèques de 100,000 gourdes à des familles déplacées pour quitter le camp, dans le cadre du programme de retour aux quartiers.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cheque-aide-deplaces-opc-retour-quartiers-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11199,
+      "slug": "etats-unis-le-marche-du-travail-ralentit-en-juin-mais-le-chomage-reste-stable",
+      "date": "2026-07-04T21:02:24",
+      "modified": "2026-07-04T23:07:59",
+      "title": {
+        "rendered": "États-Unis : le marché du travail ralentit en juin, mais le chômage reste stable"
+      },
+      "excerpt": {
+        "rendered": "<p>Le rapport sur l’emploi aux États-Unis montre un ralentissement en juin 2026, avec 57,000 emplois créés, un chômage à 4.2% et des révisions à la baisse pour avril et mai.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-emploi-etats-unis-juin-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11150,
+      "slug": "elections-en-haiti-la-primature-et-le-cep-saccordent-sur-un-budget-de-120-millions-de-dollars",
+      "date": "2026-07-04T10:33:56",
+      "modified": "2026-07-04T11:16:48",
+      "title": {
+        "rendered": "Élections en Haïti : la Primature et le CEP s’accordent sur un budget de 120 millions de dollars"
+      },
+      "excerpt": {
+        "rendered": "<p>La Primature et le CEP annoncent un accord sur un budget de 120 millions de dollars pour financer les prochaines opérations électorales en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/budget-electoral-haiti-120-millions-usd-cep-juillet-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11153,
+      "slug": "le-gouvernement-revoque-hans-joseph-de-la-direction-de-lulcc",
+      "date": "2026-07-03T11:00:43",
+      "modified": "2026-07-04T11:14:41",
+      "title": {
+        "rendered": "Le gouvernement révoque Hans Joseph de la direction de l’ULCC"
+      },
+      "excerpt": {
+        "rendered": "<p>Hans Joseph n’est plus directeur général de l’ULCC. Son remplacement ouvre une nouvelle étape pour l’institution chargée de la lutte contre la corruption en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/ulcc-direction-haiti-revocation.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11133,
+      "slug": "banque-mondiale-le-ralentissement-mondial-rappelle-la-fragilite-de-la-reprise-en-haiti",
+      "date": "2026-06-27T11:24:04",
+      "modified": "2026-06-27T11:24:05",
+      "title": {
+        "rendered": "Banque mondiale : le ralentissement mondial rappelle la fragilité de la reprise en Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>Alors que la Banque mondiale prévoit un ralentissement de la croissance mondiale à 2.5% en 2026, Haïti aborde cette période avec une économie encore fragilisée par l’insécurité, l’inflation et sa dépendance aux importations.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/haiti-economie-ralentissement-mondial-reprise.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11130,
+      "slug": "tps-haiti-la-cour-supreme-ouvre-la-voie-a-la-fin-de-la-protection-temporaire",
+      "date": "2026-06-26T10:45:04",
+      "modified": "2026-06-26T10:53:04",
+      "title": {
+        "rendered": "TPS Haïti : la Cour suprême ouvre la voie à la fin de la protection temporaire"
+      },
+      "excerpt": {
+        "rendered": "<p>La Cour suprême des États-Unis a renversé les protections judiciaires qui bloquaient la fin du TPS pour Haïti. Voici ce qu’il faut savoir et les options possibles pour les personnes concernées.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/04/tps-haitiens-cour-supreme-etats-unis.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11086,
+      "slug": "haiti-pib-par-habitant-en-ppa-ce-que-lindicateur-dit-vraiment-du-niveau-de-vie",
+      "date": "2026-06-24T05:00:00",
+      "modified": "2026-06-22T23:07:23",
+      "title": {
+        "rendered": "Haïti – PIB par habitant en PPA : ce que l’indicateur dit vraiment du niveau de vie"
+      },
+      "excerpt": {
+        "rendered": "<p>Le PIB par habitant en PPA montre la faiblesse persistante du niveau de vie en Haïti, mais cet indicateur doit être lu avec prudence et complété par l’inflation, l’emploi et les services publics.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/pib-haiti-gourde-dollar-baisse.webp",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11114,
       "slug": "kits-du-mondial-avant-le-dernier-match-dhaiti-le-gouvernement-doit-deja-rendre-des-comptes",
@@ -15,204 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/kits-audiovisuels-mondial-haiti-tv-generatrice-internet.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11078,
-      "slug": "le-pire-est-a-venir-et-si-lon-relancait-la-production-nationale",
-      "date": "2026-06-22T05:15:00",
-      "modified": "2026-06-21T13:36:03",
-      "title": {
-        "rendered": "« Le pire est à venir ! Et si l’on relançait la production nationale ? »"
-      },
-      "excerpt": {
-        "rendered": "<p>La relance de la production nationale en Haïti passe par un soutien réel aux paysans, l’accès au crédit agricole, la protection des filières locales et une politique publique cohérente.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/aide-alimentaire-riz-importe-haiti.webp",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11064,
-      "slug": "haiti-le-solaire-individuel-ne-remplacera-pas-une-politique-nationale-de-lelectricite",
-      "date": "2026-06-20T00:52:20",
-      "modified": "2026-06-20T10:04:55",
-      "title": {
-        "rendered": "Haïti : l’allègement fiscal sur le solaire peut aider quelques ménages, mais laisser la majorité dans le noir"
-      },
-      "excerpt": {
-        "rendered": "<p>L’allègement fiscal sur les équipements solaires importés peut aider, mais ne remplacera pas une vraie politique nationale de l’électricité.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/energie-solaire-haiti-politique-nationale-electricite-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11060,
-      "slug": "choc-energetique-haiti-face-au-meme-dilemme-budgetaire-que-le-reste-du-monde",
-      "date": "2026-06-19T05:49:00",
-      "modified": "2026-06-19T00:52:00",
-      "title": {
-        "rendered": "Choc énergétique : Haïti face au même dilemme budgétaire que le reste du monde"
-      },
-      "excerpt": {
-        "rendered": "<p>Le FMI alerte sur le coût budgétaire des mesures face au choc énergétique. Haïti combine ajustement des prix, subventions implicites et baisse partielle des carburants.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/choc-energetique-haiti-prix-carburant-budget-fmi-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11050,
-      "slug": "accord-etats-unis-iran-soulagement-prudent-a-letranger-reactions-divisees-a-washington",
-      "date": "2026-06-18T13:03:07",
-      "modified": "2026-06-21T10:25:48",
-      "title": {
-        "rendered": "Accord États-Unis–Iran : soulagement prudent à l’étranger, réactions divisées à Washington"
-      },
-      "excerpt": {
-        "rendered": "<p>L’accord intérimaire entre les États-Unis et l’Iran suscite un soulagement prudent à l’international et des réactions divisées à Washington.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/accord-etats-unis-iran-reactions-internationales-2026.png",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11047,
-      "slug": "ibc-airways-lance-une-liaison-fort-lauderdale-les-cayes",
-      "date": "2026-06-18T08:56:08",
-      "modified": "2026-06-18T08:56:09",
-      "title": {
-        "rendered": "IBC Airways lance une liaison Fort Lauderdale–Les Cayes"
-      },
-      "excerpt": {
-        "rendered": "<p>IBC Airways lance une liaison Fort Lauderdale–Les Cayes, une nouvelle connexion aérienne entre la Floride et le sud d’Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/ibc-airways-fort-lauderdale-les-cayes-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11036,
-      "slug": "g7-2026-economie-mondiale-ukraine-et-moyen-orient-au-coeur-du-sommet-devian",
-      "date": "2026-06-16T12:44:22",
-      "modified": "2026-06-21T10:26:14",
-      "title": {
-        "rendered": "G7 2026 : économie mondiale, Ukraine et Moyen-Orient au cœur du sommet d’Évian"
-      },
-      "excerpt": {
-        "rendered": "<p>Le sommet du G7 2026 à Évian a porté sur l’économie mondiale, l’Ukraine, le Moyen-Orient, l’IA, la dette et les effets possibles pour Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/sommet-g7-2026-evian-dirigeants.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11026,
-      "slug": "agences-de-voyage-quand-la-regulation-devient-une-barriere-a-lactivite-economique",
-      "date": "2026-06-16T11:13:39",
-      "modified": "2026-06-17T01:18:11",
-      "title": {
-        "rendered": "Agences de voyage : quand la régulation devient une barrière à l’activité économique"
-      },
-      "excerpt": {
-        "rendered": "<p>Le MICT fixe les pièces requises pour les agences de voyage. Une régulation utile ou une barrière de plus pour entreprendre en Haïti ?</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/formalites-agence-voyage-haiti-administration-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11011,
-      "slug": "budget-rectificatif-2025-2026-lenveloppe-passe-a-360-3-milliards-de-gourdes",
-      "date": "2026-06-15T21:39:45",
-      "modified": "2026-06-17T01:20:10",
-      "title": {
-        "rendered": "Budget rectificatif 2025-2026 : l’enveloppe passe à 360.3 milliards de gourdes"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Gouvernement a adopté en Conseil des ministres le budget rectificatif 2025-2026, dont l’enveloppe globale est portée à 360.3 milliards de gourdes, selon un communiqué du Ministère de l’Économie et des Finances (MEF). Le MEF présente cette révision comme un ajustement destiné à renforcer plusieurs priorités annoncées par les autorités, notamment la sécurité publique, l’organisation…</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/budget-rectificatif-haiti-2025-2026-mef-communique.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11008,
-      "slug": "la-reserve-strategique-de-petrole-des-etats-unis-tombe-a-son-plus-bas-niveau-depuis-1983",
-      "date": "2026-06-15T20:20:07",
-      "modified": "2026-06-21T10:26:26",
-      "title": {
-        "rendered": "La réserve stratégique de pétrole des États-Unis tombe à son plus bas niveau depuis 1983"
-      },
-      "excerpt": {
-        "rendered": "<p>La réserve stratégique américaine de pétrole tombe à son plus bas niveau depuis 1983, avec des risques indirects pour Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/reserve-strategique-petrole-etats-unis-1983-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10965,
-      "slug": "carburants-haiti-revise-encore-les-prix-a-la-pompe",
-      "date": "2026-06-13T23:20:09",
-      "modified": "2026-06-17T01:28:39",
-      "title": {
-        "rendered": "Carburants : Haïti révise encore les prix à la pompe"
-      },
-      "excerpt": {
-        "rendered": "<p>Haïti révise les prix des carburants dès le 15 juin 2026 : gazoline à 700 gourdes, gasoil à 790 et kérosène à 785.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 10962,
-      "slug": "venezuela-larmee-deployee-dans-une-vaste-zone-riche-en-or-dominee-par-des-groupes-armes",
-      "date": "2026-06-13T15:42:21",
-      "modified": "2026-06-21T10:26:39",
-      "title": {
-        "rendered": "Venezuela : l’armée déployée dans une vaste zone riche en or dominée par des groupes armés"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Venezuela a déployé des troupes dans une vaste zone riche en or pour reprendre le contrôle de sites miniers aux mains de groupes armés.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/venezuela-zone-riche-en-or-armee-gold-belt.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
