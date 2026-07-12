@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-11T14:32:52.627Z",
+  "generated_at": "2026-07-12T14:37:38.917Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11274,
+      "slug": "le-credit-prive-sessouffle-et-freine-la-creation-de-richesse-en-haiti",
+      "date": "2026-07-11T23:19:04",
+      "modified": "2026-07-11T23:19:04",
+      "title": {
+        "rendered": "Le crédit privé s’essouffle et freine la création de richesse en Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>En Haïti, le crédit privé reste faible malgré les liquidités disponibles dans les banques. Cette situation réduit les possibilités d’investissement pour les ménages, les PME, les agriculteurs et les entrepreneurs.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/batiment-brh-port-au-prince-credit-prive-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11264,
       "slug": "la-bnc-ouvre-une-nouvelle-succursale-aux-coteaux-et-renforce-sa-presence-dans-le-grand-sud",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/budget-electoral-haiti-120-millions-usd-cep-juillet-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11153,
-      "slug": "le-gouvernement-revoque-hans-joseph-de-la-direction-de-lulcc",
-      "date": "2026-07-03T11:00:43",
-      "modified": "2026-07-04T11:14:41",
-      "title": {
-        "rendered": "Le gouvernement révoque Hans Joseph de la direction de l’ULCC"
-      },
-      "excerpt": {
-        "rendered": "<p>Hans Joseph n’est plus directeur général de l’ULCC. Son remplacement ouvre une nouvelle étape pour l’institution chargée de la lutte contre la corruption en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/ulcc-direction-haiti-revocation.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
