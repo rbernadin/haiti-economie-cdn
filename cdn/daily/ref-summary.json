@@ -1,20 +1,16 @@
 {
-  "asof": "Thu Jul 09",
-  "generatedAt": "2026-07-10T15:24:27.595Z",
+  "asof": "Fri Jul 10",
+  "generatedAt": "2026-07-12T14:19:05.028Z",
   "data": {
     "latest": {
-      "date": "Thu Jul 09",
-      "taux_ref": 130.4977,
-      "volume_achat": 13065888.21,
-      "volume_vente": 13092839.17
+      "date": "Fri Jul 10",
+      "taux_ref": 130.4344,
+      "volume_achat": 13130264,
+      "volume_vente": 12565838.64
     },
-    "dailyPct": -0.029876655377366876,
+    "dailyPct": -0.048506602032065034,
     "variant": "green",
     "chart": [
-      {
-        "date": "Thu Jun 11",
-        "ref": 130.4662
-      },
       {
         "date": "Fri Jun 12",
         "ref": 130.3911
@@ -90,6 +86,10 @@
       {
         "date": "Thu Jul 09",
         "ref": 130.4977
+      },
+      {
+        "date": "Fri Jul 10",
+        "ref": 130.4344
       }
     ]
   }
