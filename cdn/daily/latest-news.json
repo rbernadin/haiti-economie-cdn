@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-13T15:59:39.650Z",
+  "generated_at": "2026-07-14T15:03:38.256Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11279,
+      "slug": "trump-annonce-le-retablissement-du-blocus-contre-liran-et-une-redevance-de-20-dans-le-detroit-dormuz",
+      "date": "2026-07-13T22:54:41",
+      "modified": "2026-07-13T22:54:42",
+      "title": {
+        "rendered": "Trump annonce le rétablissement du blocus contre l’Iran et une redevance de 20 % dans le détroit d’Ormuz"
+      },
+      "excerpt": {
+        "rendered": "<p>L’annonce américaine pourrait accentuer les tensions autour du détroit d’Ormuz et peser sur les coûts du pétrole, des carburants, des engrais et d’autres produits importés, y compris en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/trump-redevance-20-detroit-ormuz-commerce-petrole-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11274,
       "slug": "le-credit-prive-sessouffle-et-freine-la-creation-de-richesse-en-haiti",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-emploi-etats-unis-juin-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11150,
-      "slug": "elections-en-haiti-la-primature-et-le-cep-saccordent-sur-un-budget-de-120-millions-de-dollars",
-      "date": "2026-07-04T10:33:56",
-      "modified": "2026-07-04T11:16:48",
-      "title": {
-        "rendered": "Élections en Haïti : la Primature et le CEP s’accordent sur un budget de 120 millions de dollars"
-      },
-      "excerpt": {
-        "rendered": "<p>La Primature et le CEP annoncent un accord sur un budget de 120 millions de dollars pour financer les prochaines opérations électorales en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/budget-electoral-haiti-120-millions-usd-cep-juillet-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
