@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-07-18T14:31:44.923Z",
+  "generated_at": "2026-07-19T14:34:48.014Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11302,
+      "slug": "truth-social-veut-facturer-jusqua-100-000-dollars-par-mois-pour-un-acces-accelere-aux-publications-de-trump",
+      "date": "2026-07-19T01:54:25",
+      "modified": "2026-07-19T01:54:26",
+      "title": {
+        "rendered": "Truth Social veut facturer jusqu’à 100 000 dollars par mois pour un accès accéléré aux publications de Trump"
+      },
+      "excerpt": {
+        "rendered": "<p>Trump Media veut commercialiser un accès plus rapide aux publications de Donald Trump sur Truth Social. Le service, destiné aux acteurs financiers, pourrait coûter jusqu’à 100 000 dollars par mois.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/truth-social-acces-prioritaire-publications-trump-100000-dollars.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11299,
+      "slug": "elections-en-haiti-le-cep-lance-linscription-des-electeurs-dans-neuf-departements-sauf-louest",
+      "date": "2026-07-19T00:29:33",
+      "modified": "2026-07-19T00:50:55",
+      "title": {
+        "rendered": "Élections en Haïti : le CEP lance l’inscription des électeurs dans neuf départements, sauf l’Ouest"
+      },
+      "excerpt": {
+        "rendered": "<p>Le CEP ouvre les inscriptions électorales dans neuf départements à partir du 20 juillet. L’Ouest reste temporairement exclu en raison des contraintes actuelles.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11296,
+      "slug": "hope-help-haiti-presse-washington-pour-une-prolongation-durable-face-a-lerosion-des-emplois",
+      "date": "2026-07-18T23:21:50",
+      "modified": "2026-07-18T23:21:51",
+      "title": {
+        "rendered": "HOPE/HELP : Haïti presse Washington pour une prolongation durable face à l’érosion des emplois"
+      },
+      "excerpt": {
+        "rendered": "<p>Malgré leur maintien jusqu’à fin 2026, les avantages HOPE/HELP restent trop temporaires pour rassurer les entreprises. Haïti réclame une prolongation durable afin de préserver les emplois et relancer les commandes.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11286,
+      "slug": "decret-electoral-haiti-2026-le-nouveau-cadre-electoral",
+      "date": "2026-07-18T10:34:48",
+      "modified": "2026-07-18T10:48:11",
+      "title": {
+        "rendered": "Élections en Haïti : ce que prévoit le nouveau cadre électoral de 2026"
+      },
+      "excerpt": {
+        "rendered": "<p>Deux décrets publiés en juin et juillet 2026 fixent les principales règles des prochaines élections en Haïti. Inscription des électeurs, conditions de candidature, financement des campagnes, déroulement du vote, publication des résultats et contestations.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/elections-haiti-2026-decret-electoral-modifie.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11279,
       "slug": "trump-annonce-le-retablissement-du-blocus-contre-liran-et-une-redevance-de-20-dans-le-detroit-dormuz",
@@ -141,78 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/walter-gabellus-lors-de-son-installation-a-la-tete-de-l-AGD-juillet-3-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11208,
-      "slug": "riz-les-prix-internationaux-repartent-a-la-hausse-en-juin-2026",
-      "date": "2026-07-06T02:03:23",
-      "modified": "2026-07-06T02:03:24",
-      "title": {
-        "rendered": "Riz : les prix internationaux repartent à la hausse en juin 2026"
-      },
-      "excerpt": {
-        "rendered": "<p>La hausse des prix mondiaux du riz rappelle la vulnérabilité d’Haïti face aux mouvements du marché international et aux coûts d’importation.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/prix-mondial-riz-fao-haiti-juin-2026-16x9-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11206,
-      "slug": "carburants-le-gouvernement-abaisse-de-nouveau-les-prix-a-la-pompe-en-haiti",
-      "date": "2026-07-05T16:11:43",
-      "modified": "2026-07-05T16:12:40",
-      "title": {
-        "rendered": "Carburants : le gouvernement abaisse de nouveau les prix à la pompe en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Le gouvernement haïtien fixe de nouveaux prix à la pompe à partir du 7 juillet 2026 : 650 gourdes pour la gazoline, 700 gourdes pour le gasoil et 690 gourdes pour le kérosène.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/05/prix-produits-petroliers-haiti-carburant-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11202,
-      "slug": "a-lopc-letat-remet-des-cheques-aux-deplaces-pour-quitter-le-camp",
-      "date": "2026-07-04T23:30:50",
-      "modified": "2026-07-04T23:30:51",
-      "title": {
-        "rendered": "À l’OPC, l’État remet des chèques aux déplacés pour quitter le camp"
-      },
-      "excerpt": {
-        "rendered": "<p>À l’OPC, l’État remet des chèques de 100,000 gourdes à des familles déplacées pour quitter le camp, dans le cadre du programme de retour aux quartiers.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cheque-aide-deplaces-opc-retour-quartiers-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11199,
-      "slug": "etats-unis-le-marche-du-travail-ralentit-en-juin-mais-le-chomage-reste-stable",
-      "date": "2026-07-04T21:02:24",
-      "modified": "2026-07-04T23:07:59",
-      "title": {
-        "rendered": "États-Unis : le marché du travail ralentit en juin, mais le chômage reste stable"
-      },
-      "excerpt": {
-        "rendered": "<p>Le rapport sur l’emploi aux États-Unis montre un ralentissement en juin 2026, avec 57,000 emplois créés, un chômage à 4.2% et des révisions à la baisse pour avril et mai.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-emploi-etats-unis-juin-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
