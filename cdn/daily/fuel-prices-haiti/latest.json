@@ -1,0 +1,595 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "haiti_fuel_prices",
+  "generated_at": "2026-07-22T00:23:13.238Z",
+  "title": "Historique des prix des produits pétroliers en Haïti",
+  "description": "Prix officiels de la gazoline, du gasoil et du kérosène en Haïti, exprimés en gourdes par gallon américain.",
+  "units": {
+    "currency": "HTG",
+    "volume": "US gallon",
+    "liters_per_us_gallon": 3.785411784
+  },
+  "current": {
+    "id": 13,
+    "sort_date": "2026-07-07",
+    "effective_date": "2026-07-07",
+    "effective_date_label": null,
+    "display_date": "2026-07-07",
+    "event_order": 1,
+    "notice_date": "2026-07-03",
+    "prices": {
+      "gazoline": {
+        "per_us_gallon_htg": 650,
+        "per_liter_htg": 171.71
+      },
+      "gasoil": {
+        "per_us_gallon_htg": 700,
+        "per_liter_htg": 184.92
+      },
+      "kerosene": {
+        "per_us_gallon_htg": 690,
+        "per_liter_htg": 182.28
+      }
+    },
+    "unit_code": "HTG_PER_US_GALLON",
+    "decision_status": "effective",
+    "is_current": true,
+    "source": {
+      "type": "official_notice",
+      "verified": true,
+      "title": "Avis conjoint MEF-MCI",
+      "reference": "25/26-004",
+      "file": "Evolution des prix de produits pétroliers - 2026-07-07.jpg",
+      "url": null
+    },
+    "notes": "Tarifs actuellement en vigueur à partir du 7 juillet 2026.",
+    "created_at": "2026-07-20T05:38:40.753Z",
+    "updated_at": "2026-07-20T05:38:40.753Z"
+  },
+  "previous": {
+    "id": 12,
+    "sort_date": "2026-06-15",
+    "effective_date": "2026-06-15",
+    "effective_date_label": null,
+    "display_date": "2026-06-15",
+    "event_order": 1,
+    "notice_date": "2026-06-10",
+    "prices": {
+      "gazoline": {
+        "per_us_gallon_htg": 700,
+        "per_liter_htg": 184.92
+      },
+      "gasoil": {
+        "per_us_gallon_htg": 790,
+        "per_liter_htg": 208.7
+      },
+      "kerosene": {
+        "per_us_gallon_htg": 785,
+        "per_liter_htg": 207.38
+      }
+    },
+    "unit_code": "HTG_PER_US_GALLON",
+    "decision_status": "effective",
+    "is_current": false,
+    "source": {
+      "type": "official_notice",
+      "verified": true,
+      "title": "Avis conjoint MEF-MCI",
+      "reference": "25/26-003",
+      "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
+      "url": null
+    },
+    "notes": "Tarifs applicables à partir du 15 juin 2026.",
+    "created_at": "2026-07-20T05:38:40.753Z",
+    "updated_at": "2026-07-20T05:38:40.753Z"
+  },
+  "current_change": {
+    "compared_with_effective_date": "2026-06-15",
+    "gazoline": {
+      "absolute_htg": -50,
+      "percent": -7.14,
+      "direction": "down"
+    },
+    "gasoil": {
+      "absolute_htg": -90,
+      "percent": -11.39,
+      "direction": "down"
+    },
+    "kerosene": {
+      "absolute_htg": -95,
+      "percent": -12.1,
+      "direction": "down"
+    }
+  },
+  "stats": {
+    "records": 13,
+    "effective_records": 11,
+    "verified_records": 10,
+    "announced_then_withdrawn_records": 1,
+    "first_date": "Avant le 21 août 2016",
+    "last_date": "2026-07-07"
+  },
+  "history": [
+    {
+      "id": 1,
+      "sort_date": "2016-08-20",
+      "effective_date": null,
+      "effective_date_label": "Avant le 21 août 2016",
+      "display_date": "Avant le 21 août 2016",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 189,
+          "per_liter_htg": 49.93
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 149,
+          "per_liter_htg": 39.36
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 148,
+          "per_liter_htg": 39.1
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "unconfirmed",
+      "is_current": false,
+      "source": {
+        "type": "unknown",
+        "verified": false,
+        "title": "Tarif antérieur au 21 août 2016",
+        "reference": null,
+        "file": null,
+        "url": null
+      },
+      "notes": "La date d’entrée en vigueur reste à confirmer. La date de tri est uniquement technique.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 2,
+      "sort_date": "2016-08-21",
+      "effective_date": "2016-08-21",
+      "effective_date_label": null,
+      "display_date": "2016-08-21",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 219,
+          "per_liter_htg": 57.85
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 179,
+          "per_liter_htg": 47.29
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 173,
+          "per_liter_htg": 45.7
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "secondary_source",
+        "verified": true,
+        "title": "Révision des prix des produits pétroliers",
+        "reference": null,
+        "file": null,
+        "url": "https://lenouvelliste.com/article/162326/a-propos-de-la-derniere-augmentation-des-prix-des-produits-petroliers"
+      },
+      "notes": null,
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 3,
+      "sort_date": "2017-05-15",
+      "effective_date": "2017-05-15",
+      "effective_date_label": null,
+      "display_date": "2017-05-15",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 224,
+          "per_liter_htg": 59.17
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 179,
+          "per_liter_htg": 47.29
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 173,
+          "per_liter_htg": 45.7
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint du MEF et du MCI",
+        "reference": null,
+        "file": "Evolution des prix de produits pétroliers - 2017-05-15.jpg",
+        "url": null
+      },
+      "notes": "Tarifs applicables à partir du 15 mai 2017.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 4,
+      "sort_date": "2018-07-07",
+      "effective_date": "2018-07-07",
+      "effective_date_label": null,
+      "display_date": "2018-07-07",
+      "event_order": 1,
+      "notice_date": "2018-07-07",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 309,
+          "per_liter_htg": 81.63
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 264,
+          "per_liter_htg": 69.74
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 262,
+          "per_liter_htg": 69.21
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "announced_then_withdrawn",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint du MEF et du MCI",
+        "reference": null,
+        "file": "Evolution des prix de produits pétroliers - 2018-07-07.jpg",
+        "url": null
+      },
+      "notes": "Hausse officiellement annoncée, puis retirée après les protestations.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 5,
+      "sort_date": "2018-07-07",
+      "effective_date": "2018-07-07",
+      "effective_date_label": null,
+      "display_date": "2018-07-07",
+      "event_order": 2,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 224,
+          "per_liter_htg": 59.17
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 179,
+          "per_liter_htg": 47.29
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 173,
+          "per_liter_htg": 45.7
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "secondary_source",
+        "verified": false,
+        "title": "Retour aux tarifs antérieurs",
+        "reference": null,
+        "file": null,
+        "url": null
+      },
+      "notes": "Le retrait de la hausse est documenté, mais l’avis officiel de rétablissement reste à archiver.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 6,
+      "sort_date": "2020-10-26",
+      "effective_date": "2020-10-26",
+      "effective_date_label": null,
+      "display_date": "2020-10-26",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 201,
+          "per_liter_htg": 53.1
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 169,
+          "per_liter_htg": 44.65
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 163,
+          "per_liter_htg": 43.06
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_webpage",
+        "verified": true,
+        "title": "Le gouvernement ajuste à la baisse les prix des produits pétroliers",
+        "reference": null,
+        "file": null,
+        "url": "https://mef.gouv.ht/le-gouvernement-ajuste-la-hausse-les-prix-des-produits-petroliers"
+      },
+      "notes": null,
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 7,
+      "sort_date": "2021-12-10",
+      "effective_date": "2021-12-10",
+      "effective_date_label": null,
+      "display_date": "2021-12-10",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 250,
+          "per_liter_htg": 66.04
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 353,
+          "per_liter_htg": 93.25
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 352,
+          "per_liter_htg": 92.99
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_webpage",
+        "verified": true,
+        "title": "Révision des prix des produits pétroliers",
+        "reference": null,
+        "file": null,
+        "url": "https://mef.gouv.ht/le-gouvernement-ajuste-la-hausse-les-prix-des-produits-petroliers"
+      },
+      "notes": null,
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 8,
+      "sort_date": "2022-09-14",
+      "effective_date": "2022-09-14",
+      "effective_date_label": null,
+      "display_date": "2022-09-14",
+      "event_order": 1,
+      "notice_date": null,
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 570,
+          "per_liter_htg": 150.58
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 670,
+          "per_liter_htg": 177
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 665,
+          "per_liter_htg": 175.67
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "secondary_source",
+        "verified": false,
+        "title": "Révision des prix des produits pétroliers",
+        "reference": null,
+        "file": null,
+        "url": null
+      },
+      "notes": "L’avis officiel reste à ajouter à l’archive.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 9,
+      "sort_date": "2023-07-20",
+      "effective_date": "2023-07-20",
+      "effective_date_label": null,
+      "display_date": "2023-07-20",
+      "event_order": 1,
+      "notice_date": "2023-07-14",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 560,
+          "per_liter_htg": 147.94
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 620,
+          "per_liter_htg": 163.79
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 615,
+          "per_liter_htg": 162.47
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint MEF-MCI",
+        "reference": "22/23-001",
+        "file": "Evolution des prix de produits pétroliers - 2023-07-14.jpg",
+        "url": null
+      },
+      "notes": "Avis publié le 14 juillet 2023 et applicable à partir du 20 juillet 2023.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 10,
+      "sort_date": "2026-04-02",
+      "effective_date": "2026-04-02",
+      "effective_date_label": null,
+      "display_date": "2026-04-02",
+      "event_order": 1,
+      "notice_date": "2026-03-31",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 725,
+          "per_liter_htg": 191.52
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 850,
+          "per_liter_htg": 224.55
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 845,
+          "per_liter_htg": 223.23
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint MEF-MCI",
+        "reference": "25/26-001",
+        "file": "Evolution des prix de produits pétroliers - 2026-04-02.jpg",
+        "url": null
+      },
+      "notes": "Tarifs applicables à partir du 2 avril 2026.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 11,
+      "sort_date": "2026-05-10",
+      "effective_date": "2026-05-10",
+      "effective_date_label": null,
+      "display_date": "2026-05-10",
+      "event_order": 1,
+      "notice_date": "2026-05-05",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 700,
+          "per_liter_htg": 184.92
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 825,
+          "per_liter_htg": 217.94
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 845,
+          "per_liter_htg": 223.23
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint MEF-MCI",
+        "reference": "25/26-002",
+        "file": "Evolution des prix de produits pétroliers - 2026-05-10.jpg",
+        "url": null
+      },
+      "notes": "Tarifs applicables à partir du 10 mai 2026.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 12,
+      "sort_date": "2026-06-15",
+      "effective_date": "2026-06-15",
+      "effective_date_label": null,
+      "display_date": "2026-06-15",
+      "event_order": 1,
+      "notice_date": "2026-06-10",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 700,
+          "per_liter_htg": 184.92
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 790,
+          "per_liter_htg": 208.7
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 785,
+          "per_liter_htg": 207.38
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": false,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint MEF-MCI",
+        "reference": "25/26-003",
+        "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
+        "url": null
+      },
+      "notes": "Tarifs applicables à partir du 15 juin 2026.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    },
+    {
+      "id": 13,
+      "sort_date": "2026-07-07",
+      "effective_date": "2026-07-07",
+      "effective_date_label": null,
+      "display_date": "2026-07-07",
+      "event_order": 1,
+      "notice_date": "2026-07-03",
+      "prices": {
+        "gazoline": {
+          "per_us_gallon_htg": 650,
+          "per_liter_htg": 171.71
+        },
+        "gasoil": {
+          "per_us_gallon_htg": 700,
+          "per_liter_htg": 184.92
+        },
+        "kerosene": {
+          "per_us_gallon_htg": 690,
+          "per_liter_htg": 182.28
+        }
+      },
+      "unit_code": "HTG_PER_US_GALLON",
+      "decision_status": "effective",
+      "is_current": true,
+      "source": {
+        "type": "official_notice",
+        "verified": true,
+        "title": "Avis conjoint MEF-MCI",
+        "reference": "25/26-004",
+        "file": "Evolution des prix de produits pétroliers - 2026-07-07.jpg",
+        "url": null
+      },
+      "notes": "Tarifs actuellement en vigueur à partir du 7 juillet 2026.",
+      "created_at": "2026-07-20T05:38:40.753Z",
+      "updated_at": "2026-07-20T05:38:40.753Z"
+    }
+  ]
+}

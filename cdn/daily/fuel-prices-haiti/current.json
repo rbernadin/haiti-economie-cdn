@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "dataset": "haiti_fuel_prices",
+  "generated_at": "2026-07-22T00:23:13.338Z",
+  "units": {
+    "currency": "HTG",
+    "volume": "US gallon",
+    "liters_per_us_gallon": 3.785411784
+  },
+  "current": {
+    "id": 13,
+    "sort_date": "2026-07-07",
+    "effective_date": "2026-07-07",
+    "effective_date_label": null,
+    "display_date": "2026-07-07",
+    "event_order": 1,
+    "notice_date": "2026-07-03",
+    "prices": {
+      "gazoline": {
+        "per_us_gallon_htg": 650,
+        "per_liter_htg": 171.71
+      },
+      "gasoil": {
+        "per_us_gallon_htg": 700,
+        "per_liter_htg": 184.92
+      },
+      "kerosene": {
+        "per_us_gallon_htg": 690,
+        "per_liter_htg": 182.28
+      }
+    },
+    "unit_code": "HTG_PER_US_GALLON",
+    "decision_status": "effective",
+    "is_current": true,
+    "source": {
+      "type": "official_notice",
+      "verified": true,
+      "title": "Avis conjoint MEF-MCI",
+      "reference": "25/26-004",
+      "file": "Evolution des prix de produits pétroliers - 2026-07-07.jpg",
+      "url": null
+    },
+    "notes": "Tarifs actuellement en vigueur à partir du 7 juillet 2026.",
+    "created_at": "2026-07-20T05:38:40.753Z",
+    "updated_at": "2026-07-20T05:38:40.753Z"
+  },
+  "previous": {
+    "id": 12,
+    "sort_date": "2026-06-15",
+    "effective_date": "2026-06-15",
+    "effective_date_label": null,
+    "display_date": "2026-06-15",
+    "event_order": 1,
+    "notice_date": "2026-06-10",
+    "prices": {
+      "gazoline": {
+        "per_us_gallon_htg": 700,
+        "per_liter_htg": 184.92
+      },
+      "gasoil": {
+        "per_us_gallon_htg": 790,
+        "per_liter_htg": 208.7
+      },
+      "kerosene": {
+        "per_us_gallon_htg": 785,
+        "per_liter_htg": 207.38
+      }
+    },
+    "unit_code": "HTG_PER_US_GALLON",
+    "decision_status": "effective",
+    "is_current": false,
+    "source": {
+      "type": "official_notice",
+      "verified": true,
+      "title": "Avis conjoint MEF-MCI",
+      "reference": "25/26-003",
+      "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
+      "url": null
+    },
+    "notes": "Tarifs applicables à partir du 15 juin 2026.",
+    "created_at": "2026-07-20T05:38:40.753Z",
+    "updated_at": "2026-07-20T05:38:40.753Z"
+  },
+  "current_change": {
+    "compared_with_effective_date": "2026-06-15",
+    "gazoline": {
+      "absolute_htg": -50,
+      "percent": -7.14,
+      "direction": "down"
+    },
+    "gasoil": {
+      "absolute_htg": -90,
+      "percent": -11.39,
+      "direction": "down"
+    },
+    "kerosene": {
+      "absolute_htg": -95,
+      "percent": -12.1,
+      "direction": "down"
+    }
+  }
+}
