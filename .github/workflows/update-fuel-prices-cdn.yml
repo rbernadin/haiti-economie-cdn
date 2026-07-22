@@ -1,0 +1,306 @@
+name: Update Haiti fuel prices CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 10:15 UTC.
+    - cron: "15 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-haiti-fuel-prices-cdn
+  cancel-in-progress: false
+
+env:
+  API_FULL_URL: https://haiti-economie-api.onrender.com/api/fuel-prices-haiti-standardized
+  API_CURRENT_URL: https://haiti-economie-api.onrender.com/api/fuel-prices-haiti-standardized/current
+  CDN_DIR: cdn/daily/fuel-prices-haiti
+
+jobs:
+  update-cdn:
+    name: Fetch and publish fuel prices
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Create CDN directories
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "${CDN_DIR}/archive"
+          touch .nojekyll
+
+      - name: Download API payloads
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            --retry 5 \
+            --retry-all-errors \
+            --retry-delay 10 \
+            --connect-timeout 20 \
+            --max-time 120 \
+            -H "Accept: application/json" \
+            "${API_FULL_URL}" \
+            -o /tmp/fuel-prices-full.json
+
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --location \
+            --retry 5 \
+            --retry-all-errors \
+            --retry-delay 10 \
+            --connect-timeout 20 \
+            --max-time 120 \
+            -H "Accept: application/json" \
+            "${API_CURRENT_URL}" \
+            -o /tmp/fuel-prices-current.json
+
+      - name: Validate and build CDN files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          node <<'NODE'
+          const fs = require("node:fs");
+          const path = require("node:path");
+
+          const cdnDir = process.env.CDN_DIR;
+          const archiveDir = path.join(cdnDir, "archive");
+          const latestFile = path.join(cdnDir, "latest.json");
+          const currentFile = path.join(cdnDir, "current.json");
+          const indexFile = path.join(cdnDir, "index.json");
+
+          function readJson(file) {
+            return JSON.parse(fs.readFileSync(file, "utf8"));
+          }
+
+          function readJsonIfPresent(file) {
+            if (!fs.existsSync(file)) {
+              return null;
+            }
+
+            try {
+              return readJson(file);
+            } catch {
+              return null;
+            }
+          }
+
+          function writeJson(file, value) {
+            fs.mkdirSync(path.dirname(file), { recursive: true });
+            fs.writeFileSync(file, `${JSON.stringify(value, null, 2)}\n`);
+          }
+
+          function comparablePayload(payload) {
+            if (!payload || typeof payload !== "object") {
+              return payload;
+            }
+
+            const copy = JSON.parse(JSON.stringify(payload));
+
+            // This timestamp changes on every API request even when the
+            // underlying fuel-price data has not changed.
+            delete copy.generated_at;
+
+            return copy;
+          }
+
+          function sameUnderlyingData(existing, incoming) {
+            if (!existing) {
+              return false;
+            }
+
+            return (
+              JSON.stringify(comparablePayload(existing)) ===
+              JSON.stringify(comparablePayload(incoming))
+            );
+          }
+
+          function assertObject(value, label) {
+            if (!value || typeof value !== "object" || Array.isArray(value)) {
+              throw new Error(`${label} must be a JSON object.`);
+            }
+          }
+
+          const full = readJson("/tmp/fuel-prices-full.json");
+          const currentOnly = readJson("/tmp/fuel-prices-current.json");
+
+          assertObject(full, "Full API payload");
+          assertObject(currentOnly, "Current API payload");
+
+          if (full.dataset !== "haiti_fuel_prices") {
+            throw new Error(
+              `Unexpected full dataset: ${String(full.dataset)}`
+            );
+          }
+
+          if (currentOnly.dataset !== "haiti_fuel_prices") {
+            throw new Error(
+              `Unexpected current dataset: ${String(currentOnly.dataset)}`
+            );
+          }
+
+          if (!Array.isArray(full.history) || full.history.length === 0) {
+            throw new Error("Full API payload has no usable history.");
+          }
+
+          if (!full.current || typeof full.current !== "object") {
+            throw new Error("Full API payload has no current record.");
+          }
+
+          if (!currentOnly.current || typeof currentOnly.current !== "object") {
+            throw new Error("Current API payload has no current record.");
+          }
+
+          if (full.current.id !== currentOnly.current.id) {
+            throw new Error(
+              `Current-record mismatch: full=${String(full.current.id)}, ` +
+              `current=${String(currentOnly.current.id)}`
+            );
+          }
+
+          const effectiveDate =
+            full.current.effective_date ||
+            full.current.sort_date;
+
+          if (!/^\d{4}-\d{2}-\d{2}$/.test(String(effectiveDate ?? ""))) {
+            throw new Error(
+              `Invalid current effective date: ${String(effectiveDate)}`
+            );
+          }
+
+          fs.mkdirSync(archiveDir, { recursive: true });
+
+          const existingLatest = readJsonIfPresent(latestFile);
+          const existingCurrent = readJsonIfPresent(currentFile);
+
+          const latestChanged = !sameUnderlyingData(existingLatest, full);
+          const currentChanged = !sameUnderlyingData(
+            existingCurrent,
+            currentOnly
+          );
+
+          if (latestChanged) {
+            writeJson(latestFile, full);
+            console.log(`Updated ${latestFile}`);
+          } else {
+            console.log("No underlying changes in latest.json");
+          }
+
+          if (currentChanged) {
+            writeJson(currentFile, currentOnly);
+            console.log(`Updated ${currentFile}`);
+          } else {
+            console.log("No underlying changes in current.json");
+          }
+
+          const archiveFile = path.join(
+            archiveDir,
+            `${effectiveDate}.json`
+          );
+
+          let archiveCreated = false;
+
+          if (!fs.existsSync(archiveFile)) {
+            writeJson(archiveFile, full);
+            archiveCreated = true;
+            console.log(`Created ${archiveFile}`);
+          }
+
+          const snapshots = fs
+            .readdirSync(archiveDir)
+            .filter((name) => /^\d{4}-\d{2}-\d{2}\.json$/.test(name))
+            .sort()
+            .map((name) => ({
+              effective_date: name.replace(/\.json$/, ""),
+              file: `archive/${name}`,
+            }));
+
+          const shouldUpdateIndex =
+            latestChanged ||
+            currentChanged ||
+            archiveCreated ||
+            !fs.existsSync(indexFile);
+
+          if (shouldUpdateIndex) {
+            const index = {
+              schema_version: "1.0.0",
+              dataset: "haiti_fuel_prices",
+              title:
+                full.title ||
+                "Historique des prix des produits pétroliers en Haïti",
+              description: full.description || null,
+              updated_at:
+                full.generated_at ||
+                new Date().toISOString(),
+              latest_effective_date: effectiveDate,
+              records: full.stats?.records ?? full.history.length,
+              latest: "latest.json",
+              current: "current.json",
+              snapshots,
+            };
+
+            writeJson(indexFile, index);
+            console.log(`Updated ${indexFile}`);
+          } else {
+            console.log("No CDN data changes detected.");
+          }
+          NODE
+
+      - name: Validate generated JSON
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          node -e '
+            const fs = require("node:fs");
+            const path = require("node:path");
+            const root = process.env.CDN_DIR;
+
+            for (const name of ["latest.json", "current.json", "index.json"]) {
+              const file = path.join(root, name);
+              JSON.parse(fs.readFileSync(file, "utf8"));
+              console.log(`Valid JSON: ${file}`);
+            }
+          '
+
+      - name: Commit CDN changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git add "${CDN_DIR}" .nojekyll
+
+          if git diff --cached --quiet; then
+            echo "No fuel-price CDN changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore(cdn): update Haiti fuel prices"
+
+          # Rebase onto any changes pushed by another CDN workflow.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
