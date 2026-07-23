@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T04:53:14.459Z",
+  "generated_at": "2026-07-23T05:03:18.861Z",
   "source_url": "https://haiti-economie-api.onrender.com/api/fx-history-standardized",
   "main_file": "fx-history-standardized.json",
   "alias_files": [
     "fx-core-730.json"
   ],
-  "record_count": 986,
+  "record_count": 987,
   "latest_record": {
-    "date": "2026-07-21",
+    "date": "2026-07-22",
     "volume_achat": 20650711.92,
     "volume_vente": 21373318.88,
     "taux_ref": 130.6108,
