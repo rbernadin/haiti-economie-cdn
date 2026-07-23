@@ -1,34 +1,16 @@
 {
-  "generatedAt": "2026-07-22T08:41:49.330Z",
-  "asof": "2026-07-20",
+  "generatedAt": "2026-07-23T08:42:49.542Z",
+  "asof": "2026-07-22",
   "latest": {
-    "date": "2026-07-20",
-    "volume_achat": 15582803.59,
-    "volume_vente": 15513674.37,
+    "date": "2026-07-22",
+    "volume_achat": 20650711.92,
+    "volume_vente": 21373318.88,
     "intervention_us_achat": null,
     "intervention_us_vente": null,
     "intervention_euro_achat": null,
     "intervention_euro_vente": null
   },
   "history": [
-    {
-      "date": "2024-11-09",
-      "volume_achat": 11932490.52,
-      "volume_vente": 11342168.24,
-      "intervention_us_achat": null,
-      "intervention_us_vente": null,
-      "intervention_euro_achat": null,
-      "intervention_euro_vente": null
-    },
-    {
-      "date": "2024-11-13",
-      "volume_achat": 9811626.3,
-      "volume_vente": 9588055.44,
-      "intervention_us_achat": null,
-      "intervention_us_vente": null,
-      "intervention_euro_achat": null,
-      "intervention_euro_vente": null
-    },
     {
       "date": "2024-11-14",
       "volume_achat": 20277396.71,
@@ -3291,6 +3273,24 @@
       "date": "2026-07-20",
       "volume_achat": 15582803.59,
       "volume_vente": 15513674.37,
+      "intervention_us_achat": null,
+      "intervention_us_vente": null,
+      "intervention_euro_achat": null,
+      "intervention_euro_vente": null
+    },
+    {
+      "date": "2026-07-21",
+      "volume_achat": 24895373.02,
+      "volume_vente": 25150998.92,
+      "intervention_us_achat": null,
+      "intervention_us_vente": null,
+      "intervention_euro_achat": null,
+      "intervention_euro_vente": null
+    },
+    {
+      "date": "2026-07-22",
+      "volume_achat": 20650711.92,
+      "volume_vente": 21373318.88,
       "intervention_us_achat": null,
       "intervention_us_vente": null,
       "intervention_euro_achat": null,
