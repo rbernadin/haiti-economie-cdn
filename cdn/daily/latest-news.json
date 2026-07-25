@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-07-24T15:08:25.964Z",
+  "generated_at": "2026-07-25T14:42:08.957Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11318,
+      "slug": "haiti-la-stabilite-monetaire-resiste-mais-leconomie-continue-de-reculer",
+      "date": "2026-07-25T08:47:42",
+      "modified": "2026-07-25T08:47:43",
+      "title": {
+        "rendered": "Haïti : la stabilité monétaire résiste, mais l’économie continue de reculer"
+      },
+      "excerpt": {
+        "rendered": "<p>La BRH dresse un bilan contrasté de l’économie haïtienne : la stabilité monétaire résiste, mais l’insécurité, la faiblesse du crédit et les tensions budgétaires continuent de freiner la reprise.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/gouverneur-brh-conjoncture-economique-haiti-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11313,
+      "slug": "haiti-le-deficit-de-tresorerie-atteint-44-2-milliards-de-gourdes",
+      "date": "2026-07-24T23:22:20",
+      "modified": "2026-07-24T23:22:21",
+      "title": {
+        "rendered": "Haïti : le déficit de trésorerie atteint 44.2 milliards de gourdes"
+      },
+      "excerpt": {
+        "rendered": "<p>Au 30 juin 2026, les dépenses publiques progressent plus vite que les recettes. Le déficit de trésorerie atteint 44.2 milliards de gourdes, renforçant le recours du Trésor au financement de la BRH et des banques commerciales.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11308,
+      "slug": "haiti-le-tresor-sappuie-de-plus-en-plus-sur-la-brh-et-les-banques-commerciales",
+      "date": "2026-07-24T22:47:06",
+      "modified": "2026-07-24T22:47:07",
+      "title": {
+        "rendered": "Haïti : le Trésor s’appuie de plus en plus sur la BRH et les banques commerciales"
+      },
+      "excerpt": {
+        "rendered": "<p>Au 31 mai 2026, le Trésor affiche un déficit de trésorerie de 38.2 milliards de gourdes. La forte hausse du financement de la BRH et des banques commerciales soulève des risques pour l’inflation, le crédit et les finances publiques.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11302,
       "slug": "truth-social-veut-facturer-jusqua-100-000-dollars-par-mois-pour-un-acces-accelere-aux-publications-de-trump",
@@ -159,60 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cep-liste-definitive-partis-politiques-agrees-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11239,
-      "slug": "conflit-iran-etats-unis-de-nouvelles-tensions-alimentent-lincertitude-sur-les-prix-du-carburant-en-haiti",
-      "date": "2026-07-10T12:01:21",
-      "modified": "2026-07-10T12:01:22",
-      "title": {
-        "rendered": "Conflit Iran–États-Unis : de nouvelles tensions alimentent l’incertitude sur les prix du carburant en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Les tensions entre l’Iran et les États-Unis ravivent l’incertitude sur les marchés pétroliers et pourraient compliquer la gestion des prix du carburant en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/conflit-iran-etats-unis-detroit-hormuz-prix-carburant-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11222,
-      "slug": "haiti-le-secteur-tertiaire-domine-leconomie-mais-la-base-productive-reste-faible",
-      "date": "2026-07-08T19:41:25",
-      "modified": "2026-07-08T21:33:46",
-      "title": {
-        "rendered": "Haïti : le secteur tertiaire domine l’économie, mais la base productive reste faible"
-      },
-      "excerpt": {
-        "rendered": "<p>En Haïti, les services pèsent plus lourd que l’agriculture et l’industrie réunies. Une force ou un signe de déséquilibre ? L’enjeu est de mieux connecter les trois secteurs pour bâtir une économie plus productive.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/service-production-transformation-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11212,
-      "slug": "walter-gabellus-agd-installation",
-      "date": "2026-07-06T10:11:52",
-      "modified": "2026-07-06T10:11:53",
-      "title": {
-        "rendered": "Douanes : Walter Gabellus installé à la tête de l’AGD, entre promesses de réforme et questions de transparence"
-      },
-      "excerpt": {
-        "rendered": "<p>Walter Gabellus prend la tête de l’Administration générale des douanes dans un contexte de promesses de réforme, de mobilisation des recettes et de fortes attentes autour de la transparence, de l’équité et du traitement des importateurs.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/walter-gabellus-lors-de-son-installation-a-la-tete-de-l-AGD-juillet-3-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
