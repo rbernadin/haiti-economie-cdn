@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-26T14:44:26.934Z",
+  "generated_at": "2026-07-27T15:51:05.661Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11326,
+      "slug": "fin-du-tps-environ-350-000-haitiens-perdent-leur-protection-aux-etats-unis",
+      "date": "2026-07-27T08:22:17",
+      "modified": "2026-07-27T08:22:18",
+      "title": {
+        "rendered": "Fin du TPS : environ 350 000 Haïtiens perdent leur protection aux États-Unis"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS expose environ 350 000 Haïtiens aux États-Unis à la perte de leur permis de travail et au risque d’expulsion vers un pays en crise.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/fin-tps-haitiens-etats-unis-statue-liberte-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11322,
+      "slug": "nouveau-rapport-la-gourde-reste-stable-face-au-dollar-malgre-un-marche-plus-actif",
+      "date": "2026-07-26T18:50:15",
+      "modified": "2026-07-26T18:50:16",
+      "title": {
+        "rendered": "Nouveau rapport : la gourde reste stable face au dollar, malgré un marché plus actif"
+      },
+      "excerpt": {
+        "rendered": "<p>Entre avril et juin 2026, le taux de change officiel est resté relativement stable malgré une hausse des transactions. Le rapport analyse aussi le resserrement du spread bancaire et les achats nets de devises effectués par la BRH.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-taux-change-haiti-avril-juin-2026-couverture.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11318,
       "slug": "haiti-la-stabilite-monetaire-resiste-mais-leconomie-continue-de-reculer",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/bnc-ouverture-succursale-les-coteaux-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11249,
-      "slug": "tps-pour-haiti-les-permis-de-travail-prolonges-jusquau-24-juillet-mais-la-protection-reste-menacee",
-      "date": "2026-07-10T23:22:37",
-      "modified": "2026-07-10T23:45:26",
-      "title": {
-        "rendered": "TPS pour Haïti : les permis de travail prolongés jusqu’au 24 juillet, mais la protection reste menacée"
-      },
-      "excerpt": {
-        "rendered": "<p>Les bénéficiaires haïtiens du TPS obtiennent un court répit : leurs permis de travail sont prolongés jusqu’au 24 juillet 2026, mais l’avenir de la protection demeure incertain.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/tps-haiti-permis-travail-24-juillet-2026-statue-liberte.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11243,
-      "slug": "elections-le-cep-publie-la-liste-definitive-des-partis-politiques-agrees",
-      "date": "2026-07-10T14:31:27",
-      "modified": "2026-07-10T14:36:08",
-      "title": {
-        "rendered": "Élections : le CEP publie la liste définitive des partis politiques agréés"
-      },
-      "excerpt": {
-        "rendered": "<p>Le CEP a rendu publique la liste définitive des partis politiques agréés. Sur 320 dossiers examinés, 316 ont été validés pour poursuivre le processus électoral.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cep-liste-definitive-partis-politiques-agrees-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
