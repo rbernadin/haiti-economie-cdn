@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-29T15:20:28.123Z",
+  "generated_at": "2026-07-30T15:24:07.931Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11341,
+      "slug": "haiti-le-cep-lance-linscription-des-electeurs-dans-le-departement-de-louest",
+      "date": "2026-07-30T11:02:28",
+      "modified": "2026-07-30T11:02:28",
+      "title": {
+        "rendered": "Haïti : le CEP lance l’inscription des électeurs dans le département de l’Ouest"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil électoral provisoire (CEP) lance ce jeudi 30 juillet 2026 les opérations d’inscription des électeurs dans le département de l’Ouest.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11337,
+      "slug": "fin-du-tps-quels-risques-economiques-pour-les-etats-unis-et-haiti",
+      "date": "2026-07-30T10:12:23",
+      "modified": "2026-07-30T10:15:18",
+      "title": {
+        "rendered": "Fin du TPS : quels risques économiques pour les États-Unis et Haïti ?"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS pourrait provoquer un double choc : des pertes de travailleurs dans plusieurs secteurs américains et une baisse des transferts vers les familles en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/travailleur-haitien-tps-impact-economique-etats-unis.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11326,
       "slug": "fin-du-tps-environ-350-000-haitiens-perdent-leur-protection-aux-etats-unis",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/trump-redevance-20-detroit-ormuz-commerce-petrole-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11274,
-      "slug": "le-credit-prive-sessouffle-et-freine-la-creation-de-richesse-en-haiti",
-      "date": "2026-07-11T23:19:04",
-      "modified": "2026-07-11T23:19:04",
-      "title": {
-        "rendered": "Le crédit privé s’essouffle et freine la création de richesse en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>En Haïti, le crédit privé reste faible malgré les liquidités disponibles dans les banques. Cette situation réduit les possibilités d’investissement pour les ménages, les PME, les agriculteurs et les entrepreneurs.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/batiment-brh-port-au-prince-credit-prive-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11264,
-      "slug": "la-bnc-ouvre-une-nouvelle-succursale-aux-coteaux-et-renforce-sa-presence-dans-le-grand-sud",
-      "date": "2026-07-11T02:42:03",
-      "modified": "2026-07-11T02:42:04",
-      "title": {
-        "rendered": "La BNC ouvre une nouvelle succursale aux Côteaux et renforce sa présence dans le Grand Sud"
-      },
-      "excerpt": {
-        "rendered": "<p>La Banque Nationale de Crédit a inauguré sa première succursale aux Côteaux, une implantation qui pourrait faciliter l’accès aux services financiers pour les ménages, commerçants et petites entreprises de la région.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/bnc-ouverture-succursale-les-coteaux-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
