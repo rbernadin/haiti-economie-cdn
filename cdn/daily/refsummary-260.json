@@ -1,19 +1,13 @@
 {
-  "generatedAt": "2026-07-30T08:45:45.716Z",
-  "asof": "2026-07-28",
+  "generatedAt": "2026-07-31T09:14:19.411Z",
+  "asof": "2026-07-29",
   "latest": {
-    "date": "2026-07-28",
-    "taux_ref": 130.616,
-    "volume_achat": 24605423.4,
-    "volume_vente": 24482973.5
+    "date": "2026-07-29",
+    "taux_ref": 130.5194,
+    "volume_achat": 16978452.24,
+    "volume_vente": 17421073.06
   },
   "history": [
-    {
-      "date": "2025-06-08",
-      "taux_ref": 130.8658,
-      "volume_achat": 12824140.72,
-      "volume_vente": 12847585.41
-    },
     {
       "date": "2025-06-11",
       "taux_ref": 130.8379,
@@ -1567,6 +1561,12 @@
       "taux_ref": 130.616,
       "volume_achat": 24605423.4,
       "volume_vente": 24482973.5
+    },
+    {
+      "date": "2026-07-29",
+      "taux_ref": 130.5194,
+      "volume_achat": 16978452.24,
+      "volume_vente": 17421073.06
     }
   ],
   "source": "fx-history-standardized",
