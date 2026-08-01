@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "dataset": "haiti_fuel_prices",
-  "generated_at": "2026-08-01T15:43:48.599Z",
+  "generated_at": "2026-08-01T23:27:22.343Z",
   "title": "Historique des prix des produits pétroliers en Haïti",
   "description": "Prix officiels de la gazoline, du gasoil et du kérosène en Haïti, exprimés en gourdes par gallon américain.",
   "units": {
@@ -77,11 +77,11 @@
       "title": "Avis conjoint MEF-MCI",
       "reference": "25/26-003",
       "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
-      "url": null
+      "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2026-06-15.jpg"
     },
     "notes": "Tarifs applicables à partir du 15 juin 2026.",
     "created_at": "2026-07-20T05:38:40.753Z",
-    "updated_at": "2026-07-20T05:38:40.753Z"
+    "updated_at": "2026-08-01T19:05:53.937Z"
   },
   "current_change": {
     "compared_with_effective_date": "2026-06-15",
@@ -252,11 +252,11 @@
         "title": "Avis conjoint du MEF et du MCI",
         "reference": null,
         "file": "Evolution des prix de produits pétroliers - 2018-07-07.jpg",
-        "url": null
+        "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2018-07-07.png"
       },
       "notes": "Hausse officiellement annoncée, puis retirée après les protestations.",
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:16:13.760Z"
     },
     {
       "id": 5,
@@ -293,7 +293,7 @@
       },
       "notes": "Le retrait de la hausse est documenté, mais l’avis officiel de rétablissement reste à archiver.",
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:16:13.760Z"
     },
     {
       "id": 14,
@@ -325,12 +325,12 @@
         "verified": true,
         "title": "Avis conjoint MEF-MCI",
         "reference": null,
-        "file": "Evolution des prix de produits pétroliers - 2020-10-07.jpg",
+        "file": null,
         "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Prix-de-lessence-La-gasoline-201-gourdes-et-diesel-174-gourdes-a-partir-du-8-Octobre-2020.png"
       },
       "notes": "Tarifs applicables à partir du 8 octobre 2020.",
       "created_at": "2026-08-01T15:39:21.088Z",
-      "updated_at": "2026-08-01T15:39:21.088Z"
+      "updated_at": "2026-08-01T19:29:22.126Z"
     },
     {
       "id": 6,
@@ -362,12 +362,12 @@
         "verified": true,
         "title": "Le gouvernement ajuste à la baisse les prix des produits pétroliers",
         "reference": null,
-        "file": null,
+        "file": "Prix-de-lessence-La-gasoline-201-gourdes-et-diesel-174-gourdes-a-partir-du-8-Octobre-2020.png",
         "url": "https://mef.gouv.ht/le-gouvernement-ajuste-la-hausse-les-prix-des-produits-petroliers"
       },
       "notes": null,
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:16:13.760Z"
     },
     {
       "id": 7,
@@ -436,12 +436,12 @@
         "verified": false,
         "title": "Révision des prix des produits pétroliers",
         "reference": null,
-        "file": null,
-        "url": null
+        "file": "Evolution des prix de produits pétroliers - 2022-09-14.png",
+        "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2022-09-14.png"
       },
       "notes": "L’avis officiel reste à ajouter à l’archive.",
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:29:22.126Z"
     },
     {
       "id": 9,
@@ -510,12 +510,12 @@
         "verified": true,
         "title": "Avis conjoint MEF-MCI",
         "reference": "25/26-001",
-        "file": "Evolution des prix de produits pétroliers - 2026-04-02.jpg",
-        "url": null
+        "file": "Evolution des prix de produits pétroliers - 2026-04-02.png",
+        "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2026-04-02.png"
       },
       "notes": "Tarifs applicables à partir du 2 avril 2026.",
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:29:22.126Z"
     },
     {
       "id": 11,
@@ -585,11 +585,11 @@
         "title": "Avis conjoint MEF-MCI",
         "reference": "25/26-003",
         "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
-        "url": null
+        "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2026-06-15.jpg"
       },
       "notes": "Tarifs applicables à partir du 15 juin 2026.",
       "created_at": "2026-07-20T05:38:40.753Z",
-      "updated_at": "2026-07-20T05:38:40.753Z"
+      "updated_at": "2026-08-01T19:05:53.937Z"
     },
     {
       "id": 13,
