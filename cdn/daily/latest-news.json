@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-31T15:30:18.009Z",
+  "generated_at": "2026-08-01T14:40:45.805Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11373,
+      "slug": "la-brh-veut-faire-de-lintelligence-artificielle-un-levier-de-developpement-economique-pour-haiti",
+      "date": "2026-08-01T10:39:07",
+      "modified": "2026-08-01T10:39:08",
+      "title": {
+        "rendered": "La BRH veut faire de l’intelligence artificielle un levier de développement économique pour Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>La Banque de la République d’Haïti considère l’intelligence artificielle comme un levier stratégique pour améliorer la productivité, moderniser les institutions et renforcer le système financier. Dans son dernier Mot du Gouverneur, elle expose les opportunités, les risques et les actions qu’elle entend mettre en œuvre pour accompagner cette transformation technologique.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/brh-intelligence-artificielle-haiti-bitkob-carte-numerique.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11341,
       "slug": "haiti-le-cep-lance-linscription-des-electeurs-dans-le-departement-de-louest",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/elections-haiti-2026-decret-electoral-modifie.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11279,
-      "slug": "trump-annonce-le-retablissement-du-blocus-contre-liran-et-une-redevance-de-20-dans-le-detroit-dormuz",
-      "date": "2026-07-13T22:54:41",
-      "modified": "2026-07-13T22:54:42",
-      "title": {
-        "rendered": "Trump annonce le rétablissement du blocus contre l’Iran et une redevance de 20 % dans le détroit d’Ormuz"
-      },
-      "excerpt": {
-        "rendered": "<p>L’annonce américaine pourrait accentuer les tensions autour du détroit d’Ormuz et peser sur les coûts du pétrole, des carburants, des engrais et d’autres produits importés, y compris en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/trump-redevance-20-detroit-ormuz-commerce-petrole-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
