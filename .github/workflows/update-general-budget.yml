@@ -1,61 +1,43 @@
-name: Update Haiti inflation CDN
+name: Update General Budget CDN
 
 on:
   workflow_dispatch:
   schedule:
-    # Daily at 10:17 UTC. The API is checked daily, but the repository
-    # is updated only when the source JSON has actually changed.
-    - cron: "17 10 * * *"
+    # Runs every day at 1:15 PM UTC
+    - cron: "15 13 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: update-haiti-inflation-cdn
-  cancel-in-progress: false
-
 jobs:
-  update-inflation:
+  update-general-budget:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout CDN repo
+        uses: actions/checkout@v5
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Node
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: 20
+          package-manager-cache: false
 
-      - name: Fetch and build inflation CDN files
+      - name: Update general budget JSON
         env:
-          INFLATION_API_URL: https://haiti-economie-api.onrender.com/api/inflation-history-standardized?count=all
-          INFLATION_OUT_DIR: cdn/daily/inflation-haiti
-        run: node scripts/build-inflation-cdn.mjs
+          GENERAL_BUDGET_API_URL: https://haiti-economie-api.onrender.com/api/general-budget?count=10
+        run: node scripts/update-general-budget.mjs
 
-      - name: Commit updated data
-        shell: bash
+      - name: Commit and push changes
         run: |
-          set -euo pipefail
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          # Stage first so that newly created, previously untracked files
-          # are included in the change detection.
-          git add -A cdn/daily/inflation-haiti
+          git add cdn/daily/general-budget.json
 
           if git diff --cached --quiet; then
-            echo "No inflation data changes detected."
-            exit 0
+            echo "No changes to commit."
+          else
+            git commit -m "Update general budget CDN data"
+            git push
           fi
-
-          echo "Inflation CDN changes:"
-          git diff --cached --stat
-
-          git commit -m "chore(cdn): update Haiti inflation data"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "HEAD:${GITHUB_REF_NAME}"

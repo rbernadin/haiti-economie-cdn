@@ -41,16 +41,21 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- cdn/daily/inflation-haiti; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage first so that newly created, previously untracked files
+          # are included in the change detection.
+          git add -A cdn/daily/inflation-haiti
+
+          if git diff --cached --quiet; then
             echo "No inflation data changes detected."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Inflation CDN changes:"
+          git diff --cached --stat
 
-          git add cdn/daily/inflation-haiti
           git commit -m "chore(cdn): update Haiti inflation data"
-
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
