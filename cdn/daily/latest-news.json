@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-01T14:40:45.805Z",
+  "generated_at": "2026-08-02T14:43:09.739Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11377,
+      "slug": "la-reserve-federale-americaine-pourrait-reduire-le-nombre-de-ses-reunions-de-politique-monetaire",
+      "date": "2026-08-01T10:55:48",
+      "modified": "2026-08-01T10:55:49",
+      "title": {
+        "rendered": "La Réserve fédérale américaine pourrait réduire le nombre de ses réunions de politique monétaire"
+      },
+      "excerpt": {
+        "rendered": "<p>Le président de la Réserve fédérale (Fed), Kevin Warsh, envisagerait de réduire le nombre de réunions annuelles consacrées aux décisions sur les taux d’intérêt. Actuellement, le comité de politique monétaire de la banque centrale américaine, composé de 12 membres, se réunit huit fois par an. Selon les informations rapportées, M. Warsh estime qu’un nombre plus…</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2022/05/federal-reserve-meeting.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11373,
       "slug": "la-brh-veut-faire-de-lintelligence-artificielle-un-levier-de-developpement-economique-pour-haiti",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11286,
-      "slug": "decret-electoral-haiti-2026-le-nouveau-cadre-electoral",
-      "date": "2026-07-18T10:34:48",
-      "modified": "2026-07-18T10:48:11",
-      "title": {
-        "rendered": "Élections en Haïti : ce que prévoit le nouveau cadre électoral de 2026"
-      },
-      "excerpt": {
-        "rendered": "<p>Deux décrets publiés en juin et juillet 2026 fixent les principales règles des prochaines élections en Haïti. Inscription des électeurs, conditions de candidature, financement des campagnes, déroulement du vote, publication des résultats et contestations.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/elections-haiti-2026-decret-electoral-modifie.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
