@@ -1,52 +1,16 @@
 {
-  "asof": "Mon Jul 20",
-  "generatedAt": "2026-07-21T14:51:08.367Z",
+  "asof": "Fri Jul 31",
+  "generatedAt": "2026-08-02T16:39:58.109Z",
   "data": {
     "latest": {
-      "date": "Mon Jul 20",
-      "taux_ref": 130.4468,
-      "volume_achat": 15582803.59,
-      "volume_vente": 15513674.37
+      "date": "Fri Jul 31",
+      "taux_ref": 130.4385,
+      "volume_achat": 12870150.23,
+      "volume_vente": 12049118.42
     },
-    "dailyPct": -0.03586382780457464,
+    "dailyPct": -0.04413925013851591,
     "variant": "green",
     "chart": [
-      {
-        "date": "Tue Jun 23",
-        "ref": 130.5663
-      },
-      {
-        "date": "Wed Jun 24",
-        "ref": 130.4958
-      },
-      {
-        "date": "Thu Jun 25",
-        "ref": 130.5574
-      },
-      {
-        "date": "Fri Jun 26",
-        "ref": 130.4582
-      },
-      {
-        "date": "Mon Jun 29",
-        "ref": 130.5514
-      },
-      {
-        "date": "Tue Jun 30",
-        "ref": 130.5279
-      },
-      {
-        "date": "Wed Jul 01",
-        "ref": 130.4735
-      },
-      {
-        "date": "Thu Jul 02",
-        "ref": 130.5381
-      },
-      {
-        "date": "Fri Jul 03",
-        "ref": 130.5174
-      },
       {
         "date": "Mon Jul 06",
         "ref": 130.4665
@@ -90,6 +54,42 @@
       {
         "date": "Mon Jul 20",
         "ref": 130.4468
+      },
+      {
+        "date": "Tue Jul 21",
+        "ref": 130.5194364
+      },
+      {
+        "date": "Wed Jul 22",
+        "ref": 130.6108
+      },
+      {
+        "date": "Thu Jul 23",
+        "ref": 130.5501
+      },
+      {
+        "date": "Fri Jul 24",
+        "ref": 130.5149
+      },
+      {
+        "date": "Mon Jul 27",
+        "ref": 130.5704
+      },
+      {
+        "date": "Tue Jul 28",
+        "ref": 130.616
+      },
+      {
+        "date": "Wed Jul 29",
+        "ref": 130.5194
+      },
+      {
+        "date": "Thu Jul 30",
+        "ref": 130.4961
+      },
+      {
+        "date": "Fri Jul 31",
+        "ref": 130.4385
       }
     ]
   }

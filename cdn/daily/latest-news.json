@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-07-21T15:18:11.078Z",
+  "generated_at": "2026-08-02T14:43:09.739Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11377,
+      "slug": "la-reserve-federale-americaine-pourrait-reduire-le-nombre-de-ses-reunions-de-politique-monetaire",
+      "date": "2026-08-01T10:55:48",
+      "modified": "2026-08-01T10:55:49",
+      "title": {
+        "rendered": "La Réserve fédérale américaine pourrait réduire le nombre de ses réunions de politique monétaire"
+      },
+      "excerpt": {
+        "rendered": "<p>Le président de la Réserve fédérale (Fed), Kevin Warsh, envisagerait de réduire le nombre de réunions annuelles consacrées aux décisions sur les taux d’intérêt. Actuellement, le comité de politique monétaire de la banque centrale américaine, composé de 12 membres, se réunit huit fois par an. Selon les informations rapportées, M. Warsh estime qu’un nombre plus…</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2022/05/federal-reserve-meeting.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11373,
+      "slug": "la-brh-veut-faire-de-lintelligence-artificielle-un-levier-de-developpement-economique-pour-haiti",
+      "date": "2026-08-01T10:39:07",
+      "modified": "2026-08-01T10:39:08",
+      "title": {
+        "rendered": "La BRH veut faire de l’intelligence artificielle un levier de développement économique pour Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>La Banque de la République d’Haïti considère l’intelligence artificielle comme un levier stratégique pour améliorer la productivité, moderniser les institutions et renforcer le système financier. Dans son dernier Mot du Gouverneur, elle expose les opportunités, les risques et les actions qu’elle entend mettre en œuvre pour accompagner cette transformation technologique.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/brh-intelligence-artificielle-haiti-bitkob-carte-numerique.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11341,
+      "slug": "haiti-le-cep-lance-linscription-des-electeurs-dans-le-departement-de-louest",
+      "date": "2026-07-30T11:02:28",
+      "modified": "2026-07-30T11:02:28",
+      "title": {
+        "rendered": "Haïti : le CEP lance l’inscription des électeurs dans le département de l’Ouest"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil électoral provisoire (CEP) lance ce jeudi 30 juillet 2026 les opérations d’inscription des électeurs dans le département de l’Ouest.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11337,
+      "slug": "fin-du-tps-quels-risques-economiques-pour-les-etats-unis-et-haiti",
+      "date": "2026-07-30T10:12:23",
+      "modified": "2026-07-30T10:15:18",
+      "title": {
+        "rendered": "Fin du TPS : quels risques économiques pour les États-Unis et Haïti ?"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS pourrait provoquer un double choc : des pertes de travailleurs dans plusieurs secteurs américains et une baisse des transferts vers les familles en Haïti.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/travailleur-haitien-tps-impact-economique-etats-unis.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11326,
+      "slug": "fin-du-tps-environ-350-000-haitiens-perdent-leur-protection-aux-etats-unis",
+      "date": "2026-07-27T08:22:17",
+      "modified": "2026-07-27T08:22:18",
+      "title": {
+        "rendered": "Fin du TPS : environ 350 000 Haïtiens perdent leur protection aux États-Unis"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS expose environ 350 000 Haïtiens aux États-Unis à la perte de leur permis de travail et au risque d’expulsion vers un pays en crise.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/fin-tps-haitiens-etats-unis-statue-liberte-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11322,
+      "slug": "nouveau-rapport-la-gourde-reste-stable-face-au-dollar-malgre-un-marche-plus-actif",
+      "date": "2026-07-26T18:50:15",
+      "modified": "2026-07-26T18:50:16",
+      "title": {
+        "rendered": "Nouveau rapport : la gourde reste stable face au dollar, malgré un marché plus actif"
+      },
+      "excerpt": {
+        "rendered": "<p>Entre avril et juin 2026, le taux de change officiel est resté relativement stable malgré une hausse des transactions. Le rapport analyse aussi le resserrement du spread bancaire et les achats nets de devises effectués par la BRH.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-taux-change-haiti-avril-juin-2026-couverture.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11318,
+      "slug": "haiti-la-stabilite-monetaire-resiste-mais-leconomie-continue-de-reculer",
+      "date": "2026-07-25T08:47:42",
+      "modified": "2026-07-25T08:47:43",
+      "title": {
+        "rendered": "Haïti : la stabilité monétaire résiste, mais l’économie continue de reculer"
+      },
+      "excerpt": {
+        "rendered": "<p>La BRH dresse un bilan contrasté de l’économie haïtienne : la stabilité monétaire résiste, mais l’insécurité, la faiblesse du crédit et les tensions budgétaires continuent de freiner la reprise.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/gouverneur-brh-conjoncture-economique-haiti-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11313,
+      "slug": "haiti-le-deficit-de-tresorerie-atteint-44-2-milliards-de-gourdes",
+      "date": "2026-07-24T23:22:20",
+      "modified": "2026-07-24T23:22:21",
+      "title": {
+        "rendered": "Haïti : le déficit de trésorerie atteint 44.2 milliards de gourdes"
+      },
+      "excerpt": {
+        "rendered": "<p>Au 30 juin 2026, les dépenses publiques progressent plus vite que les recettes. Le déficit de trésorerie atteint 44.2 milliards de gourdes, renforçant le recours du Trésor au financement de la BRH et des banques commerciales.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11308,
+      "slug": "haiti-le-tresor-sappuie-de-plus-en-plus-sur-la-brh-et-les-banques-commerciales",
+      "date": "2026-07-24T22:47:06",
+      "modified": "2026-07-24T22:47:07",
+      "title": {
+        "rendered": "Haïti : le Trésor s’appuie de plus en plus sur la BRH et les banques commerciales"
+      },
+      "excerpt": {
+        "rendered": "<p>Au 31 mai 2026, le Trésor affiche un déficit de trésorerie de 38.2 milliards de gourdes. La forte hausse du financement de la BRH et des banques commerciales soulève des risques pour l’inflation, le crédit et les finances publiques.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11302,
       "slug": "truth-social-veut-facturer-jusqua-100-000-dollars-par-mois-pour-un-acces-accelere-aux-publications-de-trump",
@@ -51,168 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11286,
-      "slug": "decret-electoral-haiti-2026-le-nouveau-cadre-electoral",
-      "date": "2026-07-18T10:34:48",
-      "modified": "2026-07-18T10:48:11",
-      "title": {
-        "rendered": "Élections en Haïti : ce que prévoit le nouveau cadre électoral de 2026"
-      },
-      "excerpt": {
-        "rendered": "<p>Deux décrets publiés en juin et juillet 2026 fixent les principales règles des prochaines élections en Haïti. Inscription des électeurs, conditions de candidature, financement des campagnes, déroulement du vote, publication des résultats et contestations.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/elections-haiti-2026-decret-electoral-modifie.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11279,
-      "slug": "trump-annonce-le-retablissement-du-blocus-contre-liran-et-une-redevance-de-20-dans-le-detroit-dormuz",
-      "date": "2026-07-13T22:54:41",
-      "modified": "2026-07-13T22:54:42",
-      "title": {
-        "rendered": "Trump annonce le rétablissement du blocus contre l’Iran et une redevance de 20 % dans le détroit d’Ormuz"
-      },
-      "excerpt": {
-        "rendered": "<p>L’annonce américaine pourrait accentuer les tensions autour du détroit d’Ormuz et peser sur les coûts du pétrole, des carburants, des engrais et d’autres produits importés, y compris en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/trump-redevance-20-detroit-ormuz-commerce-petrole-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11274,
-      "slug": "le-credit-prive-sessouffle-et-freine-la-creation-de-richesse-en-haiti",
-      "date": "2026-07-11T23:19:04",
-      "modified": "2026-07-11T23:19:04",
-      "title": {
-        "rendered": "Le crédit privé s’essouffle et freine la création de richesse en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>En Haïti, le crédit privé reste faible malgré les liquidités disponibles dans les banques. Cette situation réduit les possibilités d’investissement pour les ménages, les PME, les agriculteurs et les entrepreneurs.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/batiment-brh-port-au-prince-credit-prive-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11264,
-      "slug": "la-bnc-ouvre-une-nouvelle-succursale-aux-coteaux-et-renforce-sa-presence-dans-le-grand-sud",
-      "date": "2026-07-11T02:42:03",
-      "modified": "2026-07-11T02:42:04",
-      "title": {
-        "rendered": "La BNC ouvre une nouvelle succursale aux Côteaux et renforce sa présence dans le Grand Sud"
-      },
-      "excerpt": {
-        "rendered": "<p>La Banque Nationale de Crédit a inauguré sa première succursale aux Côteaux, une implantation qui pourrait faciliter l’accès aux services financiers pour les ménages, commerçants et petites entreprises de la région.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/bnc-ouverture-succursale-les-coteaux-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11249,
-      "slug": "tps-pour-haiti-les-permis-de-travail-prolonges-jusquau-24-juillet-mais-la-protection-reste-menacee",
-      "date": "2026-07-10T23:22:37",
-      "modified": "2026-07-10T23:45:26",
-      "title": {
-        "rendered": "TPS pour Haïti : les permis de travail prolongés jusqu’au 24 juillet, mais la protection reste menacée"
-      },
-      "excerpt": {
-        "rendered": "<p>Les bénéficiaires haïtiens du TPS obtiennent un court répit : leurs permis de travail sont prolongés jusqu’au 24 juillet 2026, mais l’avenir de la protection demeure incertain.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/tps-haiti-permis-travail-24-juillet-2026-statue-liberte.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11243,
-      "slug": "elections-le-cep-publie-la-liste-definitive-des-partis-politiques-agrees",
-      "date": "2026-07-10T14:31:27",
-      "modified": "2026-07-10T14:36:08",
-      "title": {
-        "rendered": "Élections : le CEP publie la liste définitive des partis politiques agréés"
-      },
-      "excerpt": {
-        "rendered": "<p>Le CEP a rendu publique la liste définitive des partis politiques agréés. Sur 320 dossiers examinés, 316 ont été validés pour poursuivre le processus électoral.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/cep-liste-definitive-partis-politiques-agrees-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11239,
-      "slug": "conflit-iran-etats-unis-de-nouvelles-tensions-alimentent-lincertitude-sur-les-prix-du-carburant-en-haiti",
-      "date": "2026-07-10T12:01:21",
-      "modified": "2026-07-10T12:01:22",
-      "title": {
-        "rendered": "Conflit Iran–États-Unis : de nouvelles tensions alimentent l’incertitude sur les prix du carburant en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Les tensions entre l’Iran et les États-Unis ravivent l’incertitude sur les marchés pétroliers et pourraient compliquer la gestion des prix du carburant en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/conflit-iran-etats-unis-detroit-hormuz-prix-carburant-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11222,
-      "slug": "haiti-le-secteur-tertiaire-domine-leconomie-mais-la-base-productive-reste-faible",
-      "date": "2026-07-08T19:41:25",
-      "modified": "2026-07-08T21:33:46",
-      "title": {
-        "rendered": "Haïti : le secteur tertiaire domine l’économie, mais la base productive reste faible"
-      },
-      "excerpt": {
-        "rendered": "<p>En Haïti, les services pèsent plus lourd que l’agriculture et l’industrie réunies. Une force ou un signe de déséquilibre ? L’enjeu est de mieux connecter les trois secteurs pour bâtir une économie plus productive.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/service-production-transformation-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11212,
-      "slug": "walter-gabellus-agd-installation",
-      "date": "2026-07-06T10:11:52",
-      "modified": "2026-07-06T10:11:53",
-      "title": {
-        "rendered": "Douanes : Walter Gabellus installé à la tête de l’AGD, entre promesses de réforme et questions de transparence"
-      },
-      "excerpt": {
-        "rendered": "<p>Walter Gabellus prend la tête de l’Administration générale des douanes dans un contexte de promesses de réforme, de mobilisation des recettes et de fortes attentes autour de la transparence, de l’équité et du traitement des importateurs.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/walter-gabellus-lors-de-son-installation-a-la-tete-de-l-AGD-juillet-3-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
