@@ -1,0 +1,56 @@
+name: Update Haiti inflation CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 10:17 UTC. The API is checked daily, but the repository
+    # is updated only when the source JSON has actually changed.
+    - cron: "17 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-haiti-inflation-cdn
+  cancel-in-progress: false
+
+jobs:
+  update-inflation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch and build inflation CDN files
+        env:
+          INFLATION_API_URL: https://haiti-economie-api.onrender.com/api/inflation-history-standardized?count=all
+          INFLATION_OUT_DIR: cdn/daily/inflation-haiti
+        run: node scripts/build-inflation-cdn.mjs
+
+      - name: Commit updated data
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- cdn/daily/inflation-haiti; then
+            echo "No inflation data changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add cdn/daily/inflation-haiti
+          git commit -m "chore(cdn): update Haiti inflation data"
+
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
