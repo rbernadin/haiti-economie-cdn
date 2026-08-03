@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:19:19.814Z",
+  "generated_at": "2026-08-03T01:17:32.002Z",
   "api_base": "https://haiti-economie-api.onrender.com",
   "country_code": "HTI",
   "source": "World Bank, World Development Indicators",
@@ -48,8 +48,8 @@
       "category": "Économie générale",
       "evergreen_path": "/pib-par-habitant-haiti/",
       "available": true,
-      "latest_year": 2024,
-      "latest_value": 2142.623305,
+      "latest_year": 2025,
+      "latest_value": 2694.18969101404,
       "files": {
         "by_code": "by-code/NY.GDP.PCAP.CD.json",
         "by_slug": "by-slug/pib-par-habitant-usd-courant.json"
@@ -63,8 +63,8 @@
       "category": "Économie générale",
       "evergreen_path": "/croissance-pib-haiti/",
       "available": true,
-      "latest_year": 2024,
-      "latest_value": -4.169633958,
+      "latest_year": 2025,
+      "latest_value": -2.71291075761471,
       "files": {
         "by_code": "by-code/NY.GDP.MKTP.KD.ZG.json",
         "by_slug": "by-slug/croissance-pib.json"
@@ -78,8 +78,8 @@
       "category": "Économie générale",
       "evergreen_path": "/pib-haiti/",
       "available": true,
-      "latest_year": 2024,
-      "latest_value": 25224154991,
+      "latest_year": 2025,
+      "latest_value": 32077278409.2339,
       "files": {
         "by_code": "by-code/NY.GDP.MKTP.CD.json",
         "by_slug": "by-slug/pib-usd-courant.json"
@@ -108,8 +108,8 @@
       "category": "Société et développement",
       "evergreen_path": "/population-haiti/",
       "available": true,
-      "latest_year": 2024,
-      "latest_value": 11772557,
+      "latest_year": 2025,
+      "latest_value": 11906095,
       "files": {
         "by_code": "by-code/SP.POP.TOTL.json",
         "by_slug": "by-slug/population.json"
@@ -153,8 +153,8 @@
       "category": "Travail et entreprises",
       "evergreen_path": "/credit-prive-haiti/",
       "available": true,
-      "latest_year": 2024,
-      "latest_value": 4.114252058,
+      "latest_year": 2025,
+      "latest_value": 3.2083317013116,
       "files": {
         "by_code": "by-code/FS.AST.PRVT.GD.ZS.json",
         "by_slug": "by-slug/credit-prive-pib.json"

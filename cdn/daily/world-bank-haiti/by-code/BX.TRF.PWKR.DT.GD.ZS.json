@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:19:19.723Z",
-  "cdn_generated_at": "2026-08-02T14:19:19.723Z",
+  "generated_at": "2026-08-03T01:17:31.977Z",
+  "cdn_generated_at": "2026-08-03T01:17:31.977Z",
   "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
@@ -33,7 +33,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1971,
-      "value": 4.933847745
+      "value": 4.93384774531422
     },
     {
       "country_name": "Haiti",
@@ -41,7 +41,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1972,
-      "value": 6.069886888
+      "value": 6.06988688810882
     },
     {
       "country_name": "Haiti",
@@ -49,7 +49,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1973,
-      "value": 4.828631214
+      "value": 4.82863121422494
     },
     {
       "country_name": "Haiti",
@@ -57,7 +57,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1974,
-      "value": 3.830917699
+      "value": 3.83091769932423
     },
     {
       "country_name": "Haiti",
@@ -65,7 +65,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1975,
-      "value": 8.690930616
+      "value": 8.69093061637805
     },
     {
       "country_name": "Haiti",
@@ -73,7 +73,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1976,
-      "value": 8.498293168
+      "value": 8.49829316837315
     },
     {
       "country_name": "Haiti",
@@ -81,7 +81,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1977,
-      "value": 7.921858146
+      "value": 7.92185814572334
     },
     {
       "country_name": "Haiti",
@@ -89,7 +89,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1978,
-      "value": 7.801272839
+      "value": 7.80127283925272
     },
     {
       "country_name": "Haiti",
@@ -97,7 +97,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1979,
-      "value": 7.845641197
+      "value": 7.84564119748288
     },
     {
       "country_name": "Haiti",
@@ -105,7 +105,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1980,
-      "value": 7.691863159
+      "value": 7.6918631594161
     },
     {
       "country_name": "Haiti",
@@ -113,7 +113,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1981,
-      "value": 8.558875402
+      "value": 8.55887540219008
     },
     {
       "country_name": "Haiti",
@@ -121,7 +121,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1982,
-      "value": 6.582553312
+      "value": 6.58255331162664
     },
     {
       "country_name": "Haiti",
@@ -129,7 +129,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1983,
-      "value": 5.535846098
+      "value": 5.53584609817689
     },
     {
       "country_name": "Haiti",
@@ -137,7 +137,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1984,
-      "value": 4.955401388
+      "value": 4.95540138751239
     },
     {
       "country_name": "Haiti",
@@ -145,7 +145,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1985,
-      "value": 4.766596933
+      "value": 4.76659693341296
     },
     {
       "country_name": "Haiti",
@@ -153,7 +153,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1986,
-      "value": 4.547886031
+      "value": 4.54788603106126
     },
     {
       "country_name": "Haiti",
@@ -161,7 +161,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1987,
-      "value": 5.527550005
+      "value": 5.52755000488472
     },
     {
       "country_name": "Haiti",
@@ -169,7 +169,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1988,
-      "value": 4.747646281
+      "value": 4.74764628068391
     },
     {
       "country_name": "Haiti",
@@ -177,7 +177,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1989,
-      "value": 4.487904298
+      "value": 4.48790429785533
     },
     {
       "country_name": "Haiti",
@@ -185,7 +185,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1998,
-      "value": 8.789163853
+      "value": 8.78916385304062
     },
     {
       "country_name": "Haiti",
@@ -193,7 +193,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 1999,
-      "value": 10.16075716
+      "value": 10.1607571564097
     },
     {
       "country_name": "Haiti",
@@ -201,7 +201,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2000,
-      "value": 8.48307614
+      "value": 8.48307613976286
     },
     {
       "country_name": "Haiti",
@@ -209,7 +209,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2001,
-      "value": 9.848119433
+      "value": 9.84811943299703
     },
     {
       "country_name": "Haiti",
@@ -217,7 +217,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2002,
-      "value": 10.88747397
+      "value": 10.8874739699598
     },
     {
       "country_name": "Haiti",
@@ -225,7 +225,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2003,
-      "value": 15.9899122
+      "value": 15.9899122044632
     },
     {
       "country_name": "Haiti",
@@ -233,7 +233,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2004,
-      "value": 15.30285535
+      "value": 15.302855347524
     },
     {
       "country_name": "Haiti",
@@ -241,7 +241,7 @@
       "indicator_name": "Personal remittances, received (% of GDP)",
       "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
       "year": 2005,
-      "value": 14.0274964
+      "value": 14.0274963951975
     },
     {
       "country_name": "Haiti",

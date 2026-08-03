@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:19:16.717Z",
+  "generated_at": "2026-08-03T01:17:31.243Z",
   "country_code": "HTI",
   "count": 1188,
   "indicators": [
@@ -350,22 +350,22 @@
       "indicator_code": "SP.POP.DPND",
       "indicator_name": "Age dependency ratio (% of working-age population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.DPND.OL",
       "indicator_name": "Age dependency ratio, old (% of working-age population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.DPND.YG",
       "indicator_name": "Age dependency ratio, young (% of working-age population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "AG.LND.IRIG.AG.ZS",
@@ -532,8 +532,8 @@
       "indicator_code": "ER.FSH.AQUA.MT",
       "indicator_name": "Aquaculture production (metric tons)",
       "first_year": 1960,
-      "last_year": 2023,
-      "observations": 64
+      "last_year": 2024,
+      "observations": 65
     },
     {
       "indicator_code": "AG.LND.ARBL.HA",
@@ -777,8 +777,8 @@
       "indicator_code": "ER.FSH.CAPT.MT",
       "indicator_name": "Capture fisheries production (metric tons)",
       "first_year": 1960,
-      "last_year": 2023,
-      "observations": 64
+      "last_year": 2024,
+      "observations": 65
     },
     {
       "indicator_code": "EN.GHG.CO2.PC.CE.AR5",
@@ -1148,8 +1148,8 @@
       "indicator_code": "FS.AST.CGOV.GD.ZS",
       "indicator_name": "Claims on central government, etc. (% GDP)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "FM.AST.DOMO.ZG.M3",
@@ -1302,8 +1302,8 @@
       "indicator_code": "FP.CPI.TOTL",
       "indicator_name": "Consumer price index (2010 = 100)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SN.ITK.SALT.ZS",
@@ -1617,8 +1617,8 @@
       "indicator_code": "PA.NUS.ATLS",
       "indicator_name": "DEC alternative conversion factor (LCU per US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SH.FPL.SATM.ZS",
@@ -1680,15 +1680,15 @@
       "indicator_code": "FD.AST.PRVT.GD.ZS",
       "indicator_name": "Domestic credit to private sector by banks (% of GDP)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SH.XPD.GHED.CH.ZS",
@@ -2569,36 +2569,36 @@
       "indicator_code": "NY.GDP.MKTP.KD",
       "indicator_name": "GDP (constant 2015 US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.MKTP.KN",
       "indicator_name": "GDP (constant LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.MKTP.CN",
       "indicator_name": "GDP (current LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.MKTP.CD",
       "indicator_name": "GDP (current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.DEFL.ZS",
       "indicator_name": "GDP deflator (base year varies by country)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.DEFL.ZS.AD",
@@ -2611,8 +2611,8 @@
       "indicator_code": "NY.GDP.MKTP.KD.ZG",
       "indicator_name": "GDP growth (annual %)",
       "first_year": 1961,
-      "last_year": 2024,
-      "observations": 64
+      "last_year": 2025,
+      "observations": 65
     },
     {
       "indicator_code": "NY.GDP.MKTP.CN.AD",
@@ -2625,29 +2625,29 @@
       "indicator_code": "NY.GDP.PCAP.KD",
       "indicator_name": "GDP per capita (constant 2015 US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.PCAP.KN",
       "indicator_name": "GDP per capita (constant LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.PCAP.CN",
       "indicator_name": "GDP per capita (current LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.PCAP.CD",
       "indicator_name": "GDP per capita (current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.PCAP.KD.ZG",
@@ -3612,8 +3612,8 @@
       "indicator_code": "FP.CPI.TOTL.ZG",
       "indicator_name": "Inflation, consumer prices (annual %)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.DEFL.KD.ZG",
@@ -4326,8 +4326,8 @@
       "indicator_code": "TX.VAL.MRCH.CD.WT",
       "indicator_name": "Merchandise exports (current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "TX.VAL.MRCH.AL.ZS",
@@ -4417,8 +4417,8 @@
       "indicator_code": "TM.VAL.MRCH.CD.WT",
       "indicator_name": "Merchandise imports (current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "TM.VAL.MRCH.AL.ZS",
@@ -4494,8 +4494,8 @@
       "indicator_code": "TG.VAL.TOTL.GD.ZS",
       "indicator_name": "Merchandise trade (% of GDP)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "EN.GHG.CH4.AG.MT.CE.AR5",
@@ -4613,8 +4613,8 @@
       "indicator_code": "FM.AST.PRVT.GD.ZS",
       "indicator_name": "Monetary Sector credit to private sector (% GDP)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SH.STA.TRAF.P5",
@@ -5040,8 +5040,8 @@
       "indicator_code": "FM.AST.DOMS.CN",
       "indicator_name": "Net domestic credit (current LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "BN.KAC.EOMS.CD",
@@ -5124,8 +5124,8 @@
       "indicator_code": "FM.AST.NFRG.CN",
       "indicator_name": "Net foreign assets (current LCU)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SM.POP.NETM",
@@ -5537,8 +5537,8 @@
       "indicator_code": "PA.NUS.FCRF",
       "indicator_name": "Official exchange rate (LCU per US$, period average)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "NY.GDP.PETR.RT.ZS",
@@ -5859,365 +5859,365 @@
       "indicator_code": "SP.POP.0004.FE.5Y",
       "indicator_name": "Population ages 00-04, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0004.MA.5Y",
       "indicator_name": "Population ages 00-04, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.FE.IN",
       "indicator_name": "Population ages 0-14, female",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.FE.ZS",
       "indicator_name": "Population ages 0-14, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.MA.IN",
       "indicator_name": "Population ages 0-14, male",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.MA.ZS",
       "indicator_name": "Population ages 0-14, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.TO.ZS",
       "indicator_name": "Population ages 0-14 (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0014.TO",
       "indicator_name": "Population ages 0-14, total",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0509.FE.5Y",
       "indicator_name": "Population ages 05-09, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.0509.MA.5Y",
       "indicator_name": "Population ages 05-09, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1014.FE.5Y",
       "indicator_name": "Population ages 10-14, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1014.MA.5Y",
       "indicator_name": "Population ages 10-14, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1519.FE.5Y",
       "indicator_name": "Population ages 15-19, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1519.MA.5Y",
       "indicator_name": "Population ages 15-19, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.FE.IN",
       "indicator_name": "Population ages 15-64, female",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.FE.ZS",
       "indicator_name": "Population ages 15-64, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.MA.IN",
       "indicator_name": "Population ages 15-64, male",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.MA.ZS",
       "indicator_name": "Population ages 15-64, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.TO.ZS",
       "indicator_name": "Population ages 15-64 (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.1564.TO",
       "indicator_name": "Population ages 15-64, total",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.2024.FE.5Y",
       "indicator_name": "Population ages 20-24, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.2024.MA.5Y",
       "indicator_name": "Population ages 20-24, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.2529.FE.5Y",
       "indicator_name": "Population ages 25-29, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.2529.MA.5Y",
       "indicator_name": "Population ages 25-29, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.3034.FE.5Y",
       "indicator_name": "Population ages 30-34, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.3034.MA.5Y",
       "indicator_name": "Population ages 30-34, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.3539.FE.5Y",
       "indicator_name": "Population ages 35-39, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.3539.MA.5Y",
       "indicator_name": "Population ages 35-39, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.4044.FE.5Y",
       "indicator_name": "Population ages 40-44, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.4044.MA.5Y",
       "indicator_name": "Population ages 40-44, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.4549.FE.5Y",
       "indicator_name": "Population ages 45-49, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.4549.MA.5Y",
       "indicator_name": "Population ages 45-49, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.5054.FE.5Y",
       "indicator_name": "Population ages 50-54, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.5054.MA.5Y",
       "indicator_name": "Population ages 50-54, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.5559.FE.5Y",
       "indicator_name": "Population ages 55-59, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.5559.MA.5Y",
       "indicator_name": "Population ages 55-59, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.6064.FE.5Y",
       "indicator_name": "Population ages 60-64, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.6064.MA.5Y",
       "indicator_name": "Population ages 60-64, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.6569.FE.5Y",
       "indicator_name": "Population ages 65-69, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.6569.MA.5Y",
       "indicator_name": "Population ages 65-69, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.FE.IN",
       "indicator_name": "Population ages 65 and above, female",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.FE.ZS",
       "indicator_name": "Population ages 65 and above, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.MA.IN",
       "indicator_name": "Population ages 65 and above, male",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.MA.ZS",
       "indicator_name": "Population ages 65 and above, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.TO.ZS",
       "indicator_name": "Population ages 65 and above (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.65UP.TO",
       "indicator_name": "Population ages 65 and above, total",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.7074.FE.5Y",
       "indicator_name": "Population ages 70-74, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.7074.MA.5Y",
       "indicator_name": "Population ages 70-74, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.7579.FE.5Y",
       "indicator_name": "Population ages 75-79, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.7579.MA.5Y",
       "indicator_name": "Population ages 75-79, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.80UP.FE.5Y",
       "indicator_name": "Population ages 80 and above, female (% of female population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.80UP.MA.5Y",
       "indicator_name": "Population ages 80 and above, male (% of male population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "EN.POP.DNST",
@@ -6230,15 +6230,15 @@
       "indicator_code": "SP.POP.TOTL.FE.IN",
       "indicator_name": "Population, female",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.TOTL.FE.ZS",
       "indicator_name": "Population, female (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.GROW",
@@ -6293,22 +6293,22 @@
       "indicator_code": "SP.POP.TOTL.MA.IN",
       "indicator_name": "Population, male",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.TOTL.MA.ZS",
       "indicator_name": "Population, male (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.POP.TOTL",
       "indicator_name": "Population, total",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "BX.PEF.TOTL.CD.WD",
@@ -7098,8 +7098,8 @@
       "indicator_code": "SP.RUR.TOTL",
       "indicator_name": "Rural population",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.RUR.TOTL.ZG",
@@ -7119,8 +7119,8 @@
       "indicator_code": "SP.RUR.TOTL.ZS",
       "indicator_name": "Rural population (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SE.PRE.ENRR",
@@ -7735,8 +7735,8 @@
       "indicator_code": "ER.FSH.PROD.MT",
       "indicator_name": "Total fisheries production (metric tons)",
       "first_year": 1960,
-      "last_year": 2023,
-      "observations": 64
+      "last_year": 2024,
+      "observations": 65
     },
     {
       "indicator_code": "EN.GHG.TOT.ZG.AR5",
@@ -7777,8 +7777,8 @@
       "indicator_code": "FI.RES.TOTL.CD",
       "indicator_name": "Total reserves (includes gold, current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "FI.RES.TOTL.MO",
@@ -7791,8 +7791,8 @@
       "indicator_code": "FI.RES.XGLD.CD",
       "indicator_name": "Total reserves minus gold (current US$)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "FI.RES.TOTL.DT.ZS",
@@ -8113,8 +8113,8 @@
       "indicator_code": "SP.URB.TOTL",
       "indicator_name": "Urban population",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "SP.URB.GROW",
@@ -8134,8 +8134,8 @@
       "indicator_code": "SP.URB.TOTL.IN.ZS",
       "indicator_name": "Urban population (% of total population)",
       "first_year": 1960,
-      "last_year": 2024,
-      "observations": 65
+      "last_year": 2025,
+      "observations": 66
     },
     {
       "indicator_code": "DT.DOD.DIMF.CD",

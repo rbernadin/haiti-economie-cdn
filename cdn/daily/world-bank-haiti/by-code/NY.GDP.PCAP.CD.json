@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:19:18.958Z",
-  "cdn_generated_at": "2026-08-02T14:19:18.958Z",
+  "generated_at": "2026-08-03T01:17:31.756Z",
+  "cdn_generated_at": "2026-08-03T01:17:31.756Z",
   "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
@@ -18,14 +18,14 @@
     "country_code": "HTI",
     "indicator_name": "GDP per capita (current US$)",
     "indicator_code": "NY.GDP.PCAP.CD",
-    "year": 2024,
-    "value": 2142.623305,
-    "previous_year": 2023,
-    "previous_value": 1705.758085,
-    "change_abs": 436.86522000000014,
-    "change_pct": 25.611206175229718
+    "year": 2025,
+    "value": 2694.18969101404,
+    "previous_year": 2024,
+    "previous_value": 2060.35591768638,
+    "change_abs": 633.8337733276599,
+    "change_pct": 30.763314623786265
   },
-  "count": 65,
+  "count": 66,
   "history": [
     {
       "country_name": "Haiti",
@@ -33,7 +33,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1960,
-      "value": 70.80244544
+      "value": 70.8024454423715
     },
     {
       "country_name": "Haiti",
@@ -41,7 +41,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1961,
-      "value": 68.9905651
+      "value": 68.99056510131
     },
     {
       "country_name": "Haiti",
@@ -49,7 +49,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1962,
-      "value": 70.44646171
+      "value": 70.4464617057034
     },
     {
       "country_name": "Haiti",
@@ -57,7 +57,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1963,
-      "value": 72.39834935
+      "value": 72.3983493523801
     },
     {
       "country_name": "Haiti",
@@ -65,7 +65,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1964,
-      "value": 78.45201585
+      "value": 78.4520158485608
     },
     {
       "country_name": "Haiti",
@@ -73,7 +73,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1965,
-      "value": 83.63325142
+      "value": 83.6332514169638
     },
     {
       "country_name": "Haiti",
@@ -81,7 +81,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1966,
-      "value": 85.74937381
+      "value": 85.7493738145357
     },
     {
       "country_name": "Haiti",
@@ -89,7 +89,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1967,
-      "value": 84.21726767
+      "value": 84.217267674485
     },
     {
       "country_name": "Haiti",
@@ -97,7 +97,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1968,
-      "value": 82.40577176
+      "value": 82.4057717596557
     },
     {
       "country_name": "Haiti",
@@ -105,7 +105,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1969,
-      "value": 86.12698034
+      "value": 86.1269803448153
     },
     {
       "country_name": "Haiti",
@@ -113,7 +113,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1970,
-      "value": 71.45439906
+      "value": 71.4543990624631
     },
     {
       "country_name": "Haiti",
@@ -121,7 +121,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1971,
-      "value": 76.81161507
+      "value": 76.8116150679491
     },
     {
       "country_name": "Haiti",
@@ -129,7 +129,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1972,
-      "value": 77.27651826
+      "value": 77.2765182599349
     },
     {
       "country_name": "Haiti",
@@ -137,7 +137,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1973,
-      "value": 95.13418026
+      "value": 95.1341802581181
     },
     {
       "country_name": "Haiti",
@@ -145,7 +145,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1974,
-      "value": 113.0392606
+      "value": 113.039260601755
     },
     {
       "country_name": "Haiti",
@@ -153,7 +153,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1975,
-      "value": 133.6317921
+      "value": 133.631792050575
     },
     {
       "country_name": "Haiti",
@@ -161,7 +161,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1976,
-      "value": 169.0918881
+      "value": 169.091888071558
     },
     {
       "country_name": "Haiti",
@@ -169,7 +169,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1977,
-      "value": 178.6969127
+      "value": 178.696912675895
     },
     {
       "country_name": "Haiti",
@@ -177,7 +177,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1978,
-      "value": 180.3212539
+      "value": 180.321253919424
     },
     {
       "country_name": "Haiti",
@@ -185,7 +185,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1979,
-      "value": 196.2019686
+      "value": 196.20196855612
     },
     {
       "country_name": "Haiti",
@@ -193,7 +193,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1980,
-      "value": 246.4692716
+      "value": 246.46927157982
     },
     {
       "country_name": "Haiti",
@@ -201,7 +201,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1981,
-      "value": 258.4680431
+      "value": 258.468043101302
     },
     {
       "country_name": "Haiti",
@@ -209,7 +209,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1982,
-      "value": 252.6072506
+      "value": 252.607250558051
     },
     {
       "country_name": "Haiti",
@@ -217,7 +217,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1983,
-      "value": 272.823695
+      "value": 272.823694996686
     },
     {
       "country_name": "Haiti",
@@ -225,7 +225,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1984,
-      "value": 299.2471862
+      "value": 299.247186216373
     },
     {
       "country_name": "Haiti",
@@ -233,7 +233,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1985,
-      "value": 324.5751561
+      "value": 324.575156092964
     },
     {
       "country_name": "Haiti",
@@ -241,7 +241,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1986,
-      "value": 366.9973443
+      "value": 366.997344256492
     },
     {
       "country_name": "Haiti",
@@ -249,7 +249,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1987,
-      "value": 317.6355207
+      "value": 317.635520687503
     },
     {
       "country_name": "Haiti",
@@ -257,7 +257,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1988,
-      "value": 397.3653363
+      "value": 397.365336276412
     },
     {
       "country_name": "Haiti",
@@ -265,7 +265,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1989,
-      "value": 407.4987081
+      "value": 407.498708064211
     },
     {
       "country_name": "Haiti",
@@ -273,7 +273,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1990,
-      "value": 451.7202497
+      "value": 451.720249689216
     },
     {
       "country_name": "Haiti",
@@ -281,7 +281,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1991,
-      "value": 496.5459874
+      "value": 496.545987433864
     },
     {
       "country_name": "Haiti",
@@ -289,7 +289,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1992,
-      "value": 316.2765131
+      "value": 316.276513134354
     },
     {
       "country_name": "Haiti",
@@ -297,7 +297,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1993,
-      "value": 258.0663723
+      "value": 258.066372258817
     },
     {
       "country_name": "Haiti",
@@ -305,7 +305,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1994,
-      "value": 292.1342244
+      "value": 292.134224374091
     },
     {
       "country_name": "Haiti",
@@ -313,7 +313,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1995,
-      "value": 372.0061047
+      "value": 372.006104665125
     },
     {
       "country_name": "Haiti",
@@ -321,7 +321,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1996,
-      "value": 377.229465
+      "value": 377.229465025972
     },
     {
       "country_name": "Haiti",
@@ -329,7 +329,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1997,
-      "value": 425.1110859
+      "value": 425.111085879256
     },
     {
       "country_name": "Haiti",
@@ -337,7 +337,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1998,
-      "value": 465.3633063
+      "value": 465.363306259051
     },
     {
       "country_name": "Haiti",
@@ -345,7 +345,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 1999,
-      "value": 509.5785853
+      "value": 509.578585275375
     },
     {
       "country_name": "Haiti",
@@ -353,7 +353,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2000,
-      "value": 820.6000468
+      "value": 820.600046761464
     },
     {
       "country_name": "Haiti",
@@ -361,7 +361,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2001,
-      "value": 748.8211598
+      "value": 748.821159844528
     },
     {
       "country_name": "Haiti",
@@ -369,7 +369,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2002,
-      "value": 720.969568
+      "value": 720.969568042522
     },
     {
       "country_name": "Haiti",
@@ -377,7 +377,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2003,
-      "value": 578.9952911
+      "value": 578.995291079709
     },
     {
       "country_name": "Haiti",
@@ -385,7 +385,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2004,
-      "value": 683.1852982
+      "value": 683.185298155273
     },
     {
       "country_name": "Haiti",
@@ -393,7 +393,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2005,
-      "value": 775.8457041
+      "value": 775.845704056916
     },
     {
       "country_name": "Haiti",
@@ -401,7 +401,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2006,
-      "value": 828.8057003
+      "value": 828.805700289589
     },
     {
       "country_name": "Haiti",
@@ -409,7 +409,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2007,
-      "value": 984.5669834
+      "value": 984.566983448521
     },
     {
       "country_name": "Haiti",
@@ -417,7 +417,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2008,
-      "value": 1094.660584
+      "value": 1094.66058421644
     },
     {
       "country_name": "Haiti",
@@ -425,7 +425,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2009,
-      "value": 1196.852871
+      "value": 1196.8528706018
     },
     {
       "country_name": "Haiti",
@@ -433,7 +433,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2010,
-      "value": 1209.727335
+      "value": 1209.72733503094
     },
     {
       "country_name": "Haiti",
@@ -441,7 +441,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2011,
-      "value": 1312.039536
+      "value": 1312.03953552013
     },
     {
       "country_name": "Haiti",
@@ -449,7 +449,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2012,
-      "value": 1361.393966
+      "value": 1361.39396587374
     },
     {
       "country_name": "Haiti",
@@ -457,7 +457,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2013,
-      "value": 1457.832212
+      "value": 1457.83221179626
     },
     {
       "country_name": "Haiti",
@@ -465,7 +465,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2014,
-      "value": 1460.188986
+      "value": 1460.18898613914
     },
     {
       "country_name": "Haiti",
@@ -473,7 +473,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2015,
-      "value": 1411.126847
+      "value": 1411.12684746796
     },
     {
       "country_name": "Haiti",
@@ -481,7 +481,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2016,
-      "value": 1318.402682
+      "value": 1318.40268167953
     },
     {
       "country_name": "Haiti",
@@ -489,7 +489,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2017,
-      "value": 1395.239452
+      "value": 1395.23945184461
     },
     {
       "country_name": "Haiti",
@@ -497,7 +497,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2018,
-      "value": 1496.38049
+      "value": 1496.38048970156
     },
     {
       "country_name": "Haiti",
@@ -505,7 +505,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2019,
-      "value": 1352.172042
+      "value": 1352.17204191532
     },
     {
       "country_name": "Haiti",
@@ -513,7 +513,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2020,
-      "value": 1290.325387
+      "value": 1290.32538667383
     },
     {
       "country_name": "Haiti",
@@ -521,7 +521,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2021,
-      "value": 1841.331893
+      "value": 1824.6798742577
     },
     {
       "country_name": "Haiti",
@@ -529,7 +529,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2022,
-      "value": 1760.626357
+      "value": 1748.40890116803
     },
     {
       "country_name": "Haiti",
@@ -537,7 +537,7 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2023,
-      "value": 1705.758085
+      "value": 1681.84407667059
     },
     {
       "country_name": "Haiti",
@@ -545,7 +545,15 @@
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
       "year": 2024,
-      "value": 2142.623305
+      "value": 2060.35591768638
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "GDP per capita (current US$)",
+      "indicator_code": "NY.GDP.PCAP.CD",
+      "year": 2025,
+      "value": 2694.18969101404
     }
   ]
 }
