@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-04T15:36:55.426Z",
+  "generated_at": "2026-08-05T15:28:50.797Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11439,
+      "slug": "reserves-de-change-mondiales-le-dollar-recule-lentement-sans-perdre-sa-domination",
+      "date": "2026-08-04T20:44:05",
+      "modified": "2026-08-04T20:53:16",
+      "title": {
+        "rendered": "Réserves de change mondiales : le dollar recule lentement, sans perdre sa domination"
+      },
+      "excerpt": {
+        "rendered": "<p>Le dollar demeure la principale monnaie de réserve mondiale, mais sa part recule progressivement depuis le début des années 2000. Les banques centrales diversifient davantage leurs avoirs, sans qu’aucune autre monnaie ne soit encore en mesure de remplacer sa domination.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/composition-reserves-mondiales-de-change-devises-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11436,
+      "slug": "elections-en-haiti-voici-les-17-groupements-politiques-enregistres-aupres-du-cep",
+      "date": "2026-08-04T14:36:23",
+      "modified": "2026-08-04T14:36:25",
+      "title": {
+        "rendered": "Élections en Haïti : voici les 17 groupements politiques enregistrés auprès du CEP"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil électoral provisoire annonce avoir enregistré 17 groupements politiques dans le cadre des préparatifs des prochaines élections en Haïti. Ensemble, ces structures réunissent 227 des 316 partis politiques agréés dans le pays.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/elections-haiti-2026-groupements-politiques-cep.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11377,
       "slug": "la-reserve-federale-americaine-pourrait-reduire-le-nombre-de-ses-reunions-de-politique-monetaire",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/truth-social-acces-prioritaire-publications-trump-100000-dollars.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11299,
-      "slug": "elections-en-haiti-le-cep-lance-linscription-des-electeurs-dans-neuf-departements-sauf-louest",
-      "date": "2026-07-19T00:29:33",
-      "modified": "2026-07-19T00:50:55",
-      "title": {
-        "rendered": "Élections en Haïti : le CEP lance l’inscription des électeurs dans neuf départements, sauf l’Ouest"
-      },
-      "excerpt": {
-        "rendered": "<p>Le CEP ouvre les inscriptions électorales dans neuf départements à partir du 20 juillet. L’Ouest reste temporairement exclu en raison des contraintes actuelles.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11296,
-      "slug": "hope-help-haiti-presse-washington-pour-une-prolongation-durable-face-a-lerosion-des-emplois",
-      "date": "2026-07-18T23:21:50",
-      "modified": "2026-07-18T23:21:51",
-      "title": {
-        "rendered": "HOPE/HELP : Haïti presse Washington pour une prolongation durable face à l’érosion des emplois"
-      },
-      "excerpt": {
-        "rendered": "<p>Malgré leur maintien jusqu’à fin 2026, les avantages HOPE/HELP restent trop temporaires pour rassurer les entreprises. Haïti réclame une prolongation durable afin de préserver les emplois et relancer les commandes.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
