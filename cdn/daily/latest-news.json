@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-05T15:28:50.797Z",
+  "generated_at": "2026-08-06T15:29:27.925Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11444,
+      "slug": "fin-du-tps-des-employeurs-americains-risquent-de-perdre-des-travailleurs-quhaiti-aurait-du-mal-a-reintegrer",
+      "date": "2026-08-06T10:40:53",
+      "modified": "2026-08-06T10:50:33",
+      "title": {
+        "rendered": "Fin du TPS : des employeurs américains risquent de perdre des travailleurs qu’Haïti aurait du mal à réintégrer"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS pourrait retirer des travailleurs expérimentés du marché américain tout en forçant certains Haïtiens à revenir dans un pays offrant peu d’emplois et de sécurité. Leurs compétences pourraient servir à Haïti, mais seulement si les conditions de réintégration existent.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/fin-tps-haiti-retour-reintegration-economique.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11439,
       "slug": "reserves-de-change-mondiales-le-dollar-recule-lentement-sans-perdre-sa-domination",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11302,
-      "slug": "truth-social-veut-facturer-jusqua-100-000-dollars-par-mois-pour-un-acces-accelere-aux-publications-de-trump",
-      "date": "2026-07-19T01:54:25",
-      "modified": "2026-07-19T01:54:26",
-      "title": {
-        "rendered": "Truth Social veut facturer jusqu’à 100 000 dollars par mois pour un accès accéléré aux publications de Trump"
-      },
-      "excerpt": {
-        "rendered": "<p>Trump Media veut commercialiser un accès plus rapide aux publications de Donald Trump sur Truth Social. Le service, destiné aux acteurs financiers, pourrait coûter jusqu’à 100 000 dollars par mois.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/truth-social-acces-prioritaire-publications-trump-100000-dollars.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
