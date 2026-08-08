@@ -34,15 +34,20 @@ jobs:
         run: |
           node scripts/build-remittances-cdn.mjs
 
+      - name: Stage generated files
+        run: |
+          git add cdn/daily/remittances-haiti
+
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet -- cdn/daily/remittances-haiti; then
+          if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No remittances changes detected."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "Remittances data changed."
+            git status --short
           fi
 
       - name: Commit changes
@@ -50,8 +55,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add cdn/daily/remittances-haiti
 
           git commit -m "Update Haiti monthly remittances data"
 
