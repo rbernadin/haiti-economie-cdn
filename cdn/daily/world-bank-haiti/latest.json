@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:19:18.442Z",
+  "generated_at": "2026-08-08T13:35:11.783Z",
   "country_code": "HTI",
   "count": 1188,
   "latest": [
@@ -596,36 +596,36 @@
       "country_code": "HTI",
       "indicator_name": "Age dependency ratio (% of working-age population)",
       "indicator_code": "SP.POP.DPND",
-      "year": 2024,
-      "value": 55.99129554,
-      "previous_year": 2023,
-      "previous_value": 56.71610657,
-      "change_abs": -0.7248110299999979,
-      "change_pct": -1.2779633050188726
+      "year": 2025,
+      "value": 55.2283478651774,
+      "previous_year": 2024,
+      "previous_value": 55.9912955357223,
+      "change_abs": -0.7629476705449036,
+      "change_pct": -1.3626183556659177
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Age dependency ratio, old (% of working-age population)",
       "indicator_code": "SP.POP.DPND.OL",
-      "year": 2024,
-      "value": 7.339737525,
-      "previous_year": 2023,
-      "previous_value": 7.237391666,
-      "change_abs": 0.1023458590000006,
-      "change_pct": 1.4141263002360855
+      "year": 2025,
+      "value": 7.43811124096681,
+      "previous_year": 2024,
+      "previous_value": 7.33973752512942,
+      "change_abs": 0.09837371583738985,
+      "change_pct": 1.3402892882828972
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Age dependency ratio, young (% of working-age population)",
       "indicator_code": "SP.POP.DPND.YG",
-      "year": 2024,
-      "value": 48.65155801,
-      "previous_year": 2023,
-      "previous_value": 49.4787149,
-      "change_abs": -0.8271568899999977,
-      "change_pct": -1.6717428730146704
+      "year": 2025,
+      "value": 47.7902366242106,
+      "previous_year": 2024,
+      "previous_value": 48.6515580105929,
+      "change_abs": -0.8613213863823006,
+      "change_pct": -1.7703880854026612
     },
     {
       "country_name": "Haiti",
@@ -647,9 +647,9 @@
       "year": 2023,
       "value": 65.13062409,
       "previous_year": 2022,
-      "previous_value": 65.13062409,
-      "change_abs": 0,
-      "change_pct": 0
+      "previous_value": 65.1306240928882,
+      "change_abs": -2.88819990146294e-9,
+      "change_pct": -4.434472940630567e-9
     },
     {
       "country_name": "Haiti",
@@ -908,12 +908,12 @@
       "country_code": "HTI",
       "indicator_name": "Aquaculture production (metric tons)",
       "indicator_code": "ER.FSH.AQUA.MT",
-      "year": 2023,
-      "value": 1655,
-      "previous_year": 2022,
-      "previous_value": 1685,
-      "change_abs": -30,
-      "change_pct": -1.7804154302670623
+      "year": 2024,
+      "value": 313,
+      "previous_year": 2023,
+      "previous_value": 293,
+      "change_abs": 20,
+      "change_pct": 6.825938566552901
     },
     {
       "country_name": "Haiti",
@@ -935,9 +935,9 @@
       "year": 2023,
       "value": 0.086359511,
       "previous_year": 2022,
-      "previous_value": 0.08736391,
-      "change_abs": -0.001004399000000003,
-      "change_pct": -1.1496726737619722
+      "previous_value": 0.0873639100643746,
+      "change_abs": -0.001004399064374606,
+      "change_pct": -1.149672746600408
     },
     {
       "country_name": "Haiti",
@@ -947,9 +947,9 @@
       "year": 2023,
       "value": 36.4658926,
       "previous_year": 2022,
-      "previous_value": 36.4658926,
-      "change_abs": 0,
-      "change_pct": 0
+      "previous_value": 36.4658925979681,
+      "change_abs": 2.031896428889013e-9,
+      "change_pct": 5.572046326386184e-9
     },
     {
       "country_name": "Haiti",
@@ -1281,11 +1281,11 @@
       "indicator_name": "Broad money (current LCU)",
       "indicator_code": "FM.LBL.BMNY.CN",
       "year": 2023,
-      "value": 634875000000,
+      "value": 634874601041.389,
       "previous_year": 2022,
-      "previous_value": 702615000000,
-      "change_abs": -67740000000,
-      "change_pct": -9.641126363655772
+      "previous_value": 702615310040.382,
+      "change_abs": -67740708998.99292,
+      "change_pct": -9.641223017912832
     },
     {
       "country_name": "Haiti",
@@ -1295,9 +1295,9 @@
       "year": 2023,
       "value": -9.641223018,
       "previous_year": 2022,
-      "previous_value": 31.52248192,
-      "change_abs": -41.163704938,
-      "change_pct": -130.5852281634047
+      "previous_value": 31.522481918824,
+      "change_abs": -41.163704936824,
+      "change_pct": -130.58522816454575
     },
     {
       "country_name": "Haiti",
@@ -1305,11 +1305,11 @@
       "indicator_name": "Broad money (% of GDP)",
       "indicator_code": "FM.LBL.BMNY.GD.ZS",
       "year": 2023,
-      "value": 22.68767045,
+      "value": 23.0102646428152,
       "previous_year": 2022,
-      "previous_value": 32.40512392,
-      "change_abs": -9.717453470000002,
-      "change_pct": -29.98739796209365
+      "previous_value": 32.6315630364054,
+      "change_abs": -9.621298393590202,
+      "change_pct": -29.48463848592297
     },
     {
       "country_name": "Haiti",
@@ -1317,23 +1317,23 @@
       "indicator_name": "Broad money to total reserves ratio",
       "indicator_code": "FM.LBL.BMNY.IR.ZS",
       "year": 2023,
-      "value": 1.74355658,
+      "value": 1.74355657976443,
       "previous_year": 2022,
-      "previous_value": 3.019783333,
-      "change_abs": -1.276226753,
-      "change_pct": -42.262196067296465
+      "previous_value": 3.01978333284231,
+      "change_abs": -1.2762267530778801,
+      "change_pct": -42.26219607208235
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Capture fisheries production (metric tons)",
       "indicator_code": "ER.FSH.CAPT.MT",
-      "year": 2023,
-      "value": 16420,
-      "previous_year": 2022,
-      "previous_value": 16710,
-      "change_abs": -290,
-      "change_pct": -1.7354877318970678
+      "year": 2024,
+      "value": 16430,
+      "previous_year": 2023,
+      "previous_value": 16420,
+      "change_abs": 10,
+      "change_pct": 0.06090133982947624
     },
     {
       "country_name": "Haiti",
@@ -1955,21 +1955,21 @@
       "year": 2024,
       "value": -0.771736707,
       "previous_year": 2023,
-      "previous_value": 0.916841051,
-      "change_abs": -1.688577758,
-      "change_pct": -184.17344600334656
+      "previous_value": -0.681020655154596,
+      "change_abs": -0.09071605184540399,
+      "change_pct": 13.320602122531932
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Claims on central government, etc. (% GDP)",
       "indicator_code": "FS.AST.CGOV.GD.ZS",
-      "year": 2024,
-      "value": 9.374455246,
-      "previous_year": 2023,
-      "previous_value": 11.35220338,
-      "change_abs": -1.9777481340000005,
-      "change_pct": -17.42171160784824
+      "year": 2025,
+      "value": 9.02290993352387,
+      "previous_year": 2024,
+      "previous_value": 9.83257061830826,
+      "change_abs": -0.8096606847843901,
+      "change_pct": -8.234476173268472
     },
     {
       "country_name": "Haiti",
@@ -1991,9 +1991,9 @@
       "year": 2024,
       "value": -1.157944161,
       "previous_year": 2023,
-      "previous_value": -4.841973144,
-      "change_abs": 3.6840289829999997,
-      "change_pct": -76.08528328095163
+      "previous_value": -4.84197314358618,
+      "change_abs": 3.6840289825861796,
+      "change_pct": -76.08528327890775
     },
     {
       "country_name": "Haiti",
@@ -2228,12 +2228,12 @@
       "country_code": "HTI",
       "indicator_name": "Consumer price index (2010 = 100)",
       "indicator_code": "FP.CPI.TOTL",
-      "year": 2024,
-      "value": 710.5866013,
-      "previous_year": 2023,
-      "previous_value": 559.7415384,
-      "change_abs": 150.84506290000002,
-      "change_pct": 26.949056403994053
+      "year": 2025,
+      "value": 914.118483827973,
+      "previous_year": 2024,
+      "previous_value": 710.586601344592,
+      "change_abs": 203.53188248338097,
+      "change_pct": 28.642797668609592
     },
     {
       "country_name": "Haiti",
@@ -2768,12 +2768,12 @@
       "country_code": "HTI",
       "indicator_name": "DEC alternative conversion factor (LCU per US$)",
       "indicator_code": "PA.NUS.ATLS",
-      "year": 2024,
-      "value": 132.271133,
-      "previous_year": 2023,
-      "previous_value": 140.969358,
-      "change_abs": -8.698225000000008,
-      "change_pct": -6.170294823929047
+      "year": 2025,
+      "value": 130.6902333333,
+      "previous_year": 2024,
+      "previous_value": 132.1878,
+      "change_abs": -1.4975666667000098,
+      "change_pct": -1.132908382392331
     },
     {
       "country_name": "Haiti",
@@ -2876,24 +2876,24 @@
       "country_code": "HTI",
       "indicator_name": "Domestic credit to private sector by banks (% of GDP)",
       "indicator_code": "FD.AST.PRVT.GD.ZS",
-      "year": 2024,
-      "value": 3.958933757,
-      "previous_year": 2023,
-      "previous_value": 4.998455493,
-      "change_abs": -1.0395217359999998,
-      "change_pct": -20.796858898829445
+      "year": 2025,
+      "value": 3.07105214674378,
+      "previous_year": 2024,
+      "previous_value": 4.11960435877855,
+      "change_abs": -1.0485522120347697,
+      "change_pct": -25.452740620598384
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
-      "year": 2024,
-      "value": 4.114252058,
-      "previous_year": 2023,
-      "previous_value": 5.168111916,
-      "change_abs": -1.053859858,
-      "change_pct": -20.391583524678456
+      "year": 2025,
+      "value": 3.2083317013116,
+      "previous_year": 2024,
+      "previous_value": 4.28122614544525,
+      "change_abs": -1.0728944441336496,
+      "change_pct": -25.0604478176209
     },
     {
       "country_name": "Haiti",
@@ -4067,9 +4067,9 @@
       "year": 2023,
       "value": 4.405970149,
       "previous_year": 2022,
-      "previous_value": 5.546268657,
-      "change_abs": -1.1402985079999999,
-      "change_pct": -20.55974166633306
+      "previous_value": 5.54626865671642,
+      "change_abs": -1.1402985077164205,
+      "change_pct": -20.559741662271296
     },
     {
       "country_name": "Haiti",
@@ -4400,60 +4400,60 @@
       "country_code": "HTI",
       "indicator_name": "GDP (constant 2015 US$)",
       "indicator_code": "NY.GDP.MKTP.KD",
-      "year": 2024,
-      "value": 13595808327,
-      "previous_year": 2023,
-      "previous_value": 14187369713,
-      "change_abs": -591561386,
-      "change_pct": -4.169633962932168
+      "year": 2025,
+      "value": 13224852042.6065,
+      "previous_year": 2024,
+      "previous_value": 13593635235.2547,
+      "change_abs": -368783192.6481991,
+      "change_pct": -2.7129107576152296
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP (constant LCU)",
       "indicator_code": "NY.GDP.MKTP.KN",
-      "year": 2024,
-      "value": 568005000000,
-      "previous_year": 2023,
-      "previous_value": 592719000000,
-      "change_abs": -24714000000,
-      "change_pct": -4.1695980726111355
+      "year": 2025,
+      "value": 552507000000,
+      "previous_year": 2024,
+      "previous_value": 567914000000,
+      "change_abs": -15407000000,
+      "change_pct": -2.712910757614709
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP (current LCU)",
       "indicator_code": "NY.GDP.MKTP.CN",
-      "year": 2024,
-      "value": 3336430000000,
-      "previous_year": 2023,
-      "previous_value": 2798320000000,
-      "change_abs": 538110000000,
-      "change_pct": 19.229752136996485
+      "year": 2025,
+      "value": 4192187000000,
+      "previous_year": 2024,
+      "previous_value": 3206302000000,
+      "change_abs": 985885000000,
+      "change_pct": 30.74835121582434
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP (current US$)",
       "indicator_code": "NY.GDP.MKTP.CD",
-      "year": 2024,
-      "value": 25224154991,
-      "previous_year": 2023,
-      "previous_value": 19850585722,
-      "change_abs": 5373569269,
-      "change_pct": 27.070079161667167
+      "year": 2025,
+      "value": 32077278409.2339,
+      "previous_year": 2024,
+      "previous_value": 24255657481.2502,
+      "change_abs": 7821620927.9837,
+      "change_pct": 32.246583849684846
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP deflator (base year varies by country)",
       "indicator_code": "NY.GDP.DEFL.ZS",
-      "year": 2024,
-      "value": 587.3942675,
-      "previous_year": 2023,
-      "previous_value": 472.1165215,
-      "change_abs": 115.27774599999998,
-      "change_pct": 24.417223450207086
+      "year": 2025,
+      "value": 758.757264613842,
+      "previous_year": 2024,
+      "previous_value": 564.575270199361,
+      "change_abs": 194.1819944144811,
+      "change_pct": 34.394349994450195
     },
     {
       "country_name": "Haiti",
@@ -4472,12 +4472,12 @@
       "country_code": "HTI",
       "indicator_name": "GDP growth (annual %)",
       "indicator_code": "NY.GDP.MKTP.KD.ZG",
-      "year": 2024,
-      "value": -4.169633958,
-      "previous_year": 2023,
-      "previous_value": -1.863884203,
-      "change_abs": -2.3057497550000003,
-      "change_pct": 123.70670620464507
+      "year": 2025,
+      "value": -2.71291075761471,
+      "previous_year": 2024,
+      "previous_value": -4.18495104762965,
+      "change_abs": 1.4720402900149403,
+      "change_pct": -35.174611919264905
     },
     {
       "country_name": "Haiti",
@@ -4496,48 +4496,48 @@
       "country_code": "HTI",
       "indicator_name": "GDP per capita (constant 2015 US$)",
       "indicator_code": "NY.GDP.PCAP.KD",
-      "year": 2024,
-      "value": 1154.873009,
-      "previous_year": 2023,
-      "previous_value": 1219.118716,
-      "change_abs": -64.24570700000004,
-      "change_pct": -5.269848305733011
+      "year": 2025,
+      "value": 1110.76318831712,
+      "previous_year": 2024,
+      "previous_value": 1154.68841945337,
+      "change_abs": -43.92523113624998,
+      "change_pct": -3.804076528025127
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP per capita (constant LCU)",
       "indicator_code": "NY.GDP.PCAP.KN",
-      "year": 2024,
-      "value": 48248.20872,
-      "previous_year": 2023,
-      "previous_value": 50932.26166,
-      "change_abs": -2684.052939999994,
-      "change_pct": -5.269848328977571
+      "year": 2025,
+      "value": 46405.3915242571,
+      "previous_year": 2024,
+      "previous_value": 48240.4969455659,
+      "change_abs": -1835.1054213087991,
+      "change_pct": -3.8040765280248126
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP per capita (current LCU)",
       "indicator_code": "NY.GDP.PCAP.CN",
-      "year": 2024,
-      "value": 283407.2122,
-      "previous_year": 2023,
-      "previous_value": 240459.6221,
-      "change_abs": 42947.5901,
-      "change_pct": 17.860624467811636
+      "year": 2025,
+      "value": 352104.279362797,
+      "previous_year": 2024,
+      "previous_value": 272353.915975943,
+      "change_abs": 79750.363386854,
+      "change_pct": 29.281886071319917
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "GDP per capita (current US$)",
       "indicator_code": "NY.GDP.PCAP.CD",
-      "year": 2024,
-      "value": 2142.623305,
-      "previous_year": 2023,
-      "previous_value": 1705.758085,
-      "change_abs": 436.86522000000014,
-      "change_pct": 25.611206175229718
+      "year": 2025,
+      "value": 2694.18969101404,
+      "previous_year": 2024,
+      "previous_value": 2060.35591768638,
+      "change_abs": 633.8337733276599,
+      "change_pct": 30.763314623786265
     },
     {
       "country_name": "Haiti",
@@ -4545,11 +4545,11 @@
       "indicator_name": "GDP per capita growth (annual %)",
       "indicator_code": "NY.GDP.PCAP.KD.ZG",
       "year": 2024,
-      "value": -5.269848333,
+      "value": -5.28498956953727,
       "previous_year": 2023,
-      "previous_value": -2.992128438,
-      "change_abs": -2.2777198949999997,
-      "change_pct": 76.12373406411906
+      "previous_value": -2.99212843762332,
+      "change_abs": -2.2928611319139502,
+      "change_pct": 76.6297697345905
     },
     {
       "country_name": "Haiti",
@@ -6188,12 +6188,12 @@
       "country_code": "HTI",
       "indicator_name": "Inflation, consumer prices (annual %)",
       "indicator_code": "FP.CPI.TOTL.ZG",
-      "year": 2024,
-      "value": 26.94905641,
-      "previous_year": 2023,
-      "previous_value": 36.81351628,
-      "change_abs": -9.864459870000001,
-      "change_pct": -26.7957556539068
+      "year": 2025,
+      "value": 28.6427976686095,
+      "previous_year": 2024,
+      "previous_value": 26.9490564091987,
+      "change_abs": 1.6937412594107997,
+      "change_pct": 6.284974262893537
     },
     {
       "country_name": "Haiti",
@@ -6201,11 +6201,11 @@
       "indicator_name": "Inflation, GDP deflator (annual %)",
       "indicator_code": "NY.GDP.DEFL.KD.ZG",
       "year": 2024,
-      "value": 24.41722344,
+      "value": 21.284237094326,
       "previous_year": 2023,
-      "previous_value": 31.51196314,
-      "change_abs": -7.094739699999998,
-      "change_pct": -22.514432593360787
+      "previous_value": 30.5743109073361,
+      "change_abs": -9.2900738130101,
+      "change_pct": -30.38522713125485
     },
     {
       "country_name": "Haiti",
@@ -7412,12 +7412,12 @@
       "country_code": "HTI",
       "indicator_name": "Merchandise exports (current US$)",
       "indicator_code": "TX.VAL.MRCH.CD.WT",
-      "year": 2024,
-      "value": 711000000,
-      "previous_year": 2023,
-      "previous_value": 898000000,
-      "change_abs": -187000000,
-      "change_pct": -20.824053452115812
+      "year": 2025,
+      "value": 554000000,
+      "previous_year": 2024,
+      "previous_value": 680000000,
+      "change_abs": -126000000,
+      "change_pct": -18.529411764705884
     },
     {
       "country_name": "Haiti",
@@ -7437,11 +7437,11 @@
       "indicator_name": "Merchandise exports to high-income economies (% of total merchandise exports)",
       "indicator_code": "TX.VAL.MRCH.HI.ZS",
       "year": 2023,
-      "value": 91.01834111,
+      "value": 91.0183411079713,
       "previous_year": 2022,
-      "previous_value": 91.58311922,
-      "change_abs": -0.564778110000006,
-      "change_pct": -0.6166836364715882
+      "previous_value": 91.5831192238713,
+      "change_abs": -0.5647781158999976,
+      "change_pct": -0.6166836428877466
     },
     {
       "country_name": "Haiti",
@@ -7473,11 +7473,11 @@
       "indicator_name": "Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)",
       "indicator_code": "TX.VAL.MRCH.R3.ZS",
       "year": 2023,
-      "value": 4.817982296,
+      "value": 4.81798229621679,
       "previous_year": 2022,
-      "previous_value": 5.141546174,
-      "change_abs": -0.32356387799999986,
-      "change_pct": -6.293124034093325
+      "previous_value": 5.14154617434063,
+      "change_abs": -0.32356387812383947,
+      "change_pct": -6.29312403608501
     },
     {
       "country_name": "Haiti",
@@ -7533,11 +7533,11 @@
       "indicator_name": "Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)",
       "indicator_code": "TX.VAL.MRCH.WR.ZS",
       "year": 2023,
-      "value": 4.817982296,
+      "value": 4.81798229621679,
       "previous_year": 2022,
-      "previous_value": 5.141546174,
-      "change_abs": -0.32356387799999986,
-      "change_pct": -6.293124034093325
+      "previous_value": 5.14154617434063,
+      "change_abs": -0.32356387812383947,
+      "change_pct": -6.29312403608501
     },
     {
       "country_name": "Haiti",
@@ -7557,23 +7557,23 @@
       "indicator_name": "Merchandise imports by the reporting economy, residual (% of total merchandise imports)",
       "indicator_code": "TM.VAL.MRCH.RS.ZS",
       "year": 2023,
-      "value": 2.128878044,
+      "value": 2.12887804394418,
       "previous_year": 2022,
-      "previous_value": 2.025339199,
-      "change_abs": 0.1035388450000001,
-      "change_pct": 5.112173064695624
+      "previous_value": 2.02533919907228,
+      "change_abs": 0.1035388448718999,
+      "change_pct": 5.112173058188304
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Merchandise imports (current US$)",
       "indicator_code": "TM.VAL.MRCH.CD.WT",
-      "year": 2024,
-      "value": 3035000000,
-      "previous_year": 2023,
-      "previous_value": 3378000000,
-      "change_abs": -343000000,
-      "change_pct": -10.15393724097099
+      "year": 2025,
+      "value": 4628000000,
+      "previous_year": 2024,
+      "previous_value": 4246000000,
+      "change_abs": 382000000,
+      "change_pct": 8.996702779086199
     },
     {
       "country_name": "Haiti",
@@ -7593,11 +7593,11 @@
       "indicator_name": "Merchandise imports from high-income economies (% of total merchandise imports)",
       "indicator_code": "TM.VAL.MRCH.HI.ZS",
       "year": 2023,
-      "value": 42.26154105,
+      "value": 42.2615410495351,
       "previous_year": 2022,
-      "previous_value": 38.23076984,
-      "change_abs": 4.0307712099999975,
-      "change_pct": 10.54326456639304
+      "previous_value": 38.2307698417757,
+      "change_abs": 4.0307712077594005,
+      "change_pct": 10.543264560042624
     },
     {
       "country_name": "Haiti",
@@ -7629,11 +7629,11 @@
       "indicator_name": "Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)",
       "indicator_code": "TM.VAL.MRCH.R3.ZS",
       "year": 2023,
-      "value": 14.10569407,
+      "value": 14.1056940715131,
       "previous_year": 2022,
-      "previous_value": 13.71734467,
-      "change_abs": 0.38834940000000095,
-      "change_pct": 2.831082905201951
+      "previous_value": 13.7173446720826,
+      "change_abs": 0.3883493994304992,
+      "change_pct": 2.831082900620438
     },
     {
       "country_name": "Haiti",
@@ -7679,9 +7679,9 @@
       "year": 2023,
       "value": 41.50388684,
       "previous_year": 2022,
-      "previous_value": 46.02654629,
-      "change_abs": -4.522659449999999,
-      "change_pct": -9.82619773707118
+      "previous_value": 46.0265462870694,
+      "change_abs": -4.522659447069401,
+      "change_pct": -9.826197731329641
     },
     {
       "country_name": "Haiti",
@@ -7689,23 +7689,23 @@
       "indicator_name": "Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)",
       "indicator_code": "TM.VAL.MRCH.WR.ZS",
       "year": 2023,
-      "value": 14.10569407,
+      "value": 14.1056940715131,
       "previous_year": 2022,
-      "previous_value": 13.71734467,
-      "change_abs": 0.38834940000000095,
-      "change_pct": 2.831082905201951
+      "previous_value": 13.7173446720826,
+      "change_abs": 0.3883493994304992,
+      "change_pct": 2.831082900620438
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Merchandise trade (% of GDP)",
       "indicator_code": "TG.VAL.TOTL.GD.ZS",
-      "year": 2024,
-      "value": 14.85084436,
-      "previous_year": 2023,
-      "previous_value": 21.5409261,
-      "change_abs": -6.69008174,
-      "change_pct": -31.05754000056664
+      "year": 2025,
+      "value": 16.1547371129475,
+      "previous_year": 2024,
+      "previous_value": 20.3086640871633,
+      "change_abs": -4.1539269742158,
+      "change_pct": -20.45396465462942
     },
     {
       "country_name": "Haiti",
@@ -7904,12 +7904,12 @@
       "country_code": "HTI",
       "indicator_name": "Monetary Sector credit to private sector (% GDP)",
       "indicator_code": "FM.AST.PRVT.GD.ZS",
-      "year": 2024,
-      "value": 4.114252058,
-      "previous_year": 2023,
-      "previous_value": 5.168111916,
-      "change_abs": -1.053859858,
-      "change_pct": -20.391583524678456
+      "year": 2025,
+      "value": 3.2083317013116,
+      "previous_year": 2024,
+      "previous_value": 4.28122614544525,
+      "change_abs": -1.0728944441336496,
+      "change_pct": -25.0604478176209
     },
     {
       "country_name": "Haiti",
@@ -8589,11 +8589,11 @@
       "indicator_name": "Net bilateral aid flows from DAC donors, Total (current US$)",
       "indicator_code": "DC.DAC.TOTL.CD",
       "year": 2023,
-      "value": 606929766.1,
+      "value": 606929766.119457,
       "previous_year": 2022,
-      "previous_value": 510255662.5,
-      "change_abs": 96674103.60000002,
-      "change_pct": 18.94620887230233
+      "previous_value": 510255662.478972,
+      "change_abs": 96674103.64048499,
+      "change_pct": 18.946208881017366
     },
     {
       "country_name": "Haiti",
@@ -8613,11 +8613,11 @@
       "indicator_name": "Net bilateral aid flows from DAC donors, United States (current US$)",
       "indicator_code": "DC.DAC.USAL.CD",
       "year": 2023,
-      "value": 340343353.3,
+      "value": 340343353.271484,
       "previous_year": 2022,
-      "previous_value": 261167938.2,
-      "change_abs": 79175415.10000002,
-      "change_pct": 30.315901578764322
+      "previous_value": 261167938.232422,
+      "change_abs": 79175415.03906202,
+      "change_pct": 30.315901551667956
     },
     {
       "country_name": "Haiti",
@@ -8636,12 +8636,12 @@
       "country_code": "HTI",
       "indicator_name": "Net domestic credit (current LCU)",
       "indicator_code": "FM.AST.DOMS.CN",
-      "year": 2024,
-      "value": 486298000000,
-      "previous_year": 2023,
-      "previous_value": 499499000000,
-      "change_abs": -13201000000,
-      "change_pct": -2.642848133830098
+      "year": 2025,
+      "value": 535352668849.793,
+      "previous_year": 2024,
+      "previous_value": 473732027668.784,
+      "change_abs": 61620641181.00903,
+      "change_pct": 13.007488956202032
     },
     {
       "country_name": "Haiti",
@@ -8780,12 +8780,12 @@
       "country_code": "HTI",
       "indicator_name": "Net foreign assets (current LCU)",
       "indicator_code": "FM.AST.NFRG.CN",
-      "year": 2024,
-      "value": 358096000000,
-      "previous_year": 2023,
-      "previous_value": 276742000000,
-      "change_abs": 81354000000,
-      "change_pct": 29.397055741448714
+      "year": 2025,
+      "value": 467390559300.238,
+      "previous_year": 2024,
+      "previous_value": 370662205453.578,
+      "change_abs": 96728353846.65997,
+      "change_pct": 26.096092998824588
     },
     {
       "country_name": "Haiti",
@@ -8841,11 +8841,11 @@
       "indicator_name": "Net ODA received per capita (current US$)",
       "indicator_code": "DT.ODA.ODAT.PC.ZS",
       "year": 2023,
-      "value": 92.60312519,
+      "value": 92.6031251855552,
       "previous_year": 2022,
-      "previous_value": 78.1562366,
-      "change_abs": 14.44688859,
-      "change_pct": 18.484626714997177
+      "previous_value": 78.1562365962546,
+      "change_abs": 14.446888589300599,
+      "change_pct": 18.48462671498812
     },
     {
       "country_name": "Haiti",
@@ -8853,11 +8853,11 @@
       "indicator_name": "Net official development assistance and official aid received (constant 2023 US$)",
       "indicator_code": "DT.ODA.ALLD.KD",
       "year": 2023,
-      "value": 1077659424,
+      "value": 1077659423.82813,
       "previous_year": 2022,
-      "previous_value": 935733642.6,
-      "change_abs": 141925781.39999998,
-      "change_pct": 15.167326997632518
+      "previous_value": 935733642.578125,
+      "change_abs": 141925781.250005,
+      "change_pct": 15.167326981957425
     },
     {
       "country_name": "Haiti",
@@ -8865,11 +8865,11 @@
       "indicator_name": "Net official development assistance and official aid received (current US$)",
       "indicator_code": "DT.ODA.ALLD.CD",
       "year": 2023,
-      "value": 1077659424,
+      "value": 1077659423.82813,
       "previous_year": 2022,
-      "previous_value": 899078552.2,
-      "change_abs": 178580871.79999995,
-      "change_pct": 19.86265508870404
+      "previous_value": 899078552.246094,
+      "change_abs": 178580871.58203602,
+      "change_pct": 19.86265506344269
     },
     {
       "country_name": "Haiti",
@@ -8877,11 +8877,11 @@
       "indicator_name": "Net official development assistance received (constant 2023 US$)",
       "indicator_code": "DT.ODA.ODAT.KD",
       "year": 2023,
-      "value": 1077659424,
+      "value": 1077659423.82813,
       "previous_year": 2022,
-      "previous_value": 935733642.6,
-      "change_abs": 141925781.39999998,
-      "change_pct": 15.167326997632518
+      "previous_value": 935733642.578125,
+      "change_abs": 141925781.250005,
+      "change_pct": 15.167326981957425
     },
     {
       "country_name": "Haiti",
@@ -8889,11 +8889,11 @@
       "indicator_name": "Net official development assistance received (current US$)",
       "indicator_code": "DT.ODA.ODAT.CD",
       "year": 2023,
-      "value": 1077659424,
+      "value": 1077659423.82813,
       "previous_year": 2022,
-      "previous_value": 899078552.2,
-      "change_abs": 178580871.79999995,
-      "change_pct": 19.86265508870404
+      "previous_value": 899078552.246094,
+      "change_abs": 178580871.58203602,
+      "change_pct": 19.86265506344269
     },
     {
       "country_name": "Haiti",
@@ -9488,12 +9488,12 @@
       "country_code": "HTI",
       "indicator_name": "Official exchange rate (LCU per US$, period average)",
       "indicator_code": "PA.NUS.FCRF",
-      "year": 2024,
-      "value": 131.8109917,
-      "previous_year": 2023,
-      "previous_value": 141.0359127,
-      "change_abs": -9.224921000000023,
-      "change_pct": -6.540831213410528
+      "year": 2025,
+      "value": 130.626409210526,
+      "previous_year": 2024,
+      "previous_value": 131.810991666667,
+      "change_abs": -1.1845824561410154,
+      "change_pct": -0.8986977801795708
     },
     {
       "country_name": "Haiti",
@@ -9815,9 +9815,9 @@
       "year": 2023,
       "value": 10.88534107,
       "previous_year": 2022,
-      "previous_value": 10.88534107,
-      "change_abs": 0,
-      "change_pct": 0
+      "previous_value": 10.8853410740203,
+      "change_abs": -4.020298760565311e-9,
+      "change_pct": -3.693314461372672e-8
     },
     {
       "country_name": "Haiti",
@@ -10040,624 +10040,624 @@
       "country_code": "HTI",
       "indicator_name": "Population ages 00-04, female (% of female population)",
       "indicator_code": "SP.POP.0004.FE.5Y",
-      "year": 2024,
-      "value": 10.23984224,
-      "previous_year": 2023,
-      "previous_value": 10.4059006,
-      "change_abs": -0.16605836000000096,
-      "change_pct": -1.5958095928765736
+      "year": 2025,
+      "value": 10.0827508943674,
+      "previous_year": 2024,
+      "previous_value": 10.2398422383908,
+      "change_abs": -0.15709134402339942,
+      "change_pct": -1.5341187917372294
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 00-04, male (% of male population)",
       "indicator_code": "SP.POP.0004.MA.5Y",
-      "year": 2024,
-      "value": 10.66595758,
-      "previous_year": 2023,
-      "previous_value": 10.83246494,
-      "change_abs": -0.16650735999999888,
-      "change_pct": -1.5371142295153266
+      "year": 2025,
+      "value": 10.5009218083527,
+      "previous_year": 2024,
+      "previous_value": 10.6659575826782,
+      "change_abs": -0.16503577432549932,
+      "change_pct": -1.5473132444621929
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14, female",
       "indicator_code": "SP.POP.0014.FE.IN",
-      "year": 2024,
-      "value": 1821080,
-      "previous_year": 2023,
-      "previous_value": 1822092,
-      "change_abs": -1012,
-      "change_pct": -0.05554055448352773
+      "year": 2025,
+      "value": 1818482,
+      "previous_year": 2024,
+      "previous_value": 1821080,
+      "change_abs": -2598,
+      "change_pct": -0.14266259582225932
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14, female (% of female population)",
       "indicator_code": "SP.POP.0014.FE.ZS",
-      "year": 2024,
-      "value": 30.6207996,
-      "previous_year": 2023,
-      "previous_value": 31.01006236,
-      "change_abs": -0.3892627599999976,
-      "change_pct": -1.25527886877812
+      "year": 2025,
+      "value": 30.2176774415037,
+      "previous_year": 2024,
+      "previous_value": 30.6207995996772,
+      "change_abs": -0.40312215817349895,
+      "change_pct": -1.316497816659721
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14, male",
       "indicator_code": "SP.POP.0014.MA.IN",
-      "year": 2024,
-      "value": 1850620,
-      "previous_year": 2023,
-      "previous_value": 1852090,
-      "change_abs": -1470,
-      "change_pct": -0.07936979304461446
+      "year": 2025,
+      "value": 1847054,
+      "previous_year": 2024,
+      "previous_value": 1850620,
+      "change_abs": -3566,
+      "change_pct": -0.19269217883736262
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14, male (% of male population)",
       "indicator_code": "SP.POP.0014.MA.ZS",
-      "year": 2024,
-      "value": 31.76835888,
-      "previous_year": 2023,
-      "previous_value": 32.14547795,
-      "change_abs": -0.3771190699999991,
-      "change_pct": -1.173163673554896
+      "year": 2025,
+      "value": 31.3689798730655,
+      "previous_year": 2024,
+      "previous_value": 31.768358877981,
+      "change_abs": -0.3993790049155024,
+      "change_pct": -1.2571596992135352
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14 (% of total population)",
       "indicator_code": "SP.POP.0014.TO.ZS",
-      "year": 2024,
-      "value": 31.18864067,
-      "previous_year": 2023,
-      "previous_value": 31.57219803,
-      "change_abs": -0.3835573599999975,
-      "change_pct": -1.2148579571037155
+      "year": 2025,
+      "value": 30.7870535726847,
+      "previous_year": 2024,
+      "previous_value": 31.1886406665943,
+      "change_abs": -0.40158709390959757,
+      "change_pct": -1.2876069149744371
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 0-14, total",
       "indicator_code": "SP.POP.0014.TO",
-      "year": 2024,
-      "value": 3671700,
-      "previous_year": 2023,
-      "previous_value": 3674182,
-      "change_abs": -2482,
-      "change_pct": -0.067552451130619
+      "year": 2025,
+      "value": 3665536,
+      "previous_year": 2024,
+      "previous_value": 3671700,
+      "change_abs": -6164,
+      "change_pct": -0.16787863932238473
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 05-09, female (% of female population)",
       "indicator_code": "SP.POP.0509.FE.5Y",
-      "year": 2024,
-      "value": 10.24591232,
-      "previous_year": 2023,
-      "previous_value": 10.37034806,
-      "change_abs": -0.12443573999999913,
-      "change_pct": -1.1999186457392552
+      "year": 2025,
+      "value": 10.1024835570837,
+      "previous_year": 2024,
+      "previous_value": 10.2459123207707,
+      "change_abs": -0.14342876368699997,
+      "change_pct": -1.399863274217549
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 05-09, male (% of male population)",
       "indicator_code": "SP.POP.0509.MA.5Y",
-      "year": 2024,
-      "value": 10.62371982,
-      "previous_year": 2023,
-      "previous_value": 10.74095371,
-      "change_abs": -0.11723388999999962,
-      "change_pct": -1.0914662995973345
+      "year": 2025,
+      "value": 10.4874201245908,
+      "previous_year": 2024,
+      "previous_value": 10.6237198207286,
+      "change_abs": -0.13629969613779913,
+      "change_pct": -1.2829752519626538
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 10-14, female (% of female population)",
       "indicator_code": "SP.POP.1014.FE.5Y",
-      "year": 2024,
-      "value": 10.13504504,
-      "previous_year": 2023,
-      "previous_value": 10.2338137,
-      "change_abs": -0.09876866000000106,
-      "change_pct": -0.9651207545433532
+      "year": 2025,
+      "value": 10.0324429900526,
+      "previous_year": 2024,
+      "previous_value": 10.1350450405157,
+      "change_abs": -0.10260205046310134,
+      "change_pct": -1.0123492303481725
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 10-14, male (% of male population)",
       "indicator_code": "SP.POP.1014.MA.5Y",
-      "year": 2024,
-      "value": 10.47868147,
-      "previous_year": 2023,
-      "previous_value": 10.5720593,
-      "change_abs": -0.09337782999999966,
-      "change_pct": -0.8832510994333872
+      "year": 2025,
+      "value": 10.380637940122,
+      "previous_year": 2024,
+      "previous_value": 10.4786814745743,
+      "change_abs": -0.09804353445229985,
+      "change_pct": -0.9356476259937361
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-19, female (% of female population)",
       "indicator_code": "SP.POP.1519.FE.5Y",
-      "year": 2024,
-      "value": 9.726390616,
-      "previous_year": 2023,
-      "previous_value": 9.777655355,
-      "change_abs": -0.0512647390000005,
-      "change_pct": -0.524305031612566
+      "year": 2025,
+      "value": 9.6857629544723,
+      "previous_year": 2024,
+      "previous_value": 9.72639061635885,
+      "change_abs": -0.04062766188654976,
+      "change_pct": -0.4177054314291877
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-19, male (% of male population)",
       "indicator_code": "SP.POP.1519.MA.5Y",
-      "year": 2024,
-      "value": 10.03124101,
-      "previous_year": 2023,
-      "previous_value": 10.07395878,
-      "change_abs": -0.04271776999999943,
-      "change_pct": -0.4240415404995278
+      "year": 2025,
+      "value": 9.99684196465972,
+      "previous_year": 2024,
+      "previous_value": 10.0312410091332,
+      "change_abs": -0.034399044473479634,
+      "change_pct": -0.34291913076517794
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64, female",
       "indicator_code": "SP.POP.1564.FE.IN",
-      "year": 2024,
-      "value": 3808956,
-      "previous_year": 2023,
-      "previous_value": 3746180,
-      "change_abs": 62776,
-      "change_pct": 1.675733680709416
+      "year": 2025,
+      "value": 3872662,
+      "previous_year": 2024,
+      "previous_value": 3808956,
+      "change_abs": 63706,
+      "change_pct": 1.6725317908634283
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64, female (% of female population)",
       "indicator_code": "SP.POP.1564.FE.ZS",
-      "year": 2024,
-      "value": 64.04619585,
-      "previous_year": 2023,
-      "previous_value": 63.75597886,
-      "change_abs": 0.29021699000000467,
-      "change_pct": 0.45519964588306955
+      "year": 2025,
+      "value": 64.3519519383789,
+      "previous_year": 2024,
+      "previous_value": 64.0461958491062,
+      "change_abs": 0.30575608927270537,
+      "change_pct": 0.47739929783350654
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64, male",
       "indicator_code": "SP.POP.1564.MA.IN",
-      "year": 2024,
-      "value": 3737976,
-      "previous_year": 2023,
-      "previous_value": 3679602,
-      "change_abs": 58374,
-      "change_pct": 1.5864215749420725
+      "year": 2025,
+      "value": 3797390,
+      "previous_year": 2024,
+      "previous_value": 3737976,
+      "change_abs": 59414,
+      "change_pct": 1.589469809329969
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64, male (% of male population)",
       "indicator_code": "SP.POP.1564.MA.ZS",
-      "year": 2024,
-      "value": 64.16734016,
-      "previous_year": 2023,
-      "previous_value": 63.86438079,
-      "change_abs": 0.3029593699999964,
-      "change_pct": 0.47437924904680884
+      "year": 2025,
+      "value": 64.4920237741724,
+      "previous_year": 2024,
+      "previous_value": 64.167340159125,
+      "change_abs": 0.32468361504739107,
+      "change_pct": 0.5059951281169304
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64 (% of total population)",
       "indicator_code": "SP.POP.1564.TO.ZS",
-      "year": 2024,
-      "value": 64.10614109,
-      "previous_year": 2023,
-      "previous_value": 63.80964783,
-      "change_abs": 0.2964932599999912,
-      "change_pct": 0.4646527133168025
+      "year": 2025,
+      "value": 64.4212244055996,
+      "previous_year": 2024,
+      "previous_value": 64.1061410872761,
+      "change_abs": 0.3150833183235022,
+      "change_pct": 0.49150255026977524
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 15-64, total",
       "indicator_code": "SP.POP.1564.TO",
-      "year": 2024,
-      "value": 7546932,
-      "previous_year": 2023,
-      "previous_value": 7425783,
-      "change_abs": 121149,
-      "change_pct": 1.6314643183082511
+      "year": 2025,
+      "value": 7670052,
+      "previous_year": 2024,
+      "previous_value": 7546932,
+      "change_abs": 123120,
+      "change_pct": 1.6313914051431762
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 20-24, female (% of female population)",
       "indicator_code": "SP.POP.2024.FE.5Y",
-      "year": 2024,
-      "value": 9.221085684,
-      "previous_year": 2023,
-      "previous_value": 9.293645532,
-      "change_abs": -0.07255984799999915,
-      "change_pct": -0.7807468850642103
+      "year": 2025,
+      "value": 9.14539541015773,
+      "previous_year": 2024,
+      "previous_value": 9.22108568383682,
+      "change_abs": -0.07569027367908987,
+      "change_pct": -0.8208390668331339
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 20-24, male (% of male population)",
       "indicator_code": "SP.POP.2024.MA.5Y",
-      "year": 2024,
-      "value": 9.431011598,
-      "previous_year": 2023,
-      "previous_value": 9.495541854,
-      "change_abs": -0.06453025600000117,
-      "change_pct": -0.6795847671696353
+      "year": 2025,
+      "value": 9.36517545522965,
+      "previous_year": 2024,
+      "previous_value": 9.43101159826112,
+      "change_abs": -0.06583614303147023,
+      "change_pct": -0.6980814554783182
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 25-29, female (% of female population)",
       "indicator_code": "SP.POP.2529.FE.5Y",
-      "year": 2024,
-      "value": 8.635221846,
-      "previous_year": 2023,
-      "previous_value": 8.676266874,
-      "change_abs": -0.041045027999999206,
-      "change_pct": -0.47307244689531214
+      "year": 2025,
+      "value": 8.60880822859513,
+      "previous_year": 2024,
+      "previous_value": 8.63522184637782,
+      "change_abs": -0.02641361778269058,
+      "change_pct": -0.3058823299805573
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 25-29, male (% of male population)",
       "indicator_code": "SP.POP.2529.MA.5Y",
-      "year": 2024,
-      "value": 8.77372988,
-      "previous_year": 2023,
-      "previous_value": 8.813637837,
-      "change_abs": -0.039907957000000494,
-      "change_pct": -0.45279778609083876
+      "year": 2025,
+      "value": 8.74891275356311,
+      "previous_year": 2024,
+      "previous_value": 8.7737298801996,
+      "change_abs": -0.024817126636490272,
+      "change_pct": -0.28285719956454475
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 30-34, female (% of female population)",
       "indicator_code": "SP.POP.3034.FE.5Y",
-      "year": 2024,
-      "value": 8.05092177,
-      "previous_year": 2023,
-      "previous_value": 8.055731205,
-      "change_abs": -0.004809435000000306,
-      "change_pct": -0.059702029246149674
+      "year": 2025,
+      "value": 8.0275629156218,
+      "previous_year": 2024,
+      "previous_value": 8.05092176975354,
+      "change_abs": -0.023358854131739548,
+      "change_pct": -0.29013887850079834
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 30-34, male (% of male population)",
       "indicator_code": "SP.POP.3034.MA.5Y",
-      "year": 2024,
-      "value": 8.1350908,
-      "previous_year": 2023,
-      "previous_value": 8.137730431,
-      "change_abs": -0.0026396309999991985,
-      "change_pct": -0.03243694322859045
+      "year": 2025,
+      "value": 8.11514032113118,
+      "previous_year": 2024,
+      "previous_value": 8.13509079960092,
+      "change_abs": -0.019950478469739963,
+      "change_pct": -0.24523977618932866
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 35-39, female (% of female population)",
       "indicator_code": "SP.POP.3539.FE.5Y",
-      "year": 2024,
-      "value": 7.093757215,
-      "previous_year": 2023,
-      "previous_value": 6.979786023,
-      "change_abs": 0.11397119200000017,
-      "change_pct": 1.6328751572675562
+      "year": 2025,
+      "value": 7.20358508001325,
+      "previous_year": 2024,
+      "previous_value": 7.09375721452831,
+      "change_abs": 0.10982786548493984,
+      "change_pct": 1.5482326525075851
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 35-39, male (% of male population)",
       "indicator_code": "SP.POP.3539.MA.5Y",
-      "year": 2024,
-      "value": 7.130465503,
-      "previous_year": 2023,
-      "previous_value": 7.018412285,
-      "change_abs": 0.11205321799999979,
-      "change_pct": 1.5965607811254394
+      "year": 2025,
+      "value": 7.24035858773747,
+      "previous_year": 2024,
+      "previous_value": 7.13046550288085,
+      "change_abs": 0.10989308485661997,
+      "change_pct": 1.5411768672356803
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 40-44, female (% of female population)",
       "indicator_code": "SP.POP.4044.FE.5Y",
-      "year": 2024,
-      "value": 5.971918555,
-      "previous_year": 2023,
-      "previous_value": 5.876823291,
-      "change_abs": 0.09509526400000023,
-      "change_pct": 1.6181406057526504
+      "year": 2025,
+      "value": 6.07460259248138,
+      "previous_year": 2024,
+      "previous_value": 5.97191855462763,
+      "change_abs": 0.10268403785375035,
+      "change_pct": 1.7194480620332753
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 40-44, male (% of male population)",
       "indicator_code": "SP.POP.4044.MA.5Y",
-      "year": 2024,
-      "value": 5.970193066,
-      "previous_year": 2023,
-      "previous_value": 5.879064938,
-      "change_abs": 0.09112812800000025,
-      "change_pct": 1.5500445897609212
+      "year": 2025,
+      "value": 6.07070517595963,
+      "previous_year": 2024,
+      "previous_value": 5.97019306631217,
+      "change_abs": 0.10051210964746016,
+      "change_pct": 1.6835654815690442
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 45-49, female (% of female population)",
       "indicator_code": "SP.POP.4549.FE.5Y",
-      "year": 2024,
-      "value": 5.02455693,
-      "previous_year": 2023,
-      "previous_value": 4.93684233,
-      "change_abs": 0.08771459999999998,
-      "change_pct": 1.7767348871358422
+      "year": 2025,
+      "value": 5.1116818858809,
+      "previous_year": 2024,
+      "previous_value": 5.0245569302265,
+      "change_abs": 0.08712495565440026,
+      "change_pct": 1.733982853896588
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 45-49, male (% of male population)",
       "indicator_code": "SP.POP.4549.MA.5Y",
-      "year": 2024,
-      "value": 4.979009008,
-      "previous_year": 2023,
-      "previous_value": 4.892427227,
-      "change_abs": 0.08658178100000047,
-      "change_pct": 1.7697101455526765
+      "year": 2025,
+      "value": 5.06482973570072,
+      "previous_year": 2024,
+      "previous_value": 4.97900900820482,
+      "change_abs": 0.08582072749589997,
+      "change_pct": 1.7236507777848469
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 50-54, female (% of female population)",
       "indicator_code": "SP.POP.5054.FE.5Y",
-      "year": 2024,
-      "value": 4.137618688,
-      "previous_year": 2023,
-      "previous_value": 4.061848148,
-      "change_abs": 0.07577053999999972,
-      "change_pct": 1.8654203022658078
+      "year": 2025,
+      "value": 4.22074593286973,
+      "previous_year": 2024,
+      "previous_value": 4.13761868818626,
+      "change_abs": 0.0831272446834701,
+      "change_pct": 2.0090600644475827
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 50-54, male (% of male population)",
       "indicator_code": "SP.POP.5054.MA.5Y",
-      "year": 2024,
-      "value": 4.019900243,
-      "previous_year": 2023,
-      "previous_value": 3.943634984,
-      "change_abs": 0.07626525900000036,
-      "change_pct": 1.9338823017196451
+      "year": 2025,
+      "value": 4.10422314835659,
+      "previous_year": 2024,
+      "previous_value": 4.01990024300661,
+      "change_abs": 0.0843229053499801,
+      "change_pct": 2.097636763416605
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 55-59, female (% of female population)",
       "indicator_code": "SP.POP.5559.FE.5Y",
-      "year": 2024,
-      "value": 3.416195282,
-      "previous_year": 2023,
-      "previous_value": 3.371041323,
-      "change_abs": 0.045153958999999855,
-      "change_pct": 1.339466196748246
+      "year": 2025,
+      "value": 3.46136660362739,
+      "previous_year": 2024,
+      "previous_value": 3.41619528245304,
+      "change_abs": 0.04517132117434963,
+      "change_pct": 1.3222698774384414
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 55-59, male (% of male population)",
       "indicator_code": "SP.POP.5559.MA.5Y",
-      "year": 2024,
-      "value": 3.214181245,
-      "previous_year": 2023,
-      "previous_value": 3.168657669,
-      "change_abs": 0.0455235759999999,
-      "change_pct": 1.4366833137379191
+      "year": 2025,
+      "value": 3.26024903048994,
+      "previous_year": 2024,
+      "previous_value": 3.21418124488873,
+      "change_abs": 0.04606778560120972,
+      "change_pct": 1.4332665799250692
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 60-64, female (% of female population)",
       "indicator_code": "SP.POP.6064.FE.5Y",
-      "year": 2024,
-      "value": 2.768529263,
-      "previous_year": 2023,
-      "previous_value": 2.726338775,
-      "change_abs": 0.04219048800000014,
-      "change_pct": 1.547514505052665
+      "year": 2025,
+      "value": 2.81244033465931,
+      "previous_year": 2024,
+      "previous_value": 2.76852926275739,
+      "change_abs": 0.04391107190192001,
+      "change_pct": 1.5860793849144874
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 60-64, male (% of male population)",
       "indicator_code": "SP.POP.6064.MA.5Y",
-      "year": 2024,
-      "value": 2.482517807,
-      "previous_year": 2023,
-      "previous_value": 2.44131479,
-      "change_abs": 0.04120301699999995,
-      "change_pct": 1.6877388024180182
+      "year": 2025,
+      "value": 2.52558760134436,
+      "previous_year": 2024,
+      "previous_value": 2.48251780663705,
+      "change_abs": 0.04306979470730976,
+      "change_pct": 1.7349238983165396
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65-69, female (% of female population)",
       "indicator_code": "SP.POP.6569.FE.5Y",
-      "year": 2024,
-      "value": 2.156358933,
-      "previous_year": 2023,
-      "previous_value": 2.123792113,
-      "change_abs": 0.032566819999999996,
-      "change_pct": 1.5334278623907855
+      "year": 2025,
+      "value": 2.186503656317,
+      "previous_year": 2024,
+      "previous_value": 2.15635893254659,
+      "change_abs": 0.030144723770409776,
+      "change_pct": 1.3979455514305235
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65-69, male (% of male population)",
       "indicator_code": "SP.POP.6569.MA.5Y",
-      "year": 2024,
-      "value": 1.805297393,
-      "previous_year": 2023,
-      "previous_value": 1.773608248,
-      "change_abs": 0.031689145000000085,
-      "change_pct": 1.7867048732849649
+      "year": 2025,
+      "value": 1.83494675623746,
+      "previous_year": 2024,
+      "previous_value": 1.80529739298336,
+      "change_abs": 0.029649363254099947,
+      "change_pct": 1.6423534077730335
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above, female",
       "indicator_code": "SP.POP.65UP.FE.IN",
-      "year": 2024,
-      "value": 317164,
-      "previous_year": 2023,
-      "previous_value": 307537,
-      "change_abs": 9627,
-      "change_pct": 3.130355046709827
+      "year": 2025,
+      "value": 326796,
+      "previous_year": 2024,
+      "previous_value": 317164,
+      "change_abs": 9632,
+      "change_pct": 3.0369146561400413
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above, female (% of female population)",
       "indicator_code": "SP.POP.65UP.FE.ZS",
-      "year": 2024,
-      "value": 5.333004551,
-      "previous_year": 2023,
-      "previous_value": 5.233958787,
-      "change_abs": 0.09904576400000042,
-      "change_pct": 1.8923680531457043
+      "year": 2025,
+      "value": 5.43037062011741,
+      "previous_year": 2024,
+      "previous_value": 5.33300455121661,
+      "change_abs": 0.0973660689007998,
+      "change_pct": 1.8257263417970986
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above, male",
       "indicator_code": "SP.POP.65UP.MA.IN",
-      "year": 2024,
-      "value": 236760,
-      "previous_year": 2023,
-      "previous_value": 229896,
-      "change_abs": 6864,
-      "change_pct": 2.985697880780875
+      "year": 2025,
+      "value": 243710,
+      "previous_year": 2024,
+      "previous_value": 236760,
+      "change_abs": 6950,
+      "change_pct": 2.935462071295827
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above, male (% of male population)",
       "indicator_code": "SP.POP.65UP.MA.ZS",
-      "year": 2024,
-      "value": 4.064300963,
-      "previous_year": 2023,
-      "previous_value": 3.99014126,
-      "change_abs": 0.07415970299999985,
-      "change_pct": 1.8585733729136158
+      "year": 2025,
+      "value": 4.13899635276214,
+      "previous_year": 2024,
+      "previous_value": 4.06430096289394,
+      "change_abs": 0.07469538986820012,
+      "change_pct": 1.8378410100568465
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above (% of total population)",
       "indicator_code": "SP.POP.65UP.TO.ZS",
-      "year": 2024,
-      "value": 4.705218246,
-      "previous_year": 2023,
-      "previous_value": 4.618154135,
-      "change_abs": 0.08706411100000011,
-      "change_pct": 1.8852577990015509
+      "year": 2025,
+      "value": 4.79172202171568,
+      "previous_year": 2024,
+      "previous_value": 4.70521824612954,
+      "change_abs": 0.08650377558613975,
+      "change_pct": 1.838464680300362
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 65 and above, total",
       "indicator_code": "SP.POP.65UP.TO",
-      "year": 2024,
-      "value": 553925,
-      "previous_year": 2023,
-      "previous_value": 537433,
-      "change_abs": 16492,
-      "change_pct": 3.0686615820018495
+      "year": 2025,
+      "value": 570507,
+      "previous_year": 2024,
+      "previous_value": 553925,
+      "change_abs": 16582,
+      "change_pct": 2.9935460576792887
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 70-74, female (% of female population)",
       "indicator_code": "SP.POP.7074.FE.5Y",
-      "year": 2024,
-      "value": 1.533805567,
-      "previous_year": 2023,
-      "previous_value": 1.503537257,
-      "change_abs": 0.030268309999999854,
-      "change_pct": 2.0131400042852317
+      "year": 2025,
+      "value": 1.56423102187276,
+      "previous_year": 2024,
+      "previous_value": 1.53380556668591,
+      "change_abs": 0.030425455186849915,
+      "change_pct": 1.9836578930007485
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 70-74, male (% of male population)",
       "indicator_code": "SP.POP.7074.MA.5Y",
-      "year": 2024,
-      "value": 1.170349074,
-      "previous_year": 2023,
-      "previous_value": 1.143200451,
-      "change_abs": 0.027148622999999983,
-      "change_pct": 2.3747911380066435
+      "year": 2025,
+      "value": 1.19796448955271,
+      "previous_year": 2024,
+      "previous_value": 1.17034907394501,
+      "change_abs": 0.027615415607699978,
+      "change_pct": 2.359587940255637
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 75-79, female (% of female population)",
       "indicator_code": "SP.POP.7579.FE.5Y",
-      "year": 2024,
-      "value": 0.948900163,
-      "previous_year": 2023,
-      "previous_value": 0.930441851,
-      "change_abs": 0.018458312000000032,
-      "change_pct": 1.9838222001903514
+      "year": 2025,
+      "value": 0.967681471121102,
+      "previous_year": 2024,
+      "previous_value": 0.948900163286897,
+      "change_abs": 0.018781307834205063,
+      "change_pct": 1.97927121955048
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 75-79, male (% of male population)",
       "indicator_code": "SP.POP.7579.MA.5Y",
-      "year": 2024,
-      "value": 0.663495931,
-      "previous_year": 2023,
-      "previous_value": 0.658715965,
-      "change_abs": 0.00477996600000008,
-      "change_pct": 0.7256490284093965
+      "year": 2025,
+      "value": 0.669912788463686,
+      "previous_year": 2024,
+      "previous_value": 0.663495930549137,
+      "change_abs": 0.006416857914548935,
+      "change_pct": 0.967128450846424
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 80 and above, female (% of female population)",
       "indicator_code": "SP.POP.80UP.FE.5Y",
-      "year": 2024,
-      "value": 0.693939889,
-      "previous_year": 2023,
-      "previous_value": 0.676187566,
-      "change_abs": 0.01775232300000007,
-      "change_pct": 2.6253548412630927
+      "year": 2025,
+      "value": 0.711954470806543,
+      "previous_year": 2024,
+      "previous_value": 0.693939888697221,
+      "change_abs": 0.01801458210932194,
+      "change_pct": 2.5959859640208753
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population ages 80 and above, male (% of male population)",
       "indicator_code": "SP.POP.80UP.MA.5Y",
-      "year": 2024,
-      "value": 0.425158565,
-      "previous_year": 2023,
-      "previous_value": 0.414616595,
-      "change_abs": 0.010541970000000012,
-      "change_pct": 2.5425827444268148
+      "year": 2025,
+      "value": 0.436172318508286,
+      "previous_year": 2024,
+      "previous_value": 0.425158565416431,
+      "change_abs": 0.011013753091855039,
+      "change_pct": 2.590504811085571
     },
     {
       "country_name": "Haiti",
@@ -10667,33 +10667,33 @@
       "year": 2023,
       "value": 422.2568215,
       "previous_year": 2022,
-      "previous_value": 417.4022496,
-      "change_abs": 4.854571899999996,
-      "change_pct": 1.1630440192050169
+      "previous_value": 417.402249637155,
+      "change_abs": 4.854571862844978,
+      "change_pct": 1.1630440101999988
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population, female",
       "indicator_code": "SP.POP.TOTL.FE.IN",
-      "year": 2024,
-      "value": 5947201,
-      "previous_year": 2023,
-      "previous_value": 5875810,
-      "change_abs": 71391,
-      "change_pct": 1.2149984427678906
+      "year": 2025,
+      "value": 6017941,
+      "previous_year": 2024,
+      "previous_value": 5947201,
+      "change_abs": 70740,
+      "change_pct": 1.1894671123441094
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population, female (% of total population)",
       "indicator_code": "SP.POP.TOTL.FE.ZS",
-      "year": 2024,
-      "value": 50.5174959,
-      "previous_year": 2023,
-      "previous_value": 50.49075403,
-      "change_abs": 0.026741870000002166,
-      "change_pct": 0.05296389510070101
+      "year": 2025,
+      "value": 50.5450443659319,
+      "previous_year": 2024,
+      "previous_value": 50.5174959016975,
+      "change_abs": 0.027548464234399717,
+      "change_pct": 0.05453252134271768
     },
     {
       "country_name": "Haiti",
@@ -10701,11 +10701,11 @@
       "indicator_name": "Population growth (annual %)",
       "indicator_code": "SP.POP.GROW",
       "year": 2024,
-      "value": 1.154726712,
+      "value": 1.15472671204546,
       "previous_year": 2023,
-      "previous_value": 1.156332636,
-      "change_abs": -0.0016059239999999253,
-      "change_pct": -0.13888079865627226
+      "previous_value": 1.15633263604117,
+      "change_abs": -0.0016059239957100235,
+      "change_pct": -0.1388807982803355
     },
     {
       "country_name": "Haiti",
@@ -10725,11 +10725,11 @@
       "indicator_name": "Population in the largest city (% of urban population)",
       "indicator_code": "EN.URB.LCTY.UR.ZS",
       "year": 2025,
-      "value": 47.31627482,
+      "value": 47.3162748179772,
       "previous_year": 2024,
-      "previous_value": 47.22998327,
-      "change_abs": 0.08629154999999855,
-      "change_pct": 0.1827050191965875
+      "previous_value": 47.229983271323,
+      "change_abs": 0.08629154665420202,
+      "change_pct": 0.18270501210741766
     },
     {
       "country_name": "Haiti",
@@ -10749,11 +10749,11 @@
       "indicator_name": "Population in urban agglomerations of more than 1 million (% of total population)",
       "indicator_code": "EN.URB.MCTY.TL.ZS",
       "year": 2025,
-      "value": 26.31489166,
+      "value": 26.3148916584321,
       "previous_year": 2024,
-      "previous_value": 25.99408947,
-      "change_abs": 0.320802190000002,
-      "change_pct": 1.2341351304889618
+      "previous_value": 25.9940894743597,
+      "change_abs": 0.3208021840723987,
+      "change_pct": 1.234135107478316
     },
     {
       "country_name": "Haiti",
@@ -10784,36 +10784,36 @@
       "country_code": "HTI",
       "indicator_name": "Population, male",
       "indicator_code": "SP.POP.TOTL.MA.IN",
-      "year": 2024,
-      "value": 5825356,
-      "previous_year": 2023,
-      "previous_value": 5761588,
-      "change_abs": 63768,
-      "change_pct": 1.1067782007321594
+      "year": 2025,
+      "value": 5888154,
+      "previous_year": 2024,
+      "previous_value": 5825356,
+      "change_abs": 62798,
+      "change_pct": 1.0780113696055658
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population, male (% of total population)",
       "indicator_code": "SP.POP.TOTL.MA.ZS",
-      "year": 2024,
-      "value": 49.4825041,
-      "previous_year": 2023,
-      "previous_value": 49.50924597,
-      "change_abs": -0.026741870000002166,
-      "change_pct": -0.054013890690652676
+      "year": 2025,
+      "value": 49.4549556340681,
+      "previous_year": 2024,
+      "previous_value": 49.4825040983025,
+      "change_abs": -0.027548464234399717,
+      "change_pct": -0.05567314091395138
     },
     {
       "country_name": "Haiti",
       "country_code": "HTI",
       "indicator_name": "Population, total",
       "indicator_code": "SP.POP.TOTL",
-      "year": 2024,
-      "value": 11772557,
-      "previous_year": 2023,
-      "previous_value": 11637398,
-      "change_abs": 135159,
-      "change_pct": 1.16141941695214
+      "year": 2025,
+      "value": 11906095,
+      "previous_year": 2024,
+      "previous_value": 11772557,
+      "change_abs": 133538,
+      "change_pct": 1.134316019875716
     },
     {
       "country_name": "Haiti",
@@ -12035,9 +12035,9 @@
       "year": 2022,
       "value": 1130.688934,
       "previous_year": 2021,
-      "previous_value": 1143.514146,
-      "change_abs": -12.825211999999965,
-      "change_pct": -1.121561289369477
+      "previous_value": 1143.51414636102,
+      "change_abs": -12.825212361020021,
+      "change_pct": -1.1215613205864932
     },
     {
       "country_name": "Haiti",
@@ -12164,12 +12164,12 @@
       "country_code": "HTI",
       "indicator_name": "Rural population",
       "indicator_code": "SP.RUR.TOTL",
-      "year": 2024,
-      "value": 5293264,
-      "previous_year": 2023,
-      "previous_value": 5300872,
-      "change_abs": -7608,
-      "change_pct": -0.14352355612435086
+      "year": 2025,
+      "value": 5284534,
+      "previous_year": 2024,
+      "previous_value": 5293264,
+      "change_abs": -8730,
+      "change_pct": -0.16492659349694253
     },
     {
       "country_name": "Haiti",
@@ -12177,11 +12177,11 @@
       "indicator_name": "Rural population growth (annual %)",
       "indicator_code": "SP.RUR.TOTL.ZG",
       "year": 2024,
-      "value": -0.14362665,
+      "value": -0.143626649834473,
       "previous_year": 2023,
-      "previous_value": -0.146189775,
-      "change_abs": 0.0025631249999999994,
-      "change_pct": -1.7532860967875485
+      "previous_value": -0.146189775429166,
+      "change_abs": 0.0025631255946929887,
+      "change_pct": -1.7532864984356664
     },
     {
       "country_name": "Haiti",
@@ -12200,12 +12200,12 @@
       "country_code": "HTI",
       "indicator_name": "Rural population (% of total population)",
       "indicator_code": "SP.RUR.TOTL.ZS",
-      "year": 2024,
-      "value": 44.96273475,
-      "previous_year": 2023,
-      "previous_value": 45.55031807,
-      "change_abs": -0.5875833200000002,
-      "change_pct": -1.289965350180485
+      "year": 2025,
+      "value": 44.3851144140058,
+      "previous_year": 2024,
+      "previous_value": 44.9627347518998,
+      "change_abs": -0.5776203378940039,
+      "change_pct": -1.2846646029901412
     },
     {
       "country_name": "Haiti",
@@ -13256,12 +13256,12 @@
       "country_code": "HTI",
       "indicator_name": "Total fisheries production (metric tons)",
       "indicator_code": "ER.FSH.PROD.MT",
-      "year": 2023,
-      "value": 18075,
-      "previous_year": 2022,
-      "previous_value": 18395,
-      "change_abs": -320,
-      "change_pct": -1.7396031530307148
+      "year": 2024,
+      "value": 16743,
+      "previous_year": 2023,
+      "previous_value": 16713,
+      "change_abs": 30,
+      "change_pct": 0.1795009872554299
     },
     {
       "country_name": "Haiti",
@@ -13328,12 +13328,12 @@
       "country_code": "HTI",
       "indicator_name": "Total reserves (includes gold, current US$)",
       "indicator_code": "FI.RES.TOTL.CD",
-      "year": 2024,
-      "value": 2714226654,
-      "previous_year": 2023,
-      "previous_value": 2583016533,
-      "change_abs": 131210121,
-      "change_pct": 5.079724396793089
+      "year": 2025,
+      "value": 3393059214.4675,
+      "previous_year": 2024,
+      "previous_value": 2714226653.6402,
+      "change_abs": 678832560.8273001,
+      "change_pct": 25.010164862867292
     },
     {
       "country_name": "Haiti",
@@ -13352,12 +13352,12 @@
       "country_code": "HTI",
       "indicator_name": "Total reserves minus gold (current US$)",
       "indicator_code": "FI.RES.XGLD.CD",
-      "year": 2024,
-      "value": 2562343063,
-      "previous_year": 2023,
-      "previous_value": 2462958000,
-      "change_abs": 99385063,
-      "change_pct": 4.035191140084403
+      "year": 2025,
+      "value": 3138796385.7115,
+      "previous_year": 2024,
+      "previous_value": 2562343063.1582,
+      "change_abs": 576453322.5533004,
+      "change_pct": 22.497117222187903
     },
     {
       "country_name": "Haiti",
@@ -13904,12 +13904,12 @@
       "country_code": "HTI",
       "indicator_name": "Urban population",
       "indicator_code": "SP.URB.TOTL",
-      "year": 2024,
-      "value": 6479293,
-      "previous_year": 2023,
-      "previous_value": 6336526,
-      "change_abs": 142767,
-      "change_pct": 2.2530799999873747
+      "year": 2025,
+      "value": 6621561,
+      "previous_year": 2024,
+      "previous_value": 6479293,
+      "change_abs": 142268,
+      "change_pct": 2.195733392516745
     },
     {
       "country_name": "Haiti",
@@ -13917,11 +13917,11 @@
       "indicator_name": "Urban population growth (annual %)",
       "indicator_code": "SP.URB.GROW",
       "year": 2024,
-      "value": 2.228073073,
+      "value": 2.22807307304193,
       "previous_year": 2023,
-      "previous_value": 2.25915435,
-      "change_abs": -0.031081277000000185,
-      "change_pct": -1.3757925393632435
+      "previous_value": 2.25915434982639,
+      "change_abs": -0.031081276784460155,
+      "change_pct": -1.3757925299282303
     },
     {
       "country_name": "Haiti",
@@ -13940,12 +13940,12 @@
       "country_code": "HTI",
       "indicator_name": "Urban population (% of total population)",
       "indicator_code": "SP.URB.TOTL.IN.ZS",
-      "year": 2024,
-      "value": 55.03726525,
-      "previous_year": 2023,
-      "previous_value": 54.44968193,
-      "change_abs": 0.5875833200000002,
-      "change_pct": 1.0791308583866328
+      "year": 2025,
+      "value": 55.6148855859942,
+      "previous_year": 2024,
+      "previous_value": 55.0372652481002,
+      "change_abs": 0.5776203378940039,
+      "change_pct": 1.0495077022634995
     },
     {
       "country_name": "Haiti",

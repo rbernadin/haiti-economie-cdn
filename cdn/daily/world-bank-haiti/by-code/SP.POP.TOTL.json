@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:19:19.303Z",
-  "cdn_generated_at": "2026-08-02T14:19:19.303Z",
+  "generated_at": "2026-08-08T13:35:13.423Z",
+  "cdn_generated_at": "2026-08-08T13:35:13.423Z",
   "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
@@ -18,14 +18,14 @@
     "country_code": "HTI",
     "indicator_name": "Population, total",
     "indicator_code": "SP.POP.TOTL",
-    "year": 2024,
-    "value": 11772557,
-    "previous_year": 2023,
-    "previous_value": 11637398,
-    "change_abs": 135159,
-    "change_pct": 1.16141941695214
+    "year": 2025,
+    "value": 11906095,
+    "previous_year": 2024,
+    "previous_value": 11772557,
+    "change_abs": 133538,
+    "change_pct": 1.134316019875716
   },
-  "count": 65,
+  "count": 66,
   "history": [
     {
       "country_name": "Haiti",
@@ -546,6 +546,14 @@
       "indicator_code": "SP.POP.TOTL",
       "year": 2024,
       "value": 11772557
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Population, total",
+      "indicator_code": "SP.POP.TOTL",
+      "year": 2025,
+      "value": 11906095
     }
   ]
 }

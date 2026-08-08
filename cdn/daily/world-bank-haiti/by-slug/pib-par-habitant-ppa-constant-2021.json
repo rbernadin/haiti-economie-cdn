@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:19:18.794Z",
-  "cdn_generated_at": "2026-08-02T14:19:18.794Z",
+  "generated_at": "2026-08-08T13:35:13.154Z",
+  "cdn_generated_at": "2026-08-08T13:35:13.154Z",
   "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
@@ -33,7 +33,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1990,
-      "value": 3959.025261
+      "value": 3923.2219575616
     },
     {
       "country_name": "Haiti",
@@ -41,7 +41,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1991,
-      "value": 3952.172727
+      "value": 3916.43139455701
     },
     {
       "country_name": "Haiti",
@@ -49,7 +49,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1992,
-      "value": 3668.313187
+      "value": 3635.13892826929
     },
     {
       "country_name": "Haiti",
@@ -57,7 +57,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1993,
-      "value": 3401.759018
+      "value": 3370.99533205147
     },
     {
       "country_name": "Haiti",
@@ -65,7 +65,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1994,
-      "value": 2938.070085
+      "value": 2911.49975345891
     },
     {
       "country_name": "Haiti",
@@ -73,7 +73,7 @@
       "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
       "indicator_code": "NY.GDP.PCAP.PP.KD",
       "year": 1995,
-      "value": 3167.913076
+      "value": 3139.26416790518
     },
     {
       "country_name": "Haiti",

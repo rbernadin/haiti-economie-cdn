@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T14:19:19.550Z",
-  "cdn_generated_at": "2026-08-02T14:19:19.550Z",
+  "generated_at": "2026-08-08T13:35:13.570Z",
+  "cdn_generated_at": "2026-08-08T13:35:13.570Z",
   "available": true,
   "country_code": "HTI",
   "country_name": "Haiti",
@@ -18,14 +18,14 @@
     "country_code": "HTI",
     "indicator_name": "Domestic credit to private sector (% of GDP)",
     "indicator_code": "FS.AST.PRVT.GD.ZS",
-    "year": 2024,
-    "value": 4.114252058,
-    "previous_year": 2023,
-    "previous_value": 5.168111916,
-    "change_abs": -1.053859858,
-    "change_pct": -20.391583524678456
+    "year": 2025,
+    "value": 3.2083317013116,
+    "previous_year": 2024,
+    "previous_value": 4.28122614544525,
+    "change_abs": -1.0728944441336496,
+    "change_pct": -25.0604478176209
   },
-  "count": 65,
+  "count": 66,
   "history": [
     {
       "country_name": "Haiti",
@@ -33,7 +33,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1960,
-      "value": 3.675135585
+      "value": 3.67513558468332
     },
     {
       "country_name": "Haiti",
@@ -41,7 +41,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1961,
-      "value": 4.131835051
+      "value": 4.13183505124213
     },
     {
       "country_name": "Haiti",
@@ -49,7 +49,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1962,
-      "value": 4.0936967
+      "value": 4.09369670035275
     },
     {
       "country_name": "Haiti",
@@ -57,7 +57,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1963,
-      "value": 4.293222338
+      "value": 4.29322233804955
     },
     {
       "country_name": "Haiti",
@@ -65,7 +65,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1964,
-      "value": 4.051878805
+      "value": 4.05187880516919
     },
     {
       "country_name": "Haiti",
@@ -73,7 +73,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1965,
-      "value": 4.041989312
+      "value": 4.04198931187329
     },
     {
       "country_name": "Haiti",
@@ -81,7 +81,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1966,
-      "value": 4.010097884
+      "value": 4.01009788355343
     },
     {
       "country_name": "Haiti",
@@ -89,7 +89,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1967,
-      "value": 4.538851693
+      "value": 4.53885169273648
     },
     {
       "country_name": "Haiti",
@@ -97,7 +97,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1968,
-      "value": 4.372109809
+      "value": 4.37210980930992
     },
     {
       "country_name": "Haiti",
@@ -105,7 +105,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1969,
-      "value": 4.581180561
+      "value": 4.58118056129798
     },
     {
       "country_name": "Haiti",
@@ -113,7 +113,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1970,
-      "value": 5.955676329
+      "value": 5.95567632850242
     },
     {
       "country_name": "Haiti",
@@ -121,7 +121,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1971,
-      "value": 6.034564498
+      "value": 6.0345644983462
     },
     {
       "country_name": "Haiti",
@@ -129,7 +129,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1972,
-      "value": 7.900430108
+      "value": 7.90043010752688
     },
     {
       "country_name": "Haiti",
@@ -137,7 +137,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1973,
-      "value": 10.87266495
+      "value": 10.8726649528706
     },
     {
       "country_name": "Haiti",
@@ -145,7 +145,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1974,
-      "value": 13.91390166
+      "value": 13.9139016625398
     },
     {
       "country_name": "Haiti",
@@ -153,7 +153,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1975,
-      "value": 15.01628999
+      "value": 15.0162899911946
     },
     {
       "country_name": "Haiti",
@@ -161,7 +161,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1976,
-      "value": 14.47667804
+      "value": 14.4766780432309
     },
     {
       "country_name": "Haiti",
@@ -169,7 +169,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1977,
-      "value": 16.14665259
+      "value": 16.1466525871172
     },
     {
       "country_name": "Haiti",
@@ -177,7 +177,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1978,
-      "value": 20.80876617
+      "value": 20.8087661671115
     },
     {
       "country_name": "Haiti",
@@ -185,7 +185,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1979,
-      "value": 19.269665
+      "value": 19.2696650009254
     },
     {
       "country_name": "Haiti",
@@ -193,7 +193,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1980,
-      "value": 16.53737534
+      "value": 16.5373753432577
     },
     {
       "country_name": "Haiti",
@@ -201,7 +201,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1981,
-      "value": 17.66750034
+      "value": 17.6675003379749
     },
     {
       "country_name": "Haiti",
@@ -209,7 +209,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1982,
-      "value": 17.65664089
+      "value": 17.6566408899742
     },
     {
       "country_name": "Haiti",
@@ -217,7 +217,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1983,
-      "value": 14.81080315
+      "value": 14.8108031534861
     },
     {
       "country_name": "Haiti",
@@ -225,7 +225,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1984,
-      "value": 14.36676577
+      "value": 14.3667657746944
     },
     {
       "country_name": "Haiti",
@@ -233,7 +233,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1985,
-      "value": 13.60697721
+      "value": 13.6069772071265
     },
     {
       "country_name": "Haiti",
@@ -241,7 +241,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1986,
-      "value": 11.56019845
+      "value": 11.560198446937
     },
     {
       "country_name": "Haiti",
@@ -249,7 +249,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1987,
-      "value": 12.65298945
+      "value": 12.6529894490035
     },
     {
       "country_name": "Haiti",
@@ -257,7 +257,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1988,
-      "value": 11.79605336
+      "value": 11.7960533554344
     },
     {
       "country_name": "Haiti",
@@ -265,7 +265,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1989,
-      "value": 13.35035277
+      "value": 13.3503527719277
     },
     {
       "country_name": "Haiti",
@@ -273,7 +273,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1990,
-      "value": 11.63069426
+      "value": 11.6306942586576
     },
     {
       "country_name": "Haiti",
@@ -281,7 +281,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1991,
-      "value": 10.30148808
+      "value": 10.3014880787741
     },
     {
       "country_name": "Haiti",
@@ -289,7 +289,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1992,
-      "value": 10.14785466
+      "value": 10.1478546579049
     },
     {
       "country_name": "Haiti",
@@ -297,7 +297,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1993,
-      "value": 10.86391503
+      "value": 10.8639150332441
     },
     {
       "country_name": "Haiti",
@@ -305,7 +305,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1994,
-      "value": 10.17929222
+      "value": 10.1792922181545
     },
     {
       "country_name": "Haiti",
@@ -313,7 +313,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1995,
-      "value": 12.45413214
+      "value": 12.4541321384602
     },
     {
       "country_name": "Haiti",
@@ -321,7 +321,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1996,
-      "value": 12.79007074
+      "value": 12.7900707440993
     },
     {
       "country_name": "Haiti",
@@ -329,7 +329,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1997,
-      "value": 15.68876625
+      "value": 15.6887662481946
     },
     {
       "country_name": "Haiti",
@@ -337,7 +337,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1998,
-      "value": 14.13565725
+      "value": 14.13565725352
     },
     {
       "country_name": "Haiti",
@@ -345,7 +345,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 1999,
-      "value": 14.46242816
+      "value": 14.4624281629942
     },
     {
       "country_name": "Haiti",
@@ -353,7 +353,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2000,
-      "value": 9.017971344
+      "value": 9.01797134417478
     },
     {
       "country_name": "Haiti",
@@ -361,7 +361,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2001,
-      "value": 8.343350618
+      "value": 8.34335061835139
     },
     {
       "country_name": "Haiti",
@@ -369,7 +369,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2002,
-      "value": 9.826980465
+      "value": 9.82698046540635
     },
     {
       "country_name": "Haiti",
@@ -377,7 +377,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2003,
-      "value": 9.673964256
+      "value": 9.67396425603749
     },
     {
       "country_name": "Haiti",
@@ -385,7 +385,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2004,
-      "value": 8.281373807
+      "value": 8.28137380723943
     },
     {
       "country_name": "Haiti",
@@ -393,7 +393,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2005,
-      "value": 8.862702922
+      "value": 8.86270292207163
     },
     {
       "country_name": "Haiti",
@@ -401,7 +401,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2006,
-      "value": 8.470203521
+      "value": 8.47020352088079
     },
     {
       "country_name": "Haiti",
@@ -409,7 +409,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2007,
-      "value": 8.062165111
+      "value": 8.0621651109807
     },
     {
       "country_name": "Haiti",
@@ -417,7 +417,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2008,
-      "value": 8.682092027
+      "value": 8.68209202650164
     },
     {
       "country_name": "Haiti",
@@ -425,7 +425,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2009,
-      "value": 8.211085237
+      "value": 8.21108523727506
     },
     {
       "country_name": "Haiti",
@@ -433,7 +433,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2010,
-      "value": 7.797039675
+      "value": 7.79703967463653
     },
     {
       "country_name": "Haiti",
@@ -441,7 +441,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2011,
-      "value": 8.518780035
+      "value": 8.51878003547406
     },
     {
       "country_name": "Haiti",
@@ -449,7 +449,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2012,
-      "value": 10.81496405
+      "value": 10.814964045335
     },
     {
       "country_name": "Haiti",
@@ -457,7 +457,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2013,
-      "value": 10.76152761
+      "value": 10.7615276089025
     },
     {
       "country_name": "Haiti",
@@ -465,7 +465,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2014,
-      "value": 11.41523155
+      "value": 11.4152315549394
     },
     {
       "country_name": "Haiti",
@@ -473,7 +473,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2015,
-      "value": 10.76792677
+      "value": 10.7679267730686
     },
     {
       "country_name": "Haiti",
@@ -481,7 +481,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2016,
-      "value": 10.45527571
+      "value": 10.4552757071217
     },
     {
       "country_name": "Haiti",
@@ -489,7 +489,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2017,
-      "value": 9.826318973
+      "value": 9.82631897315958
     },
     {
       "country_name": "Haiti",
@@ -497,7 +497,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2018,
-      "value": 11.20633065
+      "value": 11.2063306533874
     },
     {
       "country_name": "Haiti",
@@ -505,7 +505,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2019,
-      "value": 10.36870087
+      "value": 10.3687008659048
     },
     {
       "country_name": "Haiti",
@@ -513,7 +513,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2020,
-      "value": 8.609335969
+      "value": 8.60933596942957
     },
     {
       "country_name": "Haiti",
@@ -521,7 +521,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2021,
-      "value": 8.312279013
+      "value": 8.38813682861213
     },
     {
       "country_name": "Haiti",
@@ -529,7 +529,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2022,
-      "value": 8.23905049
+      "value": 8.29662296755948
     },
     {
       "country_name": "Haiti",
@@ -537,7 +537,7 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2023,
-      "value": 5.168111916
+      "value": 5.241596890693
     },
     {
       "country_name": "Haiti",
@@ -545,7 +545,15 @@
       "indicator_name": "Domestic credit to private sector (% of GDP)",
       "indicator_code": "FS.AST.PRVT.GD.ZS",
       "year": 2024,
-      "value": 4.114252058
+      "value": 4.28122614544525
+    },
+    {
+      "country_name": "Haiti",
+      "country_code": "HTI",
+      "indicator_name": "Domestic credit to private sector (% of GDP)",
+      "indicator_code": "FS.AST.PRVT.GD.ZS",
+      "year": 2025,
+      "value": 3.2083317013116
     }
   ]
 }

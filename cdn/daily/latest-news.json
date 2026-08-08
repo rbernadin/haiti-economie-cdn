@@ -1,7 +1,133 @@
 {
-  "generated_at": "2026-08-02T14:43:09.739Z",
+  "generated_at": "2026-08-08T13:58:32.495Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11465,
+      "slug": "etats-unis-le-marche-du-travail-ralentit-un-signal-a-surveiller-pour-la-diaspora-haitienne",
+      "date": "2026-08-08T00:53:16",
+      "modified": "2026-08-08T01:09:27",
+      "title": {
+        "rendered": "États-Unis : le marché du travail ralentit, un signal à surveiller pour la diaspora haïtienne"
+      },
+      "excerpt": {
+        "rendered": "<p>L’emploi américain ralentit et les créations de postes ont été fortement révisées à la baisse. Pour Haïti, l’enjeu est de surveiller les effets possibles sur les revenus de la diaspora et, à terme, sur les transferts de fonds.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/emploi-etats-unis-juillet-2026-diaspora-haitienne.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11460,
+      "slug": "minerais-critiques-au-coeur-de-la-bataille-geopolitique-pour-les-technologies-de-demain",
+      "date": "2026-08-07T20:50:38",
+      "modified": "2026-08-07T20:51:44",
+      "title": {
+        "rendered": "Minerais critiques : au cœur de la bataille géopolitique pour les technologies de demain"
+      },
+      "excerpt": {
+        "rendered": "<p>Les minerais critiques sont devenus essentiels aux batteries, aux semi-conducteurs, à l’énergie et à la défense. Face à la domination chinoise sur plusieurs maillons de ces chaînes d’approvisionnement, les États-Unis cherchent à renforcer leur production, leurs capacités de transformation et leur main-d’œuvre spécialisée.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/minerais-critiques-mine-geopolitique.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11457,
+      "slug": "elections-en-haiti-19-nouveaux-centres-dinscription-et-de-vote-ouverts-dans-louest",
+      "date": "2026-08-07T17:48:57",
+      "modified": "2026-08-07T17:48:58",
+      "title": {
+        "rendered": "Élections en Haïti : 19 nouveaux centres d’inscription et de vote ouverts dans l’Ouest"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil électoral provisoire annonce l’ouverture de 19 nouveaux centres d’inscription et de vote à Delmas, Pétion-Ville et Port-au-Prince. Avec cette extension, 29 CIV doivent être opérationnels dans l’Ouest à partir du 7 août 2026.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/centres-d-inscription-et-de-vote-en-Haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11453,
+      "slug": "riz-les-prix-mondiaux-se-stabilisent-mais-les-ecarts-entre-fournisseurs-restent-importants-pour-haiti",
+      "date": "2026-08-07T11:36:39",
+      "modified": "2026-08-07T11:36:39",
+      "title": {
+        "rendered": "Riz : les prix mondiaux se stabilisent, mais les écarts entre fournisseurs restent importants pour Haïti"
+      },
+      "excerpt": {
+        "rendered": "<p>Les prix mondiaux du riz ont peu évolué en juillet 2026, mais les tendances diffèrent selon les fournisseurs. Pour Haïti, la baisse de certaines cotations internationales peut aider, sans garantir une diminution des prix payés par les consommateurs.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/prix-mondial-riz-fao-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11444,
+      "slug": "fin-du-tps-des-employeurs-americains-risquent-de-perdre-des-travailleurs-quhaiti-aurait-du-mal-a-reintegrer",
+      "date": "2026-08-06T10:40:53",
+      "modified": "2026-08-06T10:50:33",
+      "title": {
+        "rendered": "Fin du TPS : des employeurs américains risquent de perdre des travailleurs qu’Haïti aurait du mal à réintégrer"
+      },
+      "excerpt": {
+        "rendered": "<p>La fin du TPS pourrait retirer des travailleurs expérimentés du marché américain tout en forçant certains Haïtiens à revenir dans un pays offrant peu d’emplois et de sécurité. Leurs compétences pourraient servir à Haïti, mais seulement si les conditions de réintégration existent.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/fin-tps-haiti-retour-reintegration-economique.png",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11439,
+      "slug": "reserves-de-change-mondiales-le-dollar-recule-lentement-sans-perdre-sa-domination",
+      "date": "2026-08-04T20:44:05",
+      "modified": "2026-08-04T20:53:16",
+      "title": {
+        "rendered": "Réserves de change mondiales : le dollar recule lentement, sans perdre sa domination"
+      },
+      "excerpt": {
+        "rendered": "<p>Le dollar demeure la principale monnaie de réserve mondiale, mais sa part recule progressivement depuis le début des années 2000. Les banques centrales diversifient davantage leurs avoirs, sans qu’aucune autre monnaie ne soit encore en mesure de remplacer sa domination.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/composition-reserves-mondiales-de-change-devises-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11436,
+      "slug": "elections-en-haiti-voici-les-17-groupements-politiques-enregistres-aupres-du-cep",
+      "date": "2026-08-04T14:36:23",
+      "modified": "2026-08-04T14:36:25",
+      "title": {
+        "rendered": "Élections en Haïti : voici les 17 groupements politiques enregistrés auprès du CEP"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil électoral provisoire annonce avoir enregistré 17 groupements politiques dans le cadre des préparatifs des prochaines élections en Haïti. Ensemble, ces structures réunissent 227 des 316 partis politiques agréés dans le pays.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/elections-haiti-2026-groupements-politiques-cep.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11377,
       "slug": "la-reserve-federale-americaine-pourrait-reduire-le-nombre-de-ses-reunions-de-politique-monetaire",
@@ -87,132 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/fin-tps-haitiens-etats-unis-statue-liberte-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11322,
-      "slug": "nouveau-rapport-la-gourde-reste-stable-face-au-dollar-malgre-un-marche-plus-actif",
-      "date": "2026-07-26T18:50:15",
-      "modified": "2026-07-26T18:50:16",
-      "title": {
-        "rendered": "Nouveau rapport : la gourde reste stable face au dollar, malgré un marché plus actif"
-      },
-      "excerpt": {
-        "rendered": "<p>Entre avril et juin 2026, le taux de change officiel est resté relativement stable malgré une hausse des transactions. Le rapport analyse aussi le resserrement du spread bancaire et les achats nets de devises effectués par la BRH.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/rapport-taux-change-haiti-avril-juin-2026-couverture.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11318,
-      "slug": "haiti-la-stabilite-monetaire-resiste-mais-leconomie-continue-de-reculer",
-      "date": "2026-07-25T08:47:42",
-      "modified": "2026-07-25T08:47:43",
-      "title": {
-        "rendered": "Haïti : la stabilité monétaire résiste, mais l’économie continue de reculer"
-      },
-      "excerpt": {
-        "rendered": "<p>La BRH dresse un bilan contrasté de l’économie haïtienne : la stabilité monétaire résiste, mais l’insécurité, la faiblesse du crédit et les tensions budgétaires continuent de freiner la reprise.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/gouverneur-brh-conjoncture-economique-haiti-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11313,
-      "slug": "haiti-le-deficit-de-tresorerie-atteint-44-2-milliards-de-gourdes",
-      "date": "2026-07-24T23:22:20",
-      "modified": "2026-07-24T23:22:21",
-      "title": {
-        "rendered": "Haïti : le déficit de trésorerie atteint 44.2 milliards de gourdes"
-      },
-      "excerpt": {
-        "rendered": "<p>Au 30 juin 2026, les dépenses publiques progressent plus vite que les recettes. Le déficit de trésorerie atteint 44.2 milliards de gourdes, renforçant le recours du Trésor au financement de la BRH et des banques commerciales.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11308,
-      "slug": "haiti-le-tresor-sappuie-de-plus-en-plus-sur-la-brh-et-les-banques-commerciales",
-      "date": "2026-07-24T22:47:06",
-      "modified": "2026-07-24T22:47:07",
-      "title": {
-        "rendered": "Haïti : le Trésor s’appuie de plus en plus sur la BRH et les banques commerciales"
-      },
-      "excerpt": {
-        "rendered": "<p>Au 31 mai 2026, le Trésor affiche un déficit de trésorerie de 38.2 milliards de gourdes. La forte hausse du financement de la BRH et des banques commerciales soulève des risques pour l’inflation, le crédit et les finances publiques.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/financement-tresor-haiti-brh-banques-commerciales-mai-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11302,
-      "slug": "truth-social-veut-facturer-jusqua-100-000-dollars-par-mois-pour-un-acces-accelere-aux-publications-de-trump",
-      "date": "2026-07-19T01:54:25",
-      "modified": "2026-07-19T01:54:26",
-      "title": {
-        "rendered": "Truth Social veut facturer jusqu’à 100 000 dollars par mois pour un accès accéléré aux publications de Trump"
-      },
-      "excerpt": {
-        "rendered": "<p>Trump Media veut commercialiser un accès plus rapide aux publications de Donald Trump sur Truth Social. Le service, destiné aux acteurs financiers, pourrait coûter jusqu’à 100 000 dollars par mois.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/truth-social-acces-prioritaire-publications-trump-100000-dollars.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11299,
-      "slug": "elections-en-haiti-le-cep-lance-linscription-des-electeurs-dans-neuf-departements-sauf-louest",
-      "date": "2026-07-19T00:29:33",
-      "modified": "2026-07-19T00:50:55",
-      "title": {
-        "rendered": "Élections en Haïti : le CEP lance l’inscription des électeurs dans neuf départements, sauf l’Ouest"
-      },
-      "excerpt": {
-        "rendered": "<p>Le CEP ouvre les inscriptions électorales dans neuf départements à partir du 20 juillet. L’Ouest reste temporairement exclu en raison des contraintes actuelles.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11296,
-      "slug": "hope-help-haiti-presse-washington-pour-une-prolongation-durable-face-a-lerosion-des-emplois",
-      "date": "2026-07-18T23:21:50",
-      "modified": "2026-07-18T23:21:51",
-      "title": {
-        "rendered": "HOPE/HELP : Haïti presse Washington pour une prolongation durable face à l’érosion des emplois"
-      },
-      "excerpt": {
-        "rendered": "<p>Malgré leur maintien jusqu’à fin 2026, les avantages HOPE/HELP restent trop temporaires pour rassurer les entreprises. Haïti réclame une prolongation durable afin de préserver les emplois et relancer les commandes.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
