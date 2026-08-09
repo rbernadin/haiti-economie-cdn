@@ -1,0 +1,734 @@
+{
+  "schema": 1,
+  "dataset": "remittances_brh_annual",
+  "title": "Transferts de fonds vers Haïti — données annuelles",
+  "frequency": "annual",
+  "currency": "USD",
+  "generated_at": "2026-08-09T02:19:08.658Z",
+  "source": {
+    "institution": "BRH",
+    "api": "https://haiti-economie-api.onrender.com/api/remittances-standardized?count=all",
+    "source_frequency": "monthly",
+    "aggregation": "Calendar-year aggregation of monthly observations"
+  },
+  "methodology": {
+    "total_rec": "Sum of available monthly total_rec observations within each calendar year.",
+    "breakdown_rec": "Sum of available monthly received-remittance values by origin country.",
+    "departments_rec_yr": "Latest non-null yearly departmental value within each calendar year; not summed because the API fields are already identified as yearly (_yr).",
+    "nobre_transferts_rec": "Sum of available monthly transfer counts.",
+    "moyenne_rec": "Weighted annual average of monthly moyenne_rec using nobre_transferts_rec when available.",
+    "total_exp": "Sum of available monthly outgoing remittance totals.",
+    "partial_year": "A year with fewer than all 12 calendar months is marked partial."
+  },
+  "latest": {
+    "year": 2026,
+    "period": "2026",
+    "start_date": "2026-01-02",
+    "end_date": "2026-05-02",
+    "months_available": 5,
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "complete_year": false,
+    "status": "partial",
+    "total_rec": 2150661908.31,
+    "breakdown_rec": {
+      "usa": 1740638086.3600001,
+      "chili": 40742287.81,
+      "canada": 108223912.52,
+      "france": 104220868.69999999,
+      "bresil": 28131024.189999998,
+      "rep_dom": 58056973.56,
+      "uruguay": 14372189.65,
+      "bahamas": 12942546.540000001,
+      "turks_caicos": 9011400.690000001,
+      "martinique": 91030.54999999999,
+      "europe_autres": 7861281.76,
+      "antilles": 14324166.379999999,
+      "amerique_sud_autres": 2026319.96,
+      "amerique_central": 7557716.62,
+      "saint_martin": 0,
+      "afrique": 671259.49,
+      "asie": 1790843.5099999998
+    },
+    "departments_rec_yr": {
+      "ouest": null,
+      "artibonite": null,
+      "nord": null,
+      "sud": null,
+      "nord_ouest": null,
+      "centre": null,
+      "sud_est": null,
+      "nippes": null,
+      "nord_est": null,
+      "grand_anse": null
+    },
+    "meta": {
+      "nobre_transferts_rec": 11673904,
+      "moyenne_rec": 184.23
+    },
+    "totals_exp": {
+      "total_exp": 109140008.18
+    },
+    "change_yoy": {
+      "total_rec": null,
+      "total_rec_pct": null
+    }
+  },
+  "stats": {
+    "years": 10,
+    "first_year": 2017,
+    "last_year": 2026,
+    "latest_complete_year": 2025
+  },
+  "history": [
+    {
+      "year": 2017,
+      "period": "2017",
+      "start_date": "2017-10-01",
+      "end_date": "2017-12-01",
+      "months_available": 3,
+      "months": [
+        10,
+        11,
+        12
+      ],
+      "complete_year": false,
+      "status": "partial",
+      "total_rec": 580456021.49,
+      "breakdown_rec": {
+        "usa": 394757709.8,
+        "chili": 47600643.25,
+        "canada": 26760430.05,
+        "france": 26074733.58,
+        "bresil": 20540351.68,
+        "rep_dom": 17687570.41,
+        "uruguay": 0,
+        "bahamas": 11671412.440000001,
+        "turks_caicos": 10611327.16,
+        "martinique": 8642276.27,
+        "europe_autres": 4728851.01,
+        "antilles": 4581902.51,
+        "amerique_sud_autres": 3941166.62,
+        "amerique_central": 1511136.56,
+        "saint_martin": 663494.86,
+        "afrique": 388879.55,
+        "asie": 294135.75
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 3951492,
+        "moyenne_rec": 146.9
+      },
+      "totals_exp": {
+        "total_exp": 74240992.43
+      },
+      "change_yoy": {
+        "total_rec": null,
+        "total_rec_pct": null
+      }
+    },
+    {
+      "year": 2018,
+      "period": "2018",
+      "start_date": "2018-01-01",
+      "end_date": "2018-12-01",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 2417296751.24,
+      "breakdown_rec": {
+        "usa": 1676610302.12,
+        "chili": 193421467.77,
+        "canada": 111107636.15,
+        "france": 96692922.32,
+        "bresil": 65588608.45000001,
+        "rep_dom": 68967104.85,
+        "uruguay": 0,
+        "bahamas": 50896572.510000005,
+        "turks_caicos": 42735843.43,
+        "martinique": 38154684.769999996,
+        "europe_autres": 19967157.150000002,
+        "antilles": 16439191.57,
+        "amerique_sud_autres": 27221794.509999998,
+        "amerique_central": 5352550.0200000005,
+        "saint_martin": 1542255.7300000002,
+        "afrique": 1490972.4799999997,
+        "asie": 1107687.41
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 16028207,
+        "moyenne_rec": 150.82
+      },
+      "totals_exp": {
+        "total_exp": 275088966.24
+      },
+      "change_yoy": {
+        "total_rec": null,
+        "total_rec_pct": null
+      }
+    },
+    {
+      "year": 2019,
+      "period": "2019",
+      "start_date": "2019-01-01",
+      "end_date": "2019-12-01",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 2504906430.3700004,
+      "breakdown_rec": {
+        "usa": 1775362854.9199998,
+        "chili": 170264648.76,
+        "canada": 102885885.19,
+        "france": 92878096.14,
+        "bresil": 66815292.89,
+        "rep_dom": 76777798.06,
+        "uruguay": 0,
+        "bahamas": 47883664.14,
+        "turks_caicos": 37616104.269999996,
+        "martinique": 35738132.09,
+        "europe_autres": 27383851.950000003,
+        "antilles": 19671960.45,
+        "amerique_sud_autres": 41418081.559999995,
+        "amerique_central": 6379348.590000001,
+        "saint_martin": 1457960.75,
+        "afrique": 1182433.82,
+        "asie": 1190316.7899999998
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 16815777,
+        "moyenne_rec": 148.96
+      },
+      "totals_exp": {
+        "total_exp": 252082913.35999995
+      },
+      "change_yoy": {
+        "total_rec": 87609679.13,
+        "total_rec_pct": 3.62
+      }
+    },
+    {
+      "year": 2020,
+      "period": "2020",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-01",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 3227953040.66,
+      "breakdown_rec": {
+        "usa": 2463792856.9000006,
+        "chili": 172399357.14000002,
+        "canada": 113401229.63000001,
+        "france": 100747444.55,
+        "bresil": 68618299.13999999,
+        "rep_dom": 81794690.62,
+        "uruguay": 15264181.07,
+        "bahamas": 57060330.6,
+        "turks_caicos": 32812325.62,
+        "martinique": 46670594.01,
+        "europe_autres": 20705999.91,
+        "antilles": 17793316.529999997,
+        "amerique_sud_autres": 26237471.550000004,
+        "amerique_central": 7437057.009999999,
+        "saint_martin": 932468.9400000001,
+        "afrique": 972633.7000000001,
+        "asie": 1312783.76
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 19621063,
+        "moyenne_rec": 164.51
+      },
+      "totals_exp": {
+        "total_exp": 275223070.77
+      },
+      "change_yoy": {
+        "total_rec": 723046610.29,
+        "total_rec_pct": 28.87
+      }
+    },
+    {
+      "year": 2021,
+      "period": "2021",
+      "start_date": "2021-01-01",
+      "end_date": "2021-12-01",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 3655760564.79,
+      "breakdown_rec": {
+        "usa": 2543681877.7099996,
+        "chili": 296208206.98999995,
+        "canada": 199385151.23000002,
+        "france": 214036484.9,
+        "bresil": 76847366.93,
+        "rep_dom": 89565214.54999998,
+        "uruguay": 72119609.82000001,
+        "bahamas": 42642563.73,
+        "turks_caicos": 20886567.97,
+        "martinique": 10178226.030000001,
+        "europe_autres": 49749102.41,
+        "antilles": 25983500.65,
+        "amerique_sud_autres": 4900083.94,
+        "amerique_central": 6030779.6899999995,
+        "saint_martin": 0,
+        "afrique": 1323389.13,
+        "asie": 2222439.12
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 20390270,
+        "moyenne_rec": 179.29
+      },
+      "totals_exp": {
+        "total_exp": 278275622.82
+      },
+      "change_yoy": {
+        "total_rec": 427807524.13,
+        "total_rec_pct": 13.25
+      }
+    },
+    {
+      "year": 2022,
+      "period": "2022",
+      "start_date": "2022-01-01",
+      "end_date": "2022-12-01",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 3314604407.95,
+      "breakdown_rec": {
+        "usa": 2326674607.0899997,
+        "chili": 200647136.72,
+        "canada": 213361401.24,
+        "france": 210821509.03000003,
+        "bresil": 76305541.38,
+        "rep_dom": 109691226.37,
+        "uruguay": 45943187.13000001,
+        "bahamas": 19535291.01,
+        "turks_caicos": 21207412.450000003,
+        "martinique": 2474432.9300000006,
+        "europe_autres": 40105745.17,
+        "antilles": 28091132.990000002,
+        "amerique_sud_autres": 4601326.02,
+        "amerique_central": 10579035.35,
+        "saint_martin": 0,
+        "afrique": 1316094.07,
+        "asie": 3249328.9600000004
+      },
+      "departments_rec_yr": {
+        "ouest": 2399352807.16,
+        "artibonite": 300994937.75,
+        "nord": 194920001.39,
+        "sud": 130675223.08,
+        "nord_ouest": 115686247.68,
+        "centre": 82705729.62,
+        "sud_est": 75858987.69,
+        "nippes": 53852097.62,
+        "nord_est": 33465588.8,
+        "grand_anse": 26381504.83
+      },
+      "meta": {
+        "nobre_transferts_rec": 20168101,
+        "moyenne_rec": 164.35
+      },
+      "totals_exp": {
+        "total_exp": 257051504.13
+      },
+      "change_yoy": {
+        "total_rec": -341156156.84,
+        "total_rec_pct": -9.33
+      }
+    },
+    {
+      "year": 2023,
+      "period": "2023",
+      "start_date": "2023-01-01",
+      "end_date": "2023-12-02",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 3440302604.5299997,
+      "breakdown_rec": {
+        "usa": 2410824159.04,
+        "chili": 157944319.5,
+        "canada": 232580905.83,
+        "france": 235122070.31,
+        "bresil": 72415823.04,
+        "rep_dom": 156071863.97000003,
+        "uruguay": 33305495.549999997,
+        "bahamas": 22545129.94,
+        "turks_caicos": 22129713.380000003,
+        "martinique": 1696871.38,
+        "europe_autres": 46374095.43999999,
+        "antilles": 30305990.68,
+        "amerique_sud_autres": 4693232.5200000005,
+        "amerique_central": 7779178.6,
+        "saint_martin": 0,
+        "afrique": 1671637.69,
+        "asie": 4842117.61
+      },
+      "departments_rec_yr": {
+        "ouest": 2246163260.09,
+        "artibonite": 316407666.41,
+        "nord": 161874029.18,
+        "sud": 148994223.1,
+        "nord_ouest": 96912986.8,
+        "centre": 12149757.25,
+        "sud_est": 77387246.1,
+        "nippes": 66292699.26,
+        "nord_est": 33886621.83,
+        "grand_anse": 24068970.14
+      },
+      "meta": {
+        "nobre_transferts_rec": 23746968,
+        "moyenne_rec": 144.87
+      },
+      "totals_exp": {
+        "total_exp": 278622103.99
+      },
+      "change_yoy": {
+        "total_rec": 125698196.58,
+        "total_rec_pct": 3.79
+      }
+    },
+    {
+      "year": 2024,
+      "period": "2024",
+      "start_date": "2024-01-02",
+      "end_date": "2024-12-02",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 3754038087.33,
+      "breakdown_rec": {
+        "usa": 2829204966.81,
+        "chili": 112981199.41,
+        "canada": 216504355.90999997,
+        "france": 228456743.71,
+        "bresil": 61499328.32000001,
+        "rep_dom": 154394460.07999998,
+        "uruguay": 23076196.23,
+        "bahamas": 18227054.84,
+        "turks_caicos": 22731538.1,
+        "martinique": 314371.23999999993,
+        "europe_autres": 31971766.04,
+        "antilles": 29499731.37,
+        "amerique_sud_autres": 4362794.47,
+        "amerique_central": 14701102.27,
+        "saint_martin": 0,
+        "afrique": 1789020.65,
+        "asie": 4323457.88
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 27350321,
+        "moyenne_rec": 137.26
+      },
+      "totals_exp": {
+        "total_exp": 274602883.08
+      },
+      "change_yoy": {
+        "total_rec": 313735482.8,
+        "total_rec_pct": 9.12
+      }
+    },
+    {
+      "year": 2025,
+      "period": "2025",
+      "start_date": "2025-01-02",
+      "end_date": "2025-12-02",
+      "months_available": 12,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "complete_year": true,
+      "status": "complete",
+      "total_rec": 4587355989.83,
+      "breakdown_rec": {
+        "usa": 3645139263.55,
+        "chili": 97392810.14,
+        "canada": 234243452.65000004,
+        "france": 244490262.92999998,
+        "bresil": 66411983.699999996,
+        "rep_dom": 148310018.06,
+        "uruguay": 26158284.700000003,
+        "bahamas": 22745010.61,
+        "turks_caicos": 21572941.939999998,
+        "martinique": 228398.82,
+        "europe_autres": 23753368.430000003,
+        "antilles": 33598650.03,
+        "amerique_sud_autres": 4701488.08,
+        "amerique_central": 12819053.11,
+        "saint_martin": 0,
+        "afrique": 1502404.0500000003,
+        "asie": 4288599.04
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 28882737,
+        "moyenne_rec": 158.83
+      },
+      "totals_exp": {
+        "total_exp": 305081380.31
+      },
+      "change_yoy": {
+        "total_rec": 833317902.5,
+        "total_rec_pct": 22.2
+      }
+    },
+    {
+      "year": 2026,
+      "period": "2026",
+      "start_date": "2026-01-02",
+      "end_date": "2026-05-02",
+      "months_available": 5,
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "complete_year": false,
+      "status": "partial",
+      "total_rec": 2150661908.31,
+      "breakdown_rec": {
+        "usa": 1740638086.3600001,
+        "chili": 40742287.81,
+        "canada": 108223912.52,
+        "france": 104220868.69999999,
+        "bresil": 28131024.189999998,
+        "rep_dom": 58056973.56,
+        "uruguay": 14372189.65,
+        "bahamas": 12942546.540000001,
+        "turks_caicos": 9011400.690000001,
+        "martinique": 91030.54999999999,
+        "europe_autres": 7861281.76,
+        "antilles": 14324166.379999999,
+        "amerique_sud_autres": 2026319.96,
+        "amerique_central": 7557716.62,
+        "saint_martin": 0,
+        "afrique": 671259.49,
+        "asie": 1790843.5099999998
+      },
+      "departments_rec_yr": {
+        "ouest": null,
+        "artibonite": null,
+        "nord": null,
+        "sud": null,
+        "nord_ouest": null,
+        "centre": null,
+        "sud_est": null,
+        "nippes": null,
+        "nord_est": null,
+        "grand_anse": null
+      },
+      "meta": {
+        "nobre_transferts_rec": 11673904,
+        "moyenne_rec": 184.23
+      },
+      "totals_exp": {
+        "total_exp": 109140008.18
+      },
+      "change_yoy": {
+        "total_rec": null,
+        "total_rec_pct": null
+      }
+    }
+  ]
+}
