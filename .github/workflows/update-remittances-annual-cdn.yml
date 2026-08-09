@@ -1,0 +1,66 @@
+name: Update Haiti Annual Remittances CDN
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Check daily because the underlying monthly
+    # series may receive a new month or revision.
+    - cron: "45 11 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-remittances-annual-cdn
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build annual remittances CDN
+        env:
+          REMITTANCES_ANNUAL_API_URL: https://haiti-economie-api.onrender.com/api/remittances-standardized?count=all
+          REMITTANCES_ANNUAL_OUT_DIR: cdn/annual/remittances-haiti
+        run: |
+          node scripts/build-remittances-annual-cdn.mjs
+
+      - name: Stage generated files
+        run: |
+          git add cdn/annual/remittances-haiti
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No annual remittances changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Annual remittances data changed."
+            git status --short
+          fi
+
+      - name: Commit changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "Update Haiti annual remittances data"
+
+      - name: Push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git push
+          
