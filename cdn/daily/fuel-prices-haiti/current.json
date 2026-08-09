@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "dataset": "haiti_fuel_prices",
-  "generated_at": "2026-08-01T23:27:22.540Z",
+  "generated_at": "2026-08-09T17:20:33.716Z",
   "units": {
     "currency": "HTG",
     "volume": "US gallon",
@@ -45,25 +45,25 @@
     "updated_at": "2026-08-01T15:09:47.012Z"
   },
   "previous": {
-    "id": 12,
-    "sort_date": "2026-06-15",
-    "effective_date": "2026-06-15",
+    "id": 15,
+    "sort_date": "2026-08-09",
+    "effective_date": "2026-08-10",
     "effective_date_label": null,
-    "display_date": "2026-06-15",
+    "display_date": "2026-08-10",
     "event_order": 1,
-    "notice_date": "2026-06-10",
+    "notice_date": "2026-08-07",
     "prices": {
       "gazoline": {
         "per_us_gallon_htg": 700,
         "per_liter_htg": 184.92
       },
       "gasoil": {
-        "per_us_gallon_htg": 790,
-        "per_liter_htg": 208.7
+        "per_us_gallon_htg": 770,
+        "per_liter_htg": 203.41
       },
       "kerosene": {
-        "per_us_gallon_htg": 785,
-        "per_liter_htg": 207.38
+        "per_us_gallon_htg": 765,
+        "per_liter_htg": 202.09
       }
     },
     "unit_code": "HTG_PER_US_GALLON",
@@ -73,29 +73,29 @@
       "type": "official_notice",
       "verified": true,
       "title": "Avis conjoint MEF-MCI",
-      "reference": "25/26-003",
-      "file": "Evolution des prix de produits pétroliers - 2026-06-15.jpg",
-      "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-2026-06-15.jpg"
+      "reference": "25/26-006",
+      "file": "Evolution des prix de produits pétroliers - 2026-08-10.jpg",
+      "url": "https://haitieconomie.com/wp-content/uploads/2026/08/Evolution-des-prix-de-produits-petroliers-10-Aout-2026.jpg"
     },
-    "notes": "Tarifs applicables à partir du 15 juin 2026.",
-    "created_at": "2026-07-20T05:38:40.753Z",
-    "updated_at": "2026-08-01T19:05:53.937Z"
+    "notes": null,
+    "created_at": "2026-08-09T17:19:38.914Z",
+    "updated_at": "2026-08-09T17:19:38.914Z"
   },
   "current_change": {
-    "compared_with_effective_date": "2026-06-15",
+    "compared_with_effective_date": "2026-08-10",
     "gazoline": {
       "absolute_htg": -50,
       "percent": -7.14,
       "direction": "down"
     },
     "gasoil": {
-      "absolute_htg": -90,
-      "percent": -11.39,
+      "absolute_htg": -70,
+      "percent": -9.09,
       "direction": "down"
     },
     "kerosene": {
-      "absolute_htg": -95,
-      "percent": -12.1,
+      "absolute_htg": -75,
+      "percent": -9.8,
       "direction": "down"
     }
   }
