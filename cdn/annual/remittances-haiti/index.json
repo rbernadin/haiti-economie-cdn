@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "dataset": "remittances_brh_annual",
+  "title": "Transferts de fonds vers Haïti — données annuelles",
+  "frequency": "annual",
+  "currency": "USD",
+  "generated_at": "2026-08-09T02:19:08.658Z",
+  "first_year": 2017,
+  "last_year": 2026,
+  "years": [
+    {
+      "year": 2017,
+      "complete_year": false,
+      "months_available": 3,
+      "total_rec": 580456021.49,
+      "file": "archive/2017.json"
+    },
+    {
+      "year": 2018,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 2417296751.24,
+      "file": "archive/2018.json"
+    },
+    {
+      "year": 2019,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 2504906430.3700004,
+      "file": "archive/2019.json"
+    },
+    {
+      "year": 2020,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 3227953040.66,
+      "file": "archive/2020.json"
+    },
+    {
+      "year": 2021,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 3655760564.79,
+      "file": "archive/2021.json"
+    },
+    {
+      "year": 2022,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 3314604407.95,
+      "file": "archive/2022.json"
+    },
+    {
+      "year": 2023,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 3440302604.5299997,
+      "file": "archive/2023.json"
+    },
+    {
+      "year": 2024,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 3754038087.33,
+      "file": "archive/2024.json"
+    },
+    {
+      "year": 2025,
+      "complete_year": true,
+      "months_available": 12,
+      "total_rec": 4587355989.83,
+      "file": "archive/2025.json"
+    },
+    {
+      "year": 2026,
+      "complete_year": false,
+      "months_available": 5,
+      "total_rec": 2150661908.31,
+      "file": "archive/2026.json"
+    }
+  ],
+  "files": {
+    "latest": "latest.json",
+    "archive": "archive/{year}.json"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "dataset": "remittances_brh_annual",
+  "frequency": "annual",
+  "currency": "USD",
+  "year": 2023,
+  "data": {
+    "year": 2023,
+    "period": "2023",
+    "start_date": "2023-01-01",
+    "end_date": "2023-12-02",
+    "months_available": 12,
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "complete_year": true,
+    "status": "complete",
+    "total_rec": 3440302604.5299997,
+    "breakdown_rec": {
+      "usa": 2410824159.04,
+      "chili": 157944319.5,
+      "canada": 232580905.83,
+      "france": 235122070.31,
+      "bresil": 72415823.04,
+      "rep_dom": 156071863.97000003,
+      "uruguay": 33305495.549999997,
+      "bahamas": 22545129.94,
+      "turks_caicos": 22129713.380000003,
+      "martinique": 1696871.38,
+      "europe_autres": 46374095.43999999,
+      "antilles": 30305990.68,
+      "amerique_sud_autres": 4693232.5200000005,
+      "amerique_central": 7779178.6,
+      "saint_martin": 0,
+      "afrique": 1671637.69,
+      "asie": 4842117.61
+    },
+    "departments_rec_yr": {
+      "ouest": 2246163260.09,
+      "artibonite": 316407666.41,
+      "nord": 161874029.18,
+      "sud": 148994223.1,
+      "nord_ouest": 96912986.8,
+      "centre": 12149757.25,
+      "sud_est": 77387246.1,
+      "nippes": 66292699.26,
+      "nord_est": 33886621.83,
+      "grand_anse": 24068970.14
+    },
+    "meta": {
+      "nobre_transferts_rec": 23746968,
+      "moyenne_rec": 144.87
+    },
+    "totals_exp": {
+      "total_exp": 278622103.99
+    },
+    "change_yoy": {
+      "total_rec": 125698196.58,
+      "total_rec_pct": 3.79
+    }
+  },
+  "source": {
+    "institution": "BRH",
+    "api": "https://haiti-economie-api.onrender.com/api/remittances-standardized?count=all"
+  }
+}

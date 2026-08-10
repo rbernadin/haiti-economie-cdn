@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "dataset": "remittances_brh_annual",
+  "frequency": "annual",
+  "currency": "USD",
+  "year": 2017,
+  "data": {
+    "year": 2017,
+    "period": "2017",
+    "start_date": "2017-10-01",
+    "end_date": "2017-12-01",
+    "months_available": 3,
+    "months": [
+      10,
+      11,
+      12
+    ],
+    "complete_year": false,
+    "status": "partial",
+    "total_rec": 580456021.49,
+    "breakdown_rec": {
+      "usa": 394757709.8,
+      "chili": 47600643.25,
+      "canada": 26760430.05,
+      "france": 26074733.58,
+      "bresil": 20540351.68,
+      "rep_dom": 17687570.41,
+      "uruguay": 0,
+      "bahamas": 11671412.440000001,
+      "turks_caicos": 10611327.16,
+      "martinique": 8642276.27,
+      "europe_autres": 4728851.01,
+      "antilles": 4581902.51,
+      "amerique_sud_autres": 3941166.62,
+      "amerique_central": 1511136.56,
+      "saint_martin": 663494.86,
+      "afrique": 388879.55,
+      "asie": 294135.75
+    },
+    "departments_rec_yr": {
+      "ouest": null,
+      "artibonite": null,
+      "nord": null,
+      "sud": null,
+      "nord_ouest": null,
+      "centre": null,
+      "sud_est": null,
+      "nippes": null,
+      "nord_est": null,
+      "grand_anse": null
+    },
+    "meta": {
+      "nobre_transferts_rec": 3951492,
+      "moyenne_rec": 146.9
+    },
+    "totals_exp": {
+      "total_exp": 74240992.43
+    },
+    "change_yoy": {
+      "total_rec": null,
+      "total_rec_pct": null
+    }
+  },
+  "source": {
+    "institution": "BRH",
+    "api": "https://haiti-economie-api.onrender.com/api/remittances-standardized?count=all"
+  }
+}

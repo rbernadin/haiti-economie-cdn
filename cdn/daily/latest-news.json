@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-08T13:58:32.495Z",
+  "generated_at": "2026-08-09T14:00:07.057Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11515,
+      "slug": "transferts-de-fonds-haiti-a-recu-plus-de-5-milliards-de-dollars-sur-lexercice-2025",
+      "date": "2026-08-09T00:56:57",
+      "modified": "2026-08-09T01:14:17",
+      "title": {
+        "rendered": "Transferts de fonds : Haïti a reçu plus de 5 milliards de dollars sur l’exercice 2025"
+      },
+      "excerpt": {
+        "rendered": "<p>Les transferts de la diaspora restent un pilier de l’économie haïtienne. Après avoir dépassé 5 milliards de dollars sur l’exercice 2025, ces flux continuent de soutenir les ménages et les réserves en devises, mais la fin du TPS aux États-Unis pourrait constituer un nouveau risque.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/transferts-fonds-diaspora-haiti-2025.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11465,
       "slug": "etats-unis-le-marche-du-travail-ralentit-un-signal-a-surveiller-pour-la-diaspora-haitienne",
       "date": "2026-08-08T00:53:16",
-      "modified": "2026-08-08T01:09:27",
+      "modified": "2026-08-09T00:08:06",
       "title": {
         "rendered": "États-Unis : le marché du travail ralentit, un signal à surveiller pour la diaspora haïtienne"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/travailleur-haitien-tps-impact-economique-etats-unis.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11326,
-      "slug": "fin-du-tps-environ-350-000-haitiens-perdent-leur-protection-aux-etats-unis",
-      "date": "2026-07-27T08:22:17",
-      "modified": "2026-07-27T08:22:18",
-      "title": {
-        "rendered": "Fin du TPS : environ 350 000 Haïtiens perdent leur protection aux États-Unis"
-      },
-      "excerpt": {
-        "rendered": "<p>La fin du TPS expose environ 350 000 Haïtiens aux États-Unis à la perte de leur permis de travail et au risque d’expulsion vers un pays en crise.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/fin-tps-haitiens-etats-unis-statue-liberte-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],

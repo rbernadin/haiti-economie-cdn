@@ -3,9 +3,9 @@
   "dataset": "haiti_fuel_prices",
   "title": "Historique des prix des produits pétroliers en Haïti",
   "description": "Prix officiels de la gazoline, du gasoil et du kérosène en Haïti, exprimés en gourdes par gallon américain.",
-  "updated_at": "2026-08-01T23:27:22.343Z",
+  "updated_at": "2026-08-09T17:20:33.602Z",
   "latest_effective_date": "2026-07-07",
-  "records": 14,
+  "records": 15,
   "latest": "latest.json",
   "current": "current.json",
   "snapshots": [
