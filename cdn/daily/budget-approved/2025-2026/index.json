@@ -1,0 +1,58 @@
+{
+  "fiscal_year": "2025-2026",
+  "fiscal_year_start": "2025-10-01",
+  "fiscal_year_end": "2026-09-30",
+  "latest": {
+    "fiscal_year": "2025-2026",
+    "fiscal_year_start": "2025-10-01",
+    "fiscal_year_end": "2026-09-30",
+    "budget_version": "rectificatif",
+    "publication_date": "2026-06-05",
+    "publication_number": "181è Année - Spécial No 29",
+    "source_file_name": "2024-2025-2026.pdf",
+    "imported_at": "2026-08-10T08:12:24.246Z",
+    "row_count": 208,
+    "credits_fonctionnement": 234971002101,
+    "credits_investissement": 125340000002,
+    "total_credits": 360311002103,
+    "calculated_total": 360311002103,
+    "difference": 0,
+    "file": "2025-2026/latest.json"
+  },
+  "releases": [
+    {
+      "fiscal_year": "2025-2026",
+      "fiscal_year_start": "2025-10-01",
+      "fiscal_year_end": "2026-09-30",
+      "budget_version": "rectificatif",
+      "publication_date": "2026-06-05",
+      "publication_number": "181è Année - Spécial No 29",
+      "source_file_name": "2024-2025-2026.pdf",
+      "imported_at": "2026-08-10T08:12:24.246Z",
+      "row_count": 208,
+      "credits_fonctionnement": 234971002101,
+      "credits_investissement": 125340000002,
+      "total_credits": 360311002103,
+      "calculated_total": 360311002103,
+      "difference": 0,
+      "file": "2025-2026/rectificatif.json"
+    },
+    {
+      "fiscal_year": "2025-2026",
+      "fiscal_year_start": "2025-10-01",
+      "fiscal_year_end": "2026-09-30",
+      "budget_version": "initial",
+      "publication_date": "2025-10-10",
+      "publication_number": "180è Année - Spécial No 62",
+      "source_file_name": "2024-2025-2026.pdf",
+      "imported_at": "2026-08-10T08:12:24.246Z",
+      "row_count": 208,
+      "credits_fonctionnement": 235610000002,
+      "credits_investissement": 109899999999,
+      "total_credits": 345510000001,
+      "calculated_total": 345510000001,
+      "difference": 0,
+      "file": "2025-2026/initial.json"
+    }
+  ]
+}
