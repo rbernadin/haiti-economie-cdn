@@ -1,0 +1,41 @@
+{
+  "fiscal_year": "2019-2020",
+  "fiscal_year_start": "2019-10-01",
+  "fiscal_year_end": "2020-09-30",
+  "latest": {
+    "fiscal_year": "2019-2020",
+    "fiscal_year_start": "2019-10-01",
+    "fiscal_year_end": "2020-09-30",
+    "budget_version": null,
+    "publication_date": null,
+    "publication_number": null,
+    "source_file_name": "budget-haiti-2019-2020",
+    "imported_at": "2026-06-07T16:37:00.065Z",
+    "row_count": 208,
+    "credits_fonctionnement": 139360000000,
+    "credits_investissement": 59340000001,
+    "total_credits": 198700000000,
+    "calculated_total": 198700000000,
+    "difference": 0,
+    "file": "2019-2020/latest.json"
+  },
+  "releases": [
+    {
+      "fiscal_year": "2019-2020",
+      "fiscal_year_start": "2019-10-01",
+      "fiscal_year_end": "2020-09-30",
+      "budget_version": null,
+      "publication_date": null,
+      "publication_number": null,
+      "source_file_name": "budget-haiti-2019-2020",
+      "imported_at": "2026-06-07T16:37:00.065Z",
+      "row_count": 208,
+      "credits_fonctionnement": 139360000000,
+      "credits_investissement": 59340000001,
+      "total_credits": 198700000000,
+      "calculated_total": 198700000000,
+      "difference": 0,
+      "file": "2019-2020/release.json"
+    }
+  ]
+}

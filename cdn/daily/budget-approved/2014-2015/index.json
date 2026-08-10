@@ -1,0 +1,41 @@
+{
+  "fiscal_year": "2014-2015",
+  "fiscal_year_start": "2014-10-01",
+  "fiscal_year_end": "2015-09-30",
+  "latest": {
+    "fiscal_year": "2014-2015",
+    "fiscal_year_start": "2014-10-01",
+    "fiscal_year_end": "2015-09-30",
+    "budget_version": null,
+    "publication_date": null,
+    "publication_number": null,
+    "source_file_name": "budget-haiti-14-15(1).xlsx",
+    "imported_at": "2026-05-30T02:25:41.019Z",
+    "row_count": 208,
+    "credits_fonctionnement": 56026598357,
+    "credits_investissement": 66623084996,
+    "total_credits": 122650000000,
+    "calculated_total": 122650000000,
+    "difference": 0,
+    "file": "2014-2015/latest.json"
+  },
+  "releases": [
+    {
+      "fiscal_year": "2014-2015",
+      "fiscal_year_start": "2014-10-01",
+      "fiscal_year_end": "2015-09-30",
+      "budget_version": null,
+      "publication_date": null,
+      "publication_number": null,
+      "source_file_name": "budget-haiti-14-15(1).xlsx",
+      "imported_at": "2026-05-30T02:25:41.019Z",
+      "row_count": 208,
+      "credits_fonctionnement": 56026598357,
+      "credits_investissement": 66623084996,
+      "total_credits": 122650000000,
+      "calculated_total": 122650000000,
+      "difference": 0,
+      "file": "2014-2015/release.json"
+    }
+  ]
+}

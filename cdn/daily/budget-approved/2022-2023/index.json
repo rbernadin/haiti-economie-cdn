@@ -1,0 +1,41 @@
+{
+  "fiscal_year": "2022-2023",
+  "fiscal_year_start": "2022-10-01",
+  "fiscal_year_end": "2023-09-30",
+  "latest": {
+    "fiscal_year": "2022-2023",
+    "fiscal_year_start": "2022-10-01",
+    "fiscal_year_end": "2023-09-30",
+    "budget_version": null,
+    "publication_date": null,
+    "publication_number": null,
+    "source_file_name": "budget-haiti-2022-2023",
+    "imported_at": "2026-06-07T16:47:49.438Z",
+    "row_count": 208,
+    "credits_fonctionnement": 188200000000,
+    "credits_investissement": 79300000003,
+    "total_credits": 267500000000,
+    "calculated_total": 267500000000,
+    "difference": 0,
+    "file": "2022-2023/latest.json"
+  },
+  "releases": [
+    {
+      "fiscal_year": "2022-2023",
+      "fiscal_year_start": "2022-10-01",
+      "fiscal_year_end": "2023-09-30",
+      "budget_version": null,
+      "publication_date": null,
+      "publication_number": null,
+      "source_file_name": "budget-haiti-2022-2023",
+      "imported_at": "2026-06-07T16:47:49.438Z",
+      "row_count": 208,
+      "credits_fonctionnement": 188200000000,
+      "credits_investissement": 79300000003,
+      "total_credits": 267500000000,
+      "calculated_total": 267500000000,
+      "difference": 0,
+      "file": "2022-2023/release.json"
+    }
+  ]
+}
