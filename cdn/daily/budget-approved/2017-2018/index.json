@@ -1,0 +1,41 @@
+{
+  "fiscal_year": "2017-2018",
+  "fiscal_year_start": "2017-10-01",
+  "fiscal_year_end": "2018-09-30",
+  "latest": {
+    "fiscal_year": "2017-2018",
+    "fiscal_year_start": "2017-10-01",
+    "fiscal_year_end": "2018-09-30",
+    "budget_version": null,
+    "publication_date": null,
+    "publication_number": null,
+    "source_file_name": "budget-haiti-207-2018",
+    "imported_at": "2026-05-30T03:04:02.686Z",
+    "row_count": 208,
+    "credits_fonctionnement": 85202800003,
+    "credits_investissement": 58997200002,
+    "total_credits": 144200000005,
+    "calculated_total": 144200000005,
+    "difference": 0,
+    "file": "2017-2018/latest.json"
+  },
+  "releases": [
+    {
+      "fiscal_year": "2017-2018",
+      "fiscal_year_start": "2017-10-01",
+      "fiscal_year_end": "2018-09-30",
+      "budget_version": null,
+      "publication_date": null,
+      "publication_number": null,
+      "source_file_name": "budget-haiti-207-2018",
+      "imported_at": "2026-05-30T03:04:02.686Z",
+      "row_count": 208,
+      "credits_fonctionnement": 85202800003,
+      "credits_investissement": 58997200002,
+      "total_credits": 144200000005,
+      "calculated_total": 144200000005,
+      "difference": 0,
+      "file": "2017-2018/release.json"
+    }
+  ]
+}
