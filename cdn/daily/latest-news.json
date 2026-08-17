@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-16T13:45:56.516Z",
+  "generated_at": "2026-08-17T13:54:15.404Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11544,
+      "slug": "haiti-comment-le-deficit-commercial-est-devenu-structurel",
+      "date": "2026-08-16T22:37:10",
+      "modified": "2026-08-17T08:04:00",
+      "title": {
+        "rendered": "Haïti : comment le déficit commercial est devenu structurel"
+      },
+      "excerpt": {
+        "rendered": "<p>Depuis les années 1960, le déficit commercial d’Haïti s’est progressivement élargi. Affaiblissement de l’agriculture, disparition du kochon kreyòl, ouverture du marché et faible développement des exportations ont contribué à rendre ce déséquilibre structurel.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-deficit-commercial-structurel-importations-riz-production-locale.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11515,
       "slug": "transferts-de-fonds-haiti-a-recu-plus-de-5-milliards-de-dollars-sur-lexercice-2025",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11337,
-      "slug": "fin-du-tps-quels-risques-economiques-pour-les-etats-unis-et-haiti",
-      "date": "2026-07-30T10:12:23",
-      "modified": "2026-07-30T10:15:18",
-      "title": {
-        "rendered": "Fin du TPS : quels risques économiques pour les États-Unis et Haïti ?"
-      },
-      "excerpt": {
-        "rendered": "<p>La fin du TPS pourrait provoquer un double choc : des pertes de travailleurs dans plusieurs secteurs américains et une baisse des transferts vers les familles en Haïti.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/travailleur-haitien-tps-impact-economique-etats-unis.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
