@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-08-22T13:45:22.301Z",
+  "generated_at": "2026-08-23T13:47:06.024Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11565,
+      "slug": "budget-2026-2027-le-gouvernement-mise-sur-la-securite-et-une-reprise-economique-encore-fragile",
+      "date": "2026-08-22T17:49:37",
+      "modified": "2026-08-22T17:49:38",
+      "title": {
+        "rendered": "Budget 2026-2027 : le gouvernement mise sur la sécurité et une reprise économique encore fragile"
+      },
+      "excerpt": {
+        "rendered": "<p>Le projet de budget 2026-2027 mise sur une stabilisation progressive de l’économie, avec une croissance de 0.2 %, une inflation encore élevée et la sécurité comme priorité centrale.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-la-lettre-de-cadrage-du-budge-2026-2027.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11544,
       "slug": "haiti-comment-le-deficit-commercial-est-devenu-structurel",
       "date": "2026-08-16T22:37:10",
-      "modified": "2026-08-17T12:08:26",
+      "modified": "2026-08-22T17:56:04",
       "title": {
         "rendered": "Haïti : comment le déficit commercial est devenu structurel"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/brh-intelligence-artificielle-haiti-bitkob-carte-numerique.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11341,
-      "slug": "haiti-le-cep-lance-linscription-des-electeurs-dans-le-departement-de-louest",
-      "date": "2026-07-30T11:02:28",
-      "modified": "2026-07-30T11:02:28",
-      "title": {
-        "rendered": "Haïti : le CEP lance l’inscription des électeurs dans le département de l’Ouest"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Conseil électoral provisoire (CEP) lance ce jeudi 30 juillet 2026 les opérations d’inscription des électeurs dans le département de l’Ouest.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/sticker-mpral-vote-haiti-calendrier-election.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
