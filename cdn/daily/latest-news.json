@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-02T17:10:49.355Z",
+  "generated_at": "2026-09-03T17:03:22.642Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11586,
+      "slug": "hope-help-le-congres-americain-approuve-une-prolongation-jusquen-2028",
+      "date": "2026-09-02T21:33:33",
+      "modified": "2026-09-02T21:33:37",
+      "title": {
+        "rendered": "HOPE/HELP : le Congrès américain approuve une prolongation jusqu’en 2028"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Congrès américain a approuvé la prolongation de HOPE/HELP jusqu’en 2028. Une décision qui apporte plus de visibilité au secteur textile haïtien, sans toutefois résoudre ses difficultés structurelles.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11581,
       "slug": "venezuela-le-petrole-au-coeur-de-la-doctrine-donroe-de-trump",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/prix-mondial-riz-fao-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11444,
-      "slug": "fin-du-tps-des-employeurs-americains-risquent-de-perdre-des-travailleurs-quhaiti-aurait-du-mal-a-reintegrer",
-      "date": "2026-08-06T10:40:53",
-      "modified": "2026-08-06T10:50:33",
-      "title": {
-        "rendered": "Fin du TPS : des employeurs américains risquent de perdre des travailleurs qu’Haïti aurait du mal à réintégrer"
-      },
-      "excerpt": {
-        "rendered": "<p>La fin du TPS pourrait retirer des travailleurs expérimentés du marché américain tout en forçant certains Haïtiens à revenir dans un pays offrant peu d’emplois et de sécurité. Leurs compétences pourraient servir à Haïti, mais seulement si les conditions de réintégration existent.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/fin-tps-haiti-retour-reintegration-economique.png",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
