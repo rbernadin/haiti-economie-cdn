@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-09-03T17:03:22.642Z",
+  "generated_at": "2026-09-05T16:06:03.605Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11590,
+      "slug": "lonu-veut-corriger-la-carte-du-monde-pourquoi-lafrique-est-plus-grande-quelle-nen-a-lair",
+      "date": "2026-09-04T19:00:42",
+      "modified": "2026-09-04T19:00:46",
+      "title": {
+        "rendered": "L’ONU veut corriger la carte du monde : pourquoi l’Afrique est plus grande qu’elle n’en a l’air"
+      },
+      "excerpt": {
+        "rendered": "<p>L’Assemblée générale de l’ONU a soutenu une représentation cartographique plus fidèle du monde. La projection Equal Earth montre notamment l’Afrique dans des proportions plus proches de sa taille réelle.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/projection-mercator-vs-equal-earth-onu-carte-monde.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11586,
       "slug": "hope-help-le-congres-americain-approuve-une-prolongation-jusquen-2028",
       "date": "2026-09-02T21:33:33",
-      "modified": "2026-09-02T21:33:37",
+      "modified": "2026-09-04T09:20:55",
       "title": {
-        "rendered": "HOPE/HELP : le Congrès américain approuve une prolongation jusqu’en 2028"
+        "rendered": "HOPE/HELP : Trump signe la prolongation jusqu’en 2028"
       },
       "excerpt": {
         "rendered": "<p>Le Congrès américain a approuvé la prolongation de HOPE/HELP jusqu’en 2028. Une décision qui apporte plus de visibilité au secteur textile haïtien, sans toutefois résoudre ses difficultés structurelles.</p>\n",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/centres-d-inscription-et-de-vote-en-Haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11453,
-      "slug": "riz-les-prix-mondiaux-se-stabilisent-mais-les-ecarts-entre-fournisseurs-restent-importants-pour-haiti",
-      "date": "2026-08-07T11:36:39",
-      "modified": "2026-08-07T11:36:39",
-      "title": {
-        "rendered": "Riz : les prix mondiaux se stabilisent, mais les écarts entre fournisseurs restent importants pour Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Les prix mondiaux du riz ont peu évolué en juillet 2026, mais les tendances diffèrent selon les fournisseurs. Pour Haïti, la baisse de certaines cotations internationales peut aider, sans garantir une diminution des prix payés par les consommateurs.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/prix-mondial-riz-fao-haiti.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
