@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-06T16:18:32.198Z",
+  "generated_at": "2026-09-07T18:15:59.216Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11597,
+      "slug": "accord-petrolier-etats-unis-venezuela-cato-met-en-cause-la-transparence-la-legalite-et-la-procedure",
+      "date": "2026-09-07T10:07:38",
+      "modified": "2026-09-07T10:07:41",
+      "title": {
+        "rendered": "Accord pétrolier États-Unis–Venezuela : Cato met en cause la transparence, la légalité et la procédure"
+      },
+      "excerpt": {
+        "rendered": "<p>Un accord pétrolier entre les États-Unis et le Venezuela soulève des questions sur sa transparence, sa base juridique et les procédures suivies pour le conclure.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/accord-petrolier-etats-unis-venezuela-65-milliards-barils-55-part-americaine.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11593,
       "slug": "riz-les-prix-mondiaux-remontent-la-hausse-du-riz-americain-a-surveiller-en-haiti",
       "date": "2026-09-05T13:33:57",
-      "modified": "2026-09-05T13:34:36",
+      "modified": "2026-09-07T10:27:03",
       "title": {
         "rendered": "Riz : les prix mondiaux remontent, la hausse du riz américain à surveiller en Haïti"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/emploi-etats-unis-juillet-2026-diaspora-haitienne.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11460,
-      "slug": "minerais-critiques-au-coeur-de-la-bataille-geopolitique-pour-les-technologies-de-demain",
-      "date": "2026-08-07T20:50:38",
-      "modified": "2026-08-07T20:51:44",
-      "title": {
-        "rendered": "Minerais critiques : au cœur de la bataille géopolitique pour les technologies de demain"
-      },
-      "excerpt": {
-        "rendered": "<p>Les minerais critiques sont devenus essentiels aux batteries, aux semi-conducteurs, à l’énergie et à la défense. Face à la domination chinoise sur plusieurs maillons de ces chaînes d’approvisionnement, les États-Unis cherchent à renforcer leur production, leurs capacités de transformation et leur main-d’œuvre spécialisée.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/minerais-critiques-mine-geopolitique.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
