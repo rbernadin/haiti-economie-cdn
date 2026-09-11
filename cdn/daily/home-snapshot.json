@@ -1,9 +1,9 @@
 {
-  "asof": "2026-09-10",
-  "generatedAt": "2026-09-10T16:42:25.349Z",
+  "asof": "2026-09-11",
+  "generatedAt": "2026-09-11T16:46:48.591Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-09-10T16:42:25.305Z",
+    "generated_at": "2026-09-11T16:46:48.547Z",
     "cards": {
       "trade": {
         "latest": {
@@ -938,7 +938,7 @@
       },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-09-10T16:42:25.108Z",
+        "generated_at": "2026-09-11T16:46:48.241Z",
         "latest": {
           "date": "2026-05-02",
           "total_rec": 445395512.66
