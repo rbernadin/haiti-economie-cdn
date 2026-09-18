@@ -1,56 +1,56 @@
 {
-  "asof": "2026-09-17",
-  "generatedAt": "2026-09-17T17:18:07.123Z",
+  "asof": "2026-09-18",
+  "generatedAt": "2026-09-18T16:45:05.155Z",
   "data": {
     "ref": {
-      "value": 130.4942,
-      "change": 0.03,
-      "percent": 0.02
+      "value": 130.455,
+      "change": -0.04,
+      "percent": -0.03
     },
     "tma": {
-      "value": 131.2197,
-      "change": 0.08,
-      "percent": 0.06
-    },
-    "euro_achat": {
-      "value": 150.6078,
-      "change": -0.01,
-      "percent": -0.01
-    },
-    "euro_vente": {
-      "value": 151.3892,
-      "change": -0.1,
-      "percent": -0.06
-    },
-    "peso_dom_achat": {
-      "value": 2.2146,
-      "change": 0,
-      "percent": 0.19
-    },
-    "peso_dom_vente": {
-      "value": 2.226,
-      "change": 0,
-      "percent": 0.13
-    },
-    "dol_can_achat": {
-      "value": 93.7242,
-      "change": -0.09,
-      "percent": -0.09
-    },
-    "dol_can_vente": {
-      "value": 94.2105,
-      "change": -0.14,
-      "percent": -0.15
-    },
-    "marche_banc_achat": {
-      "value": 130.2904,
+      "value": 131.2723,
       "change": 0.05,
       "percent": 0.04
     },
+    "euro_achat": {
+      "value": 149.6116,
+      "change": -1,
+      "percent": -0.66
+    },
+    "euro_vente": {
+      "value": 150.4434,
+      "change": -0.95,
+      "percent": -0.62
+    },
+    "peso_dom_achat": {
+      "value": 2.2139,
+      "change": 0,
+      "percent": -0.03
+    },
+    "peso_dom_vente": {
+      "value": 2.2262,
+      "change": 0,
+      "percent": 0.01
+    },
+    "dol_can_achat": {
+      "value": 93.2901,
+      "change": -0.43,
+      "percent": -0.46
+    },
+    "dol_can_vente": {
+      "value": 93.8088,
+      "change": -0.4,
+      "percent": -0.43
+    },
+    "marche_banc_achat": {
+      "value": 130.225,
+      "change": -0.07,
+      "percent": -0.05
+    },
     "marche_banc_vente": {
-      "value": 131.2197,
-      "change": 0.08,
-      "percent": 0.06
+      "value": 131.2723,
+      "change": 0.05,
+      "percent": 0.04
     }
   }
 }
