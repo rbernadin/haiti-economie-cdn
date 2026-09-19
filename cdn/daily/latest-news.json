@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-15T17:40:43.342Z",
+  "generated_at": "2026-09-19T16:31:41.144Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11605,
+      "slug": "croissance-economique-haiti-quatre-defis-banque-mondiale",
+      "date": "2026-09-18T10:59:33",
+      "modified": "2026-09-18T10:59:33",
+      "title": {
+        "rendered": "Banque mondiale : quatre défis à relever pour remettre Haïti sur la voie de la croissance"
+      },
+      "excerpt": {
+        "rendered": "<p>Emploi, déplacements, transferts de la diaspora et exportations : la Banque mondiale identifie quatre défis pour relancer l’économie haïtienne.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-croissance-economique-banque-mondiale.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11602,
       "slug": "washington-reoriente-une-partie-de-son-aide-militaire-vers-les-ameriques",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-deficit-commercial-structurel-importations-riz-production-locale.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11515,
-      "slug": "transferts-de-fonds-haiti-a-recu-plus-de-5-milliards-de-dollars-sur-lexercice-2025",
-      "date": "2026-08-09T00:56:57",
-      "modified": "2026-08-10T10:33:24",
-      "title": {
-        "rendered": "Transferts de fonds : Haïti a reçu plus de 5 milliards de dollars sur l’exercice 2025"
-      },
-      "excerpt": {
-        "rendered": "<p>Les transferts de la diaspora restent un pilier de l’économie haïtienne. Après avoir dépassé 5 milliards de dollars sur l’exercice 2025, ces flux continuent de soutenir les ménages et les réserves en devises, mais la fin du TPS aux États-Unis pourrait constituer un nouveau risque.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/transferts-fonds-diaspora-haiti-2025.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
