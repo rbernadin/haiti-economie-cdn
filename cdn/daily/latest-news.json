@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-09-20T16:50:33.856Z",
+  "generated_at": "2026-09-21T18:44:23.609Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11609,
+      "slug": "si-vous-voulez-diriger-haiti-votre-famille-doit-vivre-en-haiti-une-solution-ou-un-slogan",
+      "date": "2026-09-20T18:59:00",
+      "modified": "2026-09-20T18:59:01",
+      "title": {
+        "rendered": "« Si vous voulez diriger Haïti, votre famille doit vivre en Haïti » : une solution ou un slogan ?"
+      },
+      "excerpt": {
+        "rendered": "<p>La Constitution impose des conditions au responsable public, pas à sa famille. Faut-il changer cette règle ? Le débat mérite d’examiner sécurité, diaspora et responsabilité individuelle.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-diaspora-dirigeants-famille-etranger.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11605,
       "slug": "croissance-economique-haiti-quatre-defis-banque-mondiale",
       "date": "2026-09-18T10:59:33",
-      "modified": "2026-09-18T10:59:33",
+      "modified": "2026-09-21T13:20:23",
       "title": {
         "rendered": "Banque mondiale : quatre défis à relever pour remettre Haïti sur la voie de la croissance"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-la-lettre-de-cadrage-du-budge-2026-2027.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11544,
-      "slug": "haiti-comment-le-deficit-commercial-est-devenu-structurel",
-      "date": "2026-08-16T22:37:10",
-      "modified": "2026-08-22T17:56:04",
-      "title": {
-        "rendered": "Haïti : comment le déficit commercial est devenu structurel"
-      },
-      "excerpt": {
-        "rendered": "<p>Depuis les années 1960, le déficit commercial d’Haïti s’est progressivement élargi. Affaiblissement de l’agriculture, disparition du kochon kreyòl, ouverture du marché et faible développement des exportations ont contribué à rendre ce déséquilibre structurel.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-deficit-commercial-structurel-importations-riz-production-locale.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
