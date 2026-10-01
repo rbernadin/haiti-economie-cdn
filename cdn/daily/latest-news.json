@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-09-29T18:39:18.601Z",
+  "generated_at": "2026-10-01T18:54:27.135Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11616,
+      "slug": "haiti-cloture-lexercice-fiscal-2025-2026-une-stabilite-relative-mais-toujours-pas-de-reprise-economique",
+      "date": "2026-10-01T12:53:32",
+      "modified": "2026-10-01T12:55:02",
+      "title": {
+        "rendered": "Haïti clôture l’exercice fiscal 2025-2026 : une stabilité relative, mais toujours pas de reprise économique"
+      },
+      "excerpt": {
+        "rendered": "<p>Inflation en baisse, gourde relativement stable et réserves renforcées : Haïti termine l’exercice 2025-2026 avec davantage de stabilité, mais toujours sans véritable reprise économique.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/haiti-economie-ralentissement-mondial-reprise-1200x675-1.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11609,
       "slug": "si-vous-voulez-diriger-haiti-votre-famille-doit-vivre-en-haiti-une-solution-ou-un-slogan",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/guerre-commerciale-canada-etats-unis-2026.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11565,
-      "slug": "budget-2026-2027-le-gouvernement-mise-sur-la-securite-et-une-reprise-economique-encore-fragile",
-      "date": "2026-08-22T17:49:37",
-      "modified": "2026-08-22T17:49:38",
-      "title": {
-        "rendered": "Budget 2026-2027 : le gouvernement mise sur la sécurité et une reprise économique encore fragile"
-      },
-      "excerpt": {
-        "rendered": "<p>Le projet de budget 2026-2027 mise sur une stabilisation progressive de l’économie, avec une croissance de 0.2 %, une inflation encore élevée et la sécurité comme priorité centrale.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-la-lettre-de-cadrage-du-budge-2026-2027.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
