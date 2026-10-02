@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:53:38.080Z",
+  "generated_at": "2026-10-02T19:30:57.350Z",
   "dataset": "haiti_minimum_wage",
   "sources": {
     "current": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/current",
@@ -24,7 +24,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
@@ -137,7 +137,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
@@ -222,7 +222,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
@@ -267,7 +267,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
@@ -288,7 +288,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence de 1 000 G. Le salaire de production est fixé à 1 300 G.",
         "activities": [
           {
@@ -313,7 +313,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
@@ -338,7 +338,7 @@
         "legal_instrument": "Arrêté",
         "moniteur_issue": "Spécial No 21",
         "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-        "source_url": null,
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
         "notes": "Salaire minimum de référence par journée de huit heures.",
         "activities": [
           {
