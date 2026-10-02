@@ -1,350 +1,678 @@
 {
-  "generated_at": "2026-10-02T17:06:06.776Z",
-  "source": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/current",
-  "geography": "Haiti",
-  "currency": "HTG",
-  "unit": "gourdes per workday",
-  "workday_basis": "8 hours",
-  "effective_date": "2026-05-06T00:00:00.000Z",
-  "segments": [
-    {
-      "id": "29",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "A",
-      "daily_wage_htg": "1000.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "125.00",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Production privée d’électricité"
-        },
-        {
-          "order": 2,
-          "name": "Institutions financières (banques, maisons de transfert, sociétés d’assurance)"
-        },
-        {
-          "order": 3,
-          "name": "Télécommunications"
-        },
-        {
-          "order": 4,
-          "name": "Commerce import-export"
-        },
-        {
-          "order": 5,
-          "name": "Supermarchés"
-        },
-        {
-          "order": 6,
-          "name": "Bijouteries"
-        },
-        {
-          "order": 7,
-          "name": "Galeries d’art"
-        },
-        {
-          "order": 8,
-          "name": "Magasins de meubles, de mobiliers de bureaux et d’appareils électroménagers"
-        },
-        {
-          "order": 9,
-          "name": "Magasins de matériels informatiques"
-        },
-        {
-          "order": 10,
-          "name": "Entreprises de location de voitures"
-        },
-        {
-          "order": 11,
-          "name": "Entreprises de transport aérien"
-        },
-        {
-          "order": 12,
-          "name": "Entreprises de courrier, de transport de colis et de cargo"
-        },
-        {
-          "order": 13,
-          "name": "Entreprises de jeux de hasard (tenanciers de borlette, loterie, casino, etc.)"
-        },
-        {
-          "order": 14,
-          "name": "Concessionnaires d’automobiles"
-        },
-        {
-          "order": 15,
-          "name": "Communication, agence publicitaire et presses écrite, parlée, télévisée et électronique, sauf presse communautaire"
-        },
-        {
-          "order": 16,
-          "name": "Institutions scolaires privées"
-        },
-        {
-          "order": 17,
-          "name": "Institutions universitaires privées"
-        },
-        {
-          "order": 18,
-          "name": "Institutions de santé privées, cabinets de médecins, polycliniques"
-        },
-        {
-          "order": 19,
-          "name": "Pompes funèbres"
-        },
-        {
-          "order": 20,
-          "name": "Agences maritimes et aéroportuaires"
-        },
-        {
-          "order": 21,
-          "name": "Cabinets de professionnels libéraux et de consultants"
-        },
-        {
-          "order": 22,
-          "name": "Agences de voyage"
-        },
-        {
-          "order": 23,
-          "name": "Hôtels avec 4 hibiscus et plus"
-        },
-        {
-          "order": 24,
-          "name": "Agences immobilières"
-        }
-      ]
-    },
-    {
-      "id": "30",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "B",
-      "daily_wage_htg": "900.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "112.50",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Bâtiments et Travaux Publics (BTP)"
-        },
-        {
-          "order": 2,
-          "name": "Entreprises de location de camions et d’engins lourds"
-        },
-        {
-          "order": 3,
-          "name": "Entreprises de location de matériaux de construction"
-        },
-        {
-          "order": 4,
-          "name": "Entreprises de transport de matériaux de construction"
-        },
-        {
-          "order": 5,
-          "name": "Quincailleries"
-        },
-        {
-          "order": 6,
-          "name": "Autres institutions financières (coopératives ou caisses populaires, institutions de microcrédit)"
-        },
-        {
-          "order": 7,
-          "name": "Commerce de gros"
-        },
-        {
-          "order": 8,
-          "name": "Magasins de produits cosmétiques et de vêtements"
-        },
-        {
-          "order": 9,
-          "name": "Commerce de livraison d’eau en vrac"
-        },
-        {
-          "order": 10,
-          "name": "Entreprises de transport terrestre"
-        },
-        {
-          "order": 11,
-          "name": "Hôtels avec 3 hibiscus et moins"
-        },
-        {
-          "order": 12,
-          "name": "Imprimerie, photocopie, infographie, lithographie et services informatiques"
-        },
-        {
-          "order": 13,
-          "name": "Salons de coiffure et de massage"
-        },
-        {
-          "order": 14,
-          "name": "Entreprises de nettoyage de vêtements (laundry and dry cleaning)"
-        },
-        {
-          "order": 15,
-          "name": "Industries extractives (mines et carrières)"
-        },
-        {
-          "order": 16,
-          "name": "Entreprises de transport maritime"
-        },
-        {
-          "order": 17,
-          "name": "Industries manufacturières tournées vers le marché local, industries d’embouteillage de boissons gazeuses, de jus, d’eau traitée et brasseries"
-        }
-      ]
-    },
-    {
-      "id": "31",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "C",
-      "daily_wage_htg": "760.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "95.00",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Restaurants"
-        },
-        {
-          "order": 2,
-          "name": "Agriculture, sylviculture, élevage et pêche"
-        },
-        {
-          "order": 3,
-          "name": "Industries de transformation de produits agricoles"
-        },
-        {
-          "order": 4,
-          "name": "Commerce de détail, sauf supermarchés, bijouteries, magasins de produits cosmétiques et de vêtements"
-        },
-        {
-          "order": 5,
-          "name": "Boutiques d’artisanat et maroquineries"
-        },
-        {
-          "order": 6,
-          "name": "Presse communautaire"
-        },
-        {
-          "order": 7,
-          "name": "Autres services non marchands : organisations à but non lucratif, ONG nationales et internationales, fondations, associations, coopératives de production et de services non financiers"
-        }
-      ]
-    },
-    {
-      "id": "32",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "E",
-      "daily_wage_htg": "500.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "62.50",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Personnel de service à domicile (gens de maison)"
-        }
-      ]
-    },
-    {
-      "id": "33",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "F",
-      "daily_wage_htg": "1000.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": "1300.00",
-      "hourly_equivalent_htg": "125.00",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence de 1 000 G. Le salaire de production est fixé à 1 300 G.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Industries d’assemblage tournées vers l’exportation"
-        },
-        {
-          "order": 2,
-          "name": "Autres industries manufacturières tournées vers l’exportation"
-        }
-      ]
-    },
-    {
-      "id": "34",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "G",
-      "daily_wage_htg": "925.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "115.63",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Agences de sécurité privées"
-        },
-        {
-          "order": 2,
-          "name": "Entreprises de distribution de produits pétroliers"
-        }
-      ]
-    },
-    {
-      "id": "35",
-      "effective_date": "2026-05-06T00:00:00.000Z",
-      "publication_date": "2026-05-06T00:00:00.000Z",
-      "segment": "H",
-      "daily_wage_htg": "900.00",
-      "workday_hours": "8.00",
-      "production_wage_htg": null,
-      "hourly_equivalent_htg": "112.50",
-      "legal_instrument": "Arrêté",
-      "moniteur_issue": "Spécial No 21",
-      "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
-      "source_url": null,
-      "notes": "Salaire minimum de référence par journée de huit heures.",
-      "activities": [
-        {
-          "order": 1,
-          "name": "Écoles professionnelles privées"
-        },
-        {
-          "order": 2,
-          "name": "Institutions de santé privées employant plus de dix (10) personnes et offrant des services d’hospitalisation"
-        }
-      ]
-    }
-  ]
+  "generated_at": "2026-10-02T18:53:38.080Z",
+  "dataset": "haiti_minimum_wage",
+  "sources": {
+    "current": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/current",
+    "history": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/history"
+  },
+  "current": {
+    "geography": "Haiti",
+    "currency": "HTG",
+    "unit": "gourdes per workday",
+    "workday_basis": "8 hours",
+    "effective_date": "2026-05-06T00:00:00.000Z",
+    "segments": [
+      {
+        "id": "29",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "1000.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "125.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Production privée d’électricité"
+          },
+          {
+            "order": 2,
+            "name": "Institutions financières (banques, maisons de transfert, sociétés d’assurance)"
+          },
+          {
+            "order": 3,
+            "name": "Télécommunications"
+          },
+          {
+            "order": 4,
+            "name": "Commerce import-export"
+          },
+          {
+            "order": 5,
+            "name": "Supermarchés"
+          },
+          {
+            "order": 6,
+            "name": "Bijouteries"
+          },
+          {
+            "order": 7,
+            "name": "Galeries d’art"
+          },
+          {
+            "order": 8,
+            "name": "Magasins de meubles, de mobiliers de bureaux et d’appareils électroménagers"
+          },
+          {
+            "order": 9,
+            "name": "Magasins de matériels informatiques"
+          },
+          {
+            "order": 10,
+            "name": "Entreprises de location de voitures"
+          },
+          {
+            "order": 11,
+            "name": "Entreprises de transport aérien"
+          },
+          {
+            "order": 12,
+            "name": "Entreprises de courrier, de transport de colis et de cargo"
+          },
+          {
+            "order": 13,
+            "name": "Entreprises de jeux de hasard (tenanciers de borlette, loterie, casino, etc.)"
+          },
+          {
+            "order": 14,
+            "name": "Concessionnaires d’automobiles"
+          },
+          {
+            "order": 15,
+            "name": "Communication, agence publicitaire et presses écrite, parlée, télévisée et électronique, sauf presse communautaire"
+          },
+          {
+            "order": 16,
+            "name": "Institutions scolaires privées"
+          },
+          {
+            "order": 17,
+            "name": "Institutions universitaires privées"
+          },
+          {
+            "order": 18,
+            "name": "Institutions de santé privées, cabinets de médecins, polycliniques"
+          },
+          {
+            "order": 19,
+            "name": "Pompes funèbres"
+          },
+          {
+            "order": 20,
+            "name": "Agences maritimes et aéroportuaires"
+          },
+          {
+            "order": 21,
+            "name": "Cabinets de professionnels libéraux et de consultants"
+          },
+          {
+            "order": 22,
+            "name": "Agences de voyage"
+          },
+          {
+            "order": 23,
+            "name": "Hôtels avec 4 hibiscus et plus"
+          },
+          {
+            "order": 24,
+            "name": "Agences immobilières"
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "900.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "112.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Bâtiments et Travaux Publics (BTP)"
+          },
+          {
+            "order": 2,
+            "name": "Entreprises de location de camions et d’engins lourds"
+          },
+          {
+            "order": 3,
+            "name": "Entreprises de location de matériaux de construction"
+          },
+          {
+            "order": 4,
+            "name": "Entreprises de transport de matériaux de construction"
+          },
+          {
+            "order": 5,
+            "name": "Quincailleries"
+          },
+          {
+            "order": 6,
+            "name": "Autres institutions financières (coopératives ou caisses populaires, institutions de microcrédit)"
+          },
+          {
+            "order": 7,
+            "name": "Commerce de gros"
+          },
+          {
+            "order": 8,
+            "name": "Magasins de produits cosmétiques et de vêtements"
+          },
+          {
+            "order": 9,
+            "name": "Commerce de livraison d’eau en vrac"
+          },
+          {
+            "order": 10,
+            "name": "Entreprises de transport terrestre"
+          },
+          {
+            "order": 11,
+            "name": "Hôtels avec 3 hibiscus et moins"
+          },
+          {
+            "order": 12,
+            "name": "Imprimerie, photocopie, infographie, lithographie et services informatiques"
+          },
+          {
+            "order": 13,
+            "name": "Salons de coiffure et de massage"
+          },
+          {
+            "order": 14,
+            "name": "Entreprises de nettoyage de vêtements (laundry and dry cleaning)"
+          },
+          {
+            "order": 15,
+            "name": "Industries extractives (mines et carrières)"
+          },
+          {
+            "order": 16,
+            "name": "Entreprises de transport maritime"
+          },
+          {
+            "order": 17,
+            "name": "Industries manufacturières tournées vers le marché local, industries d’embouteillage de boissons gazeuses, de jus, d’eau traitée et brasseries"
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "760.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "95.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Restaurants"
+          },
+          {
+            "order": 2,
+            "name": "Agriculture, sylviculture, élevage et pêche"
+          },
+          {
+            "order": 3,
+            "name": "Industries de transformation de produits agricoles"
+          },
+          {
+            "order": 4,
+            "name": "Commerce de détail, sauf supermarchés, bijouteries, magasins de produits cosmétiques et de vêtements"
+          },
+          {
+            "order": 5,
+            "name": "Boutiques d’artisanat et maroquineries"
+          },
+          {
+            "order": 6,
+            "name": "Presse communautaire"
+          },
+          {
+            "order": 7,
+            "name": "Autres services non marchands : organisations à but non lucratif, ONG nationales et internationales, fondations, associations, coopératives de production et de services non financiers"
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "500.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "62.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Personnel de service à domicile (gens de maison)"
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "1000.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": "1300.00",
+        "hourly_equivalent_htg": "125.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence de 1 000 G. Le salaire de production est fixé à 1 300 G.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Industries d’assemblage tournées vers l’exportation"
+          },
+          {
+            "order": 2,
+            "name": "Autres industries manufacturières tournées vers l’exportation"
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "925.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "115.63",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Agences de sécurité privées"
+          },
+          {
+            "order": 2,
+            "name": "Entreprises de distribution de produits pétroliers"
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "900.00",
+        "workday_hours": "8.00",
+        "production_wage_htg": null,
+        "hourly_equivalent_htg": "112.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": null,
+        "notes": "Salaire minimum de référence par journée de huit heures.",
+        "activities": [
+          {
+            "order": 1,
+            "name": "Écoles professionnelles privées"
+          },
+          {
+            "order": 2,
+            "name": "Institutions de santé privées employant plus de dix (10) personnes et offrant des services d’hospitalisation"
+          }
+        ]
+      }
+    ]
+  },
+  "history": {
+    "geography": "Haiti",
+    "currency": "HTG",
+    "count": 35,
+    "data": [
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "400.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "50.00"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "350.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "43.75"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "290.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "36.25"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "200.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "25.00"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "350.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "43.75"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "300.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "37.50"
+      },
+      {
+        "effective_date": "2017-08-01T00:00:00.000Z",
+        "publication_date": "2017-07-28T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "350.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "43.75"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "500.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "62.50"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "400.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "50.00"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "350.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "43.75"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "215.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "26.88"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "420.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "52.50"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "400.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "50.00"
+      },
+      {
+        "effective_date": "2018-10-01T00:00:00.000Z",
+        "publication_date": "2018-10-08T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "400.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "50.00"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "550.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "68.75"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "440.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "55.00"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "385.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "48.13"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "250.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "31.25"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "500.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "62.50"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "440.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "55.00"
+      },
+      {
+        "effective_date": "2019-11-01T00:00:00.000Z",
+        "publication_date": "2019-10-31T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "440.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "55.00"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "770.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "96.25"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "615.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "76.88"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "540.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "67.50"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "350.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "43.75"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "685.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "85.63"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "615.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "76.88"
+      },
+      {
+        "effective_date": "2022-02-21T00:00:00.000Z",
+        "publication_date": "2022-02-21T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "615.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "76.88"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "A",
+        "daily_wage_htg": "1000.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "125.00"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "B",
+        "daily_wage_htg": "900.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "112.50"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "C",
+        "daily_wage_htg": "760.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "95.00"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "E",
+        "daily_wage_htg": "500.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "62.50"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "F",
+        "daily_wage_htg": "1000.00",
+        "production_wage_htg": "1300.00",
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "125.00"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "G",
+        "daily_wage_htg": "925.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "115.63"
+      },
+      {
+        "effective_date": "2026-05-06T00:00:00.000Z",
+        "publication_date": "2026-05-06T00:00:00.000Z",
+        "segment": "H",
+        "daily_wage_htg": "900.00",
+        "production_wage_htg": null,
+        "workday_hours": "8.00",
+        "hourly_equivalent_htg": "112.50"
+      }
+    ]
+  }
 }
