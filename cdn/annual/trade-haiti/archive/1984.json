@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "dataset": "haiti_trade_annual",
+  "frequency": "annual",
+  "year": 1984,
+  "generated_at": "2026-08-16T02:07:35.018Z",
+  "data": {
+    "year": 1984,
+    "trade_balance": -271000000,
+    "exports_constant": 179000000,
+    "imports_constant": 450000000
+  },
+  "source": {
+    "api": "https://haiti-economie-api.onrender.com/api/trade-history-standardized?count=all"
+  }
+}

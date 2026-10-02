@@ -1,0 +1,440 @@
+{
+  "schema": 1,
+  "dataset": "haiti_trade_annual",
+  "title": "Commerce extérieur d’Haïti — données annuelles",
+  "frequency": "annual",
+  "country": {
+    "name": "Haiti",
+    "iso2": "HT",
+    "iso3": "HTI"
+  },
+  "generated_at": "2026-08-16T02:07:35.018Z",
+  "source": {
+    "api": "https://haiti-economie-api.onrender.com/api/trade-history-standardized?count=all"
+  },
+  "latest": {
+    "year": 2024,
+    "trade_balance": -2404000000,
+    "change": 76000000,
+    "percent": -3.06
+  },
+  "latest_breakdown": {
+    "exports_constant": 710000000,
+    "exports_perc_gdp": 3.400774933,
+    "imports_constant": 3114000000,
+    "imports_perc_gdp": 18.84711044
+  },
+  "stats": {
+    "observations": 60,
+    "first_year": 1965,
+    "last_year": 2024
+  },
+  "history": [
+    {
+      "year": 1965,
+      "trade_balance": 3000000,
+      "exports_constant": 37000000,
+      "imports_constant": 34000000
+    },
+    {
+      "year": 1966,
+      "trade_balance": -2000000,
+      "exports_constant": 36000000,
+      "imports_constant": 38000000
+    },
+    {
+      "year": 1967,
+      "trade_balance": -2000000,
+      "exports_constant": 34000000,
+      "imports_constant": 36000000
+    },
+    {
+      "year": 1968,
+      "trade_balance": -2000000,
+      "exports_constant": 36000000,
+      "imports_constant": 38000000
+    },
+    {
+      "year": 1969,
+      "trade_balance": -2000000,
+      "exports_constant": 37000000,
+      "imports_constant": 39000000
+    },
+    {
+      "year": 1970,
+      "trade_balance": -15000000,
+      "exports_constant": 40000000,
+      "imports_constant": 55000000
+    },
+    {
+      "year": 1971,
+      "trade_balance": -13000000,
+      "exports_constant": 47000000,
+      "imports_constant": 60000000
+    },
+    {
+      "year": 1972,
+      "trade_balance": -25000000,
+      "exports_constant": 44000000,
+      "imports_constant": 69000000
+    },
+    {
+      "year": 1973,
+      "trade_balance": -30000000,
+      "exports_constant": 53000000,
+      "imports_constant": 83000000
+    },
+    {
+      "year": 1974,
+      "trade_balance": -53000000,
+      "exports_constant": 72000000,
+      "imports_constant": 125000000
+    },
+    {
+      "year": 1975,
+      "trade_balance": -69000000,
+      "exports_constant": 80000000,
+      "imports_constant": 149000000
+    },
+    {
+      "year": 1976,
+      "trade_balance": -83000000,
+      "exports_constant": 124000000,
+      "imports_constant": 207000000
+    },
+    {
+      "year": 1977,
+      "trade_balance": -64000000,
+      "exports_constant": 149000000,
+      "imports_constant": 213000000
+    },
+    {
+      "year": 1978,
+      "trade_balance": -78000000,
+      "exports_constant": 155000000,
+      "imports_constant": 233000000
+    },
+    {
+      "year": 1979,
+      "trade_balance": -87000000,
+      "exports_constant": 185000000,
+      "imports_constant": 272000000
+    },
+    {
+      "year": 1980,
+      "trade_balance": -149000000,
+      "exports_constant": 226000000,
+      "imports_constant": 375000000
+    },
+    {
+      "year": 1981,
+      "trade_balance": -309000000,
+      "exports_constant": 152000000,
+      "imports_constant": 461000000
+    },
+    {
+      "year": 1982,
+      "trade_balance": -209000000,
+      "exports_constant": 178000000,
+      "imports_constant": 387000000
+    },
+    {
+      "year": 1983,
+      "trade_balance": -275000000,
+      "exports_constant": 166000000,
+      "imports_constant": 441000000
+    },
+    {
+      "year": 1984,
+      "trade_balance": -271000000,
+      "exports_constant": 179000000,
+      "imports_constant": 450000000
+    },
+    {
+      "year": 1985,
+      "trade_balance": -274000000,
+      "exports_constant": 168000000,
+      "imports_constant": 442000000
+    },
+    {
+      "year": 1986,
+      "trade_balance": -176000000,
+      "exports_constant": 184000000,
+      "imports_constant": 360000000
+    },
+    {
+      "year": 1987,
+      "trade_balance": -185000000,
+      "exports_constant": 214000000,
+      "imports_constant": 399000000
+    },
+    {
+      "year": 1988,
+      "trade_balance": -165000000,
+      "exports_constant": 179000000,
+      "imports_constant": 344000000
+    },
+    {
+      "year": 1989,
+      "trade_balance": -147000000,
+      "exports_constant": 144000000,
+      "imports_constant": 291000000
+    },
+    {
+      "year": 1990,
+      "trade_balance": -172000000,
+      "exports_constant": 160000000,
+      "imports_constant": 332000000
+    },
+    {
+      "year": 1991,
+      "trade_balance": -234000000,
+      "exports_constant": 166000000,
+      "imports_constant": 400000000
+    },
+    {
+      "year": 1992,
+      "trade_balance": -205000000,
+      "exports_constant": 73000000,
+      "imports_constant": 278000000
+    },
+    {
+      "year": 1993,
+      "trade_balance": -275000000,
+      "exports_constant": 80000000,
+      "imports_constant": 355000000
+    },
+    {
+      "year": 1994,
+      "trade_balance": -169000000,
+      "exports_constant": 82000000,
+      "imports_constant": 251000000
+    },
+    {
+      "year": 1995,
+      "trade_balance": -543000000,
+      "exports_constant": 110000000,
+      "imports_constant": 653000000
+    },
+    {
+      "year": 1996,
+      "trade_balance": -575000000,
+      "exports_constant": 90000000,
+      "imports_constant": 665000000
+    },
+    {
+      "year": 1997,
+      "trade_balance": -436000000,
+      "exports_constant": 212000000,
+      "imports_constant": 648000000
+    },
+    {
+      "year": 1998,
+      "trade_balance": -477000000,
+      "exports_constant": 320000000,
+      "imports_constant": 797000000
+    },
+    {
+      "year": 1999,
+      "trade_balance": -691000000,
+      "exports_constant": 334000000,
+      "imports_constant": 1025000000
+    },
+    {
+      "year": 2000,
+      "trade_balance": -718000000,
+      "exports_constant": 318000000,
+      "imports_constant": 1036000000
+    },
+    {
+      "year": 2001,
+      "trade_balance": -739000000,
+      "exports_constant": 274000000,
+      "imports_constant": 1013000000
+    },
+    {
+      "year": 2002,
+      "trade_balance": -850000000,
+      "exports_constant": 280000000,
+      "imports_constant": 1130000000
+    },
+    {
+      "year": 2003,
+      "trade_balance": -841000000,
+      "exports_constant": 347000000,
+      "imports_constant": 1188000000
+    },
+    {
+      "year": 2004,
+      "trade_balance": -915000000,
+      "exports_constant": 391000000,
+      "imports_constant": 1306000000
+    },
+    {
+      "year": 2005,
+      "trade_balance": -984000000,
+      "exports_constant": 470000000,
+      "imports_constant": 1454000000
+    },
+    {
+      "year": 2006,
+      "trade_balance": -1110000000,
+      "exports_constant": 509000000,
+      "imports_constant": 1619000000
+    },
+    {
+      "year": 2007,
+      "trade_balance": -1160000000,
+      "exports_constant": 522000000,
+      "imports_constant": 1682000000
+    },
+    {
+      "year": 2008,
+      "trade_balance": -1835000000,
+      "exports_constant": 480000000,
+      "imports_constant": 2315000000
+    },
+    {
+      "year": 2009,
+      "trade_balance": -1548000000,
+      "exports_constant": 576000000,
+      "imports_constant": 2124000000
+    },
+    {
+      "year": 2010,
+      "trade_balance": -2567000000,
+      "exports_constant": 579000000,
+      "imports_constant": 3146000000
+    },
+    {
+      "year": 2011,
+      "trade_balance": -2253000000,
+      "exports_constant": 767000000,
+      "imports_constant": 3020000000
+    },
+    {
+      "year": 2012,
+      "trade_balance": -2355000000,
+      "exports_constant": 815000000,
+      "imports_constant": 3170000000
+    },
+    {
+      "year": 2013,
+      "trade_balance": -2695000000,
+      "exports_constant": 885000000,
+      "imports_constant": 3580000000
+    },
+    {
+      "year": 2014,
+      "trade_balance": -2784000000,
+      "exports_constant": 950000000,
+      "imports_constant": 3734000000
+    },
+    {
+      "year": 2015,
+      "trade_balance": -2801000000,
+      "exports_constant": 882000000,
+      "imports_constant": 3683000000
+    },
+    {
+      "year": 2016,
+      "trade_balance": -2437000000,
+      "exports_constant": 986000000,
+      "imports_constant": 3423000000
+    },
+    {
+      "year": 2017,
+      "trade_balance": -2910000000,
+      "exports_constant": 980000000,
+      "imports_constant": 3890000000
+    },
+    {
+      "year": 2018,
+      "trade_balance": -3744000000,
+      "exports_constant": 1078000000,
+      "imports_constant": 4822000000
+    },
+    {
+      "year": 2019,
+      "trade_balance": -2980000000,
+      "exports_constant": 1202000000,
+      "imports_constant": 4182000000
+    },
+    {
+      "year": 2020,
+      "trade_balance": -2664000000,
+      "exports_constant": 885000000,
+      "imports_constant": 3549000000
+    },
+    {
+      "year": 2021,
+      "trade_balance": -3174000000,
+      "exports_constant": 1130000000,
+      "imports_constant": 4304000000
+    },
+    {
+      "year": 2022,
+      "trade_balance": -3340000000,
+      "exports_constant": 1282000000,
+      "imports_constant": 4622000000
+    },
+    {
+      "year": 2023,
+      "trade_balance": -2480000000,
+      "exports_constant": 898000000,
+      "imports_constant": 3378000000
+    },
+    {
+      "year": 2024,
+      "trade_balance": -2404000000,
+      "exports_constant": 710000000,
+      "imports_constant": 3114000000
+    }
+  ],
+  "top_exports": [
+    {
+      "name": "Articles manufacturés",
+      "value": 449340000
+    },
+    {
+      "name": "Huiles essentielles",
+      "value": 23440000
+    },
+    {
+      "name": "Fruits de mer",
+      "value": 12400000
+    },
+    {
+      "name": "Petite industrie",
+      "value": 7980000
+    },
+    {
+      "name": "Autres prod. industriels",
+      "value": 3770000
+    }
+  ],
+  "top_imports": [
+    {
+      "name": "Articles manufacturés",
+      "value": 1521.75
+    },
+    {
+      "name": "Combustibles minéraux",
+      "value": 889.82
+    },
+    {
+      "name": "Produits alimentaires",
+      "value": 777.7
+    },
+    {
+      "name": "Articles manufacturés divers",
+      "value": 463.15
+    },
+    {
+      "name": "Machines & matériel de transport",
+      "value": 417.43
+    }
+  ],
+  "top_exports_year": 2022,
+  "top_imports_year": 2022
+}

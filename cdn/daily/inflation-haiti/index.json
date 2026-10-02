@@ -2,14 +2,14 @@
   "dataset": "haiti-monthly-inflation",
   "title": "Inflation mensuelle en Haïti",
   "frequency": "monthly",
-  "as_of": "2026-06",
-  "count": 58,
-  "generated_at": "2026-08-02T17:11:28.444Z",
+  "as_of": "2026-07",
+  "count": 59,
+  "generated_at": "2026-09-07T17:05:31.157Z",
   "source_api": "https://haiti-economie-api.onrender.com/api/inflation-history-standardized?count=all",
-  "sha256": "dba75d74250e647616365fe8f8d4124764037a023ed1beca0e5a5fc0f61a6c0c",
+  "sha256": "211a242b1af7e129333975ec42967193041010838e308e1d4ea0d1182caa8f5d",
   "files": {
     "latest": "latest.json",
-    "archive": "archive/2026-06.json"
+    "archive": "archive/2026-07.json"
   },
   "fields": [
     "indice_general",

@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "dataset": "haiti_trade_annual",
+  "frequency": "annual",
+  "generated_at": "2026-08-16T02:07:35.018Z",
+  "latest": {
+    "year": 2024,
+    "trade_balance": -2404000000,
+    "change": 76000000,
+    "percent": -3.06
+  },
+  "latest_breakdown": {
+    "exports_constant": 710000000,
+    "exports_perc_gdp": 3.400774933,
+    "imports_constant": 3114000000,
+    "imports_perc_gdp": 18.84711044
+  },
+  "top_exports": [
+    {
+      "name": "Articles manufacturés",
+      "value": 449340000
+    },
+    {
+      "name": "Huiles essentielles",
+      "value": 23440000
+    },
+    {
+      "name": "Fruits de mer",
+      "value": 12400000
+    },
+    {
+      "name": "Petite industrie",
+      "value": 7980000
+    },
+    {
+      "name": "Autres prod. industriels",
+      "value": 3770000
+    }
+  ],
+  "top_imports": [
+    {
+      "name": "Articles manufacturés",
+      "value": 1521.75
+    },
+    {
+      "name": "Combustibles minéraux",
+      "value": 889.82
+    },
+    {
+      "name": "Produits alimentaires",
+      "value": 777.7
+    },
+    {
+      "name": "Articles manufacturés divers",
+      "value": 463.15
+    },
+    {
+      "name": "Machines & matériel de transport",
+      "value": 417.43
+    }
+  ],
+  "top_exports_year": 2022,
+  "top_imports_year": 2022
+}
