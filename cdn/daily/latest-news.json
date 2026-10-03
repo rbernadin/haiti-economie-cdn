@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-02T18:27:07.637Z",
+  "generated_at": "2026-10-03T17:18:13.740Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11636,
+      "slug": "etats-unis-les-creations-demplois-ralentissent-fortement-en-septembre",
+      "date": "2026-10-02T21:13:36",
+      "modified": "2026-10-02T21:41:04",
+      "title": {
+        "rendered": "États-Unis : les créations d’emplois ralentissent fortement en septembre"
+      },
+      "excerpt": {
+        "rendered": "<p>Le marché du travail américain ralentit nettement : seulement 29 000 emplois ont été créés en septembre et le taux de chômage est remonté à 4,2 %.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/emploi-etats-unis-septembre-2026-marche-de-l-emploi.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11616,
       "slug": "haiti-cloture-lexercice-fiscal-2025-2026-une-stabilite-relative-mais-toujours-pas-de-reprise-economique",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/etats-unis-sanctions-iran-tresor-americain.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11572,
-      "slug": "canada-etats-unis-la-guerre-commerciale-sintensifie-et-fragilise-lintegration-nord-americaine",
-      "date": "2026-08-23T15:07:36",
-      "modified": "2026-08-23T15:25:30",
-      "title": {
-        "rendered": "Canada–États-Unis : la guerre commerciale s’intensifie et fragilise l’intégration nord-américaine"
-      },
-      "excerpt": {
-        "rendered": "<p>La guerre commerciale entre le Canada et les États-Unis s’intensifie. Nouveaux tarifs, représailles et tensions sur l’ACEUM mettent à l’épreuve l’une des relations économiques les plus intégrées au monde.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/guerre-commerciale-canada-etats-unis-2026.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
