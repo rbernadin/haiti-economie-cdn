@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:22:08.725Z",
+  "generated_at": "2026-10-03T00:20:58.462Z",
   "dataset": "haiti_minimum_wage",
   "sources": {
     "current": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/current",
@@ -365,7 +365,12 @@
         "daily_wage_htg": "400.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "50.00"
+        "hourly_equivalent_htg": "50.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -374,7 +379,12 @@
         "daily_wage_htg": "350.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "43.75"
+        "hourly_equivalent_htg": "43.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -383,7 +393,12 @@
         "daily_wage_htg": "290.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "36.25"
+        "hourly_equivalent_htg": "36.25",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -392,7 +407,12 @@
         "daily_wage_htg": "200.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "25.00"
+        "hourly_equivalent_htg": "25.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -401,7 +421,12 @@
         "daily_wage_htg": "350.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "43.75"
+        "hourly_equivalent_htg": "43.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -410,7 +435,12 @@
         "daily_wage_htg": "300.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "37.50"
+        "hourly_equivalent_htg": "37.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2017-08-01T00:00:00.000Z",
@@ -419,7 +449,12 @@
         "daily_wage_htg": "350.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "43.75"
+        "hourly_equivalent_htg": "43.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 23",
+        "source_title": "Arrêté fixant le salaire minimum",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2017-arrete-le-moniteur-2017-07-28-special-23.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -428,7 +463,12 @@
         "daily_wage_htg": "500.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "62.50"
+        "hourly_equivalent_htg": "62.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -437,7 +477,12 @@
         "daily_wage_htg": "400.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "50.00"
+        "hourly_equivalent_htg": "50.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -446,7 +491,12 @@
         "daily_wage_htg": "350.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "43.75"
+        "hourly_equivalent_htg": "43.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -455,7 +505,12 @@
         "daily_wage_htg": "215.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "26.88"
+        "hourly_equivalent_htg": "26.88",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -464,7 +519,12 @@
         "daily_wage_htg": "420.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "52.50"
+        "hourly_equivalent_htg": "52.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -473,7 +533,12 @@
         "daily_wage_htg": "400.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "50.00"
+        "hourly_equivalent_htg": "50.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2018-10-01T00:00:00.000Z",
@@ -482,7 +547,12 @@
         "daily_wage_htg": "400.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "50.00"
+        "hourly_equivalent_htg": "50.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 18",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er octobre 2018",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2018-arrete-le-moniteur-2018-10-08-special-18.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -491,7 +561,12 @@
         "daily_wage_htg": "550.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "68.75"
+        "hourly_equivalent_htg": "68.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -500,7 +575,12 @@
         "daily_wage_htg": "440.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "55.00"
+        "hourly_equivalent_htg": "55.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -509,7 +589,12 @@
         "daily_wage_htg": "385.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "48.13"
+        "hourly_equivalent_htg": "48.13",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -518,7 +603,12 @@
         "daily_wage_htg": "250.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "31.25"
+        "hourly_equivalent_htg": "31.25",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -527,7 +617,12 @@
         "daily_wage_htg": "500.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "62.50"
+        "hourly_equivalent_htg": "62.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -536,7 +631,12 @@
         "daily_wage_htg": "440.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "55.00"
+        "hourly_equivalent_htg": "55.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2019-11-01T00:00:00.000Z",
@@ -545,7 +645,12 @@
         "daily_wage_htg": "440.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "55.00"
+        "hourly_equivalent_htg": "55.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 20",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 1er novembre 2019",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2019-arrete-le-moniteur-2019-10-31-special-20.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -554,7 +659,12 @@
         "daily_wage_htg": "770.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "96.25"
+        "hourly_equivalent_htg": "96.25",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -563,7 +673,12 @@
         "daily_wage_htg": "615.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "76.88"
+        "hourly_equivalent_htg": "76.88",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -572,7 +687,12 @@
         "daily_wage_htg": "540.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "67.50"
+        "hourly_equivalent_htg": "67.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -581,7 +701,12 @@
         "daily_wage_htg": "350.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "43.75"
+        "hourly_equivalent_htg": "43.75",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -590,7 +715,12 @@
         "daily_wage_htg": "685.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "85.63"
+        "hourly_equivalent_htg": "85.63",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -599,7 +729,12 @@
         "daily_wage_htg": "615.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "76.88"
+        "hourly_equivalent_htg": "76.88",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2022-02-21T00:00:00.000Z",
@@ -608,7 +743,12 @@
         "daily_wage_htg": "615.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "76.88"
+        "hourly_equivalent_htg": "76.88",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 5",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 21 février 2022",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-salaire-minimum-2022-arrete-le-moniteur-2022-02-21-special-5.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -617,7 +757,12 @@
         "daily_wage_htg": "1000.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "125.00"
+        "hourly_equivalent_htg": "125.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -626,7 +771,12 @@
         "daily_wage_htg": "900.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "112.50"
+        "hourly_equivalent_htg": "112.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -635,7 +785,12 @@
         "daily_wage_htg": "760.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "95.00"
+        "hourly_equivalent_htg": "95.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -644,7 +799,12 @@
         "daily_wage_htg": "500.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "62.50"
+        "hourly_equivalent_htg": "62.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -653,7 +813,12 @@
         "daily_wage_htg": "1000.00",
         "production_wage_htg": "1300.00",
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "125.00"
+        "hourly_equivalent_htg": "125.00",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence de 1 000 G. Le salaire de production est fixé à 1 300 G."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -662,7 +827,12 @@
         "daily_wage_htg": "925.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "115.63"
+        "hourly_equivalent_htg": "115.63",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       },
       {
         "effective_date": "2026-05-06T00:00:00.000Z",
@@ -671,7 +841,12 @@
         "daily_wage_htg": "900.00",
         "production_wage_htg": null,
         "workday_hours": "8.00",
-        "hourly_equivalent_htg": "112.50"
+        "hourly_equivalent_htg": "112.50",
+        "legal_instrument": "Arrêté",
+        "moniteur_issue": "Spécial No 21",
+        "source_title": "Arrêté fixant le salaire minimum à compter du 6 mai 2026",
+        "source_url": "https://haitieconomie.com/wp-content/uploads/2026/10/Haiti-salaire-minimum-2026-arrete-le-moniteur-2026-05-06-special-21.pdf",
+        "notes": "Salaire minimum de référence par journée de huit heures."
       }
     ]
   }
