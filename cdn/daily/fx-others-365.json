@@ -1,25 +1,16 @@
 {
-  "generatedAt": "2026-10-03T11:34:55.375Z",
-  "asof": "2026-10-01",
+  "generatedAt": "2026-10-04T12:16:11.315Z",
+  "asof": "2026-10-02",
   "latest": {
-    "date": "2026-10-01",
-    "euro_achat": 147.8905,
-    "euro_vente": 148.6728,
-    "peso_dom_achat": 2.1887,
-    "peso_dom_vente": 2.2002,
-    "dol_can_achat": 91.7159,
-    "dol_can_vente": 92.201
+    "date": "2026-10-02",
+    "euro_achat": 146.7416,
+    "euro_vente": 147.5097,
+    "peso_dom_achat": 2.1829,
+    "peso_dom_vente": 2.1944,
+    "dol_can_achat": 91.7639,
+    "dol_can_vente": 92.2442
   },
   "history": [
-    {
-      "date": "2025-02-21",
-      "euro_achat": 136.0735,
-      "euro_vente": 137.5271,
-      "peso_dom_achat": 2.0961,
-      "peso_dom_vente": 2.1185,
-      "dol_can_achat": 91.7179,
-      "dol_can_vente": 92.6976
-    },
     {
       "date": "2025-02-22",
       "euro_achat": 137.1728,
@@ -3295,6 +3286,15 @@
       "peso_dom_vente": 2.2002,
       "dol_can_achat": 91.7159,
       "dol_can_vente": 92.201
+    },
+    {
+      "date": "2026-10-02",
+      "euro_achat": 146.7416,
+      "euro_vente": 147.5097,
+      "peso_dom_achat": 2.1829,
+      "peso_dom_vente": 2.1944,
+      "dol_can_achat": 91.7639,
+      "dol_can_vente": 92.2442
     }
   ],
   "source": "fx-history-standardized",
