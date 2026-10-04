@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-03T17:18:13.740Z",
+  "generated_at": "2026-10-04T17:36:31.818Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11642,
+      "slug": "riz-les-prix-mondiaux-repartent-a-la-hausse-tires-par-lindica",
+      "date": "2026-10-04T10:59:45",
+      "modified": "2026-10-04T11:03:23",
+      "title": {
+        "rendered": "Riz : les prix mondiaux repartent à la hausse, tirés par l’Indica"
+      },
+      "excerpt": {
+        "rendered": "<p>L’indice FAO des prix du riz a progressé de 1,4 % en septembre. L’Indica poursuit sa hausse, tandis que le riz américain dépasse 600 dollars la tonne.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/prix-mondial-riz-fao-haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11636,
       "slug": "etats-unis-les-creations-demplois-ralentissent-fortement-en-septembre",
@@ -78,7 +96,7 @@
       "id": 11602,
       "slug": "washington-reoriente-une-partie-de-son-aide-militaire-vers-les-ameriques",
       "date": "2026-09-15T13:27:43",
-      "modified": "2026-09-15T13:27:44",
+      "modified": "2026-10-04T10:44:18",
       "title": {
         "rendered": "Washington réoriente une partie de son aide militaire vers les Amériques"
       },
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-pib-reel-par-habitant-crise-politique-2006-2025.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11575,
-      "slug": "les-etats-unis-elargissent-leurs-sanctions-contre-liran-teheran-promet-de-riposter",
-      "date": "2026-08-25T09:29:21",
-      "modified": "2026-08-25T09:29:22",
-      "title": {
-        "rendered": "Les États-Unis élargissent leurs sanctions contre l’Iran, Téhéran promet de riposter"
-      },
-      "excerpt": {
-        "rendered": "<p>Washington durcit ses sanctions contre l’Iran, tandis que Téhéran promet une riposte. Une nouvelle escalade pourrait affecter les marchés pétroliers et les coûts de l’énergie.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/etats-unis-sanctions-iran-tresor-americain.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
