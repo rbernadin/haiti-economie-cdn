@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-04T17:36:31.818Z",
+  "generated_at": "2026-10-06T18:55:10.275Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11649,
+      "slug": "semaine-de-lindustrie-une-vitrine-utile-mais-peut-elle-reellement-relancer-lindustrie-haitienne",
+      "date": "2026-10-05T18:57:28",
+      "modified": "2026-10-05T18:57:30",
+      "title": {
+        "rendered": "Semaine de l’Industrie : une vitrine utile, mais peut-elle réellement relancer l’industrie haïtienne ?"
+      },
+      "excerpt": {
+        "rendered": "<p>La première Semaine de l’Industrie a mis en valeur les capacités de production et le savoir-faire des entreprises haïtiennes. Mais au-delà des visites, panels et foires, la relance industrielle dépendra surtout d’améliorations concrètes de l’environnement des affaires.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/semaine-industrie-haiti-caribbean-bottling-company-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11646,
+      "slug": "crise-mondiale-du-diesel-quels-risques-pour-leconomie-haitienne",
+      "date": "2026-10-05T07:35:00",
+      "modified": "2026-10-04T13:08:12",
+      "title": {
+        "rendered": "Crise mondiale du diesel : quels risques pour l’économie haïtienne ?"
+      },
+      "excerpt": {
+        "rendered": "<p>Les tensions sur l’approvisionnement mondial en diesel inquiètent les grandes économies. En Haïti, une hausse prolongée des prix pourrait se répercuter sur le transport, l’énergie et le coût de nombreux biens.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/crise-mondiale-diesel-haiti-camions-station-service.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11642,
       "slug": "riz-les-prix-mondiaux-repartent-a-la-hausse-tires-par-lindica",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11581,
-      "slug": "venezuela-le-petrole-au-coeur-de-la-doctrine-donroe-de-trump",
-      "date": "2026-08-29T14:03:22",
-      "modified": "2026-08-29T14:03:23",
-      "title": {
-        "rendered": "Venezuela : le pétrole au cœur de la « doctrine Donroe » de Trump"
-      },
-      "excerpt": {
-        "rendered": "<p>L’accord pétrolier entre Washington et Caracas dépasse la seule question énergétique. Il s’inscrit dans la « doctrine Donroe », qui vise à renforcer l’influence américaine dans l’hémisphère occidental face aux rivalités géopolitiques et aux incertitudes du Moyen-Orient.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/venezuela-petrole-doctrine-donroe-etats-unis.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11578,
-      "slug": "haiti-pourquoi-le-pib-par-habitant-a-recule-en-vingt-ans",
-      "date": "2026-08-26T11:42:22",
-      "modified": "2026-08-26T11:42:24",
-      "title": {
-        "rendered": "Haïti : pourquoi le PIB par habitant a reculé en vingt ans"
-      },
-      "excerpt": {
-        "rendered": "<p>En 2025, Haïti produit légèrement plus qu’en 2006, mais nettement moins par habitant. Derrière ce recul de près de 15 % se dessine une longue période de crises politiques, d’affaiblissement institutionnel et d’insécurité qui a progressivement effacé les gains économiques accumulés.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/haiti-pib-reel-par-habitant-crise-politique-2006-2025.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
