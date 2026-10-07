@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-06T18:55:10.275Z",
+  "generated_at": "2026-10-07T19:21:48.367Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11655,
+      "slug": "haiti-pres-de-3-000-candidatures-deja-enregistrees-pour-les-prochaines-elections",
+      "date": "2026-10-07T08:10:02",
+      "modified": "2026-10-07T08:10:03",
+      "title": {
+        "rendered": "Haïti : près de 3 000 candidatures déjà enregistrées pour les prochaines élections"
+      },
+      "excerpt": {
+        "rendered": "<p>Le CEP recense 2 923 candidatures aux différents postes électifs. Les inscriptions restent préliminaires et se poursuivent jusqu’au 31 octobre.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/centres-d-inscription-et-de-vote-en-Haiti.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11652,
+      "slug": "haiti-les-elections-du-13-decembre-reportees-le-cep-prepare-un-nouveau-calendrier",
+      "date": "2026-10-07T07:59:43",
+      "modified": "2026-10-07T07:59:44",
+      "title": {
+        "rendered": "Haïti : les élections du 13 décembre reportées, le CEP prépare un nouveau calendrier"
+      },
+      "excerpt": {
+        "rendered": "<p>Le CEP reporte les élections prévues le 13 décembre 2026 et prépare un nouveau calendrier électoral. Aucune nouvelle date n’a encore été fixée.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/haiti-elections-13-decembre-2026-reportees.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11649,
       "slug": "semaine-de-lindustrie-une-vitrine-utile-mais-peut-elle-reellement-relancer-lindustrie-haitienne",
@@ -177,42 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/prix-mondial-riz-fao-haiti.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11590,
-      "slug": "lonu-veut-corriger-la-carte-du-monde-pourquoi-lafrique-est-plus-grande-quelle-nen-a-lair",
-      "date": "2026-09-04T19:00:42",
-      "modified": "2026-09-04T19:00:46",
-      "title": {
-        "rendered": "L’ONU veut corriger la carte du monde : pourquoi l’Afrique est plus grande qu’elle n’en a l’air"
-      },
-      "excerpt": {
-        "rendered": "<p>L’Assemblée générale de l’ONU a soutenu une représentation cartographique plus fidèle du monde. La projection Equal Earth montre notamment l’Afrique dans des proportions plus proches de sa taille réelle.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/projection-mercator-vs-equal-earth-onu-carte-monde.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11586,
-      "slug": "hope-help-le-congres-americain-approuve-une-prolongation-jusquen-2028",
-      "date": "2026-09-02T21:33:33",
-      "modified": "2026-09-05T15:38:37",
-      "title": {
-        "rendered": "HOPE/HELP : Trump signe la prolongation jusqu’en 2028"
-      },
-      "excerpt": {
-        "rendered": "<p>Le Congrès américain a approuvé la prolongation de HOPE/HELP jusqu’en 2028. Une décision qui apporte plus de visibilité au secteur textile haïtien, sans toutefois résoudre ses difficultés structurelles.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/07/usine-textile-haiti-ouvrieres-hope-help.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
