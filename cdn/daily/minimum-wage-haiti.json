@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:58:44.808Z",
+  "generated_at": "2026-10-10T15:52:13.565Z",
   "dataset": "haiti_minimum_wage",
   "sources": {
     "current": "https://haiti-economie-api.onrender.com/api/minimum-wage-haiti/current",
