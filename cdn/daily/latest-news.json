@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-10T17:52:33.467Z",
+  "generated_at": "2026-10-11T18:06:20.473Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11658,
+      "slug": "budget-2026-2027-4012-milliards-de-gourdes-annonces-avec-la-securite-une-nouvelle-fois-au-premier-plan",
+      "date": "2026-10-11T07:49:59",
+      "modified": "2026-10-11T08:18:37",
+      "title": {
+        "rendered": "Budget 2026-2027 : 401,2 milliards de gourdes, presque deux fois le niveau d’il y a cinq ans"
+      },
+      "excerpt": {
+        "rendered": "<p>Le budget 2026-2027 atteint 401,2 milliards de gourdes, avec la sécurité et les élections parmi les principales priorités affichées. Mais les précédents engagements montrent que l’enjeu principal reste l’exécution effective des crédits et les résultats obtenus.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/budget-haiti-2026-2027-401-milliards-gourdes.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11655,
       "slug": "haiti-pres-de-3-000-candidatures-deja-enregistrees-pour-les-prochaines-elections",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/accord-petrolier-etats-unis-venezuela-65-milliards-barils-55-part-americaine.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11593,
-      "slug": "riz-les-prix-mondiaux-remontent-la-hausse-du-riz-americain-a-surveiller-en-haiti",
-      "date": "2026-09-05T13:33:57",
-      "modified": "2026-09-07T10:27:03",
-      "title": {
-        "rendered": "Riz : les prix mondiaux remontent, la hausse du riz américain à surveiller en Haïti"
-      },
-      "excerpt": {
-        "rendered": "<p>Les prix mondiaux du riz ont légèrement augmenté en août 2026. Pour Haïti, la hausse du riz américain mérite une attention particulière en raison de la forte dépendance du pays aux importations.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/08/prix-mondial-riz-fao-haiti.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
