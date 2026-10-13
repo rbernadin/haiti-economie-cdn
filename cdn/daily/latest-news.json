@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:45:03.235Z",
+  "generated_at": "2026-10-13T19:52:30.384Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
     {
@@ -15,6 +15,24 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/budget-haiti-2026-2027-401-milliards-gourdes.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
+    {
+      "id": 11680,
+      "slug": "decret-electoral-du-6-octobre-frais-reduits-candidatures-allegees-et-nouvelles-regles-pour-les-proces-verbaux",
+      "date": "2026-10-09T11:31:35",
+      "modified": "2026-10-13T13:47:04",
+      "title": {
+        "rendered": "Décret électoral du 6 octobre : frais réduits, candidatures allégées et nouvelles règles pour les procès-verbaux"
+      },
+      "excerpt": {
+        "rendered": "<p>Haïti révise une nouvelle fois son cadre électoral. Le décret du 6 octobre réduit plusieurs frais d’inscription, supprime certaines exigences financières imposées aux candidats et modifie la transmission des procès-verbaux par rapport aux textes de juin et juillet 2026.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/elections-haiti-2026-decret-electoral-modifie-octobre.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/doctrine-donroe-strategie-etats-unis-ameriques.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11597,
-      "slug": "accord-petrolier-etats-unis-venezuela-cato-met-en-cause-la-transparence-la-legalite-et-la-procedure",
-      "date": "2026-09-07T10:07:38",
-      "modified": "2026-09-07T10:07:41",
-      "title": {
-        "rendered": "Accord pétrolier États-Unis–Venezuela : Cato met en cause la transparence, la légalité et la procédure"
-      },
-      "excerpt": {
-        "rendered": "<p>Un accord pétrolier entre les États-Unis et le Venezuela soulève des questions sur sa transparence, sa base juridique et les procédures suivies pour le conclure.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/accord-petrolier-etats-unis-venezuela-65-milliards-barils-55-part-americaine.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
