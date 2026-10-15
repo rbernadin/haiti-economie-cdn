@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-14T18:01:37.657Z",
+  "generated_at": "2026-10-15T17:47:14.086Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11689,
+      "slug": "onu-sanctions-haiti-financement-gangs-2026",
+      "date": "2026-10-15T09:56:13",
+      "modified": "2026-10-15T09:56:15",
+      "title": {
+        "rendered": "Haïti : l’ONU prolonge les sanctions et cible les réseaux de financement des gangs"
+      },
+      "excerpt": {
+        "rendered": "<p>Le Conseil de sécurité renouvelle les sanctions contre les acteurs de l’instabilité en Haïti. La résolution 2831 met notamment l’accent sur le financement des gangs, les détournements de ressources publiques et le commerce illicite.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/onu-conseil-securite-sanctions-haiti-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11658,
       "slug": "budget-2026-2027-4012-milliards-de-gourdes-annonces-avec-la-securite-une-nouvelle-fois-au-premier-plan",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-croissance-economique-banque-mondiale.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11602,
-      "slug": "washington-reoriente-une-partie-de-son-aide-militaire-vers-les-ameriques",
-      "date": "2026-09-15T13:27:43",
-      "modified": "2026-10-04T10:44:18",
-      "title": {
-        "rendered": "Washington réoriente une partie de son aide militaire vers les Amériques"
-      },
-      "excerpt": {
-        "rendered": "<p>Les États-Unis réorientent une partie de leur aide militaire vers l’Amérique latine et renforcent leur stratégie énergétique autour du Venezuela, dans un contexte de concurrence avec la Chine et d’instabilité au Moyen-Orient.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/doctrine-donroe-strategie-etats-unis-ameriques.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
