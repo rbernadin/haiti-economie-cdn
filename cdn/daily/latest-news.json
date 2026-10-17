@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-16T17:27:21.617Z",
+  "generated_at": "2026-10-17T16:27:29.032Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11692,
+      "slug": "haiti-financements-internationaux-projets-resultats",
+      "date": "2026-10-16T22:50:37",
+      "modified": "2026-10-16T22:50:38",
+      "title": {
+        "rendered": "Haïti sollicite davantage de financements internationaux : pour quels projets et quels résultats ?"
+      },
+      "excerpt": {
+        "rendered": "<p>Le gouvernement haïtien plaide pour davantage de dons et de financements concessionnels auprès de ses partenaires internationaux. Mais les montants, les projets prioritaires et les résultats attendus restent à préciser.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/serge-gabriel-collin-mef-financements-haiti-bangkok-2026.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11689,
       "slug": "onu-sanctions-haiti-financement-gangs-2026",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-diaspora-dirigeants-famille-etranger.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11605,
-      "slug": "croissance-economique-haiti-quatre-defis-banque-mondiale",
-      "date": "2026-09-18T10:59:33",
-      "modified": "2026-09-21T13:20:23",
-      "title": {
-        "rendered": "Banque mondiale : quatre défis à relever pour remettre Haïti sur la voie de la croissance"
-      },
-      "excerpt": {
-        "rendered": "<p>Emploi, déplacements, transferts de la diaspora et exportations : la Banque mondiale identifie quatre défis pour relancer l’économie haïtienne.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-croissance-economique-banque-mondiale.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
