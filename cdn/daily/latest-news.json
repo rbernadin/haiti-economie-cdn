@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-17T16:27:29.032Z",
+  "generated_at": "2026-10-18T16:34:00.036Z",
   "source": "https://haiti-economie-api.onrender.com/api/wp/posts?per_page=12&page=1",
   "items": [
+    {
+      "id": 11699,
+      "slug": "jean-jacques-dessalines-la-vision-dune-hayti-libre-souveraine-et-prospere-inscrite-dans-la-constitution-de-1805",
+      "date": "2026-10-17T22:55:57",
+      "modified": "2026-10-17T23:07:01",
+      "title": {
+        "rendered": "Jean-Jacques Dessalines : la vision d’une Hayti libre, souveraine et prospère inscrite dans la Constitution de 1805"
+      },
+      "excerpt": {
+        "rendered": "<p>La Constitution de 1805 révèle une vision de l’État Haïtien qui dépasse l’indépendance : souveraineté, égalité, production, commerce et institutions fortes, mais aussi concentration du pouvoir impérial.</p>\n",
+        "protected": false
+      },
+      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/10/dessalines-constitution-hayti-1805.jpg",
+      "primary_category": null,
+      "primary_category_slug": null,
+      "categories_names": [],
+      "categories_slugs": []
+    },
     {
       "id": 11692,
       "slug": "haiti-financements-internationaux-projets-resultats",
@@ -195,24 +213,6 @@
         "protected": false
       },
       "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/06/haiti-economie-ralentissement-mondial-reprise-1200x675-1.jpg",
-      "primary_category": null,
-      "primary_category_slug": null,
-      "categories_names": [],
-      "categories_slugs": []
-    },
-    {
-      "id": 11609,
-      "slug": "si-vous-voulez-diriger-haiti-votre-famille-doit-vivre-en-haiti-une-solution-ou-un-slogan",
-      "date": "2026-09-20T18:59:00",
-      "modified": "2026-09-20T18:59:01",
-      "title": {
-        "rendered": "« Si vous voulez diriger Haïti, votre famille doit vivre en Haïti » : une solution ou un slogan ?"
-      },
-      "excerpt": {
-        "rendered": "<p>La Constitution impose des conditions au responsable public, pas à sa famille. Faut-il changer cette règle ? Le débat mérite d’examiner sécurité, diaspora et responsabilité individuelle.</p>\n",
-        "protected": false
-      },
-      "featured_image": "https://haitieconomie.com/wp-content/uploads/2026/09/haiti-diaspora-dirigeants-famille-etranger.jpg",
       "primary_category": null,
       "primary_category_slug": null,
       "categories_names": [],
