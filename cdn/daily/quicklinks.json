@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-24T10:51:35.501Z",
-  "asof": "2026-10-22",
+  "generatedAt": "2026-10-25T11:17:31.467Z",
+  "asof": "2026-10-23",
   "transactions": {
-    "volume_achat": 13011056.55,
-    "volume_vente": 12565250.59,
-    "pct_volume_achat": -44.7785851565875,
-    "pct_volume_vente": -44.12650944749457
+    "volume_achat": 12115444.01,
+    "volume_vente": 11936192.53,
+    "pct_volume_achat": -6.883472810668868,
+    "pct_volume_vente": -5.006331194863982
   },
   "marche_bancaire": {
-    "achat": 130.4742,
-    "vente": 131.5266,
-    "pct_achat": -0.059975871775732305,
-    "pct_vente": -0.030022931439028643
+    "achat": 130.5133,
+    "vente": 131.442,
+    "pct_achat": 0.029967610454780018,
+    "pct_vente": -0.06432158970124269
   },
   "interventions": {
     "intervention_us_achat": 0,
@@ -24,23 +24,23 @@
     "pct_total_usd_plus_eur": null
   },
   "autres_devises": {
-    "euro_vente": 147.775,
-    "pct_euro_vente": 0.035742765813140516,
-    "euro_achat": 146.8376,
-    "peso_dom_achat": 2.136,
-    "peso_dom_vente": 2.1496,
-    "dol_can_achat": 93.0672,
-    "dol_can_vente": 93.6614
+    "euro_vente": 147.5202,
+    "pct_euro_vente": -0.17242429368974266,
+    "euro_achat": 146.5757,
+    "peso_dom_achat": 2.1425,
+    "peso_dom_vente": 2.1563,
+    "dol_can_achat": 93.2794,
+    "dol_can_vente": 93.8805
   },
   "best_bank": {
     "best_buy_usd": {
-      "bank": "BUH",
-      "field": "buh_achat",
+      "bank": "Unibank",
+      "field": "unibank_achat",
       "value": 129.25
     },
     "best_sell_usd": {
-      "bank": "Unibank",
-      "field": "unibank_vente",
+      "bank": "BUH",
+      "field": "buh_vente",
       "value": 131.5
     }
   }
