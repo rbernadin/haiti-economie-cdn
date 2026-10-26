@@ -1,9 +1,9 @@
 {
   "source": "budget_approved_import_clean",
   "api": "/api/budget-approved-standardized?count=all",
-  "data_updated_at": "2026-08-10T14:00:35.556Z",
-  "row_count": 3952,
-  "release_count": 14,
+  "data_updated_at": "2026-10-25T15:50:23.724Z",
+  "row_count": 4784,
+  "release_count": 16,
   "latest": {
     "fiscal_year": "2025-2026",
     "fiscal_year_start": "2025-10-01",
@@ -394,6 +394,52 @@
           "calculated_total": 122650000000,
           "difference": 0,
           "file": "2014-2015/release.json"
+        }
+      ]
+    },
+    {
+      "fiscal_year": "2004-2005",
+      "fiscal_year_start": "2004-10-01",
+      "fiscal_year_end": "2005-09-30",
+      "latest_budget_version": "rectificatif",
+      "latest_publication_date": "2005-06-03",
+      "latest_publication_number": "160ème Année - Spécial No. 5",
+      "index_file": "2004-2005/index.json",
+      "latest_file": "2004-2005/latest.json",
+      "releases": [
+        {
+          "fiscal_year": "2004-2005",
+          "fiscal_year_start": "2004-10-01",
+          "fiscal_year_end": "2005-09-30",
+          "budget_version": "rectificatif",
+          "publication_date": "2005-06-03",
+          "publication_number": "160ème Année - Spécial No. 5",
+          "source_file_name": "Pages from Budget rectificatif 2004-2005.pdf",
+          "imported_at": "2026-10-25T15:50:23.724Z",
+          "row_count": 416,
+          "credits_fonctionnement": 12346144102,
+          "credits_investissement": null,
+          "total_credits": 23390000000,
+          "calculated_total": null,
+          "difference": null,
+          "file": "2004-2005/rectificatif.json"
+        },
+        {
+          "fiscal_year": "2004-2005",
+          "fiscal_year_start": "2004-10-01",
+          "fiscal_year_end": "2005-09-30",
+          "budget_version": "initial",
+          "publication_date": "2004-10-26",
+          "publication_number": "159ème Année - Spécial No. 2",
+          "source_file_name": "Pages from Budget Général de l’Exercice de 2004-2005.pdf",
+          "imported_at": "2026-10-25T15:50:23.724Z",
+          "row_count": 416,
+          "credits_fonctionnement": 12054781169,
+          "credits_investissement": 0,
+          "total_credits": 21493200000,
+          "calculated_total": null,
+          "difference": null,
+          "file": "2004-2005/initial.json"
         }
       ]
     }
