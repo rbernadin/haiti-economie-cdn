@@ -1,56 +1,56 @@
 {
-  "asof": "2026-10-24",
-  "generatedAt": "2026-10-24T16:17:03.500Z",
+  "asof": "2026-10-26",
+  "generatedAt": "2026-10-26T18:53:08.874Z",
   "data": {
     "ref": {
-      "value": 130.6845,
-      "change": -0.05,
-      "percent": -0.04
+      "value": 130.708,
+      "change": 0.02,
+      "percent": 0.02
     },
     "tma": {
-      "value": 131.5266,
-      "change": -0.04,
-      "percent": -0.03
-    },
-    "euro_achat": {
-      "value": 146.8376,
-      "change": 0.01,
-      "percent": 0.01
-    },
-    "euro_vente": {
-      "value": 147.775,
-      "change": 0.05,
-      "percent": 0.04
-    },
-    "peso_dom_achat": {
-      "value": 2.136,
-      "change": 0.01,
-      "percent": 0.31
-    },
-    "peso_dom_vente": {
-      "value": 2.1496,
-      "change": 0.01,
-      "percent": 0.34
-    },
-    "dol_can_achat": {
-      "value": 93.0672,
-      "change": 0.14,
-      "percent": 0.15
-    },
-    "dol_can_vente": {
-      "value": 93.6614,
-      "change": 0.16,
-      "percent": 0.17
-    },
-    "marche_banc_achat": {
-      "value": 130.4742,
+      "value": 131.442,
       "change": -0.08,
       "percent": -0.06
     },
+    "euro_achat": {
+      "value": 146.5757,
+      "change": -0.26,
+      "percent": -0.18
+    },
+    "euro_vente": {
+      "value": 147.5202,
+      "change": -0.25,
+      "percent": -0.17
+    },
+    "peso_dom_achat": {
+      "value": 2.1425,
+      "change": 0.01,
+      "percent": 0.3
+    },
+    "peso_dom_vente": {
+      "value": 2.1563,
+      "change": 0.01,
+      "percent": 0.31
+    },
+    "dol_can_achat": {
+      "value": 93.2794,
+      "change": 0.21,
+      "percent": 0.23
+    },
+    "dol_can_vente": {
+      "value": 93.8805,
+      "change": 0.22,
+      "percent": 0.23
+    },
+    "marche_banc_achat": {
+      "value": 130.5133,
+      "change": 0.04,
+      "percent": 0.03
+    },
     "marche_banc_vente": {
-      "value": 131.5266,
-      "change": -0.04,
-      "percent": -0.03
+      "value": 131.442,
+      "change": -0.08,
+      "percent": -0.06
     }
   }
 }
