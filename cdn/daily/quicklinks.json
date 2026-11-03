@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-02T15:40:02.719Z",
-  "asof": "2026-10-30",
+  "generatedAt": "2026-11-03T14:03:23.953Z",
+  "asof": "2026-11-02",
   "transactions": {
     "volume_achat": 12561557.01,
     "volume_vente": 11866869.47,
-    "pct_volume_achat": 14.423583273837174,
-    "pct_volume_vente": 11.515871336660053
+    "pct_volume_achat": 0,
+    "pct_volume_vente": 0
   },
   "marche_bancaire": {
     "achat": 130.458,
     "vente": 131.6921,
-    "pct_achat": 0.029750220826388334,
-    "pct_vente": 0.058579949093949396
+    "pct_achat": 0,
+    "pct_vente": 0
   },
   "interventions": {
     "intervention_us_achat": 0,
@@ -25,7 +25,7 @@
   },
   "autres_devises": {
     "euro_vente": 147.1456,
-    "pct_euro_vente": 0.2130996705774758,
+    "pct_euro_vente": 0,
     "euro_achat": 146.1355,
     "peso_dom_achat": 2.1583,
     "peso_dom_vente": 2.1733,
