@@ -1,9 +1,9 @@
 {
-  "asof": "2026-11-02",
-  "generatedAt": "2026-11-02T21:57:24.673Z",
+  "asof": "2026-11-04",
+  "generatedAt": "2026-11-04T20:05:21.798Z",
   "data": {
     "version": "home-snapshot-v2-debug",
-    "generated_at": "2026-11-02T21:57:24.632Z",
+    "generated_at": "2026-11-04T20:05:21.742Z",
     "cards": {
       "trade": {
         "latest": {
@@ -41,6 +41,46 @@
           "trade_balance": -2480000000,
           "exports_constant": 898000000,
           "imports_constant": 3378000000
+        }
+      },
+      "external_debt": {
+        "latest": {
+          "date": "2023-12-31",
+          "year": 2023,
+          "external_debt_stocks_current_dollar": 2637609832,
+          "current_account_balance_bop_dollar": -682569657.6,
+          "current_account_balance_perc_gdp": -3.438536611,
+          "use_of_imf_credit_dod_dollar": 552721343.4,
+          "debt_to_gdp": 28.5
+        },
+        "history": [
+          {
+            "date": "2022-12-31",
+            "year": 2022,
+            "external_debt_stocks_current_dollar": 2561654882,
+            "current_account_balance_bop_dollar": -491953761.2,
+            "current_account_balance_perc_gdp": -2.428975239,
+            "use_of_imf_credit_dod_dollar": 444693167.9,
+            "debt_to_gdp": 29.5
+          },
+          {
+            "date": "2023-12-31",
+            "year": 2023,
+            "external_debt_stocks_current_dollar": 2637609832,
+            "current_account_balance_bop_dollar": -682569657.6,
+            "current_account_balance_perc_gdp": -3.438536611,
+            "use_of_imf_credit_dod_dollar": 552721343.4,
+            "debt_to_gdp": 28.5
+          }
+        ],
+        "prev": {
+          "date": "2022-12-31",
+          "year": 2022,
+          "external_debt_stocks_current_dollar": 2561654882,
+          "current_account_balance_bop_dollar": -491953761.2,
+          "current_account_balance_perc_gdp": -2.428975239,
+          "use_of_imf_credit_dod_dollar": 444693167.9,
+          "debt_to_gdp": 29.5
         }
       },
       "gdp": {
@@ -351,6 +391,26 @@
           "updated_at": "2025-11-28T16:00:21.214Z"
         }
       },
+      "credit_private_sector": {
+        "latest": {
+          "year": 2024,
+          "dcps_gdp_pct": 4.11
+        },
+        "history": [
+          {
+            "year": 2023,
+            "dcps_gdp_pct": 5.17
+          },
+          {
+            "year": 2024,
+            "dcps_gdp_pct": 4.11
+          }
+        ],
+        "prev": {
+          "year": 2023,
+          "dcps_gdp_pct": 5.17
+        }
+      },
       "population": {
         "latest": {
           "year": 2025,
@@ -456,24 +516,24 @@
           "female_population_as_of_1_july": 5947201
         }
       },
-      "credit_private_sector": {
+      "reserves_ex_gold": {
         "latest": {
           "year": 2024,
-          "dcps_gdp_pct": 4.11
+          "fi_res_xgld_cd": 2565745292.68
         },
         "history": [
           {
             "year": 2023,
-            "dcps_gdp_pct": 5.17
+            "fi_res_xgld_cd": 2466360229.76
           },
           {
             "year": 2024,
-            "dcps_gdp_pct": 4.11
+            "fi_res_xgld_cd": 2565745292.68
           }
         ],
         "prev": {
           "year": 2023,
-          "dcps_gdp_pct": 5.17
+          "fi_res_xgld_cd": 2466360229.76
         }
       },
       "hdi": {
@@ -634,84 +694,24 @@
           "material_footprint_per_capita": 2.406
         }
       },
-      "reserves_ex_gold": {
+      "electricity_access": {
         "latest": {
           "year": 2024,
-          "fi_res_xgld_cd": 2565745292.68
+          "eg_elc_accs_zs": null
         },
         "history": [
           {
             "year": 2023,
-            "fi_res_xgld_cd": 2466360229.76
+            "eg_elc_accs_zs": 51.3
           },
           {
             "year": 2024,
-            "fi_res_xgld_cd": 2565745292.68
+            "eg_elc_accs_zs": null
           }
         ],
         "prev": {
           "year": 2023,
-          "fi_res_xgld_cd": 2466360229.76
-        }
-      },
-      "gni_ppp_per_capita": {
-        "history": [
-          {
-            "year": 2023,
-            "ny_gnp_pcap_pp_cd": "3280.0000"
-          },
-          {
-            "year": 2024,
-            "ny_gnp_pcap_pp_cd": "3180.0000"
-          }
-        ],
-        "latest": {
-          "year": 2024,
-          "ny_gnp_pcap_pp_cd": "3180.0000"
-        },
-        "prev": {
-          "year": 2023,
-          "ny_gnp_pcap_pp_cd": "3280.0000"
-        }
-      },
-      "external_debt": {
-        "latest": {
-          "date": "2023-12-31",
-          "year": 2023,
-          "external_debt_stocks_current_dollar": 2637609832,
-          "current_account_balance_bop_dollar": -682569657.6,
-          "current_account_balance_perc_gdp": -3.438536611,
-          "use_of_imf_credit_dod_dollar": 552721343.4,
-          "debt_to_gdp": 28.5
-        },
-        "history": [
-          {
-            "date": "2022-12-31",
-            "year": 2022,
-            "external_debt_stocks_current_dollar": 2561654882,
-            "current_account_balance_bop_dollar": -491953761.2,
-            "current_account_balance_perc_gdp": -2.428975239,
-            "use_of_imf_credit_dod_dollar": 444693167.9,
-            "debt_to_gdp": 29.5
-          },
-          {
-            "date": "2023-12-31",
-            "year": 2023,
-            "external_debt_stocks_current_dollar": 2637609832,
-            "current_account_balance_bop_dollar": -682569657.6,
-            "current_account_balance_perc_gdp": -3.438536611,
-            "use_of_imf_credit_dod_dollar": 552721343.4,
-            "debt_to_gdp": 28.5
-          }
-        ],
-        "prev": {
-          "date": "2022-12-31",
-          "year": 2022,
-          "external_debt_stocks_current_dollar": 2561654882,
-          "current_account_balance_bop_dollar": -491953761.2,
-          "current_account_balance_perc_gdp": -2.428975239,
-          "use_of_imf_credit_dod_dollar": 444693167.9,
-          "debt_to_gdp": 29.5
+          "eg_elc_accs_zs": 51.3
         }
       },
       "inflation": {
@@ -956,29 +956,9 @@
           "transversal_var_mois": 0.9
         }
       },
-      "electricity_access": {
-        "latest": {
-          "year": 2024,
-          "eg_elc_accs_zs": null
-        },
-        "history": [
-          {
-            "year": 2023,
-            "eg_elc_accs_zs": 51.3
-          },
-          {
-            "year": 2024,
-            "eg_elc_accs_zs": null
-          }
-        ],
-        "prev": {
-          "year": 2023,
-          "eg_elc_accs_zs": 51.3
-        }
-      },
       "remittances": {
         "schema": 1,
-        "generated_at": "2026-11-02T21:57:24.361Z",
+        "generated_at": "2026-11-04T20:05:21.691Z",
         "latest": {
           "date": "2026-05-02",
           "total_rec": 445395512.66
@@ -1110,6 +1090,26 @@
           "totals_exp": {
             "total_exp": 20834154.56
           }
+        }
+      },
+      "gni_ppp_per_capita": {
+        "history": [
+          {
+            "year": 2023,
+            "ny_gnp_pcap_pp_cd": "3280.0000"
+          },
+          {
+            "year": 2024,
+            "ny_gnp_pcap_pp_cd": "3180.0000"
+          }
+        ],
+        "latest": {
+          "year": 2024,
+          "ny_gnp_pcap_pp_cd": "3180.0000"
+        },
+        "prev": {
+          "year": 2023,
+          "ny_gnp_pcap_pp_cd": "3280.0000"
         }
       }
     }
