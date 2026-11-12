@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-11T14:09:42.872Z",
-  "asof": "2026-11-10",
+  "generatedAt": "2026-11-12T15:03:47.159Z",
+  "asof": "2026-11-11",
   "transactions": {
-    "volume_achat": 26361539.02,
-    "volume_vente": 26307850.61,
-    "pct_volume_achat": 94.44889231791669,
-    "pct_volume_vente": 86.04081182247391
+    "volume_achat": 19439606.29,
+    "volume_vente": 20626053.7,
+    "pct_volume_achat": -26.25769582249527,
+    "pct_volume_vente": -21.597343675960612
   },
   "marche_bancaire": {
-    "achat": 130.5643,
-    "vente": 131.6786,
-    "pct_achat": 0.11002846171775425,
-    "pct_vente": -0.040081559901450264
+    "achat": 130.4598,
+    "vente": 131.5864,
+    "pct_achat": -0.0800371924025186,
+    "pct_vente": -0.07001897043254651
   },
   "interventions": {
     "intervention_us_achat": 0,
@@ -24,13 +24,13 @@
     "pct_total_usd_plus_eur": null
   },
   "autres_devises": {
-    "euro_vente": 147.8422,
-    "pct_euro_vente": 0.7783896829113455,
-    "euro_achat": 146.6986,
+    "euro_vente": 147.006,
+    "pct_euro_vente": -0.5656030551493355,
+    "euro_achat": 146.0236,
     "peso_dom_achat": 2.1578,
-    "peso_dom_vente": 2.1746,
-    "dol_can_achat": 92.5857,
-    "dol_can_vente": 93.3074
+    "peso_dom_vente": 2.1723,
+    "dol_can_achat": 92.1831,
+    "dol_can_vente": 92.8033
   },
   "best_bank": {
     "best_buy_usd": {
