@@ -1,56 +1,56 @@
 {
-  "asof": "2026-11-15",
-  "generatedAt": "2026-11-15T19:08:31.039Z",
+  "asof": "2026-11-18",
+  "generatedAt": "2026-11-18T20:55:51.491Z",
   "data": {
     "ref": {
-      "value": 130.7434,
-      "change": -0.05,
-      "percent": -0.04
-    },
-    "tma": {
-      "value": 131.6425,
-      "change": -0.09,
-      "percent": -0.07
-    },
-    "euro_achat": {
-      "value": 144.5891,
-      "change": -0.4,
-      "percent": -0.27
-    },
-    "euro_vente": {
-      "value": 145.6264,
-      "change": -0.3,
-      "percent": -0.21
-    },
-    "peso_dom_achat": {
-      "value": 2.1597,
-      "change": 0,
-      "percent": 0.08
-    },
-    "peso_dom_vente": {
-      "value": 2.1752,
-      "change": 0,
-      "percent": 0.15
-    },
-    "dol_can_achat": {
-      "value": 91.7379,
-      "change": 0.01,
-      "percent": 0.01
-    },
-    "dol_can_vente": {
-      "value": 92.396,
-      "change": 0.07,
-      "percent": 0.07
-    },
-    "marche_banc_achat": {
-      "value": 130.4728,
-      "change": -0.08,
+      "value": 130.6701,
+      "change": -0.07,
       "percent": -0.06
     },
+    "tma": {
+      "value": 131.682,
+      "change": 0.04,
+      "percent": 0.03
+    },
+    "euro_achat": {
+      "value": 144.1188,
+      "change": -0.47,
+      "percent": -0.33
+    },
+    "euro_vente": {
+      "value": 145.1095,
+      "change": -0.52,
+      "percent": -0.35
+    },
+    "peso_dom_achat": {
+      "value": 2.1567,
+      "change": 0,
+      "percent": -0.14
+    },
+    "peso_dom_vente": {
+      "value": 2.1716,
+      "change": 0,
+      "percent": -0.17
+    },
+    "dol_can_achat": {
+      "value": 91.6214,
+      "change": -0.12,
+      "percent": -0.13
+    },
+    "dol_can_vente": {
+      "value": 92.2512,
+      "change": -0.14,
+      "percent": -0.16
+    },
+    "marche_banc_achat": {
+      "value": 130.3501,
+      "change": -0.12,
+      "percent": -0.09
+    },
     "marche_banc_vente": {
-      "value": 131.6425,
-      "change": -0.09,
-      "percent": -0.07
+      "value": 131.682,
+      "change": 0.04,
+      "percent": 0.03
     }
   }
 }
